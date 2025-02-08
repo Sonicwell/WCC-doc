@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
-    'sphinx_jinja2',
 ]
 
 intersphinx_mapping = {
@@ -51,8 +50,6 @@ html_static_path = ['_static']
 html_logo = '_static/images/logo.png'
 html_favicon = '_static/images/favicon.png'
 html_title = "WCC Contact Center Documentation | Best Multi-Channel Call Center Software & Auto Dialer"
-html_description = "WCC contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you."
-html_keywords = "WCC contact center, cloud-native solution, intelligent contact center, multichannel customers, operational efficiency, AI-driven contact center, omnichannel support, VoIP, IP PBX, Best Call Center Software, Auto Dialer"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
