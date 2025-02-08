@@ -1,5 +1,8 @@
 <!-- _templates/layout.html -->
-<head>
+{% extends "!layout.html" %}
+
+{% block head %}
+    {{ super() }}
     <meta name="description" content="{{ html_description }}">
     <meta name="keywords" content="{{ html_keywords }}">
-</head>
+{% endblock %}
