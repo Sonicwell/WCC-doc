@@ -1,14 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2025 Sonicwell Technology Ltd
-# This file is distributed under the same license as the WCC package.
+# This file is distributed under the same license as the WCC Documentation
+# package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: WCC 0.1.0\n"
+"Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-08 12:40+0900\n"
+"POT-Creation-Date: 2025-02-08 18:49+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -19,2039 +20,1963 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../root手册.md:1 5fdb3c030d3a426f808a0cec97d28917
+#: ../../root手册.md:1 7906a506853c4825a8b318b304e60b3b
 msgid "系统用户（root级别）用户手册"
 msgstr ""
 
-#: ../../root手册.md:3 4cb97495fec54bbdaef96f7d4f0fcd19
-msgid "目录"
-msgstr ""
-
-#: ../../root手册.md:5 bcff9a4c975149c88fc8391a2e2b5db4
-msgid "[1. 系统用户（root级别）用户手册 [1](#系统用户root级别用户手册)](#系统用户root级别用户手册)"
-msgstr ""
-
-#: ../../root手册.md:8 13749ba62dc744a2b8ae88141513793e
-msgid "[1.1WCC 登录 [1](#wcc-登录)](#wcc-登录)"
-msgstr ""
-
-#: ../../root手册.md:10 66c95016d0854323b32b999ae2cf0827
-msgid "[1.2 界面介绍 [2](#界面介绍)](#界面介绍)"
-msgstr ""
-
-#: ../../root手册.md:12 1d69dc5452c44037b9f4e38b33fb3139
-msgid "[1.2.1 界面介绍 [2](#界面介绍-1)](#界面介绍-1)"
-msgstr ""
-
-#: ../../root手册.md:14 85bdffb01b944282b467e969aed65782
-msgid "[1.2.2 菜单栏 [2](#菜单栏)](#菜单栏)"
-msgstr ""
-
-#: ../../root手册.md:16 2acb6467e02042e18a3f32b243ee8fcf
-msgid "[a. 仪表盘: [2](#a.-仪表盘)](#a.-仪表盘)"
-msgstr ""
-
-#: ../../root手册.md:18 20ece5bcab824016a583f2a1c8d18d1d
-msgid "[b. 用户: [3](#b.-用户)](#b.-用户)"
-msgstr ""
-
-#: ../../root手册.md:20 390f5125546041f5ae1f49c508819728
-msgid "[c. 客户数据: [7](#c.-客户数据)](#c.-客户数据)"
-msgstr ""
-
-#: ../../root手册.md:22 7435b5738af542c9b1f6246d8f410fed
-msgid "[d.任务管理： [9](#d.任务管理)](#d.任务管理)"
-msgstr ""
-
-#: ../../root手册.md:24 fa896608f5244a5fab2ca3922384b458
-msgid "[e. 计费: [10](#e.-计费)](#e.-计费)"
-msgstr ""
-
-#: ../../root手册.md:26 429c0a5808e24b2b818f34c5fa86bd93
-msgid "[f. 语音设置: [14](#f.-语音设置)](#f.-语音设置)"
-msgstr ""
-
-#: ../../root手册.md:28 100f79e4e0ce41bca374aae1d7dffe07
-msgid "[g. 呼叫设置: [24](#g.-呼叫设置)](#g.-呼叫设置)"
-msgstr ""
-
-#: ../../root手册.md:30 629b209051cb4a1a99b5c38ee2b67019
-msgid "[h. 信息: [31](#h.-信息)](#h.-信息)"
-msgstr ""
-
-#: ../../root手册.md:32 41da8a19b01249c09be302006dc229f7
-msgid "[i. 统计: [36](#i.-统计)](#i.-统计)"
-msgstr ""
-
-#: ../../root手册.md:34 19f098d098904dfabf88d966421f55c8
-msgid "[j. 监控管理: [36](#j.-监控管理)](#j.-监控管理)"
-msgstr ""
-
-#: ../../root手册.md:36 7f13cc9d62744f4e9aece3bfdeca2ccd
-msgid "[k. 日志记录: [37](#k.-日志记录)](#k.-日志记录)"
-msgstr ""
-
-#: ../../root手册.md:38 1d4dce02122a4e6aa099c6c774219826
-msgid "[l. 系统: [37](#l.-系统)](#l.-系统)"
-msgstr ""
-
-#: ../../root手册.md:40 2b30ab3d03d6489f8a7a57f66c9e8fe9
-msgid "[1.2.2 工具栏 [43](#工具栏)](#工具栏)"
-msgstr ""
-
-#: ../../root手册.md:42 39609ed2582c46209a03fe3615385ddb
+#: ../../root手册.md:3 2e83752cb5904a0bb16e4418ad6035cc
 msgid "系统用户（root级别）是最高级别的用户"
 msgstr ""
 
-#: ../../root手册.md:44 64c4e5c129aa42c89d6592132d401ea8
+#: ../../root手册.md:5 bdb93229fd324b1d9c518942611f5d27
 msgid "1.1WCC 登录"
 msgstr ""
 
-#: ../../root手册.md:46 456409adde2c4bd986e4dcd5c90947d4
+#: ../../root手册.md:7 ef0dd712d67942b9951e365978f3ee34
 msgid "在您使用的浏览器地址栏中输入网站地址，回车进入系统登录页面。"
 msgstr ""
 
-#: ../../root手册.md:48 44e493df8104472498d4626ae6c850a3
+#: ../../root手册.md:9 efeff65915794cfda934619d4d712515
 msgid "用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
 msgstr ""
 
-#: ../../root手册.md:50 eacb17bf619f49b6a0c6fadde9940b23
+#: ../../root手册.md:11 772f2cf950044ab58e88e0f573928513
 msgid "（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:52 76a1812e8f024c47a31f61eb25dfec68
+#: ../../root手册.md:13 b60043a3fdad4e7fab8c9bd4b62eea00
 msgid ""
 "<img src=\"./_static/images/root/media/image1.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:55 19c583e5c1cd4d32ad02d4dc079dda53
+#: ../../root手册.md:16 b84ecc79703b482483996af0b1d2d981
 msgid "用户进入系统后，在状态栏下拉菜单中选择【退出】，确认，成功退出系统。页面返回用户登录页面（如下图所示）。"
 msgstr ""
 
-#: ../../root手册.md:57 70d3cb78a73149fb962cc84ab08c1940
+#: ../../root手册.md:18 975d1c38f3da4faabd2e774ffcffe339
 msgid ""
 "<img src=\"./_static/images/root/media/image2.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:60 26e9b51a32d4415a9e10ffc05c6a676d
+#: ../../root手册.md:21 06b554b110e74abd8669222eee7654d1
 msgid "1.2 界面介绍"
 msgstr ""
 
-#: ../../root手册.md:62 fc82cf338fde477bbc75f89b34d8db56
+#: ../../root手册.md:23 4b28c5bcca8c442ab9353b6366bf54ab
 msgid "1.2.1 界面介绍"
 msgstr ""
 
-#: ../../root手册.md:64 5dc660cbec824bd5827b4febefa1a429
+#: ../../root手册.md:25 9175a8729bf24434ab5b201e06087957
 msgid "WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②上方状态栏、③中间工作区。（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:66 5e48c328e7964a2c8240f044d5942cfa
+#: ../../root手册.md:27 505c4043b4324cda88412ba277745abb
 msgid ""
 "<img src=\"./_static/images/root/media/image3.png\" "
 "style=\"width:5.65486in;height:2.78333in\" />"
 msgstr ""
 
-#: ../../root手册.md:69 45e4456dce1a4c80a2a2e60265f4ed2c
+#: ../../root手册.md:30 0c31129f7f524153a2a9f0f2d8a55d29
 msgid "菜单栏"
 msgstr ""
 
-#: ../../root手册.md:71 e40594a19dcb430e9997adca49b1f43c
+#: ../../root手册.md:32 35c850e296174b8093034c94d31e2d44
 msgid "a. 仪表盘:"
 msgstr ""
 
-#: ../../root手册.md:73 1fec13112a85470ab07d479eddbf4bc7
+#: ../../root手册.md:34 0a71e2b0c6994d2d92ff54c7d2f034f6
 msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：外拨/已应答、在线代理、DID 入站、入站区域和出站区域。"
 msgstr ""
 
-#: ../../root手册.md:76 3987c7b6d79b42059ccb8d00f6a23152
+#: ../../root手册.md:37 5c583ca0b978485ea5bf6aa203d31a9f
 msgid ""
 "<img src=\"./_static/images/root/media/image4.png\" "
 "style=\"width:5.56875in;height:2.74097in\" />"
 msgstr ""
 
-#: ../../root手册.md:79 bf8944f9f0964538a3016eec231731ab
+#: ../../root手册.md:40 fe0bfc4de5844bf7bb92f4d8c8fc5a64
 msgid "b. 用户:"
 msgstr ""
 
-#: ../../root手册.md:81 0a87e6b1305c438bb635d854bb5f62f0
+#: ../../root手册.md:42 f9cf4bce210741d1b9f84f321d3f5ed6
 msgid "**代理商:**"
 msgstr ""
 
-#: ../../root手册.md:83 4d0e6fc9e9fd494dbc42f3e196e8392c
+#: ../../root手册.md:44 ede4b59b973c48baa5d7e28a4ee236b4
 msgid "由系统用户建立"
 msgstr ""
 
-#: ../../root手册.md:85 0059619dce0c460da6fb5959c1ccf777
+#: ../../root手册.md:46 67894f10acb94c78ae70f5427b191340
 msgid "选择【添加】，进入【常规】添加代理的设置：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:87 5827917661174fcca6085ae824b792ef
+#: ../../root手册.md:48 967aedd2dc6c4e2993454954870dd6aa
 msgid ""
 "<img src=\"./_static/images/root/media/image5.png\" "
 "style=\"width:5.75694in;height:2.73333in\" />"
 msgstr ""
 
-#: ../../root手册.md:90 3e88b6917f044f31996d94fdbbe85c40
+#: ../../root手册.md:51 19eb6bfbec914777a159cd5348369493
 msgid ""
 "**<span class=\"mark\">域名:</span>** <span "
 "class=\"mark\">每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-z "
 "A-Z）、数字（0-9）、字符（.-）的组合。</span>"
 msgstr ""
 
-#: ../../root手册.md:94 8a4bf5728ec64c36b27cd7358632b7c1
+#: ../../root手册.md:55 f7230902a0fd402d8cb285c024f4b0a0
 msgid "<span class=\"mark\">**代理商**: 请指定该代理商的姓名，姓名可以随时更改。</span>"
 msgstr ""
 
-#: ../../root手册.md:97 5e72bd39b118426ab156c842d5d6592b
+#: ../../root手册.md:58 ce697b5574614c3c9f5dbbc8bd808cfe
 msgid ""
 "**<span class=\"mark\">费率:</span>** <span "
 "class=\"mark\">为代理商设定适用的费率范围。</span>"
 msgstr ""
 
-#: ../../root手册.md:100 ../../root手册.md:176 11d00f4345574690ab7d561cb13113e6
-#: e5128e618ce34fcfbe5f46bf8ff6931f
+#: ../../root手册.md:61 ../../root手册.md:137 7dec968707d042afab45b2034e5075c6
+#: 9af16c5afaa04ef6930c614371d5b42b
 msgid "<span class=\"mark\">**用户名**: 用户将使用该用户名登录系统。</span>"
 msgstr ""
 
-#: ../../root手册.md:102 539555df32ed4678853772fa09dbbb28
+#: ../../root手册.md:63 efad1f7e78a347e1a78256dc546af04d
 msgid "<span class=\"mark\">**名**: 请填写该代理商用户的名称。</span>"
 msgstr ""
 
-#: ../../root手册.md:104 88faaccbf1994dbe8b5898f1cd55c7b4
+#: ../../root手册.md:65 88e8232fbc804dfa86e4006f80fbe3e7
 msgid "<span class=\"mark\">**姓：**请填写该代理商用户的姓。</span>"
 msgstr ""
 
-#: ../../root手册.md:106 51cd410a106140439c65e70b4f25683c
+#: ../../root手册.md:67 90f6c5922c844badb8eda558f0a47e2f
 msgid ""
 "**<span class=\"mark\">密码:</span>** <span "
 "class=\"mark\">填写用户登录密码，用户将使用此密码登录系统。</span>"
 msgstr ""
 
-#: ../../root手册.md:109 478b533bc4d3486f83b252c40efc7298
+#: ../../root手册.md:70 663bcf16386941ff81d9976cb41fb1d7
 msgid "<span class=\"mark\">**确认密码：**再次确认密码，确保两次密码相同。</span>"
 msgstr ""
 
-#: ../../root手册.md:111 009de219b4ec464dba2b3229f4a37338
+#: ../../root手册.md:72 4083304ef9414932ae2929c9ac35b9f5
 msgid "**<span class=\"mark\">【 高级 】 设置:</span>**"
 msgstr ""
 
-#: ../../root手册.md:113 b5c1549fc2b042acad373d06490d7b58
+#: ../../root手册.md:74 20a81f66731c47638eb555b5b93e5fa8
 msgid ""
 "<img src=\"./_static/images/root/media/image6.png\" "
 "style=\"width:5.46389in;height:2.68958in\" />"
 msgstr ""
 
-#: ../../root手册.md:116 708148f8dc744494be8fc073f78bc97b
+#: ../../root手册.md:77 2fd760fb96084fd7a633e9ff010ec497
 msgid "<span class=\"mark\">**时区**: 请为该代理用户设置时区。设置后不可修改。您可以直接搜索或向下滚动进行选择。</span>"
 msgstr ""
 
-#: ../../root手册.md:119 d27719070b0443aebcf140edf5c20e83
+#: ../../root手册.md:80 cc1741bf249d438f90e34724414d3c43
 msgid ""
 "**<span class=\"mark\">\\[公司信息\\]:</span>** <span "
 "class=\"mark\">公司信息基本编辑（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:122 644b538a64e24833a68bc37fde51b083
+#: ../../root手册.md:83 18e10f61ffcd483abc98e5b2a62abff3
 msgid ""
 "<img src=\"./_static/images/root/media/image7.png\" "
 "style=\"width:5.39236in;height:3.28542in\" />"
 msgstr ""
 
-#: ../../root手册.md:125 ee7996923af9498ba3a7ab5594e7acaf
+#: ../../root手册.md:86 61bbbb061b664fcf9e49353e8cac715e
 msgid ""
 "<span class=\"mark\">**公司名称**: Please fill in the company name of this "
 "agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:128 f693545a178b4e04a7b5756e8fa0dc11
+#: ../../root手册.md:89 37c84e94074f4a9abffcea4e5d8461b1
 msgid ""
 "<span class=\"mark\">**注册地址**: Please fill in the registration address of"
 " this agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:131 e32b3074b8994c9399d09b4808d95460
+#: ../../root手册.md:92 c9163a573acf47f8abe22611559dca3e
 msgid ""
 "**<span class=\"mark\">联系电话:</span>** <span class=\"mark\">Please fill in"
 " the company contact phone number of this agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:134 3c41ca53c5d840d09f8b0ddd044877d7
+#: ../../root手册.md:95 e54b4953698d4148ba542344d6a29b20
 msgid ""
 "<span class=\"mark\">**公司网址**: Please fill in the company website of this"
 " agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:137 b3b458c4e1ca43f88d47e89218999c55
+#: ../../root手册.md:98 4cdfb3a9f4e7412988b67deaedbb9258
 msgid ""
 "<span class=\"mark\">**电子邮件**: Please fill in the company</span> <span "
 "class=\"mark\">email address of this agent user, which defaults to the "
 "agent user's email address.</span>"
 msgstr ""
 
-#: ../../root手册.md:141 ef004d0e7c684671a37ac7ff0fdfb4c8
+#: ../../root手册.md:102 7f1f3c6df24b4eb79041b8c7fb46a5ad
 msgid ""
 "<span class=\"mark\">**税号**: Please fill in the company tax ID of this "
 "agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:144 27c370deb37647deb3d6914e58b498e5
+#: ../../root手册.md:105 7a23f689f10743788be0b5afe56964e6
 msgid ""
 "<span class=\"mark\">**开户银行:** Please fill in the opening bank of this "
 "agent user's company.</span>"
 msgstr ""
 
-#: ../../root手册.md:147 e36ab0b6bf2e465d93e26951deb275d2
+#: ../../root手册.md:108 89b964c1aa5f4016a4e67460da053dfd
 msgid ""
 "<span class=\"mark\">**账户名称**: Please fill in the company account name of"
 " this agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:150 d8a9f53adb5741238160fb5b71a5aff2
+#: ../../root手册.md:111 d784e2b0e840494694f99ac165fd66ad
 msgid ""
 "<span class=\"mark\">**账号**: Please fill in the company account of this "
 "agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:153 94b08eabf7274b2bac6c662d988653fc
+#: ../../root手册.md:114 b9169cb402204b8685e68e0af3db5d02
 msgid ""
 "<span class=\"mark\">**办公地址**: Please fill in the company office address "
 "of this agent user.</span>"
 msgstr ""
 
-#: ../../root手册.md:156 4d88092b69344653996a802465108772
+#: ../../root手册.md:117 43505617ebe44ee090d71bc192f5d377
 msgid "Clients:"
 msgstr ""
 
-#: ../../root手册.md:158 7edf9442e4ab4b7ea7b038e5cba33c76
+#: ../../root手册.md:119 e7947cc90ded4492a8a80989a1f75864
 msgid ""
 "<span class=\"mark\">clients 用户是有代理商用户创建。代理商用户和系统用户 "
 "在client页面可以删除/编辑/查看clients用户，也可以以某-client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。</span>"
 msgstr ""
 
-#: ../../root手册.md:161 de4102ac7a254f37affbd23c466f3657
+#: ../../root手册.md:122 67d92ec44f7e4cbda2c86a5a103601e6
 msgid ""
 "<img src=\"./_static/images/root/media/image8.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:164 df25a14d10fe41d4b1dd3b420053d47e
+#: ../../root手册.md:125 5a1108956ca74dca8d8e2cc200eebc18
 msgid "账户:"
 msgstr ""
 
-#: ../../root手册.md:166 31ec2b95f7814ef7ba90ce69a734c171
+#: ../../root手册.md:127 c81568f11399491c8ac077dee0447722
 msgid ""
 "<span "
 "class=\"mark\">账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色可以实现不同的账户拥有不同的功能权限</span>:"
 msgstr ""
 
-#: ../../root手册.md:168 d3ef69551cd346dfbe6edfd094910d7f
+#: ../../root手册.md:129 c4d05437a4444fa1b73d51063e235b2d
 msgid ""
 "<img src=\"./_static/images/root/media/image9.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:171 ae17c21c61b142a5a82cde6f1fea23cb
+#: ../../root手册.md:132 234fac5b9eb34002af8da7b86af690b1
 msgid "<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:173 0c8230c702c64e57863f6da3b13c9b14
+#: ../../root手册.md:134 25f1fb3273bb4bbb96ef14a7e2141b7e
 msgid ""
 "<img src=\"./_static/images/root/media/image10.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:178 b612b31f49d641b4938b54ce50b38f14
+#: ../../root手册.md:139 3c7af297c4e74da88894a1ea5b949c48
 msgid "<span class=\"mark\">**状态**:您可以选择启用/禁用该帐户。</span>"
 msgstr ""
 
-#: ../../root手册.md:180 dff42ceb7e0949af88cdc29732a5bf0f
+#: ../../root手册.md:141 db654d498d1b477eac14e0983ad69f74
 msgid "<span class=\"mark\">**名**: 请输入用户的名。</span>"
 msgstr ""
 
-#: ../../root手册.md:182 59edab7b3fde4b089ecefafe3accd4c9
+#: ../../root手册.md:143 3a041fe248dd4623a8dbbf800806626f
 msgid "<span class=\"mark\">**姓**: 请输入用户的姓。</span>"
 msgstr ""
 
-#: ../../root手册.md:184 7c3c045d2efa4601a58159002724fda2
+#: ../../root手册.md:145 97727edf9454419b9d71c3a48862e9c9
 msgid "<span class=\"mark\">**密码**: 用户将用此密码进行系统登录。</span>"
 msgstr ""
 
-#: ../../root手册.md:186 e4bc131b3c494d16a9e1700f33ac3315
+#: ../../root手册.md:147 142ceb9b6b38494594e53434434c7af0
 msgid "**<span class=\"mark\">确认密码:</span>**请再次输入密码，确保两次密码相同。"
 msgstr ""
 
-#: ../../root手册.md:188 bf950228b2c34aea9730b6f4be2bd31e
+#: ../../root手册.md:149 9db2edd6d2ef4c00b94bf82f17b8a539
 msgid "<span class=\"mark\">**所属角色:** 角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。</span>"
 msgstr ""
 
-#: ../../root手册.md:191 c77e132d7fd14b67bb2e9790152d5993
+#: ../../root手册.md:152 b2d45c4f0e9a4ae48f20db08a23b4931
 msgid "在【高级】设置中，您可以设置此帐户的备注信息"
 msgstr ""
 
-#: ../../root手册.md:193 bb20c47eb08a48df8e86e6e49d5f5349
+#: ../../root手册.md:154 5e327cc6952b4cd1abacf67580b25e9c
 msgid "角色和权限:"
 msgstr ""
 
-#: ../../root手册.md:195 d879c94595f34dab86281c88aa0fd569
+#: ../../root手册.md:156 e1a2fcb170db47c09a4a5840b5e55634
 msgid ""
 "<span "
 "class=\"mark\">角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。</span>"
 msgstr ""
 
-#: ../../root手册.md:197 b8f7c1ba33624504aa01a2b8aa641fbf
+#: ../../root手册.md:158 0700fff269614f83bdcf00e97ba0b6e1
 msgid ""
 "<img src=\"./_static/images/root/media/image11.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:200 65203c678a554e4198a231b4654e23d2
+#: ../../root手册.md:161 93f5e4c5b99d41a3b9bd25e88c6021b1
 msgid "单击【编辑】/【添加】，然后输入【通用】来命名角色：（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:202 e92c070fb783487fbd44f5b8ceaec7b9
+#: ../../root手册.md:163 0b4dfd06de0d4e2388b47e51a855440d
 msgid ""
 "<img src=\"./_static/images/root/media/image12.png\" "
 "style=\"width:5.75972in;height:1.42222in\" />"
 msgstr ""
 
-#: ../../root手册.md:205 9d2ee57e13fa41fb925c460fe4617941
+#: ../../root手册.md:166 b20d760d1243497b8c7c20ff44c5b4cb
 msgid "<span class=\"mark\">【 高级 】设置:</span>"
 msgstr ""
 
-#: ../../root手册.md:207 672f338c966d43c78a01189c98adc9c4
+#: ../../root手册.md:168 d219d4d861494b1e9035baa4dc344690
 msgid ""
 "<img src=\"./_static/images/root/media/image13.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />【权限设置】:"
 msgstr ""
 
-#: ../../root手册.md:210 2fbeea81854a484787685b924ba4a11e
+#: ../../root手册.md:171 a03834ddc5264065b528e4699bbb6739
 msgid ""
 "<img src=\"./_static/images/root/media/image14.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:213 48c8b21cc2014b8fba562cf4118c48e2
+#: ../../root手册.md:174 21ce248f679047979031ffd828915117
 msgid "c. 客户数据:"
 msgstr ""
 
-#: ../../root手册.md:215 004ca23d70ce49d98c8f5471426d626f
+#: ../../root手册.md:176 d040fa0f0ca34f9fbcdd318ef87e0fb0
 msgid "客户标签:"
 msgstr ""
 
-#: ../../root手册.md:217 7c512182009c4be8b75795f0f296e916
+#: ../../root手册.md:178 90132a191b894eed90a462b8e82ccee1
 msgid ""
 "<span "
 "class=\"mark\">客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。</span>"
 msgstr ""
 
-#: ../../root手册.md:219 0692003e4e5a48eb9bd8200975ca933d
+#: ../../root手册.md:180 02a56a8af52e41a7ae449d5a9fdb22b9
 msgid ""
 "<img src=\"./_static/images/root/media/image15.png\" "
 "style=\"width:5.75972in;height:2.13333in\" />"
 msgstr ""
 
-#: ../../root手册.md:222 ../../root手册.md:240 4344cf875900477db25134ade550ecad
-#: 84bf299756d84b67ba3704ea938dd096
+#: ../../root手册.md:183 ../../root手册.md:201 092ec07c59024ac5a89e6e8fe5853405
+#: ff603b86c7554b51893e95a1ac8d1fe6
 msgid "<span class=\"mark\">单击【添加】以进入【常规】设置：（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:224 992e5ebe682c4e91900bda07b5af709b
+#: ../../root手册.md:185 8ad9a6f7344c46d789f376581058b890
 msgid ""
 "<img src=\"./_static/images/root/media/image16.png\" "
 "style=\"width:5.75972in;height:0.98681in\" />"
 msgstr ""
 
-#: ../../root手册.md:227 bcec66b6865c4d3b8bb1f8bc3abeb1b5
+#: ../../root手册.md:188 8a97bed471374d689433c5b7f1738440
 msgid ""
 "**<span class=\"mark\">标签名称:</span>** <span "
 "class=\"mark\">请输入客户标签的名称。</span>"
 msgstr ""
 
-#: ../../root手册.md:230 c407a28c451c4ab6acf1bdcc8ad32c33
+#: ../../root手册.md:191 9166a0f6c75142579e06446336566a1d
 msgid ""
 "<img src=\"./_static/images/root/media/image17.png\" "
 "style=\"width:5.75972in;height:0.94792in\" />"
 msgstr ""
 
-#: ../../root手册.md:233 c482f374c407403096e8db7bef375247
+#: ../../root手册.md:194 96e2276593cd4156a17898363dfc6590
 msgid "**数据来源：**"
 msgstr ""
 
-#: ../../root手册.md:235 8456e28f55a240b7a2e81436896f0853
+#: ../../root手册.md:196 5c08c91eaa6143969d88e891b9ce089f
 msgid ""
 "<span "
 "class=\"mark\">数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源</span>"
 msgstr ""
 
-#: ../../root手册.md:237 cc506d62a49d4f4382c96ea348fb7303
+#: ../../root手册.md:198 75cfb906d1784873b2c2666ff19c4e11
 msgid ""
 "<img src=\"./_static/images/root/media/image18.png\" "
 "style=\"width:5.75972in;height:1.34722in\" />"
 msgstr ""
 
-#: ../../root手册.md:242 8ca828e7e0c74147841ae126002fab9c
+#: ../../root手册.md:203 8fa95f8121fa45f0bb73ea60ccd2c3d1
 msgid ""
 "<img src=\"./_static/images/root/media/image19.png\" "
 "style=\"width:5.75972in;height:1.33819in\" />"
 msgstr ""
 
-#: ../../root手册.md:245 4d8cfb95fc754f4a812476501766dc8b
+#: ../../root手册.md:206 4194b923669541b1a205aa188dbc0f64
 msgid ""
 "**<span class=\"mark\">来源名称:</span>** <span "
 "class=\"mark\">请输入数据来源的名称。</span>"
 msgstr ""
 
-#: ../../root手册.md:248 fcccdcebe4df45f98511cf3839b68543
+#: ../../root手册.md:209 772ce4fd1c1b477997ea3ab23054659a
 msgid "<span class=\"mark\">**来源颜色**: 请选择客户数据来源的颜色。</span>"
 msgstr ""
 
-#: ../../root手册.md:250 05a53d900f0244b282fa2b642727fefc
+#: ../../root手册.md:211 08d9d34037fe4139829d7e9eca19cb6b
 msgid "**<span class=\"mark\">在【高级】设置中可以设置备注信息（如下图）</span>**"
 msgstr ""
 
-#: ../../root手册.md:252 c4937e6ea2704b469cd23fe0b842198a
+#: ../../root手册.md:213 1092b36d5a8c476bb0244ca872e0b8e3
 msgid ""
 "<img src=\"./_static/images/root/media/image20.png\" "
 "style=\"width:5.75972in;height:1.17292in\" />"
 msgstr ""
 
-#: ../../root手册.md:255 69afa66c7ded498a9454ee058370dc68
+#: ../../root手册.md:216 717e8e7d24e3400bb4ef39ff71aac409
 msgid "d.任务管理："
 msgstr ""
 
-#: ../../root手册.md:257 1755f606bc344ea3b014a9bd32050d7f
+#: ../../root手册.md:218 1668c8de178144dd8ed493caf9457f6a
 msgid "**呼叫结果:**"
 msgstr ""
 
-#: ../../root手册.md:259 fabbe039f8304f2e8f799240d03f1056
+#: ../../root手册.md:220 2ababd3732cf41008a16fbd9eae1c60a
 msgid "呼叫结果是坐席呼叫客户后记录的通话结果，用于通话结果的分类。"
 msgstr ""
 
-#: ../../root手册.md:261 b6ae0aefdba64877aeccdfe6355afc78
+#: ../../root手册.md:222 fb96a7de435c4b80b78dc14a57bea570
 msgid ""
 "<img src=\"./_static/images/root/media/image21.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:264 ../../root手册.md:358 0c66e78e5ede409e810d4011364164db
-#: cf2b4af53e7040a9a21eb0cd8b42a738
+#: ../../root手册.md:225 ../../root手册.md:319 28a0580febfb4b728ce04761d6b723f6
+#: 8940389bc686461fb42c0e7af292b81d
 msgid "<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:266 b1ddc638c6d3474bbd2cb3a3ab506349
+#: ../../root手册.md:227 ef7d25e31d8e4907b282323a2169cf27
 msgid ""
 "<img src=\"./_static/images/root/media/image22.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:269 75ccc2aeb82c439ba10b93552a1c760e
+#: ../../root手册.md:230 17a391f859234c1c8a36b80cdca26afb
 msgid "<span class=\"mark\">**呼叫结果名称**: 您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。</span>"
 msgstr ""
 
-#: ../../root手册.md:272 f8e7d30e73214e1c9cd4acff99d7b554
+#: ../../root手册.md:233 121047984e9043a7851619a58ae45c41
 msgid ""
 "<span class=\"mark\">**通话状态**: "
 "呼叫结果仅在接听电话时才可设置。“无”表示无论通话状态如何，坐席都可以随时使用呼叫结果。</span>"
 msgstr ""
 
-#: ../../root手册.md:275 5d8f9bf867da4e6ab31f03f8fcdfa31b
+#: ../../root手册.md:236 afc80bc4e86544d58bcf63e446b9abca
 msgid "<span class=\"mark\">**所属销售漏斗**: 设置仅在指定销售漏斗下显示的呼叫结果。</span>"
 msgstr ""
 
-#: ../../root手册.md:278 bf68d6fc67b24aa09dadb2d00061871e
+#: ../../root手册.md:239 8207a0d000e34c2d89267feadbd555e8
 msgid "<span class=\"mark\">**强制预约**: 必须建立预约，否则无法保存客户，也无法提交联系记录。</span>"
 msgstr ""
 
-#: ../../root手册.md:281 0e27014812aa48c7a9fbd0c55ab9dcf3
+#: ../../root手册.md:242 0b71fecbe9bc4524be47d282ed1fff10
 msgid "e. 计费:"
 msgstr ""
 
-#: ../../root手册.md:283 56e341c1aac941a2a61ae3fa93749b4b
+#: ../../root手册.md:244 9de460be36514984b4d2f074e33df107
 msgid "客户计费:"
 msgstr ""
 
-#: ../../root手册.md:285 01b0397681224ae19470cd7e5b3192b5
+#: ../../root手册.md:246 58acdbb7daf44aceb96b1d9acb8dfa67
 msgid "<span class=\"mark\">客户计费是对代理商的计费。</span>"
 msgstr ""
 
-#: ../../root手册.md:287 daded942ad244f82b5415b9d5dbb621e
+#: ../../root手册.md:248 417ee988fc7e4979aadac6593468fb96
 msgid ""
 "<img src=\"./_static/images/root/media/image23.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:290 c654eeb72998402597b89469a569ab11
+#: ../../root手册.md:251 14efa45da7f145bba9b4a017c6166154
 msgid "<span class=\"mark\">单击【编辑】进入【常规】设置：（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:292 364bc87ee24240d5b617f006ede52902
+#: ../../root手册.md:253 089e9b4ac09c4640aaea4c14bf9710d1
 msgid ""
 "<img src=\"./_static/images/root/media/image24.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:295 795a6e4c52d842cc8f81a29169c4bc6f
+#: ../../root手册.md:256 aff09f747e30439c90768d36030cf983
 msgid ""
 "<span class=\"mark\">**ID: The** unique</span> <span class=\"mark\">ID of"
 " the data.</span>"
 msgstr ""
 
-#: ../../root手册.md:298 6f0626fbd76146a9bf7897091faf8f78
+#: ../../root手册.md:259 14454ef31a01440e9dd6522f6ae3f053
 msgid ""
 "<span class=\"mark\">**客户名称**: The customer's name is a newly added agent"
 " user name and cannot be modified.</span>"
 msgstr ""
 
-#: ../../root手册.md:301 10337404838d490b8ce8354861d289e6
+#: ../../root手册.md:262 a9b6af32d5b848be9a32874d2992bad0
 msgid ""
 "<span class=\"mark\">**域名**: The domain name is a newly added agent user "
 "domain name and cannot be modified.</span>"
 msgstr ""
 
-#: ../../root手册.md:304 cfd77b022e054a75b1edb6d2d6dbf780
+#: ../../root手册.md:265 8a1f0e9c52f541eeabc9e7712f7f9dbd
 msgid "【账单】设置：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:306 c8a0114554774f6f8cabe75348846656
+#: ../../root手册.md:267 8ef96df83dc34172be5b9355c1bf53b5
 msgid ""
 "<img src=\"./_static/images/root/media/image25.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:309 2130c1b16fee4bd68b28cdd2cd6ea9d4
+#: ../../root手册.md:270 67c2675d07ba4ab89fec4be22878f9a0
 msgid "**应缴费用:** 应当缴纳的本期费用。"
 msgstr ""
 
-#: ../../root手册.md:311 95cba62110504ece8116d9cbdf7e9c47
+#: ../../root手册.md:272 02dd39b07f2142cfae133aed5c3f082b
 msgid "**最大坐席数量:** 允许使用的最大坐席数量。"
 msgstr ""
 
-#: ../../root手册.md:313 36fe7646bd2b4d7db9aa24634dcbc3f1
+#: ../../root手册.md:274 53ed6e1c091343059c4bd474e3f9fdf8
 msgid "**付款方式:** 选择付款方式预付款或后付款。"
 msgstr ""
 
-#: ../../root手册.md:315 0dc0b6e25fe142edad72a069cc3046eb
+#: ../../root手册.md:276 8c0dd883645c4c669a868c7a3947abcf
 msgid "**信用额度:** 设置可使用的信用额度。"
 msgstr ""
 
-#: ../../root手册.md:317 3f1438861dba488d9ca617bdd28aa1b4
+#: ../../root手册.md:278 5f13f3f2269647ab903de76b07071c7a
 msgid "**月租 :** 设置月租数额。"
 msgstr ""
 
-#: ../../root手册.md:319 3a4fc6f0720548499fb98a0f898abeb0
+#: ../../root手册.md:280 90432a63fa384cd1af57d813753a38c0
 msgid "**短信:** 能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择 SMS 费率。"
 msgstr ""
 
-#: ../../root手册.md:323 c422d162d682455f8110e3f3cbc98e19
+#: ../../root手册.md:284 2e13b5397daa4e12898f49962aa2fc13
 msgid "**呼出:**能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
 msgstr ""
 
-#: ../../root手册.md:325 ae60cf0811354a0b9ef4b66665da0694
+#: ../../root手册.md:286 3c450db628b241df80f28a83f62fbf79
 msgid "**实际通话:**当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
 msgstr ""
 
-#: ../../root手册.md:327 c8349285952a41879d060e474a957039
+#: ../../root手册.md:288 5dd1478a946d460e82a09083e1d5193e
 msgid "**主叫通话:** 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
 msgstr ""
 
-#: ../../root手册.md:329 60f60748ec1a47c98b31fedbdb4e3e5b
+#: ../../root手册.md:290 e02026c213d44f9e8c6408e39ba51c23
 msgid "**【账单和提醒】设置:**"
 msgstr ""
 
-#: ../../root手册.md:331 610f6cae37574f56ada7556627a2002b
+#: ../../root手册.md:292 c93ca12afbad4e73b098bbc0d6449d2d
 msgid ""
 "<img src=\"./_static/images/root/media/image26.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:334 3968c3c8387746a1a23494ac814805af
+#: ../../root手册.md:295 f80b5d92f99041bca13d5f97344991c9
 msgid "**余额不足提醒:** 设置余额不足后的提醒次数。"
 msgstr ""
 
-#: ../../root手册.md:336 715e451d98504155947c6b9187826f54
+#: ../../root手册.md:297 d0b2012c360b49e7ba6eefd0641f515c
 msgid "**提醒方式:** 选择手机号码或者邮箱的提醒方式。"
 msgstr ""
 
-#: ../../root手册.md:338 d5cff1fada2e443aa7c980c59ae973cc
+#: ../../root手册.md:299 4d942b9a14004354ad44fafd900ba144
 msgid "**账单电子邮件地址:** 填写收到账单的电子邮件地址。"
 msgstr ""
 
-#: ../../root手册.md:340 145a5a22898242269b3c14fe80ff4605
+#: ../../root手册.md:301 6f8847c01e384f9d9abf8346bb613432
 msgid ""
 "<span "
 "class=\"mark\">在设置的客户页面点击下拉菜单选择【充值】，记录客户的充值金额及交易时间，如有需要，也可填写备注信息；点击【费用扣减】类似；点击【立即生效】，对客户的账单信息生效（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:342 78b2f0e006794fb490618c9e0085178c
+#: ../../root手册.md:303 3d32455031ab49f0b23fa7e560794530
 msgid ""
 "<img src=\"./_static/images/root/media/image27.png\" "
 "style=\"width:5.75972in;height:1.47569in\" />"
 msgstr ""
 
-#: ../../root手册.md:345 a25a9f7712c345a2ae2ff636523b4322
+#: ../../root手册.md:306 de7948c4ec2944a48f26f35a2f9cfe32
 msgid ""
 "<img src=\"./_static/images/root/media/image28.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:348 8595a8857b5843bdad9db09e12f16005
+#: ../../root手册.md:309 e280317dda5f45e38c4e49e1dfab49b9
 msgid ""
 "<img src=\"./_static/images/root/media/image29.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:351 60eb67052a2d4de1975edc51d6ab130f
+#: ../../root手册.md:312 36dc4f45d7a144d1a85832e9ebbe53e7
 msgid "费率计划:"
 msgstr ""
 
-#: ../../root手册.md:353 83ece00c7a6b4a4581998affd90591a9
+#: ../../root手册.md:314 45ac7219cf9c45dd83d6dbc5c4e71b44
 msgid "费率计划是指按照费用决策要求，具体编制在一定时期(计划期)内实现的费率计划，包括:销售费率和成本费率看。"
 msgstr ""
 
-#: ../../root手册.md:355 0f5ef9dbb4334b78b91f3950ba76647f
+#: ../../root手册.md:316 3dbc1c3ac00848319e1dbae0395a136c
 msgid ""
 "<img src=\"./_static/images/root/media/image30.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:360 954388cc5d4d4674be193cc9d1b847b0
+#: ../../root手册.md:321 a4760bfa95ac48f589b5ac1eb0a267c3
 msgid ""
 "<img src=\"./_static/images/root/media/image31.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:363 7b5093ac55044a069ef60c65c60e9fec
+#: ../../root手册.md:324 0c6ef87869f845668ee5617b44f1a126
 msgid "<span class=\"mark\">**费率名称:** 请为这个费率命名。</span>"
 msgstr ""
 
-#: ../../root手册.md:365 9af99fff497b45d5ae58f6a63b8678af
+#: ../../root手册.md:326 c793291511a94aa0bdec209d4bf741f1
 msgid ""
 "**<span class=\"mark\">费率类别:</span>** <span "
 "class=\"mark\">请选择一个费率类别。</span>"
 msgstr ""
 
-#: ../../root手册.md:368 0ab152182b764521ae4e96cd8f3e5bf8
+#: ../../root手册.md:329 78edb5787b0542dba994f891fb247cda
 msgid "<span class=\"mark\">**初始计费**: 初始计费是在初始时长内，每分钟的费率,相当于起步价，单位是元/分。</span>"
 msgstr ""
 
-#: ../../root手册.md:371 ed911c36edf04d61bebffe83c58b6a74
+#: ../../root手册.md:332 2d2e74514cfd4073ba0c82f29ea1d312
 msgid ""
 "<span class=\"mark\">**初始计费时长**: "
 "初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。</span>"
 msgstr ""
 
-#: ../../root手册.md:374 491e06362e32419c97923fd818bdbb96
+#: ../../root手册.md:335 264b0b23639c4ecdaf7098363183b796
 msgid "<span class=\"mark\">**费率**: 初始计费后每分钟的费率，单位是元/分。</span>"
 msgstr ""
 
-#: ../../root手册.md:377 9ba960896dac48bcaf7786d812467822
+#: ../../root手册.md:338 951e33e97cd343c394a06e2f58f7725e
 msgid "<span class=\"mark\">**计费周期**: 计费周期是指过初始时长后多久计费一次，单位是秒。</span>"
 msgstr ""
 
-#: ../../root手册.md:380 61b2be5d03834b8f8549e882e2f98ea4
+#: ../../root手册.md:341 c2300138eda649c0ab23263803d40f7e
 msgid ""
 "**<span class=\"mark\">费率数目:</span>** <span "
 "class=\"mark\">编辑所要选择的费率数目。</span>"
 msgstr ""
 
-#: ../../root手册.md:383 48e9a67cd62e49ab96d1d99b09b871af
+#: ../../root手册.md:344 a9a0e4a214e749d8a42fea1007743ae8
 msgid "**【高级 】 设置:**"
 msgstr ""
 
-#: ../../root手册.md:385 b327db1cac764267b3afbdf032a0fce2
+#: ../../root手册.md:346 0bb2a363e9604159aac62927734aa3c9
 msgid ""
 "<img src=\"./_static/images/root/media/image32.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:388 5dfd986a2e7c4d8d9868bd6da5d0e163
+#: ../../root手册.md:349 8d896000c0354017b853623722db6d8f
 msgid "**<span class=\"mark\">时间:</span>**请选择这个费率计划开始执行的时间。"
 msgstr ""
 
-#: ../../root手册.md:390 1bbe835035d1459e97d41ea52b3ee346
+#: ../../root手册.md:351 e02d85d44c194fc2ae18f1e74ea9e168
 msgid "<span class=\"mark\">**费率名称**: 请选择一个已添加的费率计划。</span>"
 msgstr ""
 
-#: ../../root手册.md:392 5a22ac481c5544999f06ff5d44b18c31
+#: ../../root手册.md:353 501799f285d040848a638082e207c63e
 msgid "f. 语音设置:"
 msgstr ""
 
-#: ../../root手册.md:394 7b6b6facd02e4d2494c05195c05e8992
+#: ../../root手册.md:355 6e6deb3e47fc423492db477e49bcd235
 msgid "**中继管理:**"
 msgstr ""
 
-#: ../../root手册.md:396 f4cd3e1f26fb46bc9f9cd67553ae0556
+#: ../../root手册.md:357 9f9ee9af798e407db45fedbd924976e7
 msgid "中继是用于将本机的电话网络与其他系统的电话网络连接在一起的线路管理。"
 msgstr ""
 
-#: ../../root手册.md:398 f8efdd0230ce4a60a2b92ec00bc5019b
+#: ../../root手册.md:359 6b13ba4302684a85ab537dc65b96eb8f
 msgid ""
 "<img src=\"./_static/images/root/media/image33.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:401 910189694cd84f099f2126c3e8658825
+#: ../../root手册.md:362 c026c713a2c6456fa4b8c9daa2f5d420
 msgid "<span class=\"mark\">选择【添加】并输入【常规】设置：</span>"
 msgstr ""
 
-#: ../../root手册.md:403 a69d0d883209460888601d63597839c0
+#: ../../root手册.md:364 b0587611ab904cbbb68c3cdcf8f49668
 msgid ""
 "<img src=\"./_static/images/root/media/image34.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:406 62e10869b7da4b03a6e7f0d66877ccfb
+#: ../../root手册.md:367 541caf062d314271862dd6bb2c8bf93d
 msgid ""
 "**<span class=\"mark\">名称:</span>** <span "
 "class=\"mark\">给中继起个名字，你可以随时改变他。</span>"
 msgstr ""
 
-#: ../../root手册.md:409 48e89a508c1344b2960457e40795cfb8
+#: ../../root手册.md:370 43e1a46d6e9a44649a7f429358497ee2
 msgid "**<span class=\"mark\">协议:</span>** 请选择这个中继的协议类型。"
 msgstr ""
 
-#: ../../root手册.md:411 9fe76152f9da42079a74e14c4ef4ccbe
+#: ../../root手册.md:372 7eefaa7f48254acb85e875b638b7679e
 msgid ""
 "**<span class=\"mark\">验证:</span>** <span "
 "class=\"mark\">请选择这个中继的验证方式.</span> <span "
 "class=\"mark\">以下步骤根据验证方式不同有所差异，添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:415 d515a7ea55334ae082fc4500afedd625
+#: ../../root手册.md:376 ec1f0a1eb3d3406db074241f787aec29
 msgid ""
 "<img src=\"./_static/images/root/media/image35.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:418 6a75c32099354300aa237733573c9ff4
+#: ../../root手册.md:379 5594fc91bde54970b64da847f3932ff7
 msgid ""
 "**<span class=\"mark\">服务器地址:</span>** <span "
 "class=\"mark\">请输入这个服务器的地址，它可能是一个域或者IP。</span>"
 msgstr ""
 
-#: ../../root手册.md:421 d5c20362d0a241a4b478c9736d52285a
+#: ../../root手册.md:382 2f3637e55ee9438aaa45290b8ce31c8e
 msgid ""
 "**<span class=\"mark\">端口:</span>** <span "
 "class=\"mark\">请输入这个中继的端口号，默认是5060。</span>"
 msgstr ""
 
-#: ../../root手册.md:424 ../../root手册.md:454 669c48c7973d482c939b14b8a483a51e
-#: dd4be6f3a95b4bf093681466a6bd5d87
+#: ../../root手册.md:385 ../../root手册.md:415 629713d564d74f5eba15a8194ebfaa4b
+#: 9076c3d1f7c347058be61f6c6b4f6580
 msgid "<span class=\"mark\">**通道限制:** 通道限制数表示最多有多少外拨电话数，0表示无限制。</span>"
 msgstr ""
 
-#: ../../root手册.md:427 2cdacbcc35a94329884ef9ae77a3c245
+#: ../../root手册.md:388 cd3bf481bb6a41a6900d1308f1434c65
 msgid "<span class=\"mark\">**状态**: 根据你的需要你可禁用这个中继。</span>"
 msgstr ""
 
-#: ../../root手册.md:429 f95afdc898d24be18393f95506ca6903
+#: ../../root手册.md:390 a58eecbd23294b02a72417ef1b748fe6
 msgid "添加编辑中继管理界面【验证】，然后选择【用户名/密码】（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:431 a150a56438e94895b0dd02f593505f9b
+#: ../../root手册.md:392 f1c0395044d245709e7edafa1c8691a4
 msgid ""
 "<img src=\"./_static/images/root/media/image36.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:434 58d285cfec444ad481d39fc2195511dd
+#: ../../root手册.md:395 d767cb39ec2048b0a286c0fe664d381a
 msgid "<span class=\"mark\">**注册服务器:** 请选择一个注册服务器。</span>"
 msgstr ""
 
-#: ../../root手册.md:436 f104a28aad6b44e581b672b2aa79aa6d
+#: ../../root手册.md:397 fcd016c0689f4d868baa9f757626f572
 msgid ""
 "<span class=\"mark\">**启用注册:** "
 "当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。</span>"
 msgstr ""
 
-#: ../../root手册.md:439 9ccc726c7c8c4655855c6afe1dd0a49c
+#: ../../root手册.md:400 2ced242e9b724aadb8f8996617f31b47
 msgid "<span class=\"mark\">**语音编码:** 当验证方式是用户名/密码验证时，请选择这个中继的语音编码。</span>"
 msgstr ""
 
-#: ../../root手册.md:442 ed141c24cc1e4ad7a6c793cc3cac69b7
+#: ../../root手册.md:403 ebd7f88f9a1e4ff39d0635d569a77f1f
 msgid "<span class=\"mark\">**服务器地址:** 请输入这个服务器的地址，它可能是一个域或者IP 。</span>"
 msgstr ""
 
-#: ../../root手册.md:445 cd9afe3d33d5404da373282fcd975c5a
+#: ../../root手册.md:406 ac0fceee22654597b1c4db4cd400ef1d
 msgid "<span class=\"mark\">**端口:** 请输入这个中继的端口号。</span>"
 msgstr ""
 
-#: ../../root手册.md:447 88c2b174cde2431bb4435ee2cfe00137
+#: ../../root手册.md:408 835158bd25d44f529e0f23c58e2bfb47
 msgid "<span class=\"mark\">**用户名**:当验证方式是用户名/密码验证时，请输入用户名。</span>"
 msgstr ""
 
-#: ../../root手册.md:449 b40b4434bbb2460e85857da3331eb0e0
+#: ../../root手册.md:410 29d1779f71054bcf95d58ce7b95cca63
 msgid "<span class=\"mark\">**认证用户名:** 认证这个用户名 。</span>"
 msgstr ""
 
-#: ../../root手册.md:451 5e6df98291ca42bea00c92f88b8459cd
+#: ../../root手册.md:412 7cd19a33e51d438a8f37d9a68c0dea8b
 msgid "<span class=\"mark\">**密码:** 当验证方式是用户名/密码验证时，请输入密码。</span>"
 msgstr ""
 
-#: ../../root手册.md:457 ../../root手册.md:466 2271b090abb24f55b0d9b5a33eed2b59
-#: 3c1cb5de658c4287aa0a625915a1c2f2
+#: ../../root手册.md:418 ../../root手册.md:427 716122f226634bcbbf50c99f273853a1
+#: a8d6a86639584029a9efa18385933766
 msgid "<span class=\"mark\">**状态:** 根据你的需要你可以禁用这个域 。</span>"
 msgstr ""
 
-#: ../../root手册.md:459 f43ae90c9b1144469c720bf9ced94771
+#: ../../root手册.md:420 ceeab22c3e244dceae77b9e3cf6ee432
 msgid "添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。"
 msgstr ""
 
-#: ../../root手册.md:461 600378696d7747a18e993bb38639dc42
+#: ../../root手册.md:422 3191dcdc5b0f473d96a34d658b600de6
 msgid ""
 "<img src=\"./_static/images/root/media/image37.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:464 4842488539b74c46acb0f8777620de09
+#: ../../root手册.md:425 a586bef64ed04bbaaf0d70b18be4199d
 msgid "<span class=\"mark\">**验证域:** 需要验证的域。</span>"
 msgstr ""
 
-#: ../../root手册.md:468 a99e91e80c2746d1b0261a1f1f24a107
+#: ../../root手册.md:429 1676f95e12694430ba608e5b8b05eb95
 msgid "在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:470 0c31721cfaa548469f1044f354424bb6
+#: ../../root手册.md:431 6fd0fb3781994404b6183f8982ef6984
 msgid ""
 "<img src=\"./_static/images/root/media/image38.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:473 76a296506ee0463eba1b30ac1c8a1766
+#: ../../root手册.md:434 f720bceef3cf4dd8b4e8bb6e2c63749e
 msgid "<span class=\"mark\">**已拨:** 已拨打电话总数量。</span>"
 msgstr ""
 
-#: ../../root手册.md:475 a0dce310747e4ef2901af60923a6ba5f
+#: ../../root手册.md:436 3a927c7d47b54a7e956f1ea382ab4fc1
 msgid "<span class=\"mark\">**失败:** 已拨打电话失败数量。</span>"
 msgstr ""
 
-#: ../../root手册.md:477 c62a105189df4c4083602cec26fd032d
+#: ../../root手册.md:438 c4fe701b09e94f4c86ce462b4b752d3d
 msgid "<span class=\"mark\">**未应答:** 已拨打电话未应答数量。</span>"
 msgstr ""
 
-#: ../../root手册.md:479 2c9f1a8f055d451c98fc4ba73eaf3297
+#: ../../root手册.md:440 16b0c7684c0547d69ec9dcb4cda0745d
 msgid "<span class=\"mark\">【高级】设置：（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:481 d19a8ae1841c4a6199289f1aa8a36f9c
+#: ../../root手册.md:442 9a30a423a9d64d8cab01b38f68ceb0d0
 msgid ""
 "<img src=\"./_static/images/root/media/image39.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:484 05d559b895bb49b09e87840eb3b25878
+#: ../../root手册.md:445 66d8225dbcec4962a2f23c085cfda12c
 msgid ""
 "<span class=\"mark\">**绑定呼入到 client:** This trunk can be bound to a "
 "client, and all calls from this trunk will be sent to this client.</span>"
 msgstr ""
 
-#: ../../root手册.md:488 5d44b227e3f6460784544ea9e548aa96
+#: ../../root手册.md:449 d3dc71607f3a482bb2285cef43645382
 msgid "<span class=\"mark\">**中继侧录音增益:**如果为0则表示禁用此功能。</span>"
 msgstr ""
 
-#: ../../root手册.md:490 376a991f875d433cbf651939b84ebb71
+#: ../../root手册.md:451 d32181148d8340f0b391720e69e388b0
 msgid "<span class=\"mark\">**分机侧录音增益:** 如果为0则表示禁用此功能。</span>"
 msgstr ""
 
-#: ../../root手册.md:493 a4b0d0f9930a48f18c6831dc54f64c8d
+#: ../../root手册.md:454 a9fcf8f7cb994ab3a34285ac227d21a5
 msgid "<span class=\"mark\">**中继侧通话增益:**如果为0则表示禁用此功能。</span>"
 msgstr ""
 
-#: ../../root手册.md:495 f7847501e87e4a4891691235cfd45cef
+#: ../../root手册.md:456 b0f56055a5144349b94d49b4af1eb021
 msgid "<span class=\"mark\">**坐席侧通话增益:** 如果为0则表示禁用此功能。</span>"
 msgstr ""
 
-#: ../../root手册.md:498 d66831bff07342a5885ce92c01a4268b
+#: ../../root手册.md:459 079a3f7833d14c1596c8f646a30e725d
 msgid ""
 "<span class=\"mark\">**坐席注册超时时间:** "
 "在启用注册时，您可以输入注册超时。</span>（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
 msgstr ""
 
-#: ../../root手册.md:501 412350fa90944996a8735710f0ce764a
+#: ../../root手册.md:462 94cafca2f34c44e09ae3be7cc8e8e152
 msgid "<span class=\"mark\">**描述:** 你可以填这个中继的描述信息，进行备注说明。</span>"
 msgstr ""
 
-#: ../../root手册.md:504 30c82b951013430ca70fade6ff03bf31
+#: ../../root手册.md:465 f799ff94c0be494791840012c38a7a50
 msgid ""
 "<span "
 "class=\"mark\">【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）)</span>"
 msgstr ""
 
-#: ../../root手册.md:506 018f1fa10a694685b08d3b74622a3d83
+#: ../../root手册.md:467 0906dd466f3a46db89dfaedb8098f558
 msgid ""
 "<img src=\"./_static/images/root/media/image40.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:509 1836ca49e2d1419a8d400e8aa29b8d72
+#: ../../root手册.md:470 43809fad00c5488f8fcd76547a45f223
 msgid "<span class=\"mark\">**名称**: 请为这个呼出规则命名。</span>"
 msgstr ""
 
-#: ../../root手册.md:511 63725b0c9eb44ad599fb0a16498cf61f
+#: ../../root手册.md:472 9e4f8a2a3fa947668b2fa1988287e132
 msgid "<span class=\"mark\">**匹配规则**: 设置这个匹配规则，符合此规则的呼叫将执行以下操作。</span>"
 msgstr ""
 
-#: ../../root手册.md:514 6eae8bbf7d624f748bc32ae3398f4445
+#: ../../root手册.md:475 beb50a797bc34fce883093b484baf7be
 msgid "<span class=\"mark\">**替换主叫号码**: 在这里你可以重新设定主叫号码和主叫号码名称。</span>"
 msgstr ""
 
-#: ../../root手册.md:517 b83ea90200ce4fb2b0864985ca9c907d
+#: ../../root手册.md:478 1bd3a188a6d14d66bae12a493d762a5d
 msgid ""
 "<span class=\"mark\">**增加主叫号码前缀**: "
 "系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。</span>"
 msgstr ""
 
-#: ../../root手册.md:520 51cb6a4afcb440188d13dad753d43db6
+#: ../../root手册.md:481 3e3d016f40714d6a833a00995b21d268
 msgid "<span class=\"mark\">**被叫号码**: 你可以添加/移除被叫号码前缀或者重置被叫号码。</span>"
 msgstr ""
 
-#: ../../root手册.md:523 3719f892e29e4278b5c7da46575e7f25
+#: ../../root手册.md:484 87ea6fbea99d401789057867184a600d
 msgid "<span class=\"mark\">**转向**: 路由匹配时系统将进行此动作。</span>"
 msgstr ""
 
-#: ../../root手册.md:525 bbeedf0c52a146c8bbc739d20f34d279
+#: ../../root手册.md:486 176f42cf25644ca88834c2db814e9a48
 msgid "<span class=\"mark\">【呼入IP</span> <span class=\"mark\">】设置:</span>"
 msgstr ""
 
-#: ../../root手册.md:527 5b22872bf55d459faaaaa8560d291383
+#: ../../root手册.md:488 207628facc934551b11facfbebff7d5f
 msgid ""
 "<img src=\"./_static/images/root/media/image41.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:530 dcae9d8955a04f518ff9880858e47050
+#: ../../root手册.md:491 7364a5becd36484cb34c17f919136aa4
 msgid "<span class=\"mark\">**呼入IP**: 设置允许接入的IP地址，可以同时添加多个IP地址。</span>"
 msgstr ""
 
-#: ../../root手册.md:533 a79a4635d05f4dbe81d9d24dfdd22da5
+#: ../../root手册.md:494 90853931759f460dbf5da09cfca76625
 msgid ""
 "<img src=\"./_static/images/root/media/image42.png\" "
 "style=\"width:5.75972in;height:1.28403in\" />"
 msgstr ""
 
-#: ../../root手册.md:536 a08af33cd7cb4c998240648418b46b5c
+#: ../../root手册.md:497 6c19db2f787e4f8d80d0e16e32a348fa
 msgid ""
 "<span class=\"mark\">**费率**: The rate at which fees are paid.</span> "
 "<span class=\"mark\">You can choose between regular rates or rate "
 "plans</span>"
 msgstr ""
 
-#: ../../root手册.md:540 49d34dae6bc245ad8b87aadedeaef728
+#: ../../root手册.md:501 ea510595fceb458eb76f76304d0903d2
 msgid ""
 "<span class=\"mark\">Common rate: There is no initial duration "
 "calculation, and the rate is only calculated based on a per minute "
 "billing method.</span>"
 msgstr ""
 
-#: ../../root手册.md:544 1096e60ed5484ad28f832a3937b3fcd3
+#: ../../root手册.md:505 f8dd216d6ea14f70971df545b95c0e49
 msgid ""
 "<span class=\"mark\">Rate Plans: Select billing based on the already set "
 "rate plan.</span>"
 msgstr ""
 
-#: ../../root手册.md:547 d31224b6fb2341d686e3ba24c9991f1c
+#: ../../root手册.md:508 0d95c79eb3054773a1ae9a0c720c27ae
 msgid "DID 号码:"
 msgstr ""
 
-#: ../../root手册.md:549 00ad19239c30456eb17fd32b20670ad9
+#: ../../root手册.md:510 1b02854acfd249f0bda388650a716d9c
 msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
 msgstr ""
 
-#: ../../root手册.md:551 ee01c9bd4f794e40bd8a0713fa7ac0ca
+#: ../../root手册.md:512 54dcb09be3da452ab9479936931b3ba9
 msgid ""
 "<img src=\"./_static/images/root/media/image43.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:554 2a2936fbaf804b45a7b574083d1a4fd0
+#: ../../root手册.md:515 97f4b5014e90486c894704005d128d29
 msgid "<span class=\"mark\">点击添加添加一个新的中继：</span>"
 msgstr ""
 
-#: ../../root手册.md:556 18417da28b8047c588cd776786030ec5
+#: ../../root手册.md:517 f6c7ec85cda84e5ba034596a4e340419
 msgid ""
 "<img src=\"./_static/images/root/media/image44.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:559 926ccdfb43644bdda24937d543961998
+#: ../../root手册.md:520 fb81ad9a6605461a8ee837e2d2b95167
 msgid ""
 "**<span class=\"mark\">DID</span>** **号码**<span class=\"mark\">: Please "
 "enter a DID</span> <span class=\"mark\">number, one per line.</span>"
 msgstr ""
 
-#: ../../root手册.md:563 1dd17d60d1c9425e8842b643b9bb257a
+#: ../../root手册.md:524 9f2aaf7a105040c08bc7e17dcdc63729
 msgid ""
 "**<span class=\"mark\">DID</span>** 名称<span class=\"mark\">:</span> "
 "DID名称用于帮助你在系统中识别该号码，在统计时如果设置了DID名称，则会使用此名称。"
 msgstr ""
 
-#: ../../root手册.md:566 c12651930c7f421b97169009e1c88aa0
+#: ../../root手册.md:527 7a634b62397a4534b46adf6fb2dc12f2
 msgid "<span class=\"mark\">**代理商**: 请为这个did号码选择一个代理商。</span>"
 msgstr ""
 
-#: ../../root手册.md:569 fb79a6bf11724fc0944bd2c87365e9a2
+#: ../../root手册.md:530 fcae9b6cadc34baba68882d3666e730c
 msgid "<span class=\"mark\">**状态**: DID号码禁用后, 呼入到当前DID的来电将不可用。</span>"
 msgstr ""
 
-#: ../../root手册.md:572 0c6a7fc882b14c67a3b88dd9b6e969aa
+#: ../../root手册.md:533 7874b0a018a04c0497eb61067218b0b1
 msgid "<span class=\"mark\">【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。</span>"
 msgstr ""
 
-#: ../../root手册.md:575 9a0d1f865c63495d93c075a40ea0d03d
+#: ../../root手册.md:536 0477a1909fc845daa7d43972b7dfc092
 msgid ""
 "<img src=\"./_static/images/root/media/image45.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:578 013ee70a8e244d5c81e969c96f288e9d
+#: ../../root手册.md:539 995be320eb704bb2be87b3e16181737e
 msgid "外显号码:"
 msgstr ""
 
-#: ../../root手册.md:580 d507b256f8a04be69af71ec9bcffb6e7
+#: ../../root手册.md:541 168d9003f4d54d9ca98e31463c7e3bd6
 msgid ""
 "外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示） <span "
 "class=\"mark\"></span>"
 msgstr ""
 
-#: ../../root手册.md:583 fc53443157a047d586f3884b134ca62b
+#: ../../root手册.md:544 fa86bc25daf84cbfaeed69d4fdf50525
 msgid ""
 "<img src=\"./_static/images/root/media/image46.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:586 a208d19c107a4a16a874769a9aad4ca9
+#: ../../root手册.md:547 776a53e13bbe4c2595d204bc88e942f2
 msgid "**<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>**"
 msgstr ""
 
-#: ../../root手册.md:588 6e5978bd598d4fc6aeddf99de61fbf23
+#: ../../root手册.md:549 810a706e5b8b472b860e1fc52bf721fe
 msgid ""
 "<img src=\"./_static/images/root/media/image47.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:591 c3789888b112437b8804a0d269a6f431
+#: ../../root手册.md:552 459f0b0c8d6542ac9be454ddc22260d8
 msgid "**外显号码:** 请输入您要添加的外显号码，每行一个。"
 msgstr ""
 
-#: ../../root手册.md:593 3dcfcb74b08e474ba3a61a224af2f94d
+#: ../../root手册.md:554 1fdf814d5aec4814880e2724fe4a3e64
 msgid "**供应商:** 你可以为这个外显号码选择一个供应商。"
 msgstr ""
 
-#: ../../root手册.md:595 14e10a38a7ad4ea088b9251c29adbbb6
+#: ../../root手册.md:556 5503cbe420634b46bda4600eb8683bd1
 msgid "**费率计划:** 你可以为这个外显号码选择一个费率计划。"
 msgstr ""
 
-#: ../../root手册.md:597 57f6d25a5879487a87302e794161606a
+#: ../../root手册.md:558 ecf000945f784fbeb08fa635eed1db9b
 msgid "**代理商:** 你可以为这个外显号码选择一个代理商。"
 msgstr ""
 
-#: ../../root手册.md:599 532be5a699d344a9b06c696c96a2e9ad
+#: ../../root手册.md:560 69aeffeaea4144d89da8a59f8e0c8378
 msgid "号码区域信息:"
 msgstr ""
 
-#: ../../root手册.md:601 8f52187a985940a5a5c3012e83e506ce
+#: ../../root手册.md:562 dcd3dc8f474f4f6b83f5a2fc8a76fb2c
 msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
 msgstr ""
 
-#: ../../root手册.md:603 5950a2f3ce0c4040933a2ff286a3f1ba
+#: ../../root手册.md:564 36401ec76cb24e77acd7f978cf9f6bf5
 msgid ""
 "<img src=\"./_static/images/root/media/image48.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:606 8ac848f43eeb4e848064656e05c82068
+#: ../../root手册.md:567 77a7c31b0fa44197b45bb8f681c7de3a
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>**"
 msgstr ""
 
-#: ../../root手册.md:608 cb2d93e758fc41738261f31dbb894cca
+#: ../../root手册.md:569 ff870339cf254e24aecc7ee1c315787c
 msgid ""
 "<img src=\"./_static/images/root/media/image49.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:611 28f62808ceb64b8f962ea5ebb11a52a1
+#: ../../root手册.md:572 b6727619fc364a4cac60f2939fae00fd
 msgid "<span class=\"mark\">**操作**:</span>"
 msgstr ""
 
-#: ../../root手册.md:613 cc5952375d1941a681db1f5dd0da6947
+#: ../../root手册.md:574 b0e258da777246559c6eda1f68bbf096
 msgid "<span class=\"mark\">更新：如果表内数据与当前设定的数据有重复，以设定的数据为准，对表进行更新。</span>"
 msgstr ""
 
-#: ../../root手册.md:615 a048f9c0fcb14a6e8b2c198a37976c6c
+#: ../../root手册.md:576 357bf24df7714d78a1eefd1630ccabea
 msgid "<span class=\"mark\">重置：清空表内所有号码区域信息，再将当前设定的数据导入表内.</span>"
 msgstr ""
 
-#: ../../root手册.md:617 eb34812a50a846e6a001496dc07c7bdf
+#: ../../root手册.md:578 6bf2fcff77d84a659ed29e177fade87e
 msgid ""
 "<span class=\"mark\">**数据**: 直接填写数据, 或将csv文件拖拽到此区域(文件需使用UTF-8编码)。 "
 "格式示例：号码(数字)+属性(文本)</span>"
 msgstr ""
 
-#: ../../root手册.md:621 bf9dcd70e5834502b569e898feafeb46
+#: ../../root手册.md:582 8bbfa831393340948e6088c06fd8af67
 msgid "g. 呼叫设置:"
 msgstr ""
 
-#: ../../root手册.md:623 3eaccf232a664780a8372bc80cba5858
+#: ../../root手册.md:584 c9d91b15f8fd4fc5af72b208925d033d
 msgid "节点管理:"
 msgstr ""
 
-#: ../../root手册.md:625 b39a643ca3954663a4d0333b12b77625
+#: ../../root手册.md:586 f2166508766340f4931fe6aa60ace0c4
 msgid "从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。"
 msgstr ""
 
-#: ../../root手册.md:627 f1b4d835e4554ec5864f111b56b8fa1c
+#: ../../root手册.md:588 20361dd4fb5f43ae9604cfb4c9ab70fb
 msgid ""
 "<img src=\"./_static/images/root/media/image50.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:630 4f2457eb46114c27a89ef215fc86cce1
+#: ../../root手册.md:591 8653d383d2f0416eb0cc0920c81cc78e
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置:</span>**"
 msgstr ""
 
-#: ../../root手册.md:632 c41679a67b3943b5a3b663253ac352aa
+#: ../../root手册.md:593 cd3279fdbdbc4e5c9c1d7424f1ae463d
 msgid "**节点类型**: 选择节点类型，分为【普通】和【 Opensips 】。系统默认为 【 普通 】"
 msgstr ""
 
-#: ../../root手册.md:635 e403d30898484f0abc9cfcdc737731a8
+#: ../../root手册.md:596 5012b971cdad410abdc0f476d645bc33
 msgid "<span class=\"mark\">当节点类型为普通时：（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:637 be2e3535efa14e889d6c1eb17c0013fc
+#: ../../root手册.md:598 6162de8a3dac4c398e878b854c465d3d
 msgid ""
 "<img src=\"./_static/images/root/media/image51.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:640 ../../root手册.md:656 de3b3458155e42078a09b5455d6355ce
-#: e5064b1637c845d596976fcd1929ba7a
+#: ../../root手册.md:601 ../../root手册.md:617 a275c573724e44e2b76825a3d4ef4a57
+#: ea891513c3e24736bdaa470965c33d5e
 msgid "**节点名称:** 给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
 msgstr ""
 
-#: ../../root手册.md:643 ../../root手册.md:659 5c600839e66344fd876ecf84cf8ec8df
-#: 6fbbd85fb6f54d2287febf6cf5676ec3
+#: ../../root手册.md:604 ../../root手册.md:620 ba5a00fbea074feba54566185bb6819b
+#: d71cb5bffa7f46da97aff9e46c8dd9eb
 msgid "**节点 IP:** 请输入astercc服务器的IP地址。"
 msgstr ""
 
-#: ../../root手册.md:645 3dbefc7e567f45e28f6efe883f1a850d
+#: ../../root手册.md:606 429cace3036c43c3b93854b7b4c4eb99
 msgid "**Sip端口:** 节点http端口 默认值为3000。"
 msgstr ""
 
-#: ../../root手册.md:647 ../../root手册.md:661 94dbc9e6a9024c8db146284ebabf04a6
-#: daf26ec1c6924e09b4206334c7f427d6
+#: ../../root手册.md:608 ../../root手册.md:622 43d80b0732a04761b092897913f13fad
+#: 5af5be26cfb14d7e8ae2220d56a3b7e5
 msgid "**Node端口:** 客户端webrtc使用的地址。"
 msgstr ""
 
-#: ../../root手册.md:649 03ed25ab56d74795b1a4ef02121ab200
+#: ../../root手册.md:610 d6ddab21da814080a19137bfd3f632a6
 msgid "**处理任务:** 是否执行导出任务。"
 msgstr ""
 
-#: ../../root手册.md:651 effc34f08f754c0189098efaac1f8c23
+#: ../../root手册.md:612 a3a78777c596472aa159c699a412c24e
 msgid "<span class=\"mark\">当节点类型为 opensips 时：（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:653 1f626f5b52c749ddbbe85cdae9ac4d2d
+#: ../../root手册.md:614 57845af8a8a849aaa787b28b1fd0b138
 msgid ""
 "<img src=\"./_static/images/root/media/image52.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:663 90acd191b46e45908f9ad267e3e75362
+#: ../../root手册.md:624 5e6e7f0a35604ab584142e97500f1fc0
 msgid "**WS**服务器**:** 客户端webrtc使用的地址。"
 msgstr ""
 
-#: ../../root手册.md:665 bbd11a4b75b249038586c7f2f40f8505
+#: ../../root手册.md:626 a5ef3f3110df4b89a456780818faa82a
 msgid "**优先级:** WS服务器的使用优先级,坐席将优先连接优先级大的ws服务器.数值越大优先级越高.。"
 msgstr ""
 
-#: ../../root手册.md:668 494239b6104a49368a1b18f1a142f922
+#: ../../root手册.md:629 6ace9ca4b44f4acb89c9183a771e8b47
 msgid "**Mysql地址:** 填写 Opensips 使用的 MySQL 地址。"
 msgstr ""
 
-#: ../../root手册.md:670 03494ef80e614fa3a8d487174b9551ad
+#: ../../root手册.md:631 f8b40fa656a146bd8abeab23db1e60ce
 msgid "**Mysql** **端口:** 填写 Opensips 使用的 MySQL 端口。"
 msgstr ""
 
-#: ../../root手册.md:672 aaa4c9050b314e049a50eff80f72c72b
+#: ../../root手册.md:633 e2f3aefa7b34422f91ff70fcacdcd7de
 msgid "**Mysql** **用户名:**填写 Opensips 使用的 MySQL 用户名。"
 msgstr ""
 
-#: ../../root手册.md:674 d8b79a89c7f94ab1b3f144ae4dbb78d6
+#: ../../root手册.md:635 0ca66e677a2e4df0808c9b39fdd2ff2c
 msgid "**Mysql** **密码:** 填写 Opensips 使用的 MySQL 密码。"
 msgstr ""
 
-#: ../../root手册.md:676 db0e06687db541718c6ca08f0ada83c3
+#: ../../root手册.md:637 6f6437b1b41a461d8ff35016f040d4a3
 msgid "**Mysql** **数据库:** 填写 Opensips 使用的 MySQL 数据库。"
 msgstr ""
 
-#: ../../root手册.md:678 2f88e2c73087453ca56a2370b2b931eb
+#: ../../root手册.md:639 86bd0b59ba6741798734ce9fd7ed4cce
 msgid ""
 "<img src=\"./_static/images/root/media/image53.png\" "
 "style=\"width:5.75694in;height:3.22847in\" />"
 msgstr ""
 
-#: ../../root手册.md:681 9c1bf90a0f5446f6a64774277ae70c8a
+#: ../../root手册.md:642 c687931489554e77a0a5d20640230392
 msgid "**编辑节点:** 编辑这个节点。"
 msgstr ""
 
-#: ../../root手册.md:683 d7abd29400144f00b45ad4a32b76e244
+#: ../../root手册.md:644 d79d336df6074879a51eb218288a859e
 msgid "**健康检查:** 对节点进行健康检查。"
 msgstr ""
 
-#: ../../root手册.md:685 5ab62adb4c734e6a87b46a615dbb2f89
+#: ../../root手册.md:646 0aa20e083a2a4899a771ce4052c6e1ac
 msgid "**暂停:** 暂停这个节点的使用。"
 msgstr ""
 
-#: ../../root手册.md:687 9f5b1b0f11b14781ba15ba6dc1cb2ee6
+#: ../../root手册.md:648 7c95f5be038d412aa4fc2ee9875d72b1
 msgid "**删除节点:** 删除这个节点"
 msgstr ""
 
-#: ../../root手册.md:689 b0d9817dab014f0083499f07d70ede9f
+#: ../../root手册.md:650 66f6bcc7444b438eb51fe3a10f40ad54
 msgid "呼叫限制次数:"
 msgstr ""
 
-#: ../../root手册.md:691 3ef64f818ee84de5a75d0445e5699d61
+#: ../../root手册.md:652 0a2a58ac764845e18d5794e76291c2fc
 msgid ""
 "呼叫限制是指号码可以拨打的次数;同时，您可以在 通话限制搜索 中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天 20 "
 "次，则在所有客户端中，一天内只能拨打 20 个电话。（如下图所示） <span class=\"mark\"></span>"
 msgstr ""
 
-#: ../../root手册.md:696 64daf869d03546e088554cf4aabc907b
+#: ../../root手册.md:657 47345882562e4adca3b8421aa3c46aee
 msgid ""
 "<img src=\"./_static/images/root/media/image54.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:699 02992b85460e46fb941c47e39576193a
+#: ../../root手册.md:660 0676a2fe0d034e4a887ee10325bf87fc
 msgid "**<span class=\"mark\">选择【添加】并进入【通用】设置：（如下图）</span>**"
 msgstr ""
 
-#: ../../root手册.md:701 4bb6249e3f8242d68121fc62b043ee78
+#: ../../root手册.md:662 c29815811894465a829e55bfd8160748
 msgid ""
 "<img src=\"./_static/images/root/media/image55.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:704 ba0544234a02480390bd529720aca333
+#: ../../root手册.md:665 f314814bf4b144598e4490161d2f0144
 msgid "**规则:** 你可以在 M 天内呼叫 N 次。"
 msgstr ""
 
-#: ../../root手册.md:706 d98d0d3a4bfe4405b3deb610dc0d0fd5
+#: ../../root手册.md:667 76b23c531b764b36a36d3c33d1b25402
 msgid "外呼档案:"
 msgstr ""
 
-#: ../../root手册.md:708 c3c48df26dc74946bb4630e0f050ab0c
+#: ../../root手册.md:669 b0f5db258c4b40e8a290839e8115b5c8
 msgid "外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据需要转换主叫号码或被叫号码。"
 msgstr ""
 
-#: ../../root手册.md:710 efd5d24629fd47c495a447df0819085e
+#: ../../root手册.md:671 b6b83e11d9064be2ba7ec3aa0c9d942d
 msgid ""
 "<img src=\"./_static/images/root/media/image56.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:713 ../../root手册.md:787 ea970e4a936242b59adb75b8216c6436
-#: f529b7859a1e4ee688b55125acf4f4a2
+#: ../../root手册.md:674 ../../root手册.md:748 10716728d9df430e94ee2ad06e3422af
+#: 9b3c303213284e1e9a5d998ac5149404
 msgid "**单击【添加】以进入【常规】设置：（如下图所示）**"
 msgstr ""
 
-#: ../../root手册.md:715 5f710b443b014e9ebfb0bfb0aa8a087d
+#: ../../root手册.md:676 8db130d5e58a4816b04c3da8c81bb2e0
 msgid ""
 "<img src=\"./_static/images/root/media/image57.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:718 11ea6c08b8104d17a864fb040c41d67b
+#: ../../root手册.md:679 1363a27d08b44fcca1bd6832209d9760
 msgid "**档案名称:**请为该外呼档案命名。"
 msgstr ""
 
-#: ../../root手册.md:720 6fccd54674b1456598c26e45844b1163
+#: ../../root手册.md:681 34ddf36a690943dc99acca6878d11b2a
 msgid "<span class=\"mark\">设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:722 a458185359c74c62842ac081a5af2542
+#: ../../root手册.md:683 b000f8b2413c46bb8aba39c188359e96
 msgid ""
 "<img src=\"./_static/images/root/media/image58.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:725 af40697a3d234949bb49fb679667b31a
+#: ../../root手册.md:686 8d626197f8fa46efb5f5d48b6263ca67
 msgid "**路由名称:** 请为该路由命名。"
 msgstr ""
 
-#: ../../root手册.md:727 c6b2856d1c4e466b8e1928897a2ca685
+#: ../../root手册.md:688 cdb36a98bcc14bdbbefd1145c2cdcbf5
 msgid "**匹配规则:** 设置匹配规则，满足该规则的调用将执行以下操作。如果设置了多个匹配规则，则需要匹配所有规则。"
 msgstr ""
 
-#: ../../root手册.md:730 81fc88b0d1854c389d1e825f16cb2ff4
+#: ../../root手册.md:691 6b522fe8ff864f07ad560a1b86f77ad5
 msgid "**替换主叫号码:**在这里你可以从新设定主叫号码和主叫号码名称。"
 msgstr ""
 
-#: ../../root手册.md:732 b598481e3a9b40fd9ae7e9be6aa5d4ac
+#: ../../root手册.md:693 9c7da5a1574143b09a262cc6e92e3f08
 msgid "**被叫号码:** 你可以添加/移除被叫号码前缀，或是重置被叫号码。"
 msgstr ""
 
-#: ../../root手册.md:734 ce6f20f8a8ce401cb5573fe788a54c35
+#: ../../root手册.md:695 1235b17f8a7d45dc85ce784345913dec
 msgid "**转向:**路由匹配时系统将进行此动作。"
 msgstr ""
 
-#: ../../root手册.md:736 e3a2fafa69524ab4b05f225e3e279d4a
+#: ../../root手册.md:697 c951b488332d4e1fb832ab9a0fa6a392
 msgid "**中继策略:**"
 msgstr ""
 
-#: ../../root手册.md:738 85e6def97ba54a71a084fcd4c295d7fc
+#: ../../root手册.md:699 8d2bc73de84347398795180fd88206c2
 msgid "顺序：每个来电从第一个中继开始（始终为 123）"
 msgstr ""
 
-#: ../../root手册.md:740 3a589cf944e54c5ea056586a7521c935
+#: ../../root手册.md:701 68fb60909db244a7ad3a51a111de85c3
 msgid ""
 "轮询：第一个来电按中继添加的顺序运行，第二个来电从第一个中继的下一个顺序中继开始，依此类推，第三个呼叫。（第一次是 123，第二次是 "
 "231，第三次是 312）"
 msgstr ""
 
-#: ../../root手册.md:743 b0c1141186714361a669c8c92d73c1a6
+#: ../../root手册.md:704 aeaac90cc30b49b4be5c5c2ff2d81927
 msgid "随机：无模式"
 msgstr ""
 
-#: ../../root手册.md:745 00b59e96269b4d1fbf0d7c1064866a1e
+#: ../../root手册.md:706 7f9f578e727b43358d3ddb95edc2d560
 msgid "暂停原因:"
 msgstr ""
 
-#: ../../root手册.md:747 615a710b30a54c5f96a8b1154c4eded5
+#: ../../root手册.md:708 e6c76842b85341fcb3250f8d6ba0d942
 msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。"
 msgstr ""
 
-#: ../../root手册.md:749 f81a396acec14882ad4361337d82ec47
+#: ../../root手册.md:710 6e23e977b1214cb59a6842cc5b9b2014
 msgid ""
 "<img src=\"./_static/images/root/media/image59.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:752 ../../root手册.md:766 ../../root手册.md:1048
-#: 3a6839d29f234d21af09fd05d385a3a7 6d1e6ec9ca454942aeddf751baea406f
-#: d5dbfad232f64d94babe1f30ccb5d0f6
+#: ../../root手册.md:713 ../../root手册.md:727 ../../root手册.md:1009
+#: 214c06fc6e8343b799aea059ee37ccf3 7e446850498d4e9ca4621d05ef3ed8cd
+#: ae28329f4ab34c5a9b1921cf9c81935b
 msgid "**点击【添加】进入【通用】设置：（如下图）**"
 msgstr ""
 
-#: ../../root手册.md:754 d412347dbd5a4f01985e125e06a46391
+#: ../../root手册.md:715 489a9eee08a845f3949363c06eebdd5a
 msgid ""
 "<img src=\"./_static/images/root/media/image60.png\" "
 "style=\"width:5.75972in;height:1.875in\" />"
 msgstr ""
 
-#: ../../root手册.md:757 b2a442dc71bd4cefa46833e012641448
+#: ../../root手册.md:718 4e7e646c444f4f13adcbe0a75b6e8356
 msgid "**暂停原因名称:** 设置暂停原因为其命名。"
 msgstr ""
 
-#: ../../root手册.md:759 fa8e3214991346bf9f77a91c57e9fe42
+#: ../../root手册.md:720 32a9cdf0ec114dd78e328873ce3a6892
 msgid "话机部署模版:"
 msgstr ""
 
-#: ../../root手册.md:761 be1a7b8fdbbc478db44ee13fe56d2f18
+#: ../../root手册.md:722 3c430155a770490caad259eadf078d18
 msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
 msgstr ""
 
-#: ../../root手册.md:763 8ea99e1b8ffe45238f5f0f056e5c38b2
+#: ../../root手册.md:724 a856c6aeec354d2a9adef0e7161a470b
 msgid ""
 "<img src=\"./_static/images/root/media/image61.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:768 a611b57fb4294ff2b507c720d8168edd
+#: ../../root手册.md:729 08e345a8d22b4d52b3899ec820e0e5fe
 msgid ""
 "<img src=\"./_static/images/root/media/image62.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:771 9deb300641f241ee893e50f0357cdc59
+#: ../../root手册.md:732 1b370dadca0a4588bf7a10d21ba7618c
 msgid "**模版名称:**请填入模版名称。"
 msgstr ""
 
-#: ../../root手册.md:773 5cd2fe73a3f243f699a0879d6f066b8e
+#: ../../root手册.md:734 61765ab2d4e94ab299ad3e7e775679fc
 msgid "**话机品牌:** 请输入话机型号。"
 msgstr ""
 
-#: ../../root手册.md:775 c2909902a2da4fbb9e5d1d180dfc0581
+#: ../../root手册.md:736 77faa789789644a28a19b64e17709810
 msgid "**模版内容:** 输入模板（root 或管理员提前准备的模板，不同话机的模板不同）。"
 msgstr ""
 
-#: ../../root手册.md:778 cf3f61979164455a938d3c6a50cc3957
+#: ../../root手册.md:739 2cd78752ee2444beae185d496dfb91a1
 msgid "h. 信息:"
 msgstr ""
 
-#: ../../root手册.md:780 c3fc6edd90834416a8fdf7870271b2c0
+#: ../../root手册.md:741 d21f25bea0524e3b9db5f3311c105638
 msgid "短信档案:"
 msgstr ""
 
-#: ../../root手册.md:782 1d41e7adc1134e3ca0f633037edfe277
+#: ../../root手册.md:743 77435a326f254de78a08522865745880
 msgid "短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。"
 msgstr ""
 
-#: ../../root手册.md:784 74b95306dce84fedb3e3070cabf15e5b
+#: ../../root手册.md:745 00380cc70c1e40d5b64415b365c04f8c
 msgid ""
 "<img src=\"./_static/images/root/media/image63.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:789 e8400b3748994518b9b1af48228a1615
+#: ../../root手册.md:750 d3bd164551184809a4e3d15678d23b63
 msgid ""
 "<img src=\"./_static/images/root/media/image64.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:792 2e07a9e2c0d84bda8beb58adc42b6b95
+#: ../../root手册.md:753 43944aa6054a4fd9ad28ee28877991cd
 msgid "**短信档案名称:** 请给短信档案命名。"
 msgstr ""
 
-#: ../../root手册.md:794 68b1b627c2de421fbc23c7ae3543cc4b
+#: ../../root手册.md:755 b913779d0e87488d89b70cd95a80b386
 msgid "<span class=\"mark\">设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）</span>"
 msgstr ""
 
-#: ../../root手册.md:796 064eb7c9f4494cde814e33507695b547
+#: ../../root手册.md:757 151887be4472483ba4b77b5c5ac7d3e6
 msgid ""
 "<img src=\"./_static/images/root/media/image65.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:799 69283de3a4b04cba944f9f06ed09273e
+#: ../../root手册.md:760 29fe32f445dc4a8681f76b50beef26cc
 msgid "**匹配标识串:** 客户请求中用于选择要发送短信的供应商的标识字符串。"
 msgstr ""
 
-#: ../../root手册.md:801 3c27446410834f689d6f67c0d1b046ba
+#: ../../root手册.md:762 2800615f86254ccda9a0d353fafdba93
 msgid "**匹配供应商:** 字符串匹配时使用的供应商。"
 msgstr ""
 
-#: ../../root手册.md:803 ff9efd4bdd0348c2a638c171b23d5787
+#: ../../root手册.md:764 67cc01692d6843158fafe42513a8e0d7
 msgid "<span class=\"mark\">编辑完【短信文件】后，如下图所示，点击保存（如下图）</span>"
 msgstr ""
 
-#: ../../root手册.md:805 108cdc4a101c47d9999f88133514025f
+#: ../../root手册.md:766 15948a9fc4a642f2be042fb6116bba82
 msgid ""
 "<img src=\"./_static/images/root/media/image66.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:808 f38427b453a64ad584df5d28068cf0af
+#: ../../root手册.md:769 b001ba9dc980484586728127417f7a5b
 msgid "短信供应商:"
 msgstr ""
 
-#: ../../root手册.md:810 c5b33bf6328f4641b24aa8fd5fac3ca2
+#: ../../root手册.md:771 d53250a4c25b4ff2888724b095bc4b6e
 msgid "短信供应商页面用于管理短信供应商，你可以在系统中配置多个供应商，然后在短信档案中配置如何选择这些供应商发短信。"
 msgstr ""
 
-#: ../../root手册.md:812 1dd009ee0c2348a1833c747a623644da
+#: ../../root手册.md:773 182adab615aa4ed7b759e506d425db37
 msgid ""
 "<img src=\"./_static/images/root/media/image67.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:815 ../../root手册.md:834 e2d6a39b04e940bb983e8a10aba5e067
-#: eb7b080eb6fa4c018795bd7169a9e3f0
+#: ../../root手册.md:776 ../../root手册.md:795 153109d2a3154f13a131aca3829c5fe8
+#: 7a86e91a4f9d46aca0722ed51ac8d176
 msgid "**选择【添加】并进入【通用】设置：（如下图）**"
 msgstr ""
 
-#: ../../root手册.md:817 ea9d144184d94c33a620c7b8facaef46
+#: ../../root手册.md:778 d342de904f424db4afebd3abc257a340
 msgid ""
 "<img src=\"./_static/images/root/media/image68.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:820 662732411d8042b28a3eb75eefd22947
+#: ../../root手册.md:781 75474143a64f485b98b5a0cb267937a4
 msgid "**供应商名称:** 请输入短信供应商名称。"
 msgstr ""
 
-#: ../../root手册.md:822 723b9b5d93c44d4a88d39a81082bf932
+#: ../../root手册.md:783 36a9a57b609343179a16ff577f0f7316
 msgid ""
 "**标识:** "
 "每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新的标识，请联系系统管理员。"
 msgstr ""
 
-#: ../../root手册.md:825 49c9cb84916046baaab9afd2d12926fc
+#: ../../root手册.md:786 178c17da149b42fd8fc19fea55f6d592
 msgid "**参数:**如果你想使用对同一个供应商的多个账号，可以在这里设置向脚本文件传递的参数。"
 msgstr ""
 
-#: ../../root手册.md:827 8568dcf8557a428396ab123a028ac3c9
+#: ../../root手册.md:788 e1d721c847f742c192ffbba5a2cb58b5
 msgid "邮件服务器:"
 msgstr ""
 
-#: ../../root手册.md:829 bbaee349801f4ea6bcbd69253d1ba6d8
+#: ../../root手册.md:790 a95e6a200dd347d98c21a3b9931d24e1
 msgid "邮件服务器页面用于管理电子邮件收发的管理设备。"
 msgstr ""
 
-#: ../../root手册.md:831 d6469afbc24a48519d590964b99c4162
+#: ../../root手册.md:792 673d0fde29af435aa48908cfae42c2c6
 msgid ""
 "<img src=\"./_static/images/root/media/image69.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:836 5edc5ba7406945d29605a75ae5dd05bb
+#: ../../root手册.md:797 9a0a32d1a601409791027d186dedf2da
 msgid ""
 "<img src=\"./_static/images/root/media/image70.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:839 02a48dac342241b98f5f13deee13e17f
+#: ../../root手册.md:800 ff05c7dcb4954febb34ffb3f93b4493a
 msgid "**服务器名称:** 请为这个服务器命名。"
 msgstr ""
 
-#: ../../root手册.md:841 da00011e51ab4030a40696d299896565
+#: ../../root手册.md:802 6f9ba540ef5c4b1695f28a124b3700bc
 msgid "**服务器类型:** 请选择这个服务器的类型。"
 msgstr ""
 
-#: ../../root手册.md:843 580f7d13ff5e4528ac8a5540061acabc
+#: ../../root手册.md:804 6d8b04ee7e0e49008711cf7991a4307d
 msgid "**域名:** 请输入这个邮件服务器的域名。"
 msgstr ""
 
-#: ../../root手册.md:845 3c58620f63ef4d76af55cf848e9e9146
+#: ../../root手册.md:806 95ea60d7799643f0bf9538fea5269b08
 msgid "**端口号:** 请输入这个邮件服务器的端口号。"
 msgstr ""
 
-#: ../../root手册.md:847 3c96da2a4c254b3f8829350254b5eb92
+#: ../../root手册.md:808 5f5f4f106b654f9b8f2da2356d7c26aa
 msgid "**发信人邮箱:** 请输入这个邮件服务器的发信人邮箱。"
 msgstr ""
 
-#: ../../root手册.md:849 46fbc65f31244d1a9fdb2f91c57bfcee
+#: ../../root手册.md:810 832a0dea418f4f54afea7ab80d31b392
 msgid "**使用SMTP** 认证**:** 请确认是否需要使用SMTP认证。"
 msgstr ""
 
-#: ../../root手册.md:851 e7893ee0b9c740dd9b1a8faf6bc8d070
+#: ../../root手册.md:812 7f63bea84413419fa520c8620e098a2c
 msgid "**启用** **SSL** **或TLS协议:** 选择一个启动协议。"
 msgstr ""
 
-#: ../../root手册.md:853 9de9429aff6b4687a8afd3e9b191120a
+#: ../../root手册.md:814 7d88a439b9734cbebe6bc71818ed48de
 msgid "**SMTP** 用户名**:** 若启动SMTP认证，请输入SMTP用户名。"
 msgstr ""
 
-#: ../../root手册.md:855 1b512f630ed946c3a86448b31bd9bca5
+#: ../../root手册.md:816 3bd59c1222fb40d281547a710a0fe9c3
 msgid "**密码:** 请输入SMTP用户名对应的密码。"
 msgstr ""
 
-#: ../../root手册.md:857 4455e825ab3945efb80c598d8090b4c1
+#: ../../root手册.md:818 bb5846b0d491468ab2fee06d8e3523bd
 msgid "i. 统计:"
 msgstr ""
 
-#: ../../root手册.md:859 4dbb2356dc354e1fa1e251989d9296c5
+#: ../../root手册.md:820 90499859cc4c4819ad3dad8f889e25a6
 msgid "**统计报表：** 您可以查看项目详细信息、项目摘要、任务详细信息、任务摘要和成本费率报告。（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:862 12626b088f1d4d2ca29aeaca6be08432
+#: ../../root手册.md:823 14737bdf670d4f16a2595a10570baf5c
 msgid ""
 "<img src=\"./_static/images/root/media/image71.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:865 00a21511a15d400f976a3372cb89333c
+#: ../../root手册.md:826 3dfd45d2c7c94b9fb0c4c9b8f8e90237
 msgid "j. 监控管理:"
 msgstr ""
 
-#: ../../root手册.md:867 a2119952a0154bd092e9b9054e2ca7a4
+#: ../../root手册.md:828 9ec3f1701d8c49cf80b13de9cc931c08
 msgid "**实时监控:** 系统用户可以实时监控呼入/呼出的状态以及座位是否在线（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:870 8b2238a077834a7484aed0ff2eff41ce
+#: ../../root手册.md:831 4f55c0d8514c44c5a213adc000b282cd
 msgid ""
 "<img src=\"./_static/images/root/media/image72.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:873 a2187e83f5b345b99070fc66816fdf43
+#: ../../root手册.md:834 6c69a305ed7745c98a856cddc152498a
 msgid "k. 日志记录:"
 msgstr ""
 
-#: ../../root手册.md:875 348456983f114cf1837a4ea8c20c83da
+#: ../../root手册.md:836 64113aa8eab5431ea915f6bf37eb9c93
 msgid "**日志记录:** 您可以查看所有用户的行为（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:877 8a95dceae2c5405ca01a27a8b3f23d9b
+#: ../../root手册.md:838 025a773e755e40bb99b80c290f3b7469
 msgid ""
 "<img src=\"./_static/images/root/media/image73.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:880 ce30d6c5876e438cb0ee9394c30ce4fe
+#: ../../root手册.md:841 b61bb8b642974a59b2515190aa4e311b
 msgid "l. 系统:"
 msgstr ""
 
-#: ../../root手册.md:882 01a09a27820c4194adebd93eba4c9941
+#: ../../root手册.md:843 846f5df09c274680987a0b9556921ccf
 msgid "系统偏好:"
 msgstr ""
 
-#: ../../root手册.md:884 e4a3192548ce45ca8b1ba13ceceaa3e5
+#: ../../root手册.md:845 ce122548dffc415c8ddb4d6e56b9f2cd
 msgid "即系统设置，用户可以根据需要对系统进行常规设置"
 msgstr ""
 
-#: ../../root手册.md:886 84fe27ca356a44c7bfcd8588603e7220
+#: ../../root手册.md:847 195c2823b1f14fe6beac43e009e7f738
 msgid "【 通用 】 设置页面：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:888 e356d211e608408887b13cb8253446b1
+#: ../../root手册.md:849 7a87ed36a81049de83692182536b0e1d
 msgid ""
 "<img src=\"./_static/images/root/media/image74.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:891 b37174a6f26246f182be7792a16d31f2
+#: ../../root手册.md:852 d3b9ece0dc9a4fb79eddd64bf7e31dc1
 msgid "**时区:** 当前使用的时区，默认为东京且无法修改。"
 msgstr ""
 
-#: ../../root手册.md:893 0e4baa2b5f3c47229d0c5bb10cf80dc9
+#: ../../root手册.md:854 201b821ffc10477598319b55d799e487
 msgid "**语言:** 您可以设置语言。"
 msgstr ""
 
-#: ../../root手册.md:895 f175f900258c4e26b06d81c9efdad2a4
+#: ../../root手册.md:856 06129cf983104d668d78e283f82e5223
 msgid "**国家:**你可以设置国家"
 msgstr ""
 
-#: ../../root手册.md:897 ae282cce71a747fe823b8f8967c36f9b
+#: ../../root手册.md:858 fc784195e1524d219dbb4b12b1c4aebe
 msgid "**区号:** 你可以设置区号。"
 msgstr ""
 
-#: ../../root手册.md:899 a3c8ee9197994c91870c9cf5e501b2e1
+#: ../../root手册.md:860 9a3dcc6526ff4a6f990fc392dd98d849
 msgid "**日期格式模式:** 您可以设置日期格式模式。"
 msgstr ""
 
-#: ../../root手册.md:901 be5a0f0314e245f5ad8aabe1fbe77db8
+#: ../../root手册.md:862 a0507bdb8ff84ea3a7d268cea77d0c2a
 msgid "**日期格式:** 您可以设置日期格式，在日期格式模式下选择精确模式将显示。"
 msgstr ""
 
-#: ../../root手册.md:904 cddaf33453e74f228007e8798a356798
+#: ../../root手册.md:865 36bd358a016a4d93bffad331894e00ab
 msgid "**时间格式:** 您可以设置时间格式，将显示日期格式模式下的精确模式。"
 msgstr ""
 
-#: ../../root手册.md:906 63ae560867d64dc19c5bff1e9851ee16
+#: ../../root手册.md:867 57d4bd6c11174982a82696a449b01bc0
 msgid "**时长格式:** 您可以设置时长的格式。"
 msgstr ""
 
-#: ../../root手册.md:908 defc5955ccff4d199a60634fa45b1763
+#: ../../root手册.md:869 7003169bcee24dd0ad41aba0963df5ba
 msgid "**号码格式:** 你可以设置号码的格式。"
 msgstr ""
 
-#: ../../root手册.md:910 2df85de6bb1b4a51b58ebe477ab81967
+#: ../../root手册.md:871 ef1dd0f7937341e298eb28a996d03b9d
 msgid "**称呼格式:** 你可以设置姓名称呼的格式。"
 msgstr ""
 
-#: ../../root手册.md:912 8ff924983a8c40b5b75b4ae72f5aa199
+#: ../../root手册.md:873 ea80e268eb0e465e9b22d4ddb709c94c
 msgid "**账号超时时间:** 账号登录超时时间（单位：分钟）"
 msgstr ""
 
-#: ../../root手册.md:914 fad212b02ddd4aebb82409258d0bdbd3
+#: ../../root手册.md:875 dfac1bb3d27f434aa021c9ddebb29dec
 msgid "**坐席超时时间:** 坐席登录超时时间（单位：分钟）"
 msgstr ""
 
-#: ../../root手册.md:916 3511fddc350b42f3ad2a1b7614693c4a
+#: ../../root手册.md:877 63389c8ec0c540fca853426614756185
 msgid "**坐席浏览器超时时间:** 如果代理设置为与浏览器一起使用，则当浏览器关闭并达到此超时时间时，系统将检出所有动态签入的代理组（单位：秒）。"
 msgstr ""
 
-#: ../../root手册.md:919 9ab0565045c94df3a5d0c6aeb8c5e2a9
+#: ../../root手册.md:880 d9d11017da7346c89e0476a9c0fc446b
 msgid "【货币】设置页面：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:921 02915e25f15e4cee9f3466e139175845
+#: ../../root手册.md:882 1422ce4be2894116b3c4248d6b29c2e5
 msgid ""
 "<img src=\"./_static/images/root/media/image75.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:924 0d4142b0aaf04c73b7a0548f248b2c27
+#: ../../root手册.md:885 729760ed3d8247158c27cbf274ca465f
 msgid "**货币:** 设置货币。."
 msgstr ""
 
-#: ../../root手册.md:926 50a01b4dfa9a43ae8b3f3b6f11663a5a
+#: ../../root手册.md:887 a396ffca34904d7c82c05438de18843e
 msgid "**货币符号：** 设置货币符号。"
 msgstr ""
 
-#: ../../root手册.md:928 bc63e7f4951e4b1babf80e9a8d84d83e
+#: ../../root手册.md:889 76565d41ead8471ab6393a23c75e2ed4
 msgid "**货币小数点:** 设置货币小数点"
 msgstr ""
 
-#: ../../root手册.md:930 492c0cdd3c3b4738b5723773be3f476c
+#: ../../root手册.md:891 4a931c2e696b4cae9daec5c4fec81aca
 msgid "**数字分隔符:** 设置数字分隔符。"
 msgstr ""
 
-#: ../../root手册.md:932 448b0456eef141ebafbf958096282dc7
+#: ../../root手册.md:893 7036f95b91c04470bb2b5b804f019571
 msgid "**千位分隔符:** 设置千位分隔符。"
 msgstr ""
 
-#: ../../root手册.md:934 20cca00a75d848b0a7dd630999e675e5
+#: ../../root手册.md:895 9b037dfc4e3a478596905388d65974d4
 msgid "【 数据 】 设置页面：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:936 2ac3f3dc73714943a3eb1ccbd64def72
+#: ../../root手册.md:897 84d491f89e6f438aae5175dacfd1df8d
 msgid ""
 "<img src=\"./_static/images/root/media/image76.png\" "
 "style=\"width:5.75972in;height:1.11597in\" />"
 msgstr ""
 
-#: ../../root手册.md:939 6c87c411078d486cab7889dd3019bb59
+#: ../../root手册.md:900 1c085d69f8fd466ea7645c521353904f
 msgid "**导出文件编码:** 设置导出文件编码。"
 msgstr ""
 
-#: ../../root手册.md:941 a5c4f0b376014fffb3aaac82930fe506
+#: ../../root手册.md:902 79fdaa2c7cdb4beba20b0412f00d57c1
 msgid "**导出单文件最大行数:** 设置导出文件最大行数。"
 msgstr ""
 
-#: ../../root手册.md:943 4b688746589d445d86b34957f4c568ba
+#: ../../root手册.md:904 1361211261c940f1af92407a6d37f0e4
 msgid "【拨号】设置页面：（如下图）"
 msgstr ""
 
-#: ../../root手册.md:945 ef5ca873e15b448683f5ce472e382cb5
+#: ../../root手册.md:906 2b27609a45d04aa4985904317b955a0b
 msgid ""
 "<img src=\"./_static/images/root/media/image77.png\" "
 "style=\"width:5.75972in;height:1.09167in\" />"
 msgstr ""
 
-#: ../../root手册.md:948 cab7929659af442fbc12d86428792148
+#: ../../root手册.md:909 0b47d0869cb6465aa69301d81fe4cc55
 msgid "**拨打外线超时:** 外呼振铃时长。"
 msgstr ""
 
-#: ../../root手册.md:950 a9541278e2e34e33bea3220d8757b5a3
+#: ../../root手册.md:911 cf062cd693d24956887bf942fbc61118
 msgid "**拨打分机超时**:内线振铃超时。"
 msgstr ""
 
-#: ../../root手册.md:952 7fdf1875c0824b108417001caf578cb2
+#: ../../root手册.md:913 47c14fcb994943e0bbaee10c63959d8e
 msgid "销售漏斗:"
 msgstr ""
 
-#: ../../root手册.md:954 78146b25a6904f8692474ed137d52a8e
+#: ../../root手册.md:915 5bb68498839a4511b569d7ddc5eb4d4f
 msgid "销售漏斗用于标记代理商记录的客户通话状态，默认有三种类型：成功/失败/跟踪，可以根据需要添加/编辑/删除。"
 msgstr ""
 
-#: ../../root手册.md:956 2143dd547d664924bd5a7787d4641104
+#: ../../root手册.md:917 af7afca481a541e280b8bf4a695c9bb1
 msgid "销售漏斗的分数代表着坐席的呼叫和联系分数，最终可以根据坐席的总分进行排名，可以在坐席数据页面的排名列表中查看。"
 msgstr ""
 
-#: ../../root手册.md:958 54f0a5100688497e8253e5cea9d90b84
+#: ../../root手册.md:919 700c7811d48043b9ba4ae3182b416cdb
 msgid ""
 "<img src=\"./_static/images/root/media/image78.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:961 1a09690d97e743108bb1f7b51e22b6eb
+#: ../../root手册.md:922 12771e7f4506450c8a9ea4733481c709
 msgid "**选择【添加】并进入【常规】设置：（如下图）**"
 msgstr ""
 
-#: ../../root手册.md:963 b25c7fdb439749a29b935f38e4c4ebda
+#: ../../root手册.md:924 e49ca85fcf4e4c1d9b1e3b38d270b8c7
 msgid ""
 "<img src=\"./_static/images/root/media/image79.png\" "
 "style=\"width:5.75972in;height:1.58681in\" />"
 msgstr ""
 
-#: ../../root手册.md:966 294386862a3b4dd7b291a0baf3d00571
+#: ../../root手册.md:927 021cb2f9467843bd820f11e816add405
 msgid "**名称:**为此销售漏斗命名。"
 msgstr ""
 
-#: ../../root手册.md:968 b1a1ae9056784611aaaa1aa69107891a
+#: ../../root手册.md:929 b69c55c577a34d0da35da5e19872f310
 msgid "**分值:** 请设置这个销售漏斗的分值，分值可体现坐席的工作情况。"
 msgstr ""
 
-#: ../../root手册.md:970 dee0c30b70b04d0fb2df32b6c709438b
+#: ../../root手册.md:931 ca868a2d18f343a58f541dfd1446f29f
 msgid "**状态:** 销售漏斗的状态:"
 msgstr ""
 
-#: ../../root手册.md:972 2f95280326fc46dabe28f330ec54bcfc
+#: ../../root手册.md:933 8308aa2afdc44a04bf90ae7e41af8f46
 msgid "启用：正常显示"
 msgstr ""
 
-#: ../../root手册.md:974 ab667527f39f438aba501f90d4be8f45
+#: ../../root手册.md:935 125980f15ae840cb8aabb65818ed3f7c
 msgid "隐藏：坐席不可见"
 msgstr ""
 
-#: ../../root手册.md:976 91feaf7e75bd4276a38fbc2f3098253f
+#: ../../root手册.md:937 0a8ddecbbe1b45249202a2f48cb96415
 msgid "关闭：系统不可见"
 msgstr ""
 
-#: ../../root手册.md:978 70ff5a99242546be9b59c40835ee8151
+#: ../../root手册.md:939 7531f61792e34d8f9ddcab32cd1ebe2c
 msgid "后台任务:"
 msgstr ""
 
-#: ../../root手册.md:980 8e5fb0076167422d9b2e2d39c91d611c
+#: ../../root手册.md:941 b3079178b305433499fcbb148eafcb51
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
 msgstr ""
 
-#: ../../root手册.md:982 eab2022ed2d341ae84177d824f46cbe7
+#: ../../root手册.md:943 89d76ee78c414add89f615d3382b5d51
 msgid ""
 "<img src=\"./_static/images/root/media/image80.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:985 b8e97f39f212466180a3e3f1cdbd1cd2
+#: ../../root手册.md:946 afd7a8231e634f1fa0ab241bd14508b9
 msgid "高级:"
 msgstr ""
 
-#: ../../root手册.md:987 070f7494512e4ff6ae4f1a9b4f879d39
+#: ../../root手册.md:948 8f00457ee7a14c158a6a5569be9f6530
 msgid "可以查看和编辑某些系统设置"
 msgstr ""
 
-#: ../../root手册.md:989 9c9a12f381af4ee5bc1ca73cd7245165
+#: ../../root手册.md:950 e8a0c5aa6d524f3fa0ea19f6d0a369b3
 msgid "**\\[基本\\]设置：（如下图）**"
 msgstr ""
 
-#: ../../root手册.md:991 2259978349d94f9d9cb5c2a2d6f5f33c
+#: ../../root手册.md:952 8ad010d3bcbb4edfa10c22ebb4e14cd8
 msgid ""
 "<img src=\"./_static/images/root/media/image81.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:994 ccb4a84dc6ba4924973a7a8400423154
+#: ../../root手册.md:955 ded59c0c6ad34102a7b174a55cef4a5a
 msgid "**事件类型 ：**"
 msgstr ""
 
-#: ../../root手册.md:996 a0d86eb3829b46f6954ce1d5c0655c49
+#: ../../root手册.md:957 7cc7a8f7d24448198db2bca00beea84c
 msgid "系统提供两种事件:通话记录:当呼叫挂断时，系统会将通话记录发布到特定的URL."
 msgstr ""
 
-#: ../../root手册.md:998 4d808b0746284b409db2987c04289157
+#: ../../root手册.md:959 4f9b7424d1a04dc58df7402714e85e9f
 msgid "坐席事件:系统将发布所有坐席事件，如响铃，应答，挂断，签入，签出，暂停，取消暂停等"
 msgstr ""
 
-#: ../../root手册.md:1000 53bc3ff0b09545598d14d56c1681bc53
+#: ../../root手册.md:961 0c28fa14b90c4e8f89c3086e5fa77e1f
 msgid "**事件接收地址:** 系统会将事件数据发送到此 URL。如果您不需要它，请将其留空。"
 msgstr ""
 
-#: ../../root手册.md:1003 e7dc269bd1c04b63aaf3d67d348696a4
+#: ../../root手册.md:964 14e8431f2450455d970d9acf47be3728
 msgid "**录音设置:** 请设置您需要的录音类型。"
 msgstr ""
 
-#: ../../root手册.md:1005 d3af9a49a0a844c3828e65aa4be82456
+#: ../../root手册.md:966 78d7e131a0e341c587540a1751018ce8
 msgid "**录音格式:** 请选择录音格式。"
 msgstr ""
 
-#: ../../root手册.md:1007 c0375e0aec06439f843a41883b1c97aa
+#: ../../root手册.md:968 95b8833bf6ef4048becdb540c3bffce1
 msgid "**录音文件名格式:**"
 msgstr ""
 
-#: ../../root手册.md:1009 bed2d20a3d574608b280bb6773b3dbce
+#: ../../root手册.md:970 ab83e37221ce4de2a828d062619ff857
 #, python-format
 msgid "你可以自定义录音文件的命名规则，可用的变量包括:%agentNo%caller-%callee%year%mon%day%hour%min%sec"
 msgstr ""
 
-#: ../../root手册.md:1019 8cc3e7ef61874ec68a9c75fa4e3c1bf5
+#: ../../root手册.md:980 9ccfc59ec4ea4466bca6f95a1a0c6c20
 msgid "**语音识别:** 根据需要是否开启语音识别功能。"
 msgstr ""
 
-#: ../../root手册.md:1021 53eb815b609444629bd5b4f9d05ebc2b
+#: ../../root手册.md:982 37cd39349f3a4c5da9cf86d4b8799951
 msgid "**语音识别回调地址:**如果已配置，系统会将语音识别结果发送到此 URL。"
 msgstr ""
 
-#: ../../root手册.md:1023 0c4714304aec452dbec110f46bd0fbad
+#: ../../root手册.md:984 5ce4a78c24a948afabe63ec1e2a2d435
 msgid "**账号多点登录:** 允许一个帐户多点登录。"
 msgstr ""
 
-#: ../../root手册.md:1025 d9b60440fbeb42a9852d7263114fb30c
+#: ../../root手册.md:986 149d171a5b9c43b986b7635da5921dfa
 msgid "**\\[录音转移\\]设置：（如下图）**"
 msgstr ""
 
-#: ../../root手册.md:1027 5ae118fb2feb4d6ea8e08c0f37df38ab
+#: ../../root手册.md:988 287f998201ed42338bc90a8e2d0322b7
 msgid ""
 "<img src=\"./_static/images/root/media/image82.png\" "
 "style=\"width:5.76736in;height:1.14097in\" />"
 msgstr ""
 
-#: ../../root手册.md:1030 e90372a29cc74603af8fa87d188188f7
+#: ../../root手册.md:991 651f554e33f44cd596b31d6931cecc1c
 msgid "**转移路径:** 录音合成后，系统会将文件发送到该地址。"
 msgstr ""
 
-#: ../../root手册.md:1032 044f36f1f21c48e996fd60201ea12cbe
+#: ../../root手册.md:993 10205be833904c63a34368800d0a9ae8
 msgid "**转移策略:** 转移策略是实时的或定时。"
 msgstr ""
 
-#: ../../root手册.md:1034 d5b0098355e34197b97e93a7d1e9b8b1
+#: ../../root手册.md:995 6b406a0c02584d61a93a00e94d31eb64
 msgid "公司信息:"
 msgstr ""
 
-#: ../../root手册.md:1036 54202601c3af4e7bac571a0ce8210cc4
+#: ../../root手册.md:997 241694222eed41a5b8e18c4137a4c650
 msgid "在此页面上，您可以查看和编辑系统的公司信息。（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:1038 b6fce8ac1f314beab557c218c3174016
+#: ../../root手册.md:999 e769c3fa0cdf4977aa6367b362b09d51
 msgid ""
 "<img src=\"./_static/images/root/media/image83.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:1041 3887ab2c22884155be8af04a2c2b6ff5
+#: ../../root手册.md:1002 3abc559e6f6c468eb1d66e7184170422
 msgid "假期设置 :"
 msgstr ""
 
-#: ../../root手册.md:1043 0a3c27f3e51440c793912a2838b33400
+#: ../../root手册.md:1004 f62f3382e1f94d96af70baa4894638b0
 msgid "根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:1045 3a80657f81ab41aca206f69cca868edb
+#: ../../root手册.md:1006 2b1dc9791d03439b9d93fd2f89efb381
 msgid ""
 "<img src=\"./_static/images/root/media/image84.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:1050 5026e8119b4c4e388bea8fc4a70eb635
+#: ../../root手册.md:1011 73fa0f6d347d47899febc7da14e86679
 msgid ""
 "<img src=\"./_static/images/root/media/image85.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:1053 5d2ce6105656427baa298d972c4ca041
+#: ../../root手册.md:1014 c0838ba71b0f445bb114e0174df8cae1
 msgid "**假日名称:** 假日名称。"
 msgstr ""
 
-#: ../../root手册.md:1055 6fea8e947d414e45b744ed0c6f2fbf6c
+#: ../../root手册.md:1016 6a8d10514c2f474f8ac0ed79188dddb7
 msgid "**国家:** 国家代码(ISO 3166-1 2位代码)。"
 msgstr ""
 
-#: ../../root手册.md:1057 055d00ff014841ccab0e4e66496d2259
+#: ../../root手册.md:1018 7e80df63e9a848ed9730f39950f4021e
 msgid "**日期:** 日期。"
 msgstr ""
 
-#: ../../root手册.md:1059 c9c0ccd8436b47f1bce8b2962e56b799
+#: ../../root手册.md:1020 bb9c11ebd4e94e748690520cc67f4d7a
 msgid "工具栏"
 msgstr ""
 
-#: ../../root手册.md:1061 e730a08daff44f9ead2876f393a1714d
+#: ../../root手册.md:1022 89cf9cec44bf43689b1d96d338065d42
 msgid "**后台任务:** 您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）"
 msgstr ""
 
-#: ../../root手册.md:1064 830707d1974548559eac8e05b28aaf3f
+#: ../../root手册.md:1025 f5ae065212254f6fbf9d4d056a9a5c80
 msgid ""
 "<img src=\"./_static/images/root/media/image86.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:1067 0d19348d8a4145cc931cb09338334a06
+#: ../../root手册.md:1028 021f05e47957427da1ea1a0259acafa0
 msgid "**通知**: 将显示一些新消息（如下所示）。"
 msgstr ""
 
-#: ../../root手册.md:1069 a123793609554c7b8aee8bfd335abe32
+#: ../../root手册.md:1030 691a3e8ba30d429db9c28f8352419b2a
 msgid ""
 "<img src=\"./_static/images/root/media/image87.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root手册.md:1072 dd712f39cae84772a3b8be54916a33c4
+#: ../../root手册.md:1033 d455a0746cd642b0bad15e6128644359
 msgid "**语言:** Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）"
 msgstr ""
 
-#: ../../root手册.md:1074 1ef0d10f43f74391b0a33c89b2964a78
+#: ../../root手册.md:1035 1cd54a27cfc2453b93a04d50ad8fe7e9
 msgid ""
 "<img src=\"./_static/images/root/media/image88.png\" "
 "style=\"width:5.75972in;height:1.11875in\" />"
 msgstr ""
 
-#: ../../root手册.md:1077 8ab2a9e6c3af49e5adeea4669a774248
+#: ../../root手册.md:1038 4024cdf02608440680691b5529b69938
 msgid "**我的档案**"
 msgstr ""
 
-#: ../../root手册.md:1079 3f547960e22d452c8536924aa9b88a64
+#: ../../root手册.md:1040 1011738c7831403ea3d01a7f2a7d89ca
 msgid ""
 "<img src=\"./_static/images/root/media/image89.png\" "
 "style=\"width:5.75972in;height:2.83472in\" />**包括“我的档案”和“注销”**"
 msgstr ""
 
-#: ../../root手册.md:1082 44269864eee74d58808dbae02397f376
+#: ../../root手册.md:1043 c8438965b9e14f30a3a7859dc9ee218a
 msgid "**\\[我的个人资料\\] 允许编辑 root 用户个人资料**"
 msgstr ""
 
-#: ../../root手册.md:1084 e271a5c9c1564356a877aa3d2f662cb0
+#: ../../root手册.md:1045 b69120587a81408d8db6a7be9e24dae0
 msgid "**\\[登录\\]退出当前登录页面**"
 msgstr ""
 

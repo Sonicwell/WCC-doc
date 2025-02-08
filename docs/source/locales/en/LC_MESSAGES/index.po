@@ -1,14 +1,15 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2025 Sonicwell Technology Ltd
-# This file is distributed under the same license as the WCC package.
+# This file is distributed under the same license as the WCC Documentation
+# package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: WCC 0.1.0\n"
+"Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-08 12:40+0900\n"
+"POT-Creation-Date: 2025-02-08 18:49+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -19,11 +20,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../index.rst:2 b8f7d80f80854e2db67f7c2716ee67e6
+#: ../../index.rst:2 26a714706bf94ab89f0be4f144958e12
 msgid "Welcome to WCC documentation!"
 msgstr ""
 
-#: ../../index.rst:4 bcd889709c344fc8ae7de8df4c316674
+#: ../../index.rst:4 c42e46670ed04c0a9ac3b18f62d71be5
 msgid ""
 "**WCC** contact center system is a cloud native solution, and also has an"
 " intelligent contact center architecture and solutions which is designed "
@@ -31,11 +32,11 @@ msgid ""
 "intelligent and efficient operational experience for you."
 msgstr ""
 
-#: ../../index.rst:8 fc3c6ae685c249d9b821a48d9638c4c5
+#: ../../index.rst:8 0e49013cf5c94e09b47fae07979cd642
 msgid "This project is under active development."
 msgstr ""
 
-#: ../../index.rst:11 9b002c1d53414ab49011ead45cae4321
+#: ../../index.rst:11 504f3c48e8c349c1a15bde3a683b3b5b
 msgid "Contents"
 msgstr ""
 

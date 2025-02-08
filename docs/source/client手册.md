@@ -298,7 +298,7 @@ style="width:5.75694in;height:1.38889in" />
 
 ⑤点击下拉菜单，即可以该用户登录或删除该用户
 
-##### <img src="./_static/images/client/media/image34.png"
+<img src="./_static/images/client/media/image34.png"
 style="width:5.75694in;height:1.34097in" />
 
 #### 3.1.2坐席
