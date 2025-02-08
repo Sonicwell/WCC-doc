@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-08 11:42+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../index.rst:2 ffd4552670c3432cbb3ee9fa9356799e
+msgid "Welcome to WCC documentation!"
+msgstr "WCC ドキュメントへようこそ!"
+
+#: ../../index.rst:4 745b6a9a8a494142bd51602d1e635090
+msgid ""
+"**WCC** contact center system is a cloud native solution, and also has an"
+" intelligent contact center architecture and solutions which is designed "
+"for the growing needs of multichannel customers in order to deliver an "
+"intelligent and efficient operational experience for you."
+msgstr ""
+"**WCC** コンタクト センター システムはクラウド ネイティブ ソリューションであり、"
+"インテリジェントで効率的な運用エクスペリエンスを提供するために、"
+"マルチチャネルの顧客のニーズの高まりに合わせて設計されたインテリジェントなコンタクト "
+"センター アーキテクチャとソリューションも備えています。"
+
+#: ../../index.rst:8 af20ddc8a33a4e8ab6ddc3036146a51b
+msgid "This project is under active development."
+msgstr "このプロジェクトは現在活発に開発中です。"
+
+#: ../../index.rst:11 00440b8d5db141fbb4019ab396ab4106
+msgid "Contents"
+msgstr ""
+

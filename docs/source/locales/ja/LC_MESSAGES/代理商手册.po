@@ -1,0 +1,1081 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-08 11:42+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../代理商手册.md:1 4707a6831bec4648b4d5e02070a2a557
+msgid "代理商手册"
+msgstr ""
+
+#: ../../代理商手册.md:3 f52839af1d964ebaaaccfb2fe1f911c0
+msgid "目录"
+msgstr ""
+
+#: ../../代理商手册.md:5 8a61af667d8b42d1814cb939b4e065c4
+msgid "[1.1 WCC 登录 [- 1 -](#wcc-登录)](#wcc-登录)"
+msgstr ""
+
+#: ../../代理商手册.md:7 f97e461bc4c34063bf4d954d007d16fa
+msgid "[1.2 仪表盘介绍 [- 2 -](#仪表盘介绍)](#仪表盘介绍)"
+msgstr ""
+
+#: ../../代理商手册.md:9 358155fa3f8f41c4b7953cd442a6b7f8
+msgid "[1.2.1 I仪表盘概述 [- 2 -](#i仪表盘概述)](#i仪表盘概述)"
+msgstr ""
+
+#: ../../代理商手册.md:11 a217de519a3f47f1aa0ca43b5a02619c
+msgid "[1.2.2 工具栏 [- 2 -](#工具栏)](#工具栏)"
+msgstr ""
+
+#: ../../代理商手册.md:13 8d580b2d02be4080b9da0121b7c1fa23
+msgid "[a. 搜索： [- 2 -](#a.-搜索)](#a.-搜索)"
+msgstr ""
+
+#: ../../代理商手册.md:15 b9854876254343f9b91d7e274029e604
+msgid "[b. 仪表盘： [- 2 -](#b.-仪表盘)](#b.-仪表盘)"
+msgstr ""
+
+#: ../../代理商手册.md:17 611cce21873f48b48b0c4e97e80f6ff6
+msgid "[c. 用户： [- 2 -](#c.-用户)](#c.-用户)"
+msgstr ""
+
+#: ../../代理商手册.md:19 661dac2b98734c5ca13d0613f337e5e8
+msgid "[Clients： [- 2 -](#clients)](#clients)"
+msgstr ""
+
+#: ../../代理商手册.md:21 54776615b55449748a84d2f9941c6676
+msgid "[账户： [- 8 -](#账户)](#账户)"
+msgstr ""
+
+#: ../../代理商手册.md:23 e0367eb770794dd8afc715c38e0ee305
+msgid "[角色和权限： [- 9 -](#角色和权限)](#角色和权限)"
+msgstr ""
+
+#: ../../代理商手册.md:25 c4ece6d3eb584cb98954a2e81478cff5
+msgid "[d. 计费： [- 11 -](#d.-计费)](#d.-计费)"
+msgstr ""
+
+#: ../../代理商手册.md:27 8ded741581314805aa1708b1478b8ef6
+msgid "[客户计费： [- 11 -](#客户计费)](#客户计费)"
+msgstr ""
+
+#: ../../代理商手册.md:29 ee391a1abeab429eb5c45a27309920bb
+msgid "[e. 语音设置： [- 14 -](#e.-语音设置)](#e.-语音设置)"
+msgstr ""
+
+#: ../../代理商手册.md:31 e553481fd5dc461c8b910d165269d5cd
+msgid "[DID号码： [- 14 -](#did号码)](#did号码)"
+msgstr ""
+
+#: ../../代理商手册.md:33 7b9d8171ff194d23ae8207048bdbf6fa
+msgid "[外显号码： [- 16 -](#外显号码)](#外显号码)"
+msgstr ""
+
+#: ../../代理商手册.md:35 7c79f503d44943eebde8b7d72aca11cc
+msgid "[f. 呼叫设置： [- 17 -](#f.-呼叫设置)](#f.-呼叫设置)"
+msgstr ""
+
+#: ../../代理商手册.md:37 c895518a004e402a9bb6427d3b69dfe1
+msgid "[话机部署模版： [- 17 -](#话机部署模版)](#话机部署模版)"
+msgstr ""
+
+#: ../../代理商手册.md:39 269c313647e74d9282b1934dd2df339c
+msgid "[g. 监控管理： [- 18 -](#g.-监控管理)](#g.-监控管理)"
+msgstr ""
+
+#: ../../代理商手册.md:41 e5c3a0c47c964433bc6243950b076d4f
+msgid "[实时监控： [- 18 -](#实时监控)](#实时监控)"
+msgstr ""
+
+#: ../../代理商手册.md:43 7bd51f7e90504231aeb20ecc6ae86843
+msgid "[h. 日志记录： [- 19 -](#h.-日志记录)](#h.-日志记录)"
+msgstr ""
+
+#: ../../代理商手册.md:45 2733324bc6ce4621ade3f94ec275d5dd
+msgid "[i. 系统： [- 19 -](#系统)](#系统)"
+msgstr ""
+
+#: ../../代理商手册.md:47 fec7108e2af24602b9b02fc98b1f707f
+msgid "[后台任务： [- 19 -](#后台任务)](#后台任务)"
+msgstr ""
+
+#: ../../代理商手册.md:49 6d70c28167a64b738025370c93699511
+msgid "[公司信息： [- 20 -](#公司信息)](#公司信息)"
+msgstr ""
+
+#: ../../代理商手册.md:51 f03fd4883154462bbf2897dc8fe501f0
+msgid "[1.2.3 工具栏 [- 20 -](#工具栏-1)](#工具栏-1)"
+msgstr ""
+
+#: ../../代理商手册.md:53 01e09c857aef4fd9870eafc6f0800de7
+msgid "[a. 后台任务 [- 20 -](#a.-后台任务)](#a.-后台任务)"
+msgstr ""
+
+#: ../../代理商手册.md:55 ccbec7eb7fd14803a8714cf4e28a3cec
+msgid "[b. 通知 [- 21 -](#b.-通知)](#b.-通知)"
+msgstr ""
+
+#: ../../代理商手册.md:57 79c97f2cd9e440d5bc38370fc0924954
+msgid "[c. 语言 [- 21 -](#c.-语言)](#c.-语言)"
+msgstr ""
+
+#: ../../代理商手册.md:59 2b72110c29274aa6ba0e1c297a554639
+msgid "[d. 我的信息 [- 22 -](#d.-我的信息)](#d.-我的信息)"
+msgstr ""
+
+#: ../../代理商手册.md:63 c9c8a0538b7447339ec367732cad81d4
+msgid "代理商：针对代理商用户，由root级别建立。"
+msgstr ""
+
+#: ../../代理商手册.md:65 3eef20bfaad5499580325cd53b28b777
+msgid "1.1 WCC 登录"
+msgstr ""
+
+#: ../../代理商手册.md:67 a3f4a911e22c45b9bcd53b86fe8af517
+msgid "在您正在使用的浏览器的地址栏中输入网站地址。 回车进入系统登录页面"
+msgstr ""
+
+#: ../../代理商手册.md:69 4efdcc9b04eb4d22af5c0def016e08e8
+msgid ""
+"用户【账户】和【密码】由上级用户预先设置。 输入正确的账号和密码，点击【登录】，即可成功进入系统。 "
+"用户可以选择【记住密码】，浏览器会记住这次的账户密码，方便下次登录。"
+msgstr ""
+
+#: ../../代理商手册.md:73 669eb1e5aa0b4bc9b63e1a0480f85b5c
+msgid ""
+"<img src=\"./_static/images/reseller/media/image1.png\" "
+"style=\"width:5.75972in;height:3.73542in\" alt=\"Screenshot from "
+"2024-05-20 10-15-38\" />"
+msgstr ""
+
+#: ../../代理商手册.md:77 7ecaabcfe5b04107997d797d0feed02b
+msgid "用户进入系统后，从状态栏的下拉菜单中选择【注销】，确认无误后，成功注销系统。页面返回到用户登录页面。"
+msgstr ""
+
+#: ../../代理商手册.md:79 95cfe2e197004fe6adca09e9c1661d96
+msgid ""
+"<img src=\"./_static/images/reseller/media/image2.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:82 e87ce66640604360b5fd3c34829df60f
+msgid "1.2 仪表盘介绍"
+msgstr ""
+
+#: ../../代理商手册.md:84 1b09a91ef6b642f492e2d2113d9a5eed
+msgid "1.2.1 I仪表盘概述"
+msgstr ""
+
+#: ../../代理商手册.md:86 95817afe51ce48eebafbbb3ab0d29982
+msgid "WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2） 上部状态栏和 （3） 中间工作区。"
+msgstr ""
+
+#: ../../代理商手册.md:89 7dd5e6deb5074422a8b331956f5350da
+msgid ""
+"<img src=\"./_static/images/reseller/media/image3.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:92 db8483c9859b42dc8840fa8599053acb
+msgid "1.2.2 工具栏"
+msgstr ""
+
+#: ../../代理商手册.md:94 ec3a21040fff4513a5d32b6917e1363d
+msgid "a. 搜索："
+msgstr ""
+
+#: ../../代理商手册.md:96 cc0a00f2fd0e4b2782e147dab4dd25f7
+msgid "在菜单栏中搜索所有菜单。"
+msgstr ""
+
+#: ../../代理商手册.md:98 51cfb69f2c064cb5add458381559a585
+msgid "b. 仪表盘："
+msgstr ""
+
+#: ../../代理商手册.md:100 709ae29abebc49c4931a182c61bba057
+msgid "代理商级别的仪表盘可以了解到整个代理商的通话情况、活跃坐席、did呼入情况等。"
+msgstr ""
+
+#: ../../代理商手册.md:102 74515e7858574789b54c23b996e2d5c7
+msgid "c. 用户："
+msgstr ""
+
+#: ../../代理商手册.md:104 d2ce711d3d4d47e1b39d8036f1f00414
+msgid "Clients："
+msgstr ""
+
+#: ../../代理商手册.md:106 257183a256c7443ca395a7edb38499d1
+msgid "由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。"
+msgstr ""
+
+#: ../../代理商手册.md:108 dcede1a2c7ad4d26bf012a1b333a9f67
+msgid ""
+"<img src=\"./_static/images/reseller/media/image4.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:111 fe9d945480e14b6099abbc8d953f2203
+msgid "**单击【添加】以执行常【规】设置**"
+msgstr ""
+
+#: ../../代理商手册.md:113 f706eec4ebe04b2bbd1bfa810da1202c
+msgid ""
+"<img src=\"./_static/images/reseller/media/image5.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:116 16542ef82f914c6eae3eedefdbd1c913
+msgid "**域名:** 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于 sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
+msgstr ""
+
+#: ../../代理商手册.md:119 d80329f2958349649e7439d1d42a4ed2
+msgid "**客户名称:** 填写一个客户名称，该名称可以随时更改."
+msgstr ""
+
+#: ../../代理商手册.md:121 f5f34bb3331b4afd812d463ff629cf1d
+msgid "**用户名:** 用户将使用此用户名登录系统，一旦设置，将不再修改，必填。"
+msgstr ""
+
+#: ../../代理商手册.md:123 415884427d7f4bd79a831a02a0c456b9
+msgid "**密码:**用户将使用此密码登录，必填。"
+msgstr ""
+
+#: ../../代理商手册.md:125 d34a78104e3d48de9ad672290e34b2ce
+msgid "**确认密码:** 再次确认您的密码，并确保两次密码相同，必填。"
+msgstr ""
+
+#: ../../代理商手册.md:127 c877b3c902e546b69542d5455aba0fde
+msgid "**名:** 请填写此用户的名字。"
+msgstr ""
+
+#: ../../代理商手册.md:129 3bd7b975097943288c690c82dcf7caab
+msgid "**姓:** 请填写此用户的姓氏，必填。"
+msgstr ""
+
+#: ../../代理商手册.md:131 e9d95985ced044cdbbf87bc09a8cbe7a
+msgid ""
+"**状态:** 客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示 "
+"“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
+msgstr ""
+
+#: ../../代理商手册.md:137 ../../代理商手册.md:339 639dc9fd61c543ea9727ca9538a73219
+#: fec6298f931c49aea6ecb9cbf197bdad
+msgid "**【高级】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:139 29ced9546fb34b0593cf4f027843e396
+msgid ""
+"<img src=\"./_static/images/reseller/media/image6.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:142 1a40219cf13f4c2b81ab114597c9674a
+msgid "**多客户包:** 允许client创建多个客户包。"
+msgstr ""
+
+#: ../../代理商手册.md:144 98cc8396d6484ac1926eabfd68c9b98f
+msgid "**时区:** 请选择此client的时区，一旦设置，将不会修改。"
+msgstr ""
+
+#: ../../代理商手册.md:148 ed453bf9acab4fccaf8618a2f1d0bcec
+msgid "**事件类型:** 系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时启用:"
+msgstr ""
+
+#: ../../代理商手册.md:151 53dbfe5eb6664b2ea7c179ab56875493
+msgid "呼叫事件: 您可以获得简单的事件，例如通话的创建、回答、挂断。"
+msgstr ""
+
+#: ../../代理商手册.md:153 6dec20c13ec24cb984d1dbf97125e52f
+msgid "坐席事件: 您可以接收到一路通话的所有事件，例如座席振铃、座席应答、被叫振铃、被叫方应答，挂断等。"
+msgstr ""
+
+#: ../../代理商手册.md:156 bf28e52839c84764ba24b07d477f3851
+msgid "通话记录: 当通话结束后，系统会将通话记录推送到指定地址."
+msgstr ""
+
+#: ../../代理商手册.md:158 7a43a73097f54a00bc8e0b31b11f3747
+msgid "**事件接收地址:** 如果你需要从系统接收事件，请提供一个可用的地址。"
+msgstr ""
+
+#: ../../代理商手册.md:160 fc7b424c28324a968f256b77330dc80c
+msgid "**隐藏费率:** 您可以设置此client用户是否具有隐藏汇率。"
+msgstr ""
+
+#: ../../代理商手册.md:162 79d918792f2a4b72bdf5c279fa16dc42
+msgid "**录音设置:** 请选择哪类通话需要被录音。"
+msgstr ""
+
+#: ../../代理商手册.md:164 ae6a3a2b6ec14e66839c233bd66e4226
+msgid "**录音格式:**请选择录音的格式有 MP3 and WAV 两种类型可供选择."
+msgstr ""
+
+#: ../../代理商手册.md:166 9cdf664f82fb4df39b531134c1b488a5
+#, python-format
+msgid ""
+"**录音文件格式:** "
+"你可以自定义录音文件的命名规则，可用的变量包括:%agentNo,%caller,%callee%year,%mon,%day%hour,%min,%sec"
+msgstr ""
+
+#: ../../代理商手册.md:174 41152845d9fe47fb9b4cbe997d45c48d
+msgid "**IP 访问白名单:**设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
+msgstr ""
+
+#: ../../代理商手册.md:177 55a76944ac5a4eab910e671ae5410b14
+msgid "**自动部署用户名:** 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的用户名。"
+msgstr ""
+
+#: ../../代理商手册.md:180 0d7ced63c7d04315a5552e47c5217bbc
+msgid "**自动部署密码:** 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
+msgstr ""
+
+#: ../../代理商手册.md:185 51264714b58d4de4ada7d4378a588143
+msgid "**【呼叫设置】:**"
+msgstr ""
+
+#: ../../代理商手册.md:187 d03d82a50e254e74bff7c6ecb73a8c18
+msgid ""
+"<img src=\"./_static/images/reseller/media/image7.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:190 9318495815b144bdb451d976212161bb
+msgid "**外呼档案：** 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
+msgstr ""
+
+#: ../../代理商手册.md:193 43e598289a9d4055a204fc33d4ca76af
+msgid "**SRTP:** 启用加密语音流，如果client开启了加密，响应注册的话机也需要开启tls模式。"
+msgstr ""
+
+#: ../../代理商手册.md:196 3fc9c887598b4ad2bc84370a1360ad6e
+msgid "**外显号码轮询:** 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多个主叫号码时生效。"
+msgstr ""
+
+#: ../../代理商手册.md:199 a1a1de922cc6472586513621cbe0a3e3
+msgid "**外显号码限制:** 请在这里输入改client可以使用的所有主叫号码，如果没有输入，则表示该客户可以选择使用任何主叫号码。"
+msgstr ""
+
+#: ../../代理商手册.md:204 73d9377f6f7b452b8a636bce563a5ce0
+msgid "**【AI赋能】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:206 e41e0d0b426c43d586909f9b1b0cdf64
+msgid ""
+"<img src=\"./_static/images/reseller/media/image8.png\" "
+"style=\"width:5.75764in;height:3.32083in\" alt=\"Screenshot from "
+"2024-05-20 10-51-47\" />"
+msgstr ""
+
+#: ../../代理商手册.md:210 703667396f5247d7bbbf92d0fccfa168
+msgid "**AI 参数配置:** 联系管理管理员进行配置。"
+msgstr ""
+
+#: ../../代理商手册.md:214 5e1b75ac8c4648f396cacbdf9ab153f3
+msgid "**【API 限制】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:216 2b13ddb6ba10401eb8c4f8a662b1678c
+msgid ""
+"<img src=\"./_static/images/reseller/media/image9.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:219 0e958bd2f6d34d23ab68e000fc473434
+msgid "**短信:** 请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../代理商手册.md:222 a029d65075154137998082ad2d3a0ba8
+msgid "**通知:** 请设置通知调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../代理商手册.md:225 b8fd83b2c3884a17a9fbab9c231892b8
+msgid "**广播:** 请设置广播调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../代理商手册.md:228 0a9bacc8647c40c0bba37212e344c362
+msgid "**点击呼叫:** 请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../代理商手册.md:231 95203cbc41d843f7bd5ba0e4cf4f9a33
+msgid "**【客户信息】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:233 5a6cb24a919148178bd45e4a9f60f55f
+msgid ""
+"<img src=\"./_static/images/reseller/media/image10.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:236 f8a25151eed3478aac7d9286c472dc79
+msgid "**公司名称:** 请填写公司名称。"
+msgstr ""
+
+#: ../../代理商手册.md:238 7174a8bb47dd484ab22f8ca25630fb3b
+msgid "**注册地址:** 请填写注册地址。"
+msgstr ""
+
+#: ../../代理商手册.md:240 451a2d6734084d4faeec92a87b57da5b
+msgid "**联系电话:** 请填写联系电话。"
+msgstr ""
+
+#: ../../代理商手册.md:242 2c6254cad8914084a5cd5c9074caaf59
+msgid "**公司网址:** 请填写公司网站。"
+msgstr ""
+
+#: ../../代理商手册.md:244 5c2ce7f392bd4718a803802f8fb8d95c
+msgid "**电子邮件:** 请填写电子邮件。"
+msgstr ""
+
+#: ../../代理商手册.md:246 57e7096fc5384397993d7e7bca98c663
+msgid "**税号:** 请填写税号。"
+msgstr ""
+
+#: ../../代理商手册.md:248 cacee93e14aa43519ebf37e0e1c8c29e
+msgid "**开户银行:** 请填写开户银行。"
+msgstr ""
+
+#: ../../代理商手册.md:250 01279769e5af45d4b134ec2640bf281c
+msgid "**账户名称:** 请填写账户名称。"
+msgstr ""
+
+#: ../../代理商手册.md:252 f66602596cfe4317807129b7aef5028e
+msgid "**账号:** 请填写账号。"
+msgstr ""
+
+#: ../../代理商手册.md:254 4caa9773a1c84620985707156ea67c4f
+msgid "**办公地址:** 请填写办公室地址。"
+msgstr ""
+
+#: ../../代理商手册.md:256 4bf20f2f5fd24fa1b50d254fa0db0dcd
+msgid "**【信息】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:258 63ba51211fc74916a76aba25efcabb38
+msgid ""
+"<img src=\"./_static/images/reseller/media/image11.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:261 997f9a186e224115a7808ac59da29d47
+msgid "**邮件服务器:** 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
+msgstr ""
+
+#: ../../代理商手册.md:264 a3b02b96cc924805b7a0f36406a60b15
+msgid "**短信档案:** 请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
+msgstr ""
+
+#: ../../代理商手册.md:267 58e623eaad0242dc9f8574ee0efc071f
+msgid "**【其他】设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:269 74f7f1991b844485a2a5db652867000a
+msgid ""
+"<img src=\"./_static/images/reseller/media/image12.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:272 9758a80c431a4faa802929d1749669fd
+msgid ""
+"**禁止坐席web登录:** "
+"您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
+msgstr ""
+
+#: ../../代理商手册.md:275 0973a21c0198434b8675c97f5554d26b
+msgid "**账号超时时间:** 登录账号超时时间。 (单位：分钟)"
+msgstr ""
+
+#: ../../代理商手册.md:277 5e98682642754d11bb84b4aa8babb3e8
+msgid "**坐席超时时间:** 坐席登录超时时间。 (单位：分钟)"
+msgstr ""
+
+#: ../../代理商手册.md:279 1b47803b65bb4cff88cd2797e64a23a6
+msgid "**坐席浏览器超时时间:** 如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
+msgstr ""
+
+#: ../../代理商手册.md:282 0ce2acce89864e5f885d48a6d7308292
+msgid "**隐藏页面组件:** 隐藏的页面不会在client左侧菜单显示（左侧围默认显示，右侧围隐藏）。."
+msgstr ""
+
+#: ../../代理商手册.md:285 4a7bd6951c5f491d947fddc8563734db
+msgid "账户："
+msgstr ""
+
+#: ../../代理商手册.md:287 c591f8a340b14cb0a0312fdf899632eb
+msgid "账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限。"
+msgstr ""
+
+#: ../../代理商手册.md:289 3fa1c04cc27c4a8ea907c0fa4ae7aa06
+msgid ""
+"<img src=\"./_static/images/reseller/media/image13.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:292 10e74d4033054d1d8c9f30a65ce0d47a
+msgid "**点击\\[添加\\] 进入\\[常规\\] 设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:294 e062d92f7f5040b4a23d5b7ffe195d38
+msgid ""
+"<img src=\"./_static/images/reseller/media/image14.png\" "
+"style=\"width:5.75764in;height:3.32083in\" alt=\"Screenshot from "
+"2024-05-20 10-58-00\" />"
+msgstr ""
+
+#: ../../代理商手册.md:298 f7385cdcb2a14c118cfae7c1b36d9797
+msgid "**用户名:** 用户将用此用户名进行系统登录。"
+msgstr ""
+
+#: ../../代理商手册.md:300 1913fbc581a742dd8ace5c1faaa5bc21
+msgid "**状态:** 你可以将这个账户临时禁用。"
+msgstr ""
+
+#: ../../代理商手册.md:302 6ba2d288c692450ca94f0b1bb6fcee4c
+msgid "**名:** 请输入用户的名字。"
+msgstr ""
+
+#: ../../代理商手册.md:304 7dcf8456cc3e4b72b09d6aeae5f0ac1a
+msgid "**姓:**请输入用户的姓氏。"
+msgstr ""
+
+#: ../../代理商手册.md:306 d7e21df687d24a33859bd43891943909
+msgid "**密码:** 用户将用词密码进行系统登录。"
+msgstr ""
+
+#: ../../代理商手册.md:308 139ece0d192f47b4bb1f359c164a7ca6
+msgid "**确认密码:** 请再次输入密码，确保两次密码相同。"
+msgstr ""
+
+#: ../../代理商手册.md:310 0dd6954d73eb434bab1b2096aa707547
+msgid "**所属角色:** 角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。"
+msgstr ""
+
+#: ../../代理商手册.md:313 db807b191a134cb087c1391c308624b6
+msgid "**【高级 】设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:315 169e76bca3e94ddd9dca1582149f4478
+msgid ""
+"<img src=\"./_static/images/reseller/media/image15.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:318 6e52a4f170b5475688200ae92be26db6
+msgid "**备注:** 您可以在此处设置有关此帐户的一些注释信息。"
+msgstr ""
+
+#: ../../代理商手册.md:320 5772aa314ce242f499b005e38a4f7c8d
+msgid "角色和权限："
+msgstr ""
+
+#: ../../代理商手册.md:322 0094c430ef044dd59457cb8b8a56746d
+msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
+msgstr ""
+
+#: ../../代理商手册.md:324 484ba53e63d44f7987932a5449730df7
+msgid ""
+"<img src=\"./_static/images/reseller/media/image16.png\" "
+"style=\"width:5.96528in;height:3.44097in\" alt=\"IMG_256\" />"
+msgstr ""
+
+#: ../../代理商手册.md:327 82d67a92e63c475e809495ee4bb60715
+msgid "**在 \\[添加/编辑\\] 角色权限中，可以设置 \\[常规\\] 设置来命名角色。**"
+msgstr ""
+
+#: ../../代理商手册.md:329 b39119a4e6604f8eb2eeb66eff23ddaa
+msgid ""
+"<img src=\"./_static/images/reseller/media/image17.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:332 07cabc1d72af447cb7e8fd6528278958
+msgid "**【编辑】:**"
+msgstr ""
+
+#: ../../代理商手册.md:334 0267a93eeacd49749754454d700a02e4
+msgid ""
+"<img src=\"./_static/images/reseller/media/image18.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:337 fd5989794be34617a8cc2df845fbfeb4
+msgid "**名称:** 请为这个权限角色命名。"
+msgstr ""
+
+#: ../../代理商手册.md:341 9ac016f1bb4e406e9230c74757566639
+msgid "**控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。**"
+msgstr ""
+
+#: ../../代理商手册.md:343 98cec89b46ec4685bd5f980ef1c729ea
+msgid ""
+"<img src=\"./_static/images/reseller/media/image19.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:346 477b7e945dca4b8ca57b87955979b1a7
+msgid "**【权限】设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:348 9fd5155afbc149189d87c1be53264cd6
+msgid "**控制具有此角色的用户的页面显示权限。**"
+msgstr ""
+
+#: ../../代理商手册.md:350 bba805acf69248aea575fb244ab54274
+msgid ""
+"<img src=\"./_static/images/reseller/media/image20.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:353 d0ec50aff46c491ebee45c27da75f2aa
+msgid "d. 计费："
+msgstr ""
+
+#: ../../代理商手册.md:355 1abe3d22671e48e1bcb3181e41ea863b
+msgid "客户计费："
+msgstr ""
+
+#: ../../代理商手册.md:357 cdad2fb7f3924e5d8004808f092f6bd5
+msgid "它是 client 的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。."
+msgstr ""
+
+#: ../../代理商手册.md:360 1a036f09ba9545f6920c8402c3894f51
+msgid ""
+"<img src=\"./_static/images/reseller/media/image21.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:363 74aa6df21bb445ebbe4c620b1e692bd2
+msgid "**单击 \\[编辑\\] 执行 \\[常规\\] 设置。**"
+msgstr ""
+
+#: ../../代理商手册.md:365 3f62387f1d79415d909201ec0c674535
+msgid ""
+"<img src=\"./_static/images/reseller/media/image22.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:368 751a599d770340718165d5e9c6403215
+msgid "**ID:** 数据的唯一 ID。"
+msgstr ""
+
+#: ../../代理商手册.md:370 866e3c6042004eecb2acdbf47f335dee
+msgid "**客户名称:** 客户名称是新经销商用户的名称，无法修改。"
+msgstr ""
+
+#: ../../代理商手册.md:372 b03b87b0883348efb01e72d2ddaa3ac3
+msgid "**域名:** 域名是已新增的代理商用户的域名，不可以再修改。"
+msgstr ""
+
+#: ../../代理商手册.md:374 282f7edb6a66466eb1d5394160fcb00c
+msgid "**【计费】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:376 3778fceb8f3a4f9592e8054762a709c9
+msgid ""
+"<img src=\"./_static/images/reseller/media/image23.png\" "
+"style=\"width:5.62153in;height:2.66944in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:379 7b8b1a90e336429abeb723bfd6c3b260
+msgid "**应缴费用:** 应当缴纳的本期费用。"
+msgstr ""
+
+#: ../../代理商手册.md:381 af99a4cecdf64130b1a626a57416f1bc
+msgid "**最大坐席数量:** 允许使用的最大坐席数量。"
+msgstr ""
+
+#: ../../代理商手册.md:383 1c8a1bce18a34f3c8cff340652609caf
+msgid "**付款方式:** 选择付款方式预付款或后付款。"
+msgstr ""
+
+#: ../../代理商手册.md:385 ff7305a7559c4cd48b3fd02c78a5cb69
+msgid "**信用额度:** 设置可使用的信用额度。"
+msgstr ""
+
+#: ../../代理商手册.md:387 570f20a6fd1447d3bf4f6d77acc299a3
+msgid "**月租 :** 设置月租数额。"
+msgstr ""
+
+#: ../../代理商手册.md:389 d08f78b5f028408599c5531824b2f009
+msgid "**短信:** 能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择 SMS 费率。"
+msgstr ""
+
+#: ../../代理商手册.md:393 bf072fd738b249069cbe6eecbe9afd63
+msgid "**呼出:**能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
+msgstr ""
+
+#: ../../代理商手册.md:395 7eb8f0517bb14f89bf4ac8fe22ac881e
+msgid "**实际通话:**当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
+msgstr ""
+
+#: ../../代理商手册.md:397 81ffa318e276482c9a14721ea6a26da3
+msgid "**主叫通话:** 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
+msgstr ""
+
+#: ../../代理商手册.md:399 421d2ba68d8f44f9b89106aa8b093e5e
+msgid "**【账单和提醒】设置:**"
+msgstr ""
+
+#: ../../代理商手册.md:401 96dd44921dfa47518aa01a786c1f624b
+msgid ""
+"<img src=\"./_static/images/reseller/media/image24.png\" "
+"style=\"width:5.75903in;height:3.31875in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:404 251db1223c1249369a1aeb71e43b0071
+msgid "**余额不足提醒:** 设置余额不足后的提醒次数。"
+msgstr ""
+
+#: ../../代理商手册.md:406 b253acf070274b89ab8a0cc6586b225a
+msgid "**提醒方式:** 选择手机号码或者邮箱的提醒方式。"
+msgstr ""
+
+#: ../../代理商手册.md:408 076beb4b74664e5f9b7f30b2d0b84282
+msgid "**账单电子邮件地址:** 填写收到账单的电子邮件地址。"
+msgstr ""
+
+#: ../../代理商手册.md:410 0597ebdbd182430d9dd0b5163e58c70d
+msgid ""
+"<span "
+"class=\"mark\">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户的充值金额及交易时间，如有需要，还可以填写备注信息。</span>"
+msgstr ""
+
+#: ../../代理商手册.md:412 4ba729db064c464b801dd95a7cd54a9f
+msgid ""
+"<img src=\"./_static/images/reseller/media/image25.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:415 b4a88df7ac294e8487135365725dd94b
+msgid ""
+"<img src=\"./_static/images/reseller/media/image26.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:418 f40275a55552422185143874e0fe5619
+msgid "e. 语音设置："
+msgstr ""
+
+#: ../../代理商手册.md:420 7dbd4b434c7a4f78a525cad5ae60eafb
+msgid "DID号码："
+msgstr ""
+
+#: ../../代理商手册.md:422 500eb4d9e1824f3d8b6804deb25f925f
+msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
+msgstr ""
+
+#: ../../代理商手册.md:424 1924f2971c8445d6bf03ce56b3a99caf
+msgid ""
+"<img src=\"./_static/images/reseller/media/image27.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:427 54dd3f66f75a47008247a3dc766c5147
+msgid "**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID 名称】和【客户端】。**"
+msgstr ""
+
+#: ../../代理商手册.md:430 c824ebd3f5dd4a81bc8230377b29dc05
+msgid ""
+"<img src=\"./_static/images/reseller/media/image28.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:433 ../../代理商手册.md:472 7143d0e0edcc4ecba118e599bed3f513
+#: 987f216abf5d44e1969026785ecf3b01
+msgid "**ID:** 数据唯一ID。"
+msgstr ""
+
+#: ../../代理商手册.md:435 ba3e313b05ad4f9582f27999e9872a22
+msgid "**DID 号码:** 请输入did号码。"
+msgstr ""
+
+#: ../../代理商手册.md:437 c2b8ac02b04d4b5db8e423087e5495ce
+msgid "**DID 名称:** DID 名称用于帮助您在系统中识别 这个号码，如果设置了 DID名称，则在统计时使用。"
+msgstr ""
+
+#: ../../代理商手册.md:440 2c615c7b08224235845f328dce9b2e4f
+msgid "**Client:** 将这个did分配给client。"
+msgstr ""
+
+#: ../../代理商手册.md:442 b18bfb4f2470478dbe707d77ea306395
+msgid "**状态:** 当 DID 号码被禁用时，来电将被拒绝。"
+msgstr ""
+
+#: ../../代理商手册.md:444 f8978d5bee734981a10bcb0081fdbabb
+msgid "**呼入次数:** 此did号码本月的呼入次数。"
+msgstr ""
+
+#: ../../代理商手册.md:446 b2a496c8222044439749f807e1f357b7
+msgid "**呼入分钟数:**此DID号码本月呼入的分钟数。"
+msgstr ""
+
+#: ../../代理商手册.md:448 90aee9a7f64f4e72a37e6cd99c6c815b
+msgid "**属性:** 这里将显示 DID 号码的归属地信息（在号码归属地菜单中配置）。"
+msgstr ""
+
+#: ../../代理商手册.md:451 ebd5325232614ae8a5167ab352f16919
+msgid "**最后一次使用日期:** 该号码最后一次拨打时间。"
+msgstr ""
+
+#: ../../代理商手册.md:453 7d4f87d7bf654de2b77f2b7bc7c92a34
+msgid "**【高级】设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:455 cc1491d5bcdd4a8699f771efd4cd59b3
+msgid "可以选择国家，填写备注，这些是上一级设置的，代理商级别是不能修改的。."
+msgstr ""
+
+#: ../../代理商手册.md:457 072d5e8774614e2cb1250fbc12dcf47c
+msgid ""
+"<img src=\"./_static/images/reseller/media/image29.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:460 2dc460d54a4d40319da5c20eb09cb0e3
+msgid "外显号码："
+msgstr ""
+
+#: ../../代理商手册.md:462 427110e972934815b23777a33fd47edb
+msgid "外显号码即主叫号码，是呼叫客户时的号码。"
+msgstr ""
+
+#: ../../代理商手册.md:464 94d17903e53140eaa407c8a48b326d68
+msgid ""
+"<img src=\"./_static/images/reseller/media/image30.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:467 18a2709e93b24246842ed1b72b7ce704
+msgid "**单击【编辑】以编辑【外显号码】**"
+msgstr ""
+
+#: ../../代理商手册.md:469 8cfc8ed8fd4b4f7e8aa631a448d77c32
+msgid ""
+"<img src=\"./_static/images/reseller/media/image31.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:474 8d79f33d9e63482299a6461da6ed38d4
+msgid "**外显号码:** 请输入你要添加的外显号码。"
+msgstr ""
+
+#: ../../代理商手册.md:476 2c87c54c69db4443a5b58892f64b8dcd
+msgid "**供应商:** 你可以为这个外显号码选择一个供应商。"
+msgstr ""
+
+#: ../../代理商手册.md:478 e521171139b142d8812117d9eabcec3c
+msgid "**Client:** 你可以为这个外显号码选择一个client。"
+msgstr ""
+
+#: ../../代理商手册.md:480 12c0d6a87de64709816c76fd65193101
+msgid "f. 呼叫设置："
+msgstr ""
+
+#: ../../代理商手册.md:482 868947faba304137b728bef22ed1faab
+msgid "话机部署模版："
+msgstr ""
+
+#: ../../代理商手册.md:484 963cce3d1907411eb1bcdf79bc5a9435
+msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
+msgstr ""
+
+#: ../../代理商手册.md:486 3bfd197a74eb414d83ea3138d06a5605
+msgid ""
+"<img src=\"./_static/images/reseller/media/image32.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:489 d3f06d8c9cff4edea9d2fe5717f0c60b
+msgid "**单击【添加】进入【常规】设置：**"
+msgstr ""
+
+#: ../../代理商手册.md:491 c3ddbc277fed47d180c38ed63fa0c0ae
+msgid ""
+"<img src=\"./_static/images/reseller/media/image33.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:494 022f37c716b44672ab18311f70f91e2b
+msgid "**模版名称:** 请填入模版名称。"
+msgstr ""
+
+#: ../../代理商手册.md:496 c5eda2b6cc214fcdb7de0d63ee42bd68
+msgid "**话机品牌:** 请输入话机型号。"
+msgstr ""
+
+#: ../../代理商手册.md:498 a2c4df64699e4125a167bc04032ff99b
+msgid "**模版内容:** 请填入模版内容。"
+msgstr ""
+
+#: ../../代理商手册.md:500 a9feb353416f446498c8c83d6405de3c
+msgid "g. 监控管理："
+msgstr ""
+
+#: ../../代理商手册.md:502 797561e0451442e6810fb4084c09ca76
+msgid "实时监控："
+msgstr ""
+
+#: ../../代理商手册.md:504 276605f93cc74ebca8f51317160ba586
+msgid "**坐席组坐席:** 选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能显示数据。"
+msgstr ""
+
+#: ../../代理商手册.md:507 754045fce9eb4249a2c3e55706bab02e
+msgid ""
+"<img src=\"./_static/images/reseller/media/image34.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:510 8735cb4af4ff465d87afdb09cdfcd5dd
+msgid "**坐席组:** 选择需要监控的座席组，即当天有来电且活跃的座席组。"
+msgstr ""
+
+#: ../../代理商手册.md:512 6ee466ee0e344252af0ce94cca6ef0ee
+msgid ""
+"<img src=\"./_static/images/reseller/media/image35.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:515 2c0431a503fc4b9ca5bb473043c7a57a
+msgid "**坐席:** 选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据"
+msgstr ""
+
+#: ../../代理商手册.md:518 186f5da3a10148418573eb9767572d98
+msgid ""
+"<img src=\"./_static/images/reseller/media/image36.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:521 5b39f828269c484e859b594341881dda
+msgid "h. 日志记录："
+msgstr ""
+
+#: ../../代理商手册.md:523 8aa74676a0324613825107a99961342b
+msgid "**日志记录：**记录系统用户行为为日志。"
+msgstr ""
+
+#: ../../代理商手册.md:525 afead26fd6c244dcb7bdeb0da253db2f
+msgid ""
+"<img src=\"./_static/images/reseller/media/image37.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:528 4c01991fb9f74963a55f2e0aaee0c1e0
+msgid "系统："
+msgstr ""
+
+#: ../../代理商手册.md:530 1831b5796ab043fd99469f022f4b3790
+msgid "后台任务："
+msgstr ""
+
+#: ../../代理商手册.md:532 eebafde02ae341b99bb342ce1cf97018
+msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
+msgstr ""
+
+#: ../../代理商手册.md:534 ecbefc7d1aec47c8a10b4e436a87aef6
+msgid ""
+"<img src=\"./_static/images/reseller/media/image38.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:537 2f7d2846a32f479e8e52e174065d19ee
+msgid "公司信息："
+msgstr ""
+
+#: ../../代理商手册.md:539 b46774b6fd124fbb83796f601c35e86b
+msgid "在此页面您可以查看和编辑系统的公司信息。"
+msgstr ""
+
+#: ../../代理商手册.md:541 0c5c7df69e0d443b8f9440cef2ce87ab
+msgid ""
+"<img src=\"./_static/images/reseller/media/image39.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:544 03075b8c944247348fa1e5218b05900f
+msgid "1.2.3 工具栏"
+msgstr ""
+
+#: ../../代理商手册.md:546 a2b6b1b0c231473ab2bc47307b79baa7
+msgid "a. 后台任务"
+msgstr ""
+
+#: ../../代理商手册.md:548 45c51540d139405ca8853398c8f7fb5a
+msgid "可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。"
+msgstr ""
+
+#: ../../代理商手册.md:550 49e00e3a1be44a65bb72538651cf315a
+msgid ""
+"<img src=\"./_static/images/reseller/media/image40.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:553 888837a596e94decabf176bcc4c87e3e
+msgid "b. 通知"
+msgstr ""
+
+#: ../../代理商手册.md:555 73e32a89c9a44be8b111a64080c42c97
+msgid "将显示一些新消息。"
+msgstr ""
+
+#: ../../代理商手册.md:557 a4c4256e893147b2acc5c988486a8a58
+msgid ""
+"<img src=\"./_static/images/reseller/media/image41.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:560 e7b7c27ca45f433d9b014ca8d6a65644
+msgid "c. 语言"
+msgstr ""
+
+#: ../../代理商手册.md:562 be4dcf19093e4967945e9f24f446c131
+msgid "代理商用户可以从此下拉菜单中选择常见的语言类型。"
+msgstr ""
+
+#: ../../代理商手册.md:564 7c996f6fab0b4257bb77bd0e08cb46ea
+msgid ""
+"<img src=\"./_static/images/reseller/media/image42.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:567 a4ef1a1f37dd4bc6b140a03669704588
+msgid "d. 我的信息"
+msgstr ""
+
+#: ../../代理商手册.md:569 d98bdc48173c4472a008ab750433d973
+msgid "包括\\[我的档案\\]和\\[退出\\]"
+msgstr ""
+
+#: ../../代理商手册.md:571 01c4f5a46cbe46658e09472fb8afc775
+msgid "\\[我的档案\\]可编辑代理商用户的资料。"
+msgstr ""
+
+#: ../../代理商手册.md:573 ae48ee6aad3347d69f8fef43ea846221
+msgid "\\[退出\\]退出当前登录页面。"
+msgstr ""
+
+#: ../../代理商手册.md:575 648002d9bf1c4cd781ae455691a98b11
+msgid ""
+"<img src=\"./_static/images/reseller/media/image43.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../代理商手册.md:578 481ae15ce95d4b0f947e7cd9f9af0036
+msgid ""
+"<img src=\"./_static/images/reseller/media/image44.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
