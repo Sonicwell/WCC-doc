@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'WCC Documentation'
-copyright = '2025 Sonicwell Technology Ltd'
+copyright = '%Y Sonicwell Technology Ltd'
 author = 'The Sonicwell Team'
 
 release = '0.1'
@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
+    'sphinx_jinja2',
 ]
 
 intersphinx_mapping = {
