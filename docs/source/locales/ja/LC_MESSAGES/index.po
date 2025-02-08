@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-08 11:42+0900\n"
+"POT-Creation-Date: 2025-02-08 12:40+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: ja\n"
@@ -19,11 +19,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../index.rst:2 ffd4552670c3432cbb3ee9fa9356799e
+#: ../../index.rst:2 b8f7d80f80854e2db67f7c2716ee67e6
 msgid "Welcome to WCC documentation!"
 msgstr "WCC ドキュメントへようこそ!"
 
-#: ../../index.rst:4 745b6a9a8a494142bd51602d1e635090
+#: ../../index.rst:4 bcd889709c344fc8ae7de8df4c316674
 msgid ""
 "**WCC** contact center system is a cloud native solution, and also has an"
 " intelligent contact center architecture and solutions which is designed "
@@ -35,11 +35,11 @@ msgstr ""
 "マルチチャネルの顧客のニーズの高まりに合わせて設計されたインテリジェントなコンタクト "
 "センター アーキテクチャとソリューションも備えています。"
 
-#: ../../index.rst:8 af20ddc8a33a4e8ab6ddc3036146a51b
+#: ../../index.rst:8 fc3c6ae685c249d9b821a48d9638c4c5
 msgid "This project is under active development."
 msgstr "このプロジェクトは現在活発に開発中です。"
 
-#: ../../index.rst:11 00440b8d5db141fbb4019ab396ab4106
+#: ../../index.rst:11 9b002c1d53414ab49011ead45cae4321
 msgid "Contents"
 msgstr ""
 

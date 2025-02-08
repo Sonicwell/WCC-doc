@@ -14,5 +14,5 @@ Contents
    
    client手册
    root手册
-   代理商手
+   代理商手册
 
