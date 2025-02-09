@@ -148,7 +148,7 @@ msgstr "<span class=\"mark\">**パスワードの確認:**パスワードの再�
 
 #: ../../root/界面介绍.md:49 8f82f2db70394222bd343fa546d4f08f
 msgid "**<span class=\"mark\">【 高级 】 设置:</span>**"
-msgstr "**<span class=\"mark”>【 高度な 】 設定:</span>**"
+msgstr "**<span class=\"mark\">【 高度な 】 設定:</span>**"
 
 #: ../../root/界面介绍.md:51 6b71ec58a53447afb68f7e25d0591f67
 msgid "<img src=\"../_static/images/root/media/image6.png\" style=\"width:5.46389in;height:2.68958in\" />"
@@ -198,7 +198,7 @@ msgstr "<span class=\"mark\">**Tax ID**: このエージェントユーザーの
 
 #: ../../root/界面介绍.md:81 a925f8b7e9ff414581f8a0c98ab252a8
 msgid "<span class=\"mark\">**开户银行:** Please fill in the opening bank of this agent user's company.</span>"
-msgstr "<span class=\"mark”>**开户银行:** このエージェントユーザーの会社の開業銀行を記入してください。</span>"
+msgstr "<span class=\"mark\">**开户银行:** このエージェントユーザーの会社の開業銀行を記入してください。</span>"
 
 #: ../../root/界面介绍.md:84 997e8dfbb0ad490395ade50f8918c85b
 msgid "<span class=\"mark\">**账户名称**: Please fill in the company account name of this agent user.</span>"
@@ -249,7 +249,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:107 18dee41a32cc4ae4908a4326791ab95c
 msgid "<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>"
-msgstr "<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>"
+msgstr "<span class=\"mark\">[Add]を選択し、[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:109 e4a52ce71b4b4240b535f9af2e6b3056
 msgid "<img src=\"../_static/images/root/media/image10.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -261,7 +261,7 @@ msgstr "<span class=\"mark\">**ステータス**：このアカウントの有�
 
 #: ../../root/界面介绍.md:116 839efca26a654b72acc53faef76cc7d3
 msgid "<span class=\"mark\">**名**: 请输入用户的名。</span>"
-msgstr "<span class=\"mark”>**名**: ユーザー名を入力してください。</span>"
+msgstr "<span class=\"mark\">**名**: ユーザー名を入力してください。</span>"
 
 #: ../../root/界面介绍.md:118 076a0619818a452f9d824f62258ff41b
 msgid "<span class=\"mark\">**姓**: 请输入用户的姓。</span>"
@@ -343,7 +343,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:157 ../../root/界面介绍.md:175 b237faa6b3fe464aa8843738e1b0462c c6f2f942b23e4724855f65082360bcb4
 msgid "<span class=\"mark\">单击【添加】以进入【常规】设置：（如下图所示）</span>"
-msgstr "<span class=\"mark”>[Add]をクリックして[General]設定を入力します。</span>"
+msgstr "<span class=\"mark\">[Add]をクリックして[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:159 d061a3eeba784fc59859908e12c09928
 msgid "<img src=\"../_static/images/root/media/image16.png\" style=\"width:5.75972in;height:0.98681in\" />"
@@ -411,7 +411,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:199 ../../root/界面介绍.md:289 4c67895ba8bb417692b4776e4a702239 e214a5efc91549e688ad63272fa1d705
 msgid "<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>"
-msgstr "<span class=\"mark”>[追加]を選択し、[一般]設定を入力します。</span>"
+msgstr "<span class=\"mark\">[追加]を選択し、[一般]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:201 db658c5e23c647fb909c143744766e9e
 msgid "<img src=\"../_static/images/root/media/image22.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -431,11 +431,11 @@ msgstr ""
 
 #: ../../root/界面介绍.md:210 b5097a2e11b14aaabdb92b49f6f23a8e
 msgid "<span class=\"mark\">**所属销售漏斗**: 设置仅在指定销售漏斗下显示的呼叫结果。</span>"
-msgstr "<span class=\"mark”>**所属销售漏斗**: 通話結果が指定されたセールスファネルの下でのみ表示されるように設定します。</span>"
+msgstr "<span class=\"mark\">**所属销售漏斗**: 通話結果が指定されたセールスファネルの下でのみ表示されるように設定します。</span>"
 
 #: ../../root/界面介绍.md:213 c3776981164e4e9b8eb974790569e6bf
 msgid "<span class=\"mark\">**强制预约**: 必须建立预约，否则无法保存客户，也无法提交联系记录。</span>"
-msgstr "<span class=\"mark”>**强制预约**: アポイントメントが作成されていないと、クライアントを保存できず、コンタクトレコードを提出できません。</span>"
+msgstr "<span class=\"mark\">**强制预约**: アポイントメントが作成されていないと、クライアントを保存できず、コンタクトレコードを提出できません。</span>"
 
 #: ../../root/界面介绍.md:216 3fbb1b5560284ed59475493309b3cdba
 msgid "e. 计费:"
@@ -455,7 +455,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:225 0d7a40fffa134db2abea053be192c06c
 msgid "<span class=\"mark\">单击【编辑】进入【常规】设置：（如下图所示）</span>"
-msgstr "<span class=\"mark”>[Edit]をクリックして[General]設定を入力します。</span>"
+msgstr "<span class=\"mark\">[Edit]をクリックして[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:227 64db4505ab394da2b0c7f2e4789dfac5
 msgid "<img src=\"../_static/images/root/media/image24.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -592,7 +592,7 @@ msgstr "<span class=\"mark\">**初回課金**：初回課金とは、初回料�
 #: ../../root/界面介绍.md:302 c81d3552c28542f094ff643fd687e2e0
 msgid "<span class=\"mark\">**初始计费时长**: 初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。</span>"
 msgstr ""
-"<span class=\"mark”>***初始计费时长**: 初回課金時間は、通話開始料金に対応するマイルに相当する、通話開始時に課金される時間（秒）である。</span>"
+"<span class=\"mark\">***初始计费时长**: 初回課金時間は、通話開始料金に対応するマイルに相当する、通話開始時に課金される時間（秒）である。</span>"
 
 #: ../../root/界面介绍.md:305 edfc1deb007a49ef969a36766ea6e62c
 msgid "<span class=\"mark\">**费率**: 初始计费后每分钟的费率，单位是元/分。</span>"
@@ -620,7 +620,7 @@ msgstr "**<span class=\"mark\">時間:</span>**この料金プランが有効に
 
 #: ../../root/界面介绍.md:321 4ea0f39cf9444f26ad5ada55c589c662
 msgid "<span class=\"mark\">**费率名称**: 请选择一个已添加的费率计划。</span>"
-msgstr "<span class=\"mark”>**费率名称**: 追加された料金プランを選択してください。</span>"
+msgstr "<span class=\"mark\">**费率名称**: 追加された料金プランを選択してください。</span>"
 
 #: ../../root/界面介绍.md:323 b777e1ed6fa64c5192440ef764cc6462
 msgid "f. 语音设置:"
@@ -640,7 +640,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:332 d1195755457649149928c610e0117682
 msgid "<span class=\"mark\">选择【添加】并输入【常规】设置：</span>"
-msgstr "<span class=\"mark”>[Add]を選択し、[General]設定を入力します：</span>"
+msgstr "<span class=\"mark\">[Add]を選択し、[General]設定を入力します：</span>"
 
 #: ../../root/界面介绍.md:334 7e6138b2331a41febdd9aa81cd11046a
 msgid "<img src=\"../_static/images/root/media/image34.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -710,7 +710,7 @@ msgstr "<span class=\"mark\">**サーバーアドレス:** このサーバーの
 
 #: ../../root/界面介绍.md:376 d4db6aed9f044042b1cc40c7c3c41c0e
 msgid "<span class=\"mark\">**端口:** 请输入这个中继的端口号。</span>"
-msgstr "<span class=\"mark”>**ポート:** このリレーのポート番号を入力してください。</span>"
+msgstr "<span class=\"mark\">**ポート:** このリレーのポート番号を入力してください。</span>"
 
 #: ../../root/界面介绍.md:378 87ae13dcbae64882bb59bd3ec6c61bf5
 msgid "<span class=\"mark\">**用户名**:当验证方式是用户名/密码验证时，请输入用户名。</span>"
@@ -758,7 +758,7 @@ msgstr "<span class=\"mark\">**失敗:**失敗した通話の数。</span>"
 
 #: ../../root/界面介绍.md:408 57d0e303cdfb42d792887deb56b0610c
 msgid "<span class=\"mark\">**未应答:** 已拨打电话未应答数量。</span>"
-msgstr "<span class=\"mark”>**未回答:**ダイヤルされ、応答されなかったコール数。</span>"
+msgstr "<span class=\"mark\">**未回答:**ダイヤルされ、応答されなかったコール数。</span>"
 
 #: ../../root/界面介绍.md:410 ee3ea750b8334d698759d5378ff5676c
 msgid "<span class=\"mark\">【高级】设置：（如下图所示）</span>"
@@ -914,7 +914,7 @@ msgstr "<span class=\"mark\">**ステータス**：DID番号が無効になる�
 
 #: ../../root/界面介绍.md:492 dc59298f7d5d4a619956921b40db5ac7
 msgid "<span class=\"mark\">【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。</span>"
-msgstr "<span class=\"mark”>[詳細設定]設定：国を選択し、コメントや説明を記入することができます。</span>"
+msgstr "<span class=\"mark\">[詳細設定]設定：国を選択し、コメントや説明を記入することができます。</span>"
 
 #: ../../root/界面介绍.md:494 26e3a92d44644a7ea81dfa91998b9b81
 msgid "<img src=\"../_static/images/root/media/image45.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -936,7 +936,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:505 8320c1a7479c426fa9e423320835896f
 msgid "**<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>**"
-msgstr "**<span class=\"mark”>[追加]を選択し、[一般]設定を入力します。</span>**"
+msgstr "**<span class=\"mark\">[追加]を選択し、[一般]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:507 f6ff35e0390645748782e885c0f4ab9e
 msgid "<img src=\"../_static/images/root/media/image47.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -977,7 +977,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:525 961db128ffb9499c86dcf56040b82890
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>**"
-msgstr "**<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>**"
+msgstr "**<span class=\"mark\">[Add]を選択し、[General]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:527 58960bb1554c4bccb2c0d1bf6763d893
 msgid "<img src=\"../_static/images/root/media/image49.png\" style=\"width:5.75972in;height:2.83472in\" />"
@@ -1021,7 +1021,7 @@ msgstr ""
 
 #: ../../root/界面介绍.md:547 1fe2e371a58f420db63d32b011d7a800
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置:</span>**"
-msgstr "**<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>**"
+msgstr "**<span class=\"mark\">[Add]を選択し、[General]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:549 f01be8d6d1e24bcda37ad69b24fd61af
 msgid "**节点类型**: 选择节点类型，分为【普通】和【 Opensips 】。系统默认为【 普通 】"
@@ -1322,7 +1322,7 @@ msgstr "**マッチ・サプライヤー:** 文字列マッチングに使用す
 
 #: ../../root/界面介绍.md:715 98f5179309394ef88440e48cee8d9338
 msgid "<span class=\"mark\">编辑完【短信文件】后，如下图所示，点击保存（如下图）</span>"
-msgstr "<span class=\"mark”>【SMSファイル】を以下のように編集したら、【保存】をクリックします。</span>"
+msgstr "<span class=\"mark\">【SMSファイル】を以下のように編集したら、【保存】をクリックします。</span>"
 
 #: ../../root/界面介绍.md:717 c8f7cdb876794ee1ae42bb157a901439
 msgid "<img src=\"../_static/images/root/media/image66.png\" style=\"width:5.75972in;height:2.83472in\" />"

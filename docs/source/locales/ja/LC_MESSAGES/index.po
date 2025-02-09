@@ -44,7 +44,7 @@ msgid ""
 "designed for the growing needs of multichannel customers in order to "
 "deliver an intelligent and efficient operational experience for you."
 msgstr ""
-"**WCC**コンタクトセンター・システムは、クラウド・ネイティブ・ソリューショ"
+"**WCC** コンタクトセンター・システムは、クラウド・ネイティブ・ソリューショ"
 "ンであり、インテリジェントなコンタクトセンター・アーキテクチャとソリュー"
 "ションを備えています。"
 

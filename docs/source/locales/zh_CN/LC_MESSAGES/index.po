@@ -44,7 +44,7 @@ msgid ""
 "designed for the growing needs of multichannel customers in order to "
 "deliver an intelligent and efficient operational experience for you."
 msgstr ""
-"**WCC**联络中心系统是一个云本地解决方案，还拥有智能联络中心架构和解决方"
+"**WCC** 联络中心系统是一个云本地解决方案，还拥有智能联络中心架构和解决方"
 "案，专为满足多渠道客户日益增长的需求而设计，为您提供智能、高效的运营体"
 "验。"
 
