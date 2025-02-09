@@ -1,0 +1,958 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-09 20:42+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../reseller/WCC登录.md:1 6e86ac60d5d04621a0593c6a6f5387d0
+msgid "1.1 WCC 登录"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:3 749006cd6d86415c8380f30389cbb654
+msgid "在您正在使用的浏览器的地址栏中输入网站地址。 回车进入系统登录页面"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:5 57a5456096fc4ddea074dfe92931fb10
+msgid "用户【账户】和【密码】由上级用户预先设置。"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:7 db91fdefc993403f9dd9444284d73fa4
+msgid "输入正确的账号和密码，点击【登录】，即可成功进入系统。"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:9 276a8444e4d34bbdb5ac4d32b1848a41
+msgid "用户可以选择【记住密码】，浏览器会记住这次的账户密码，方便下次登录。"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:11 eef27486f4704786b2b29e3cb0c8c82f
+msgid ""
+"<img src=\"../_static/images/reseller/media/image1.png\" "
+"style=\"width:5.75972in;height:3.73542in\" alt=\"Screenshot from "
+"2024-05-20 10-15-38\" />"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:15 239c65585c0342d78fbcbda30c38459b
+msgid "用户进入系统后，从状态栏的下拉菜单中选择【注销】，确认无误后，成功注销系统。页面返回到用户登录页面。"
+msgstr ""
+
+#: ../../reseller/WCC登录.md:17 48aa3457bfaa4d4a92f7f3b7e4fd42a2
+msgid ""
+"<img src=\"../_static/images/reseller/media/image2.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:1 5ae986500d174e2d89cc42047984337c
+msgid "1.2 仪表盘介绍"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:3 2f4b0506f4d24615b5efc6ed6824f463
+msgid "1.2.1 I仪表盘概述"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:5 88344c0c4b124be7986feb45aef6662b
+msgid "WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2）上部状态栏和 （3） 中间工作区。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:7 1ac75d3df7f94f40a2ddb6449356517a
+msgid ""
+"<img src=\"../_static/images/reseller/media/image3.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:10 d3552110481347ad876f49d5d6cdea10
+msgid "1.2.2 工具栏"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:12 ca018a22475f47d2a4cc6961838bfb06
+msgid "a. 搜索："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:14 248718be2ef7469aafc4c584ebccc3b2
+msgid "在菜单栏中搜索所有菜单。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:16 5afd6b8479714776ad052ec6c68a48dc
+msgid "b. 仪表盘："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:18 ea05dcdc8ac14462a336dcca7fb00d3d
+msgid "代理商级别的仪表盘可以了解到整个代理商的通话情况、活跃坐席、did呼入情况等。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:20 6325c408aae74e09b0b36676cb028ad0
+msgid "c. 用户："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:22 eac0c4402bef4d2f9d218f764ddb3241
+msgid "Clients："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:24 1eb31a75f0524b4e97a1804533e33105
+msgid "由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:26 28a52de7d6d84a2882bd04e9e55d1640
+msgid ""
+"<img src=\"../_static/images/reseller/media/image4.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:29 7f88a138ab1e40cc9df80de7be906e67
+msgid "**单击【添加】以执行常【规】设置**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:31 abb155eaddee4242be344ec3efeab9ac
+msgid ""
+"<img src=\"../_static/images/reseller/media/image5.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:34 335deec262624b398aa49ec3d99869c5
+msgid "**域名:** 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:36 f6c39b245ca346fda2517d9664b324a1
+msgid "**客户名称:** 填写一个客户名称，该名称可以随时更改."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:38 653ebde672f74a0da571d94ad5531c24
+msgid "**用户名:** 用户将使用此用户名登录系统，一旦设置，将不再修改，必填。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:40 13e7dad6b3644c49bf2bf90bbc1262a9
+msgid "**密码:**用户将使用此密码登录，必填。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:42 911c569445014f748e0ab684e1007790
+msgid "**确认密码:** 再次确认您的密码，并确保两次密码相同，必填。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:44 fdde45ac4a1f4fea89a42d4eaf8196f4
+msgid "**名:** 请填写此用户的名字。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:46 d497495674bf45f49c263d34d1daf01f
+msgid "**姓:** 请填写此用户的姓氏，必填。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:48 5c7f5fbccb094cb28a371819fc6aca3d
+msgid ""
+"**状态:** 客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示“帐户不存在或密码不正确”。 "
+"当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:54 ../../reseller/仪表盘介绍.md:258
+#: ../../reseller/仪表盘介绍.md:367 1c8964546436424d8551b7dbbd6956aa
+#: 5f3b573f79394012b95ef6d25a736821 f37c6a43258f4f58adcb86cebb184966
+msgid "**【高级】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:56 dbd5ca2998f94a57b382b10ab2b40fe6
+msgid ""
+"<img src=\"../_static/images/reseller/media/image6.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:59 8ef51d8bca364a48962ccb20b0811c66
+msgid "**多客户包:** 允许client创建多个客户包。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:61 055dd37259f644518fad00858c52eca7
+msgid "**时区:** 请选择此client的时区，一旦设置，将不会修改。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:65 5bfb2348c19a416d993f1ed3f701e00c
+msgid "**事件类型:** 系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时启用:"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:68 96b8ecf8b3734652b9739b437d6ee7fa
+msgid "**呼叫事件:**  您可以获得简单的事件，例如通话的创建、回答、挂断。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:70 a6583a931aa64acaae52c732773a4038
+msgid "**坐席事件:**  您可以接收到一路通话的所有事件，例如座席振铃、座席应答、被叫振铃、被叫方应答，挂断等。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:73 f055e52982fa436b9f2bac71a2dd9e36
+msgid "**通话记录:**  当通话结束后，系统会将通话记录推送到指定地址."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:75 6d0fa406b7594685b2ef80bcbfc8a817
+msgid "**事件接收地址:** 如果你需要从系统接收事件，请提供一个可用的地址。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:77 cf1a0bf9a6ab46c19b549a335e4ed2cb
+msgid "**隐藏费率:** 您可以设置此client用户是否具有隐藏汇率。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:79 d3a0b139eaec4a30904155157270168c
+msgid "**录音设置:** 请选择哪类通话需要被录音。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:81 53bbf38691654be9a0b519cacae72fab
+msgid "**录音格式:**请选择录音的格式有 MP3 and WAV 两种类型可供选择."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:83 4739efb2fec140018c042aa7880653ea
+msgid "**录音文件格式:** 你可以自定义录音文件的命名规则，可用的变量包括:"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:95 04f76e8cc1f144a898940fa82a9bb907
+msgid "**IP访问白名单:** 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:98 a639cb32b10446e1a22b8c814de25ecf
+msgid "**自动部署用户名:** 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的用户名。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:101 50620d4bde514af69347000b637a0327
+msgid "**自动部署密码:** 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:106 80239c8013b24d13a6033cc26f77178a
+msgid "**【呼叫设置】:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:108 37a4f9e460cc49eca3276134f55edc2b
+msgid ""
+"<img src=\"../_static/images/reseller/media/image7.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:111 a46fc5c7b56b4bd8929585d599ae85c5
+msgid "**外呼档案:** 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:114 9757de2362eb450089c8b772e5dcffef
+msgid "**SRTP:** 启用加密语音流，如果client开启了加密，响应注册的话机也需要开启tls模式。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:117 1a738c426c724901b88e14dcc768f211
+msgid "**外显号码轮询:** 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多个主叫号码时生效。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:120 d4885f8b98c74463be3166035402e295
+msgid "**外显号码限制:** 请在这里输入改client可以使用的所有主叫号码，如果没有输入，则表示该客户可以选择使用任何主叫号码。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:125 888f70ebf5e74030abbb8517942f8fef
+msgid "**【AI赋能】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:127 5587d1958e6346da8da7935e117142ca
+msgid ""
+"<img src=\"../_static/images/reseller/media/image8.png\" "
+"style=\"width:5.75764in;height:3.32083in\" alt=\"Screenshot from "
+"2024-05-20 10-51-47\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:131 b950400f93a54378809c93f3d37aa552
+msgid "**AI 参数配置:** 联系管理管理员进行配置。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:133 f371a5db39f549e7ba18710e360b2d3c
+msgid "**【API 限制】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:135 1a8c839e5a5c44388698552a668c0656
+msgid ""
+"<img src=\"../_static/images/reseller/media/image9.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:138 a15ea520f2be4a98b85b2dd7ddf92102
+msgid "**短信:** 请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:141 b28ba61e6a5a45f99df4c32d0c8f86b5
+msgid "**通知:** 请设置通知调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:144 712fbbd9f51f4721806bfb26df2d85c3
+msgid "**广播:** 请设置广播调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:147 c8d7dd5f77d54c0db12c90c615f5ca81
+msgid "**点击呼叫:** 请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:150 8ceecd98259b4fdda03affe628ee4088
+msgid "**【客户信息】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:152 c470c785e1d04b3b99bc3a0bed078c09
+msgid ""
+"<img src=\"../_static/images/reseller/media/image10.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:155 9c5e8b9454364c4daaa659e600aa6de7
+msgid "**公司名称:** 请填写公司名称。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:157 d12f9e1de9b248b2996be1500c49c184
+msgid "**注册地址:** 请填写注册地址。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:159 01a85a85185a46118971a01c74a8970b
+msgid "**联系电话:** 请填写联系电话。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:161 974513e08ace4d909546c60e38e4696f
+msgid "**公司网址:** 请填写公司网站。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:163 95c3b3476f254c039d78720a38dd2d3f
+msgid "**电子邮件:** 请填写电子邮件。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:165 d400bbaba9524911bfa15bbcf48c5bda
+msgid "**税号:** 请填写税号。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:167 d13d7900f2e44fa9bb5986a1ed7410f8
+msgid "**开户银行:** 请填写开户银行。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:169 8342ffde60aa4c519a5d437140c76aea
+msgid "**账户名称:** 请填写账户名称。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:171 ae517e8236634b1a85d04e4163945b6a
+msgid "**账号:** 请填写账号。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:173 0ae1bfa62e46446ea58c729913071011
+msgid "**办公地址:** 请填写办公室地址。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:175 23555a62c80546e5ba545240ecc26c90
+msgid "**【信息】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:177 bf71412a264f44f5a12d241d1c060943
+msgid ""
+"<img src=\"../_static/images/reseller/media/image11.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:180 b47a32fd940347e49276867b97a277da
+msgid "**邮件服务器:** 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:183 bfb4ba4bbbc441ccb557fd7614e225ff
+msgid "**短信档案:** 请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:186 507bb0c44e5c4c4f9b2e78ec91e65889
+msgid "**【其他】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:188 47334487430649aa960c95929bd909a6
+msgid ""
+"<img src=\"../_static/images/reseller/media/image12.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:191 e66c668c7ba1488698b676beab7ebb82
+msgid ""
+"**禁止坐席web登录:** "
+"您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:194 72e13ab6de664d32b018d65cb8f271bd
+msgid "**账号超时时间:** 登录账号超时时间。 (单位：分钟)"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:196 6d622a1086e3451c899fe67f480947b8
+msgid "**坐席超时时间:** 坐席登录超时时间。 (单位：分钟)"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:198 8d2e215cfa5a4234860ec0be02ec6c28
+msgid "**坐席浏览器超时时间:** 如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:201 1969773d45ff4733a165f81c88f2da8a
+msgid "**隐藏页面组件:** 隐藏的页面不会在client左侧菜单显示（左侧围默认显示，右侧围隐藏）。."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:204 80bd59217bb946438e2c1a995978cd96
+msgid "账户："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:206 42175f9573d14fa68148d1c4d47e18ea
+msgid "账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:208 fdc0ced569ed441199d0c54d85907df1
+msgid ""
+"<img src=\"../_static/images/reseller/media/image13.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:211 6c22587db8de47cb914c630108405e1a
+msgid "**点击\\[添加\\] 进入\\[常规\\] 设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:213 4d7825c57fb6483a8b5fcadc21eb6a68
+msgid ""
+"<img src=\"../_static/images/reseller/media/image14.png\" "
+"style=\"width:5.75764in;height:3.32083in\" alt=\"Screenshot from "
+"2024-05-20 10-58-00\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:217 d9aca61110d3491b8b869761041e8aa4
+msgid "**用户名:** 用户将用此用户名进行系统登录。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:219 bd4569d341314aef8bea264600d4d9b4
+msgid "**状态:** 你可以将这个账户临时禁用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:221 6db8cb6d97994c7993c7857332d8c63a
+msgid "**名:** 请输入用户的名字。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:223 3cba379bac0f417895b88cec2a50668f
+msgid "**姓:**请输入用户的姓氏。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:225 83aafbcb01874ba6a8cf997b8686548c
+msgid "**密码:** 用户将用词密码进行系统登录。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:227 5650259ecfe0429dbb48b63f39c6d0cd
+msgid "**确认密码:** 请再次输入密码，确保两次密码相同。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:229 4aca6847b8234e07b2eeed9ac876247e
+msgid "**所属角色:** 角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:232 e0c5729d1fab4707af9bcb8ad00c57e0
+msgid "**【高级 】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:234 094aaa66de904587a807c412f79cc9ae
+msgid ""
+"<img src=\"../_static/images/reseller/media/image15.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:237 c7dbeddddac64794a5b1fb9e098886a6
+msgid "**备注:** 您可以在此处设置有关此帐户的一些注释信息。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:239 92f91c7b15d14c6c83a6f35e89f2f7f4
+msgid "角色和权限："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:241 58edf094fb3f4488827e56d459c61f9a
+msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:243 6f7e0bbc59a843248d289612cdc241f5
+msgid ""
+"<img src=\"../_static/images/reseller/media/image16.png\" "
+"style=\"width:5.96528in;height:3.44097in\" alt=\"IMG_256\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:246 00a866c625d04944a26918d350d34865
+msgid "**在 \\[添加/编辑\\] 角色权限中，可以设置 \\[常规\\] 设置来命名角色。**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:248 9d0a3c7f7d7b4dc380bf31ecdfa97cde
+msgid ""
+"<img src=\"../_static/images/reseller/media/image17.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:251 4a08434878af4d5692407274eec99893
+msgid "**【编辑】:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:253 4129daba44d24701a5fbd60aa9246919
+msgid ""
+"<img src=\"../_static/images/reseller/media/image18.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:256 370f67d3a222471b8a12e68c32cc3a92
+msgid "**名称:** 请为这个权限角色命名。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:260 7a6d9292d1724ab4ac82d8139c085b83
+msgid "**控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:262 2afcf980a5d44fafa08a856150718db8
+msgid ""
+"<img src=\"../_static/images/reseller/media/image19.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:265 19b29f2b8b0648978d3161ea8497e6d5
+msgid "**【权限】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:267 047d03f2cfaf4aa7be65475888ff0432
+msgid "**控制具有此角色的用户的页面显示权限。**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:269 33892549b1704bbba2de76e9ca597eea
+msgid ""
+"<img src=\"../_static/images/reseller/media/image20.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:272 a8ae66a3a2f449e79615f7916f5eb1c2
+msgid "d. 计费："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:274 59f49f78b6e145a2b617ebff6997d996
+msgid "客户计费："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:276 498de534ff084cb0b64fc3ac736ce280
+msgid "它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:278 46fb969790074f3c892e6f32edcd8ecf
+msgid ""
+"<img src=\"../_static/images/reseller/media/image21.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:281 c8cb64be5d5f498d83daa42b74f97e09
+msgid "**单击 \\[编辑\\] 执行 \\[常规\\] 设置。**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:283 62c3e89de7f547fdabc2b3c0e0cd8966
+msgid ""
+"<img src=\"../_static/images/reseller/media/image22.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:286 1d2b126c741e4ace8e00312a602bb652
+msgid "**ID:** 数据的唯一 ID。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:288 062ba2c0dee9435f81d01487632964b5
+msgid "**客户名称:** 客户名称是新经销商用户的名称，无法修改。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:290 b40319ec4409403a8a60b93f1eeec6f1
+msgid "**域名:** 域名是已新增的代理商用户的域名，不可以再修改。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:292 9e0339eaf5e8440497754f5aa5dc5b76
+msgid "**【计费】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:294 c531143608bc4888a6ad85c77314b56b
+msgid ""
+"<img src=\"../_static/images/reseller/media/image23.png\" "
+"style=\"width:5.62153in;height:2.66944in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:297 38851c11dc7443378dd92ccdf3fd3605
+msgid "**应缴费用:** 应当缴纳的本期费用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:299 a4d28d7502c948eea0825c04488ef3b6
+msgid "**最大坐席数量:** 允许使用的最大坐席数量。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:301 728516e218b84ca1bcf25759189c623c
+msgid "**付款方式:** 选择付款方式预付款或后付款。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:303 3cc3484ab22941c5820bb099fe7067f9
+msgid "**信用额度:** 设置可使用的信用额度。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:305 1b75663b6b3440de8a19e6cbc9051739
+msgid "**月租 :** 设置月租数额。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:307 39028db08c924e85b117bd1e3a1cd0f6
+msgid "**短信:** 能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:310 a6abb8e46e1e4766a57c8dfb3e4c663f
+msgid "**呼出:**能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:312 f23e421113764d5cb2586b5adb5c4829
+msgid "**实际通话:**当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:314 6003bb58dc4942148af6ac34b6645a1a
+msgid "**主叫通话:** 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:316 888267cb5632468b9a4457762347ab34
+msgid "**【账单和提醒】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:318 bb4219fadc1a4473be88bf099d8b1c72
+msgid ""
+"<img src=\"../_static/images/reseller/media/image24.png\" "
+"style=\"width:5.75903in;height:3.31875in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:321 1a79d8607d0e439bb7ead642f477dd77
+msgid "**余额不足提醒:** 设置余额不足后的提醒次数。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:323 dbf311885efc41b2b0c13dcbe867fb52
+msgid "**提醒方式:** 选择手机号码或者邮箱的提醒方式。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:325 30a94a4ca94042e9acd5c14b35ece29a
+msgid "**账单电子邮件地址:** 填写收到账单的电子邮件地址。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:327 18c89b82f93242ee9214b053904080af
+msgid ""
+"<span "
+"class=\"mark\">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户的充值金额及交易时间，如有需要，还可以填写备注信息。</span>"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:329 435f95b51a124f62a921c1de79785d91
+msgid ""
+"<img src=\"../_static/images/reseller/media/image25.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:332 3ed894972067405b93fd1543fac5bacb
+msgid ""
+"<img src=\"../_static/images/reseller/media/image26.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:335 40f0fbb8d429417098ec43f029d7fe57
+msgid "e. 语音设置："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:337 603c4e2ba83e404090afcdb55bfde8c9
+msgid "DID号码："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:339 6fdf1cc8e7b64094b56b64b8e61eb840
+msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:341 b5dfb8ddfceb4a17b6e25389ccde6e8e
+msgid ""
+"<img src=\"../_static/images/reseller/media/image27.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:344 f1fdd1ee8d234369a517bc28ab780f96
+msgid "**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名称】和【客户端】。**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:346 8926e67a8b4f4e5d885aaaf72ada57f6
+msgid ""
+"<img src=\"../_static/images/reseller/media/image28.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:349 ../../reseller/仪表盘介绍.md:386
+#: 16fc12f673834c93a7a5f2eb06609f54 9cd452ae05cd4a2eba94a99863e0c4a6
+msgid "**ID:** 数据唯一ID。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:351 7ec233fa935e413fa95301d5e5408803
+msgid "**DID 号码:** 请输入did号码。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:353 712fb3dfd6454fcab890f606c0ec1ce7
+msgid "**DID 名称:** DID 名称用于帮助您在系统中识别 这个号码，如果设置了DID名称，则在统计时使用。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:355 ab55c30ccb4b4fb6802a069ba44f5998
+msgid "**Client:** 将这个did分配给client。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:357 6041fd03a57648f0a3fa5d606c63c1f2
+msgid "**状态:** 当 DID 号码被禁用时，来电将被拒绝。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:359 43577788767e4bae954b905a3d674c59
+msgid "**呼入次数:** 此did号码本月的呼入次数。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:361 04d3ede699a94e2fa9cf872ea21195f6
+msgid "**呼入分钟数:**此DID号码本月呼入的分钟数。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:363 4ef7b070c54c4c71a2f339ee970874fc
+msgid "**属性:** 这里将显示 DID号码的归属地信息（在号码归属地菜单中配置）。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:365 d9ce6eb5a3e74884b72eda166c7bd160
+msgid "**最后一次使用日期:** 该号码最后一次拨打时间。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:369 2332224370bc45da9b051e8ecacd7920
+msgid "可以选择国家，填写备注，这些是上一级设置的，代理商级别是不能修改的。."
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:371 2f316a9ad2f54601b8ac3fc040763a77
+msgid ""
+"<img src=\"../_static/images/reseller/media/image29.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:374 cd67cc26622045569587c1cd1625a3de
+msgid "外显号码："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:376 b146e43d974b4e04825a1c4ffb79df94
+msgid "外显号码即主叫号码，是呼叫客户时的号码。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:378 54563098873e4f969268571fe73b58d2
+msgid ""
+"<img src=\"../_static/images/reseller/media/image30.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:381 f8ed3d2a118d44d2953defe1f505c0e6
+msgid "**单击【编辑】以编辑【外显号码】**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:383 5cc1c3c843b24e3086a41f8e3de558f4
+msgid ""
+"<img src=\"../_static/images/reseller/media/image31.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:388 6e8f3231895d40028593b14ea29d7758
+msgid "**外显号码:** 请输入你要添加的外显号码。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:390 fbb4ff4d86624b09b87f2d33de25c6da
+msgid "**供应商:** 你可以为这个外显号码选择一个供应商。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:392 2e9aa45d755d4b8498cc38eac7ea2264
+msgid "**Client:** 你可以为这个外显号码选择一个client。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:394 b3401666e4ba4bf08265c277f2151850
+msgid "f. 呼叫设置："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:396 8d329074c68c4b48afd252031ea528f2
+msgid "话机部署模版："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:398 0877a658f87148dd8a85cf573a740ee5
+msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:400 50ac4f5ee600470ba1b96c38b7378c26
+msgid ""
+"<img src=\"../_static/images/reseller/media/image32.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:403 b3196772eaef450f95cae29d84ebc414
+msgid "**单击【添加】进入【常规】设置:**"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:405 4c0f60bc57914bd0b09452a43ce9630f
+msgid ""
+"<img src=\"../_static/images/reseller/media/image33.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:408 9513c8f0641e4395b4a40bcd0202b434
+msgid "**模版名称:** 请填入模版名称。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:410 e633a5846d32482fad93950dde958525
+msgid "**话机品牌:** 请输入话机型号。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:412 e0eaea038dac41e993be9e17856b9dae
+msgid "**模版内容:** 请填入模版内容。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:414 05f760a99d5946dd97b74ca742276bc1
+msgid "g. 监控管理："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:416 e48916a4325e42ff8925e82a7aa7c50e
+msgid "实时监控："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:418 1a805e739b7f4605bcc2aded51e40a59
+msgid "**坐席组坐席:** 选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能显示数据。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:421 bd64eff6b61b46dcb590b480a9f77aee
+msgid ""
+"<img src=\"../_static/images/reseller/media/image34.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:424 1892f280d21d4bc09dd64c9e980700c6
+msgid "**坐席组:** 选择需要监控的座席组，即当天有来电且活跃的座席组。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:426 e794871b2fae4f61913cf726281a46bf
+msgid ""
+"<img src=\"../_static/images/reseller/media/image35.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:429 21057e672e1143448da6c02a29bf1c52
+msgid "**坐席:** 选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:432 e65ef9309f1044e093e8547205d539d2
+msgid ""
+"<img src=\"../_static/images/reseller/media/image36.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:435 e4633e8b49b1440e89cd1a5dd0dac880
+msgid "h. 日志记录："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:437 b2b3d39e726745c48daa773b63425cb8
+msgid "**日志记录:**记录系统用户行为为日志。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:439 1e9b807488ce4c5d84fb20832387b436
+msgid ""
+"<img src=\"../_static/images/reseller/media/image37.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:442 2325318488e94035834c35a0a2154c6e
+msgid "系统："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:444 593f36af5fd1431abf14f21bbaa81ded
+msgid "后台任务："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:446 0dd0a64601f94974bf92c865b86ef0c0
+msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:448 aabcc2bdac16477bb66f357a06ae52f2
+msgid ""
+"<img src=\"../_static/images/reseller/media/image38.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:451 b0761316d1ad43dba227179de30dc1d3
+msgid "公司信息："
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:453 1907401ec32442d1bc9179adf55bcc9d
+msgid "在此页面您可以查看和编辑系统的公司信息。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:455 7df22c52ac2849a097c1d4f61aaf0148
+msgid ""
+"<img src=\"../_static/images/reseller/media/image39.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:458 71c7d1f4ba54450f8213628595825443
+msgid "1.2.3 工具栏"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:460 b19628fd84384f87a1bd36f84f5e9f84
+msgid "a. 后台任务"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:462 0039a6936e1b4e09b2c40b7267097ca2
+msgid "可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:464 c1cb627f27424354b58fe8f63fcd7c90
+msgid ""
+"<img src=\"../_static/images/reseller/media/image40.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:467 85f417b79f9a4f959c90c120765ad3b1
+msgid "b. 通知"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:469 3df156a710b147799e35b7ee93369e37
+msgid "将显示一些新消息。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:471 07bd19abe8b14d51b6cd270256598576
+msgid ""
+"<img src=\"../_static/images/reseller/media/image41.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:474 05ec69266ceb42dcb12f8d34868a17f0
+msgid "c. 语言"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:476 a1da10fb922b4dba95c103df4f6d682b
+msgid "代理商用户可以从此下拉菜单中选择常见的语言类型。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:478 01cfcf54f4f8465888347d3fa42acc4a
+msgid ""
+"<img src=\"../_static/images/reseller/media/image42.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:481 2051e64067704cd09295d0a60e345512
+msgid "d. 我的信息"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:483 8a3c6165f8c44a908bea05c003d96a36
+msgid "包括\\[我的档案\\]和\\[退出\\]"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:485 b05d600a0e75499e96d6cd26012c8835
+msgid "\\[我的档案\\]可编辑代理商用户的资料。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:487 2734b0d9ede5438bbf1ea4790b64daf8
+msgid "\\[退出\\]退出当前登录页面。"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:489 883320478ee94ad2a331b808db692258
+msgid ""
+"<img src=\"../_static/images/reseller/media/image43.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../reseller/仪表盘介绍.md:492 c32ba83ba41948a9b657566ea4e2a5b5
+msgid ""
+"<img src=\"../_static/images/reseller/media/image44.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
