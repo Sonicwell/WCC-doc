@@ -10,231 +10,207 @@ msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-09 20:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2025-02-09 21:58+0800\n"
+"Last-Translator: menglj\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.5\n"
 
 #: ../../root/WCC登录.md:1 2159f46efdf64cf8b40ae5ff42f72ba8
 msgid "1.1WCC 登录"
-msgstr ""
+msgstr "1.1WCCログイン"
 
 #: ../../root/WCC登录.md:3 03cdbeada5a74219a6c0bdc2e9a284d7
 msgid "在您使用的浏览器地址栏中输入网站地址，回车进入系统登录页面。"
-msgstr ""
+msgstr "ご使用のブラウザのアドレスバーにウェブサイトのアドレスを入力し、Enterを押してシステムログインページにアクセスしてください。"
 
 #: ../../root/WCC登录.md:5 2d263c49589a4f10b31f354f21142414
-msgid "用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
+msgid ""
+"用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
 msgstr ""
+"ユーザーアカウントとパスワードは事前に設定されており、正しいアカウントとパスワードを入力し、[ログイン]を選択すると、正常にシステムに入ることができま"
+"す。ユーザーは[記憶]を選択することができ、ブラウザは今回のアカウントパスワードを記憶し、次回のログインに便利です。"
 
 #: ../../root/WCC登录.md:7 464cf3f808e340eca1e8e1878af37524
 msgid "（如下图所示）"
-msgstr ""
+msgstr "下図"
 
 #: ../../root/WCC登录.md:9 d05cbf7548b54786a94c2a557a6a3a8f
-msgid ""
-"<img src=\"../_static/images/root/media/image1.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image1.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/WCC登录.md:12 8674314483bf49e98451065bc4474a20
 msgid "用户进入系统后，在状态栏下拉菜单中选择【退出】，确认，成功退出系统。页面返回用户登录页面（如下图所示）。"
 msgstr ""
+"ユーザーがシステムに入った後、ステータスバーのドロップダウンメニューから[ログアウト]を選択し、確認し、システムから正常にログアウトします。ユーザーロ"
+"グインページ（下図）に戻ります。"
 
 #: ../../root/WCC登录.md:14 8f07c8b7a2644f3981baeddf55b47f04
-msgid ""
-"<img src=\"../_static/images/root/media/image2.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image2.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:1 0de8ee05c063406f99189051281d4000
 msgid "1.2 界面介绍"
-msgstr ""
+msgstr "1.2 インターフェイスの紹介"
 
 #: ../../root/界面介绍.md:3 c6eb28c37eb1499eb9420ccb46e27e8d
 msgid "1.2.1 界面介绍"
-msgstr ""
+msgstr "1.2.1 インターフェイスの紹介"
 
 #: ../../root/界面介绍.md:5 b306d8ad15a6414bb799a8500ed98fda
 msgid "WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②上方状态栏、③中间工作区。（如下图所示）"
 msgstr ""
+"WCC システムルートインタフェースウィンドウは、①左メニューバー、②上部ステータスバー、③中 央ワークスペースの 3 つの主要エリアから構成される。下図"
 
 #: ../../root/界面介绍.md:7 a5eb7195614d4cc6a9639aad514643f1
-msgid ""
-"<img src=\"../_static/images/root/media/image3.png\" "
-"style=\"width:5.65486in;height:2.78333in\" />"
+msgid "<img src=\"../_static/images/root/media/image3.png\" style=\"width:5.65486in;height:2.78333in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:10 7cd641a2c82043c5b6f912812de31254
 msgid "菜单栏"
-msgstr ""
+msgstr "メニューバー"
 
 #: ../../root/界面介绍.md:12 0f7f0d885cb544509dc0a1b805e6133d
 msgid "a. 仪表盘:"
-msgstr ""
+msgstr "a. ダッシュボード:"
 
 #: ../../root/界面介绍.md:14 44591ca3c5294225ac8bf6bc3c9444a6
 msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：外拨/已应答、在线代理、DID入站、入站区域和出站区域。"
 msgstr ""
+"システムユーザーは、ダッシュボードで統計を見ることができます：システムユーザーは、ダッシュボードで統計を見ることができます：発信/応答、オンライン"
+"エージェント、DIDインバウンド、インバウンドゾーン、アウトバウンドゾーン。"
 
 #: ../../root/界面介绍.md:16 143316a15825499582cd73c4f4d7020b
-msgid ""
-"<img src=\"../_static/images/root/media/image4.png\" "
-"style=\"width:5.56875in;height:2.74097in\" />"
+msgid "<img src=\"../_static/images/root/media/image4.png\" style=\"width:5.56875in;height:2.74097in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:19 197f2d485c8845d381d5af1229376c46
 msgid "b. 用户:"
-msgstr ""
+msgstr "b. ユーザー:"
 
 #: ../../root/界面介绍.md:21 1c97a6dd5080486984eecf76d4417bee
 msgid "**代理商:**"
-msgstr ""
+msgstr "**エージェント:**"
 
 #: ../../root/界面介绍.md:23 b00dcc98711441d9a4a4a7d447ce29fa
 msgid "由系统用户建立"
-msgstr ""
+msgstr "システムユーザーが作成"
 
 #: ../../root/界面介绍.md:25 f786f4b60b844f92883eac80c6b14d73
 msgid "选择【添加】，进入【常规】添加代理的设置：（如下图）"
-msgstr ""
+msgstr "[Add]を選択し、エージェントの設定を追加するために[General]を入力します。"
 
 #: ../../root/界面介绍.md:27 794a479f4f884a67ad1f10938b2086e6
-msgid ""
-"<img src=\"../_static/images/root/media/image5.png\" "
-"style=\"width:5.75694in;height:2.73333in\" />"
+msgid "<img src=\"../_static/images/root/media/image5.png\" style=\"width:5.75694in;height:2.73333in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:30 6b34ede47c514a9d8f0144751c6a4f7e
 msgid ""
-"**<span class=\"mark\">域名:</span>** <span "
-"class=\"mark\">每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字（0-9）、字符（.-）的组合。</span>"
+"**<span class=\"mark\">域名:</span>** <span class=\"mark\">每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字"
+"（0-9）、字符（.-）的组合。</span>"
 msgstr ""
+"**<span class=\"mark\">ドメイン名:</span>** <span class=\"mark\">各エージェントユーザは、ユニークなドメイン名を持つ必要があります。ドメイン名は、ア"
+"ルファベット（a-zA-z）、数字（0-9）、文字（.-).</span>"
 
 #: ../../root/界面介绍.md:33 016c5a5d07b54065b83a77d677050890
 msgid "<span class=\"mark\">**代理商**: 请指定该代理商的姓名，姓名可以随时更改。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ディストリビューター**：このディストリビューターの名前を指定してください。</span>"
 
 #: ../../root/界面介绍.md:35 6e389de320664fbba14d00532b481621
-msgid ""
-"**<span class=\"mark\">费率:</span>** <span "
-"class=\"mark\">为代理商设定适用的费率范围。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">费率:</span>** <span class=\"mark\">为代理商设定适用的费率范围。</span>"
+msgstr "**<span class=\"mark\">费率:</span>** <span class=\"mark\">エージェントに適用される料金範囲を設定します。</span>"
 
-#: ../../root/界面介绍.md:38 ../../root/界面介绍.md:112
-#: 7f3dc43f7fc04250839b3d7f790266d1 fe171d184f06436792f588b61d701eb0
+#: ../../root/界面介绍.md:38 ../../root/界面介绍.md:112 7f3dc43f7fc04250839b3d7f790266d1 fe171d184f06436792f588b61d701eb0
 msgid "<span class=\"mark\">**用户名**: 用户将使用该用户名登录系统。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ユーザー名**：ユーザーはこのユーザー名を使ってシステムにログインする。</span>"
 
 #: ../../root/界面介绍.md:40 a0b7b5f7e1ad414fbabe438400ad7e39
 msgid "<span class=\"mark\">**名**: 请填写该代理商用户的名称。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**Name**: エージェントのユーザー名を記入してください。</span>"
 
 #: ../../root/界面介绍.md:42 217af23454a242da82ea196a611f4ad8
 msgid "<span class=\"mark\">**姓**: 请填写该代理商用户的姓。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**姓**：エージェントの利用者の姓を記入してください。</span>"
 
 #: ../../root/界面介绍.md:44 96505520d91c46f48daf2955c8c686d4
-msgid ""
-"**<span class=\"mark\">密码:</span>** <span "
-"class=\"mark\">填写用户登录密码，用户将使用此密码登录系统。</span>"
+msgid "**<span class=\"mark\">密码:</span>** <span class=\"mark\">填写用户登录密码，用户将使用此密码登录系统。</span>"
 msgstr ""
+"**<span class=\"mark\">パスワード:</span>** <span class=\"mark\">ユーザーがシステムにログインする際に使用するログインパスワードを入力します。</span>"
 
 #: ../../root/界面介绍.md:47 0d663e885d984d02b0bd02d8b63fdc9b
 msgid "<span class=\"mark\">**确认密码:**再次确认密码，确保两次密码相同。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**パスワードの確認:**パスワードの再確認を行い、同じパスワードであることを2回確認してください。</span>"
 
 #: ../../root/界面介绍.md:49 8f82f2db70394222bd343fa546d4f08f
 msgid "**<span class=\"mark\">【 高级 】 设置:</span>**"
-msgstr ""
+msgstr "**<span class=\"mark”>【 高度な 】 設定:</span>**"
 
 #: ../../root/界面介绍.md:51 6b71ec58a53447afb68f7e25d0591f67
-msgid ""
-"<img src=\"../_static/images/root/media/image6.png\" "
-"style=\"width:5.46389in;height:2.68958in\" />"
+msgid "<img src=\"../_static/images/root/media/image6.png\" style=\"width:5.46389in;height:2.68958in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:54 8d47bd81553043829d09a93429cd7699
 msgid "<span class=\"mark\">**时区**: 请为该代理用户设置时区。设置后不可修改。您可以直接搜索或向下滚动进行选择。</span>"
 msgstr ""
+"<span class=\"mark\">**タイムゾーン**：このプロキシユーザーのタイムゾーンを設定してください。設定後は変更できません。直接検索するか、スクロールダウ"
+"ンして選択することができます。</span>"
 
 #: ../../root/界面介绍.md:56 7f8edd21a30f4d8895f4a6ed8acce2e6
-msgid ""
-"**<span class=\"mark\">\\[公司信息\\]:</span>** <span "
-"class=\"mark\">公司信息基本编辑（如下图）</span>"
-msgstr ""
+msgid "**<span class=\"mark\">\\[公司信息\\]:</span>** <span class=\"mark\">公司信息基本编辑（如下图）</span>"
+msgstr "**<span class=\"mark\">会社情報の</span>** <span class=\"mark\">基本編集（以下同様）</span>"
 
 #: ../../root/界面介绍.md:59 35848035edc14c8699f832af44b9b1a5
-msgid ""
-"<img src=\"../_static/images/root/media/image7.png\" "
-"style=\"width:5.39236in;height:3.28542in\" />"
+msgid "<img src=\"../_static/images/root/media/image7.png\" style=\"width:5.39236in;height:3.28542in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:62 b13279f967b643a48abd33f925104b72
-msgid ""
-"<span class=\"mark\">**公司名称**: Please fill in the company name of this "
-"agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**公司名称**: Please fill in the company name of this agent user.</span>"
+msgstr "<span class=\"mark\">**会社名**：このエージェントユーザーの会社名を記入してください。</span>"
 
 #: ../../root/界面介绍.md:65 211d6e32c6ce40568b9b6ae762ff3121
-msgid ""
-"<span class=\"mark\">**注册地址**: Please fill in the registration address of"
-" this agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**注册地址**: Please fill in the registration address of this agent user.</span>"
+msgstr "<span class=\"mark\">**登録アドレス**：このエージェントユーザの登録アドレスを記入してください。</span>"
 
 #: ../../root/界面介绍.md:68 485a91d257b34da2b6d86bdf382464da
-msgid ""
-"**<span class=\"mark\">联系电话:</span>** <span class=\"mark\">Please fill in"
-" the company contact phone number of this agent user.</span>"
-msgstr ""
+msgid "**<span class=\"mark\">联系电话:</span>** <span class=\"mark\">Please fill in the company contact phone number of this agent user.</span>"
+msgstr "**<span class=\"mark\">*連絡先電話番号:</span>** <span class=\"mark\">このエージェントユーザーの会社連絡先電話番号を記入してください。</span>"
 
 #: ../../root/界面介绍.md:71 9a186880b0cb40ceabf7e79e6bd27994
-msgid ""
-"<span class=\"mark\">**公司网址**: Please fill in the company website of this"
-" agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**公司网址**: Please fill in the company website of this agent user.</span>"
+msgstr "<span class=\"mark\">**会社のウェブサイト**：このエージェントユーザーの会社のウェブサイトを記入してください。</span>"
 
 #: ../../root/界面介绍.md:74 590c3c32fcf4499a9513207b426fdbd5
 msgid ""
-"<span class=\"mark\">**电子邮件**: Please fill in the company</span> <span "
-"class=\"mark\">email address of this agent user, which defaults to the "
+"<span class=\"mark\">**电子邮件**: Please fill in the company</span> <span class=\"mark\">email address of this agent user, which defaults to the "
 "agent user's email address.</span>"
 msgstr ""
+"<span class=\"mark\">**Email**: このエージェントユーザの会社のメールアドレスを記入してください。</span> <span class=\"mark\">デフォルトはエージェン"
+"トユーザのメールアドレスです。</span>"
 
 #: ../../root/界面介绍.md:78 1f0f3dfca2824ed394cea3186eb003f9
-msgid ""
-"<span class=\"mark\">**税号**: Please fill in the company tax ID of this "
-"agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**税号**: Please fill in the company tax ID of this agent user.</span>"
+msgstr "<span class=\"mark\">**Tax ID**: このエージェントユーザーの会社の Tax ID を記入してください。</span>"
 
 #: ../../root/界面介绍.md:81 a925f8b7e9ff414581f8a0c98ab252a8
-msgid ""
-"<span class=\"mark\">**开户银行:** Please fill in the opening bank of this "
-"agent user's company.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**开户银行:** Please fill in the opening bank of this agent user's company.</span>"
+msgstr "<span class=\"mark”>**开户银行:** このエージェントユーザーの会社の開業銀行を記入してください。</span>"
 
 #: ../../root/界面介绍.md:84 997e8dfbb0ad490395ade50f8918c85b
-msgid ""
-"<span class=\"mark\">**账户名称**: Please fill in the company account name of"
-" this agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**账户名称**: Please fill in the company account name of this agent user.</span>"
+msgstr "<span class=\"mark\">**アカウント名**：このエージェントユーザの会社アカウント名を記入してください。</span>"
 
 #: ../../root/界面介绍.md:87 de3e9cecc97344f09d29757c92b71b4c
-msgid ""
-"<span class=\"mark\">**账号**: Please fill in the company account of this "
-"agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**账号**: Please fill in the company account of this agent user.</span>"
+msgstr "<span class=\"mark\">**アカウント番号**：このエージェントユーザの会社アカウントを記入してください。</span>"
 
 #: ../../root/界面介绍.md:90 f12932506f684c65b82530eb839c254d
-msgid ""
-"<span class=\"mark\">**办公地址**: Please fill in the company office address "
-"of this agent user.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**办公地址**: Please fill in the company office address of this agent user.</span>"
+msgstr "<span class=\"mark\">**Office address**: このエージェントユーザーの会社の住所を記入してください。</span>"
 
 #: ../../root/界面介绍.md:93 b5b72cb3ace849b39d780d5a98f5a53c
 msgid "Clients:"
@@ -242,1736 +218,1602 @@ msgstr ""
 
 #: ../../root/界面介绍.md:95 ff7de5958ea44b4a8e01f67350917c87
 msgid ""
-"<span class=\"mark\">clients "
-"用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。</span>"
+"<span class=\"mark\">clients 用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-client用户登陆。代理"
+"商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理"
+"商用户和代理商账户已新建的Clients用户。</span>"
 msgstr ""
+"<span class=\"mark\">クライアントユーザはエージェントユーザと一緒に作成されます。エージェントユーザとシステムユーザは、クライアントページでクライア"
+"ントの削除/編集/閲覧、または特定のクライアントユーザとしてログインすることができます。クライアントページのリストには、現在のエージェントと新しく作成"
+"されたクライアントが表示されます。システムユーザ クライアントページでは、ページリストにはシステムユーザ配下のすべてのエージェントユ ーザとエージェン"
+"トのアカウントに新しく作成されたクライアントユーザが表示されます。</span>"
 
 #: ../../root/界面介绍.md:97 255b7d9854d94913ad517403e13c448a
-msgid ""
-"<img src=\"../_static/images/root/media/image8.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image8.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:100 7556404208d34725b760994f64fe9997
 msgid "账户:"
-msgstr ""
+msgstr "アカウント:"
 
 #: ../../root/界面介绍.md:102 4f8dfec4541242e5ac0aa528ae27aaaf
 msgid ""
-"<span "
-"class=\"mark\">账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色可以实现不同的账户拥有不同的功能权限</span>:"
+"<span class=\"mark\">账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色可以实现不同的账户拥有不同的功能权限</"
+"span>:"
 msgstr ""
+"<span class=\"mark\">アカウントは、シートの追加、レポートの照会、構成の更新など、システムのユーザーを管理するために使用されます。アカウントに異なる"
+"特権ロールを設定することで、アカウントごとに異なる機能特権を実現できます</span>:"
 
 #: ../../root/界面介绍.md:104 d5eeffc8011c4542bd1f342bd29a8606
-msgid ""
-"<img src=\"../_static/images/root/media/image9.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image9.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:107 18dee41a32cc4ae4908a4326791ab95c
 msgid "<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:109 e4a52ce71b4b4240b535f9af2e6b3056
-msgid ""
-"<img src=\"../_static/images/root/media/image10.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image10.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:114 7c0d39a019c24c7482d88c15a010d869
 msgid "<span class=\"mark\">**状态**:您可以选择启用/禁用该帐户。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ステータス**：このアカウントの有効/無効を選択できます。</span>"
 
 #: ../../root/界面介绍.md:116 839efca26a654b72acc53faef76cc7d3
 msgid "<span class=\"mark\">**名**: 请输入用户的名。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**名**: ユーザー名を入力してください。</span>"
 
 #: ../../root/界面介绍.md:118 076a0619818a452f9d824f62258ff41b
 msgid "<span class=\"mark\">**姓**: 请输入用户的姓。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**姓**：ユーザーの姓を入力してください。</span>"
 
 #: ../../root/界面介绍.md:120 6c9118a8196e497c84bf3b3d80f23cff
 msgid "<span class=\"mark\">**密码**: 用户将用此密码进行系统登录。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">***パスワード**：ユーザーはこのパスワードを使ってシステムにログインする。</span>"
 
 #: ../../root/界面介绍.md:122 f07e732d7cb844d8aa8ee78a97b5db5b
 msgid "**<span class=\"mark\">确认密码:</span>**请再次输入密码，确保两次密码相同。"
-msgstr ""
+msgstr "**<span class=\"mark\">*パスワードの確認:</span>** パスワードが2回同じであることを確認するために、もう一度パスワードを入力してください。"
 
 #: ../../root/界面介绍.md:124 f27704e4866643abab95c6e43c6a17c4
 msgid "<span class=\"mark\">**所属角色:**角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。</span>"
 msgstr ""
+"<span class=\"mark\">**所有ロール:** ロールは、このアカウントがアクセスできるページと、そのページでの権限を設定するために使用されます。</span>"
 
 #: ../../root/界面介绍.md:126 ed454e1f562a48129920b9f72efd037b
 msgid "在【高级】设置中，您可以设置此帐户的备注信息"
-msgstr ""
+msgstr "[詳細設定]では、このアカウントのノート情報を設定できます"
 
 #: ../../root/界面介绍.md:128 4b1cbba394f348baaf503e9d263dfbc4
 msgid "角色和权限:"
-msgstr ""
+msgstr "役割と権限:"
 
 #: ../../root/界面介绍.md:130 b85f7470339947bda6ae993d91d270f5
 msgid ""
-"<span "
-"class=\"mark\">角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。</span>"
+"<span class=\"mark\">角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此"
+"账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。</span>"
 msgstr ""
+"<span class=\"mark\">ロールは、ユーザが持つ権限を制御するために使用されます。例えば、アカウントにタスクの表示権限を設定するには、まずタスクの表示権"
+"限を持つロールを追加し、この権限ロールをアカウントに割り当てます。ロールと権限]ページのリストには、現在のユーザとアカウントの新しい権限ロールが表示"
+"されます。</span>"
 
 #: ../../root/界面介绍.md:132 19c2ea352125404fa1e86332e1717c5d
-msgid ""
-"<img src=\"../_static/images/root/media/image11.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image11.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:135 6e0f48b39cfc42daaf366a7937009ffb
 msgid "单击【编辑】/【添加】，然后输入【通用】来命名角色：（如下图所示）"
-msgstr ""
+msgstr "[Edit]/[Add]をクリックし、ロールの名前に[Generic]を入力します。"
 
 #: ../../root/界面介绍.md:137 63f3981bdf2b455abbf082faee939257
-msgid ""
-"<img src=\"../_static/images/root/media/image12.png\" "
-"style=\"width:5.75972in;height:1.42222in\" />"
+msgid "<img src=\"../_static/images/root/media/image12.png\" style=\"width:5.75972in;height:1.42222in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:140 fa6bddc36d0c4ed49d94d19ca4f06e85
 msgid "<span class=\"mark\">【 高级 】设置:</span>"
-msgstr ""
+msgstr "<span class=\"mark\">高度な設定。</span>"
 
 #: ../../root/界面介绍.md:142 9d1d7fdb80294d62ada4f17364f9bb3c
-msgid ""
-"<img src=\"../_static/images/root/media/image13.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />【权限设置】:"
+msgid "<img src=\"../_static/images/root/media/image13.png\" style=\"width:5.75972in;height:2.83472in\" />【权限设置】:"
 msgstr ""
 
 #: ../../root/界面介绍.md:145 cb6e6970bd004cd0939c2690db15f39f
-msgid ""
-"<img src=\"../_static/images/root/media/image14.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image14.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:148 9faabb4f499c41a6b6f62f9317257831
 msgid "c. 客户数据:"
-msgstr ""
+msgstr "c. 顧客データ:"
 
 #: ../../root/界面介绍.md:150 f4b9f196d3004d8f8a58e58e71f3dffc
 msgid "客户标签:"
-msgstr ""
+msgstr "カスタマー・タグ:"
 
 #: ../../root/界面介绍.md:152 049c43ea84cf49b1ae399f13543feee8
 msgid ""
-"<span "
-"class=\"mark\">客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。</span>"
+"<span class=\"mark\">客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客"
+"户标签。</span>"
 msgstr ""
+"<span class=\"mark\">カスタマータグ管理ページでは、カスタマータグを使用して、カスタマータグによってカスタマを簡単に検索することができます。顧客タグ"
+"ページでは、顧客タグの追加/表示/編集/削除ができます。</span>"
 
 #: ../../root/界面介绍.md:154 603ce7fd558840919a84b65bc20c7934
-msgid ""
-"<img src=\"../_static/images/root/media/image15.png\" "
-"style=\"width:5.75972in;height:2.13333in\" />"
+msgid "<img src=\"../_static/images/root/media/image15.png\" style=\"width:5.75972in;height:2.13333in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:157 ../../root/界面介绍.md:175
-#: b237faa6b3fe464aa8843738e1b0462c c6f2f942b23e4724855f65082360bcb4
+#: ../../root/界面介绍.md:157 ../../root/界面介绍.md:175 b237faa6b3fe464aa8843738e1b0462c c6f2f942b23e4724855f65082360bcb4
 msgid "<span class=\"mark\">单击【添加】以进入【常规】设置：（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[Add]をクリックして[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:159 d061a3eeba784fc59859908e12c09928
-msgid ""
-"<img src=\"../_static/images/root/media/image16.png\" "
-"style=\"width:5.75972in;height:0.98681in\" />"
+msgid "<img src=\"../_static/images/root/media/image16.png\" style=\"width:5.75972in;height:0.98681in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:162 36045e96467f4e65b030dcbab0df7082
-msgid ""
-"**<span class=\"mark\">标签名称:</span>** <span "
-"class=\"mark\">请输入客户标签的名称。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">标签名称:</span>** <span class=\"mark\">请输入客户标签的名称。</span>"
+msgstr "**<span class=\"mark\">ラベル名:</span>** <span class=\"mark\">顧客ラベルの名前を入力してください。</span>"
 
 #: ../../root/界面介绍.md:165 707c128edef2429394ca696e54567e64
-msgid ""
-"<img src=\"../_static/images/root/media/image17.png\" "
-"style=\"width:5.75972in;height:0.94792in\" />"
+msgid "<img src=\"../_static/images/root/media/image17.png\" style=\"width:5.75972in;height:0.94792in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:168 aff9b911f26248bdaccee2689b9ee435
 msgid "**数据来源:**"
-msgstr ""
+msgstr "**データ出典**"
 
 #: ../../root/界面介绍.md:170 27a4cf2346604aa3b7bb1abe1d637a7e
 msgid ""
-"<span "
-"class=\"mark\">数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源</span>"
+"<span class=\"mark\">数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/"
+"删除数据来源</span>"
 msgstr ""
+"<span class=\"mark\">データソースは顧客データのデータソースで、顧客データを一度インポートすると、時間と色でマークされたデータソースが1つ追加されま"
+"す。データソースのページでは、ユーザーはデータソースを追加/表示/編集/削除することができます。</span>"
 
 #: ../../root/界面介绍.md:172 6ce2d364169745efbd2afb2f8dd07be4
-msgid ""
-"<img src=\"../_static/images/root/media/image18.png\" "
-"style=\"width:5.75972in;height:1.34722in\" />"
+msgid "<img src=\"../_static/images/root/media/image18.png\" style=\"width:5.75972in;height:1.34722in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:177 b4b76fff6d804794b54154fcec063370
-msgid ""
-"<img src=\"../_static/images/root/media/image19.png\" "
-"style=\"width:5.75972in;height:1.33819in\" />"
+msgid "<img src=\"../_static/images/root/media/image19.png\" style=\"width:5.75972in;height:1.33819in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:180 76110b7dcd184031a21146762e343d72
-msgid ""
-"**<span class=\"mark\">来源名称:</span>** <span "
-"class=\"mark\">请输入数据来源的名称。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">来源名称:</span>** <span class=\"mark\">请输入数据来源的名称。</span>"
+msgstr "**<span class=\"mark\">ソース名:</span>** <span class=\"mark\">データソースの名前を入力してください。</span>"
 
 #: ../../root/界面介绍.md:183 928abef8cabe46f984a067f3002d94dc
 msgid "<span class=\"mark\">**来源颜色**: 请选择客户数据来源的颜色。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ソースカラー**：顧客データソースのカラーを選択してください。</span>"
 
 #: ../../root/界面介绍.md:185 f68cd69469994f4d96cd895d9a4e4e56
 msgid "**<span class=\"mark\">在【高级】设置中可以设置备注信息（如下图）</span>**"
-msgstr ""
+msgstr "**<span class=\"mark\"> 詳細設定]で音符情報を設定することができます</span>**"
 
 #: ../../root/界面介绍.md:187 d23e0d61aa6a4aa483a2ef26f7b9436f
-msgid ""
-"<img src=\"../_static/images/root/media/image20.png\" "
-"style=\"width:5.75972in;height:1.17292in\" />"
+msgid "<img src=\"../_static/images/root/media/image20.png\" style=\"width:5.75972in;height:1.17292in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:190 24eac6ae4b1b4687a8968210cce54586
 msgid "d.任务管理："
-msgstr ""
+msgstr "d. タスク管理："
 
 #: ../../root/界面介绍.md:192 a626e9ab8d75485e86c2c1ef5ce50260
 msgid "**呼叫结果:**"
-msgstr ""
+msgstr "**コール結果:**"
 
 #: ../../root/界面介绍.md:194 e693da347762424e90238682c662e3bc
 msgid "呼叫结果是坐席呼叫客户后记录的通话结果，用于通话结果的分类。"
-msgstr ""
+msgstr "コールリザルトは、エージェントが顧客に電話した後に記録されるコール結果で、コール結果を分類するために使用されます。"
 
 #: ../../root/界面介绍.md:196 c3c01c7cb731471e84188805b545ff72
-msgid ""
-"<img src=\"../_static/images/root/media/image21.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image21.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:199 ../../root/界面介绍.md:289
-#: 4c67895ba8bb417692b4776e4a702239 e214a5efc91549e688ad63272fa1d705
+#: ../../root/界面介绍.md:199 ../../root/界面介绍.md:289 4c67895ba8bb417692b4776e4a702239 e214a5efc91549e688ad63272fa1d705
 msgid "<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[追加]を選択し、[一般]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:201 db658c5e23c647fb909c143744766e9e
-msgid ""
-"<img src=\"../_static/images/root/media/image22.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image22.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:204 f6c7549f03f3458b91ffe7fbccf84ccd
 msgid "<span class=\"mark\">**呼叫结果名称**: 您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。</span>"
 msgstr ""
+"<span class=\"mark\">***通話結果名**: 通話結果をカスタマイズすることができ、エージェントが通話を終了した後、通話結果を選択して通話の終了を記録するこ"
+"とができます。</span>"
 
 #: ../../root/界面介绍.md:207 c984dce28e3545f5a50d3fb5694f8099
-msgid ""
-"<span class=\"mark\">**通话状态**: "
-"呼叫结果仅在接听电话时才可设置。“无”表示无论通话状态如何，坐席都可以随时使用呼叫结果。</span>"
+msgid "<span class=\"mark\">**通话状态**: 呼叫结果仅在接听电话时才可设置。“无”表示无论通话状态如何，坐席都可以随时使用呼叫结果。</span>"
 msgstr ""
+"<span class=\"mark\">**通話ステータス**: 通話結果は、通話に応答したときのみ設定できます。「なし」は、エージェントがコールステータスに関係なく、いつ"
+"でもコール結果を使用できることを意味する。</span>"
 
 #: ../../root/界面介绍.md:210 b5097a2e11b14aaabdb92b49f6f23a8e
 msgid "<span class=\"mark\">**所属销售漏斗**: 设置仅在指定销售漏斗下显示的呼叫结果。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**所属销售漏斗**: 通話結果が指定されたセールスファネルの下でのみ表示されるように設定します。</span>"
 
 #: ../../root/界面介绍.md:213 c3776981164e4e9b8eb974790569e6bf
 msgid "<span class=\"mark\">**强制预约**: 必须建立预约，否则无法保存客户，也无法提交联系记录。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**强制预约**: アポイントメントが作成されていないと、クライアントを保存できず、コンタクトレコードを提出できません。</span>"
 
 #: ../../root/界面介绍.md:216 3fbb1b5560284ed59475493309b3cdba
 msgid "e. 计费:"
-msgstr ""
+msgstr "e. 請求:"
 
 #: ../../root/界面介绍.md:218 73324d020cff469d9c01413e6cdf168e
 msgid "客户计费:"
-msgstr ""
+msgstr "クライアントへの請求:"
 
 #: ../../root/界面介绍.md:220 f94336abc23d46b983512b3d836cfbe5
 msgid "<span class=\"mark\">客户计费是对代理商的计费。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">顧客への請求は代理店への請求である。</span>"
 
 #: ../../root/界面介绍.md:222 d7125631aa354bf5979edd656a43aa17
-msgid ""
-"<img src=\"../_static/images/root/media/image23.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image23.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:225 0d7a40fffa134db2abea053be192c06c
 msgid "<span class=\"mark\">单击【编辑】进入【常规】设置：（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[Edit]をクリックして[General]設定を入力します。</span>"
 
 #: ../../root/界面介绍.md:227 64db4505ab394da2b0c7f2e4789dfac5
-msgid ""
-"<img src=\"../_static/images/root/media/image24.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image24.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:230 38814a77c5a24bdaa9e1b6b4de8e8fc3
-msgid ""
-"<span class=\"mark\">**ID: The** unique</span> <span class=\"mark\">ID of"
-" the data.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**ID: The** unique</span> <span class=\"mark\">ID of the data.</span>"
+msgstr "<span class=\"mark\">**ID:** データの一意の ID。</span>"
 
 #: ../../root/界面介绍.md:232 4c75de72b3aa4fb1889896c3b3845f18
-msgid ""
-"<span class=\"mark\">**客户名称**: The customer's name is a newly added agent"
-" user name and cannot be modified.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**客户名称**: The customer's name is a newly added agent user name and cannot be modified.</span>"
+msgstr "<span class=\"mark\">**顧客名**：顧客名は、新しく追加されたエージェントのユーザ名であり、変更することはできません。</span>"
 
 #: ../../root/界面介绍.md:234 9973e21b7f2a4ee99396f8d38adaa8ab
-msgid ""
-"<span class=\"mark\">**域名**: The domain name is a newly added agent user "
-"domain name and cannot be modified.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**域名**: The domain name is a newly added agent user domain name and cannot be modified.</span>"
+msgstr "<span class=\"mark\">**ドメイン名**：ドメイン名は新しく追加されたエージェントユーザドメイン名であり、変更することはできない。</span>"
 
 #: ../../root/界面介绍.md:236 b35331cd6b9243dfb1971db883d60075
 msgid "【账单】设置：（如下图）"
-msgstr ""
+msgstr "[課金] 設定: (以下同様)"
 
 #: ../../root/界面介绍.md:238 b3995488871548f691c1ca9b8a8650d9
-msgid ""
-"<img src=\"../_static/images/root/media/image25.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image25.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:241 e619745bf77f4365bf692b3dc547db05
 msgid "**应缴费用:** 应当缴纳的本期费用。"
-msgstr ""
+msgstr "**拠出期限:** 当期の拠出期限。"
 
 #: ../../root/界面介绍.md:243 18aaeec624114f6d872b532c02b38d64
 msgid "**最大坐席数量:** 允许使用的最大坐席数量。"
-msgstr ""
+msgstr "**最大座席数:** 最大座席数。"
 
 #: ../../root/界面介绍.md:245 0fa0333c9d6e4d9aa16c968e02f69081
 msgid "**付款方式:** 选择付款方式预付款或后付款。"
-msgstr ""
+msgstr "**支払い方法:** 前払いか後払いかを選択できる。"
 
 #: ../../root/界面介绍.md:247 70b7b9e4c4f74e38b561e6a88701dd39
 msgid "**信用额度:** 设置可使用的信用额度。"
-msgstr ""
+msgstr "**クレジット・リミット:**利用可能なクレジット・リミットを設定します。"
 
 #: ../../root/界面介绍.md:249 29700ce295aa4bd3a4e2685773b08bd2
 msgid "**月租 :** 设置月租数额。"
-msgstr ""
+msgstr "**月々の家賃 :** 月々の家賃額を設定します。"
 
 #: ../../root/界面介绍.md:251 d239f71874a1432ea49f5015c363973b
 msgid "**短信:** 能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
-msgstr ""
+msgstr "**SMS:**月のSMSの消費量、月の残り時間、手動で使用したSMSの数を追加し、SMSレートを選択する能力を詳述する。"
 
 #: ../../root/界面介绍.md:254 a33988751d0c4bc891fd94cd1eae5f0a
 msgid "**呼出:**能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
 msgstr ""
+"**アウトバウンド:** 当月および当月残りのアウトバウンド通話料金の消費について詳しく知ることができます。あなたは手動でパッケージ分と料金を追加すること"
+"ができます。"
 
 #: ../../root/界面介绍.md:256 940d30d92e38481fabf975ad3a60f04f
 msgid "**实际通话:**当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
-msgstr ""
+msgstr "**実際の通話:**システムが固定電話にダイヤルすると、固定電話から顧客にコールバックされ、顧客が応答すると料金が発生する。"
 
 #: ../../root/界面介绍.md:258 dab7660485564517abf8830d80883366
 msgid "**主叫通话:** 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
-msgstr ""
+msgstr "**主叫通话:** システムからエージェントにバインドされた電話へのコールフローの課金条件を設定します。"
 
 #: ../../root/界面介绍.md:260 4a60acf502bf40008f3971752e1a721b
 msgid "**【账单和提醒】设置:**"
-msgstr ""
+msgstr "**[課金とリマインダー]設定:**"
 
 #: ../../root/界面介绍.md:262 cdbd2f19011d4b91a91ad0ae16f1670a
-msgid ""
-"<img src=\"../_static/images/root/media/image26.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image26.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:265 3d371ef8898e4c09a8b1e450f89dd83a
 msgid "**余额不足提醒:** 设置余额不足后的提醒次数。"
-msgstr ""
+msgstr "** 残高不足リマインダー:**残高不足後のリマインダー回数を設定します。"
 
 #: ../../root/界面介绍.md:267 2e7fcb052e9145969d1f9a1693ff027d
 msgid "**提醒方式:** 选择手机号码或者邮箱的提醒方式。"
-msgstr ""
+msgstr "**リマインダー方法:**携帯電話番号または電子メールのリマインダー方法を選択します。"
 
 #: ../../root/界面介绍.md:269 da8aadcf7fc343a4963ee8af8460eb8e
 msgid "**账单电子邮件地址:** 填写收到账单的电子邮件地址。"
-msgstr ""
+msgstr "**請求先メールアドレス:** 請求先メールアドレスをご記入ください。"
 
 #: ../../root/界面介绍.md:271 95c459c6c7874cd38aa567380849e61c
 msgid ""
-"<span "
-"class=\"mark\">在设置的客户页面点击下拉菜单选择【充值】，记录客户的充值金额及交易时间，如有需要，也可填写备注信息；点击【费用扣减】类似；点击【立即生效】，对客户的账单信息生效（如下图）</span>"
+"<span class=\"mark\">在设置的客户页面点击下拉菜单选择【充值】，记录客户的充值金额及交易时间，如有需要，也可填写备注信息；点击【费用扣减】类似；点击"
+"【立即生效】，对客户的账单信息生效（如下图）</span>"
 msgstr ""
+"<span class=\"mark\">顧客設定ページでドロップダウンメニューをクリックして[上乗せ]を選択し、顧客の上乗せ金額と取引時間を記録し、必要に応じてメモ情報"
+"を記入します。同様に[手数料控除]をクリックし、[すぐに反映]をクリックすると、顧客の請求情報に反映されます（以下のとおり）。</span>"
 
 #: ../../root/界面介绍.md:273 1ce917719c7a45e08d30365d1451a7e9
-msgid ""
-"<img src=\"../_static/images/root/media/image27.png\" "
-"style=\"width:5.75972in;height:1.47569in\" />"
+msgid "<img src=\"../_static/images/root/media/image27.png\" style=\"width:5.75972in;height:1.47569in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:276 7ed8832c59074cbab734f84904f2279d
-msgid ""
-"<img src=\"../_static/images/root/media/image28.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image28.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:279 cc7e6436a3a84363be25f92fb5a042d4
-msgid ""
-"<img src=\"../_static/images/root/media/image29.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image29.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:282 919609db3aa54d8a812487ec539a6216
 msgid "费率计划:"
-msgstr ""
+msgstr "料金プラン:"
 
 #: ../../root/界面介绍.md:284 10b2edf0eb874e7ca2e37b94f7924cbc
 msgid "费率计划是指按照费用决策要求，具体编制在一定时期(计划期)内实现的费率计划，包括:销售费率和成本费率看。"
 msgstr ""
+"料金プランは、コストの意思決定要件を指し、一定の期間（計画期間）の具体的な準備を料金プランを達成するために、以下を含む：販売率と原価率を参照してくだ"
+"さい。"
 
 #: ../../root/界面介绍.md:286 6429b39bc2ac41d59b5d384332c42d1c
-msgid ""
-"<img src=\"../_static/images/root/media/image30.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image30.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:291 34b2471747cd4df9805e829b0e50c429
-msgid ""
-"<img src=\"../_static/images/root/media/image31.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image31.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:294 bb4dedd1a8a04f68a52cad280f616438
 msgid "<span class=\"mark\">**费率名称:** 请为这个费率命名。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**レート名:** このレートに名前を付けてください。</span>"
 
 #: ../../root/界面介绍.md:296 418d5385efe24ac98666d5c87eac5418
-msgid ""
-"**<span class=\"mark\">费率类别:</span>** <span "
-"class=\"mark\">请选择一个费率类别。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">费率类别:</span>** <span class=\"mark\">请选择一个费率类别。</span>"
+msgstr "**<span class=\"mark\">料金カテゴリー:</span>** <span class=\"mark\">料金カテゴリーを選択してください。</span>"
 
 #: ../../root/界面介绍.md:299 0a23f8b33fcc4de394e1c553d159230d
 msgid "<span class=\"mark\">**初始计费**: 初始计费是在初始时长内，每分钟的费率,相当于起步价，单位是元/分。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**初回課金**：初回課金とは、初回料金に相当する初回時間の1分あたりの料金を1分あたり元で表示するものである。</span>"
 
 #: ../../root/界面介绍.md:302 c81d3552c28542f094ff643fd687e2e0
-msgid ""
-"<span class=\"mark\">**初始计费时长**: "
-"初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。</span>"
+msgid "<span class=\"mark\">**初始计费时长**: 初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。</span>"
 msgstr ""
+"<span class=\"mark”>***初始计费时长**: 初回課金時間は、通話開始料金に対応するマイルに相当する、通話開始時に課金される時間（秒）である。</span>"
 
 #: ../../root/界面介绍.md:305 edfc1deb007a49ef969a36766ea6e62c
 msgid "<span class=\"mark\">**费率**: 初始计费后每分钟的费率，单位是元/分。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**料金**：初回課金後の1分あたりの料金を$/分で表示。</span>"
 
 #: ../../root/界面介绍.md:308 4822c014c077433d8277189a3b21c3b4
 msgid "<span class=\"mark\">**计费周期**: 计费周期是指过初始时长后多久计费一次，单位是秒。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**課金期間**：課金期間は、最初の期間終了後に課金される頻度を秒単位で表したものです。</span>"
 
 #: ../../root/界面介绍.md:311 13c9b7fd877642af8827320806898d6f
-msgid ""
-"**<span class=\"mark\">费率数目:</span>** <span "
-"class=\"mark\">编辑所要选择的费率数目。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">费率数目:</span>** <span class=\"mark\">编辑所要选择的费率数目。</span>"
+msgstr "**<span class=\"mark\">费率数目:</span>** <span class=\"mark\">選択するレートの数を編集します。</span>"
 
 #: ../../root/界面介绍.md:314 2d57e3aa67234def880c034003d5a71d
 msgid "**【高级 】 设置:**"
-msgstr ""
+msgstr "**[高度な]設定:**"
 
 #: ../../root/界面介绍.md:316 3b271448291c474db620ae5b9f3c0dcc
-msgid ""
-"<img src=\"../_static/images/root/media/image32.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image32.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:319 43295a50c2604e20991044ae4abdffbb
 msgid "**<span class=\"mark\">时间:</span>**请选择这个费率计划开始执行的时间。"
-msgstr ""
+msgstr "**<span class=\"mark\">時間:</span>**この料金プランが有効になる時間を選択してください。"
 
 #: ../../root/界面介绍.md:321 4ea0f39cf9444f26ad5ada55c589c662
 msgid "<span class=\"mark\">**费率名称**: 请选择一个已添加的费率计划。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**费率名称**: 追加された料金プランを選択してください。</span>"
 
 #: ../../root/界面介绍.md:323 b777e1ed6fa64c5192440ef764cc6462
 msgid "f. 语音设置:"
-msgstr ""
+msgstr "f. 音声設定:"
 
 #: ../../root/界面介绍.md:325 5956247550084f42a698cef3768194c8
 msgid "**中继管理:**"
-msgstr ""
+msgstr "** リレー管理:**"
 
 #: ../../root/界面介绍.md:327 cccf74a9af7b47aebad00222606217fd
 msgid "中继是用于将本机的电话网络与其他系统的电话网络连接在一起的线路管理。"
-msgstr ""
+msgstr "トランクとは、本機の電話網を他のシステムの電話網に接続するための回線管理である。"
 
 #: ../../root/界面介绍.md:329 24c0d7ffbc074c4bb9249e1e75e0f822
-msgid ""
-"<img src=\"../_static/images/root/media/image33.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image33.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:332 d1195755457649149928c610e0117682
 msgid "<span class=\"mark\">选择【添加】并输入【常规】设置：</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[Add]を選択し、[General]設定を入力します：</span>"
 
 #: ../../root/界面介绍.md:334 7e6138b2331a41febdd9aa81cd11046a
-msgid ""
-"<img src=\"../_static/images/root/media/image34.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image34.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:337 00ccc6308f4747ce94a8573579554a60
-msgid ""
-"**<span class=\"mark\">名称:</span>** <span "
-"class=\"mark\">给中继起个名字，你可以随时改变他。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">名称:</span>** <span class=\"mark\">给中继起个名字，你可以随时改变他。</span>"
+msgstr "**<span class=\"mark\">名称:</span>** <span class=\"mark\">リリーバーに名前をつけ、いつでも変更できる。</span>"
 
 #: ../../root/界面介绍.md:340 1d1ee79f426a41c28cfbd98dd3aa05d6
 msgid "**<span class=\"mark\">协议:</span>** 请选择这个中继的协议类型。"
-msgstr ""
+msgstr "**<span class=\"mark\">プロトコル:</span>** このリレーのプロトコル タイプを選択してください。"
 
 #: ../../root/界面介绍.md:342 7d816763827e4200b72c37229f9857a3
 msgid ""
-"**<span class=\"mark\">验证:</span>** <span "
-"class=\"mark\">请选择这个中继的验证方式.</span> <span "
-"class=\"mark\">以下步骤根据验证方式不同有所差异，添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）</span>"
+"**<span class=\"mark\">验证:</span>** <span class=\"mark\">请选择这个中继的验证方式.</span> <span class=\"mark\">以下步骤根据验证方式不同有所差异，"
+"添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）</span>"
 msgstr ""
+"**<span class=\"mark\">検証:</span>** <span class=\"mark\">このリレーの検証方法を選択してください。</span> <span class=\"mark\">次の手順は、検証方法によっ"
+"て異なります。管理リレー管理インターフェイス [検証方法] を追加します。システムのデフォルトは [IP] です (以下を参照)</span>"
 
 #: ../../root/界面介绍.md:346 8fb52af7a628490bbb38579c73847c98
-msgid ""
-"<img src=\"../_static/images/root/media/image35.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image35.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:349 ce39a7bbae9244b28364e2412f31db40
-msgid ""
-"**<span class=\"mark\">服务器地址:</span>** <span "
-"class=\"mark\">请输入这个服务器的地址，它可能是一个域或者IP。</span>"
+msgid "**<span class=\"mark\">服务器地址:</span>** <span class=\"mark\">请输入这个服务器的地址，它可能是一个域或者IP。</span>"
 msgstr ""
+"**<span class=\"mark\">サーバー アドレス:</span>** <span class=\"mark\">このサーバーのアドレスを入力してください。ドメインまたは IP の場合があります。 "
+"</span>"
 
 #: ../../root/界面介绍.md:352 7c66cfcd9c6b42258c00f4433d76262c
-msgid ""
-"**<span class=\"mark\">端口:</span>** <span "
-"class=\"mark\">请输入这个中继的端口号，默认是5060。</span>"
-msgstr ""
+msgid "**<span class=\"mark\">端口:</span>** <span class=\"mark\">请输入这个中继的端口号，默认是5060。</span>"
+msgstr "**<span class=\"mark\">ポート:</span>** <span class=\"mark\">このリレーのポート番号を入力してください。デフォルトは 5060 です。 </span>"
 
-#: ../../root/界面介绍.md:355 ../../root/界面介绍.md:385
-#: 29f4a22eb82f4025bd011870d2f7f59d 78edee09ca904408972dd58fd7faaada
+#: ../../root/界面介绍.md:355 ../../root/界面介绍.md:385 29f4a22eb82f4025bd011870d2f7f59d 78edee09ca904408972dd58fd7faaada
 msgid "<span class=\"mark\">**通道限制:** 通道限制数表示最多有多少外拨电话数，0表示无限制。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**チャンネル制限:**チャンネル制限数は、発信コールの最大数を示し、0は制限なしを意味する。</span>"
 
 #: ../../root/界面介绍.md:358 899b91796a3d4f2bb5ac0c4e6528a2b9
 msgid "<span class=\"mark\">**状态**: 根据你的需要你可禁用这个中继。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ステータス**：必要であれば、このリレーを無効にすることができる。</span>"
 
 #: ../../root/界面介绍.md:360 dd4dc22bd2374c5e943b0ed90d067e96
 msgid "添加编辑中继管理界面【验证】，然后选择【用户名/密码】（如下图所示）"
-msgstr ""
+msgstr "リレー管理インターフェイスの編集[認証]を追加し、[ユーザー名/パスワード]を選択します。"
 
 #: ../../root/界面介绍.md:362 39475ebcc1c4403bb6a4c3663d447e28
-msgid ""
-"<img src=\"../_static/images/root/media/image36.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image36.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:365 cb279938ea5a439a9fab255b1bcc5ac6
 msgid "<span class=\"mark\">**注册服务器:** 请选择一个注册服务器。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**登録サーバー:** 登録サーバーを選択してください。</span>"
 
 #: ../../root/界面介绍.md:367 c5fa0d1ac17e4daead3df14b7ea3f355
-msgid ""
-"<span class=\"mark\">**启用注册:** "
-"当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。</span>"
-msgstr ""
+msgid "<span class=\"mark\">**启用注册:** 当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。</span>"
+msgstr "<span class=\"mark\">**登録を有効にする:** 認証方法がユーザー名/パスワードの場合、登録を有効にするかどうかを選択することができます。</span>"
 
 #: ../../root/界面介绍.md:370 9c8cc04893dc4191863e5eed5ec10dc9
 msgid "<span class=\"mark\">**语音编码:** 当验证方式是用户名/密码验证时，请选择这个中继的语音编码。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**音声コーデック:** 認証方法がユーザー名/パスワード認証の場合、このトランクの音声コーデックを選択してください。 </span>"
 
 #: ../../root/界面介绍.md:373 19ebb6dbc8b0481b831dc6ac5c635dda
 msgid "<span class=\"mark\">**服务器地址:** 请输入这个服务器的地址，它可能是一个域或者IP 。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**サーバーアドレス:** このサーバーのアドレスを入力してください。</span>"
 
 #: ../../root/界面介绍.md:376 d4db6aed9f044042b1cc40c7c3c41c0e
 msgid "<span class=\"mark\">**端口:** 请输入这个中继的端口号。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**ポート:** このリレーのポート番号を入力してください。</span>"
 
 #: ../../root/界面介绍.md:378 87ae13dcbae64882bb59bd3ec6c61bf5
 msgid "<span class=\"mark\">**用户名**:当验证方式是用户名/密码验证时，请输入用户名。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ユーザー名**：認証方法がユーザー名/パスワード認証の場合、ユーザー名を入力します。</span>"
 
 #: ../../root/界面介绍.md:380 d133225e750a478f80b9640649441709
 msgid "<span class=\"mark\">**认证用户名:** 认证这个用户名 。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ユーザー名を認証:** このユーザー名を認証します。 </span>"
 
 #: ../../root/界面介绍.md:382 dcc79ce478314be2b5bf803a66b372db
 msgid "<span class=\"mark\">**密码:** 当验证方式是用户名/密码验证时，请输入密码。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**パスワード:** 認証方法がユーザー名/パスワード認証の場合は、パスワードを入力してください。 </span>"
 
-#: ../../root/界面介绍.md:388 ../../root/界面介绍.md:397
-#: 784f5df9c9de47baa7c99171bfa2dac2 8b2d49e85e094458b6b267ccfdc9b442
+#: ../../root/界面介绍.md:388 ../../root/界面介绍.md:397 784f5df9c9de47baa7c99171bfa2dac2 8b2d49e85e094458b6b267ccfdc9b442
 msgid "<span class=\"mark\">**状态:** 根据你的需要你可以禁用这个域 。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ステータス:** 必要に応じて、このドメインを無効にすることができます。</span>"
 
 #: ../../root/界面介绍.md:390 7a7693d627004f368b16212f00788fa8
 msgid "添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。"
-msgstr ""
+msgstr "管理トランクの管理インターフェイス[認証]を追加し、[Oポートゲートウェイ]を選択します（下図参照）。"
 
 #: ../../root/界面介绍.md:392 03831b33b13b40b198d03ecb4372d029
-msgid ""
-"<img src=\"../_static/images/root/media/image37.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image37.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:395 c2781c0177bd498e815776455e0ce339
 msgid "<span class=\"mark\">**验证域:** 需要验证的域。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">** 認証ドメイン:** 認証されるドメイン。</span>"
 
 #: ../../root/界面介绍.md:399 f2e00a23d0bc48bca3d7571c6a0ff955
 msgid "在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）"
-msgstr ""
+msgstr "トランク管理で[Edit]を選択すると、発信、失敗、未受信のメッセージが表示されます（下図）。"
 
 #: ../../root/界面介绍.md:401 b4f8bb62e64b4dae9ff91429b62d5110
-msgid ""
-"<img src=\"../_static/images/root/media/image38.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image38.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:404 4410b1cdd3924b82b5643c6e3381416f
 msgid "<span class=\"mark\">**已拨:** 已拨打电话总数量。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ダイヤル済み:** 発信された通話の合計数。 </span>"
 
 #: ../../root/界面介绍.md:406 7d2d54faab2946698c5bdf8e0eb0870a
 msgid "<span class=\"mark\">**失败:** 已拨打电话失败数量。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**失敗:**失敗した通話の数。</span>"
 
 #: ../../root/界面介绍.md:408 57d0e303cdfb42d792887deb56b0610c
 msgid "<span class=\"mark\">**未应答:** 已拨打电话未应答数量。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>**未回答:**ダイヤルされ、応答されなかったコール数。</span>"
 
 #: ../../root/界面介绍.md:410 ee3ea750b8334d698759d5378ff5676c
 msgid "<span class=\"mark\">【高级】设置：（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark\">[詳細]設定：（下図）</span>"
 
 #: ../../root/界面介绍.md:412 474386716fec416896a97e01b500accd
-msgid ""
-"<img src=\"../_static/images/root/media/image39.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image39.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:415 dc282cfa36c141f498b45d01b9f03053
 msgid ""
-"<span class=\"mark\">**绑定呼入到 client:** This trunk can be bound to a "
-"client, and all calls from this trunk will be sent to this client.</span>"
+"<span class=\"mark\">**绑定呼入到 client:** This trunk can be bound to a client, and all calls from this trunk will be sent to this client.</span>"
 msgstr ""
+"<span class=\"mark\">**クライアントへの通話をバインド:** このトランクはクライアントにバインドでき、このトランクからのすべての通話はこのクライアントに"
+"送信されます。</span>"
 
 #: ../../root/界面介绍.md:417 5f628b033a64485db798ddec0e32627d
 msgid "<span class=\"mark\">**中继侧录音增益:**如果为0则表示禁用此功能。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**トランク側録音ゲイン:**これが0の場合、この機能は無効であることを意味する。</span>"
 
 #: ../../root/界面介绍.md:419 1ff161f5102a4b729581b2db2c86e244
 msgid "<span class=\"mark\">**分机侧录音增益:** 如果为0则表示禁用此功能。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**拡張側録画ゲイン:**値0はこの機能を無効にする。</span>"
 
 #: ../../root/界面介绍.md:422 dadbd6bf62f5406284d4d13e280b5db0
 msgid "<span class=\"mark\">**中继侧通话增益:**如果为0则表示禁用此功能。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**トランク側コールゲイン:**これが0の場合、この機能は無効である。</span>"
 
 #: ../../root/界面介绍.md:424 a75e09225e094a9881ab12440a477559
 msgid "<span class=\"mark\">**坐席侧通话增益:** 如果为0则表示禁用此功能。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**エージェント側コールゲイン:** 0 の場合、この機能は無効になっていることを意味します。 </span>"
 
 #: ../../root/界面介绍.md:427 68cc32b1515a4f289503995b7d23559b
 msgid ""
-"<span class=\"mark\">**坐席注册超时时间:** "
-"在启用注册时，您可以输入注册超时。</span>（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
+"<span class=\"mark\">**坐席注册超时时间:** 在启用注册时，您可以输入注册超时。</span>（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
 msgstr ""
+"<span class=\"mark\">**エージェント登録タイムアウト:** 登録を有効にするときに、登録タイムアウトを入力できます。 </span> （この項目は、「一般」設定で"
+"「ユーザー名/パスワード」が選択されている場合にのみ表示されます）"
 
 #: ../../root/界面介绍.md:430 a059c7a313684c6bbfc99e41781cbc6a
 msgid "<span class=\"mark\">**描述:** 你可以填这个中继的描述信息，进行备注说明。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**説明:** このリレーの説明情報を入力し、メモを残すことができます。 </span>"
 
 #: ../../root/界面介绍.md:433 b6ef814e5f6142dd9d2e4b98909acf8b
 msgid ""
-"<span "
-"class=\"mark\">【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）)</span>"
+"<span class=\"mark\">【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类"
+"似。（如下图）)</span>"
 msgstr ""
+"<span class=\"mark\">[発信ルール] 設定: [発信ルールの追加] を選択すると、発信ルールの追加ページが表示されます。このトランク経由で発信される通話には、"
+"この発信ルールが使用されます。 [受信ルール] は [送信ルール] と似ています。 （下図参照）</span>"
 
 #: ../../root/界面介绍.md:435 17b10d291b8d4ace9de5ee4925595525
-msgid ""
-"<img src=\"../_static/images/root/media/image40.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image40.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:438 6f6ce96a405e4984b5be54261f917d13
 msgid "<span class=\"mark\">**名称**: 请为这个呼出规则命名。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**名前**：このコールアウト・ルールに名前を付けてください。</span>"
 
 #: ../../root/界面介绍.md:440 edbf5675891b40e9a94262d4a56fec9f
 msgid "<span class=\"mark\">**匹配规则**: 设置这个匹配规则，符合此规则的呼叫将执行以下操作。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**マッチルール**：このマッチルールを設定すると、このルールにマッチした呼は、 以下のアクションを実行する。</span>"
 
 #: ../../root/界面介绍.md:443 a33665ddd9104adba00293e1fbb8be6d
 msgid "<span class=\"mark\">**替换主叫号码**: 在这里你可以重新设定主叫号码和主叫号码名称。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**発信番号の置き換え**：ここで発信番号と発信番号名をリセットできます。</span>"
 
 #: ../../root/界面介绍.md:446 e7a4b2e784414c219db1c13321194905
-msgid ""
-"<span class=\"mark\">**增加主叫号码前缀**: "
-"系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。</span>"
+msgid "<span class=\"mark\">**增加主叫号码前缀**: 系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。</span>"
 msgstr ""
+"<span class=\"mark\">**発信番号プレフィックス追加**：システムは発信番号にプレフィックスを追加する。SIPデバイスの場合、発信者番号は発信者名の使用もサ"
+"ポートします。</span>"
 
 #: ../../root/界面介绍.md:449 356c58603c4641e0bec2b699fc596bf7
 msgid "<span class=\"mark\">**被叫号码**: 你可以添加/移除被叫号码前缀或者重置被叫号码。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**着信番号**：着信番号のプレフィックスを追加／削除したり、着信番号をリセッ トしたりできます。</span>"
 
 #: ../../root/界面介绍.md:452 c6472bfa295646f59fdbf91c3d7f2082
 msgid "<span class=\"mark\">**转向**: 路由匹配时系统将进行此动作。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**リダイレクト**: ルートが一致した場合、システムはこのアクションを実行します。 </span>"
 
 #: ../../root/界面介绍.md:454 d301a9a7505748eeb54f49558df236c9
 msgid "<span class=\"mark\">【呼入IP</span> <span class=\"mark\">】设置:</span>"
-msgstr ""
+msgstr "<span class=\"mark\">受信 IP 設定:</span>"
 
 #: ../../root/界面介绍.md:456 b5519e55939648e7bedbb82920b68937
-msgid ""
-"<img src=\"../_static/images/root/media/image41.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image41.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:459 72557101281f4fa99ca696a00ab07891
 msgid "<span class=\"mark\">**呼入IP**: 设置允许接入的IP地址，可以同时添加多个IP地址。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**受信 IP**: アクセスを許可する IP アドレスを設定します。複数の IP アドレスを同時に追加できます。 </span>"
 
 #: ../../root/界面介绍.md:462 472f868417014225819c492744760202
-msgid ""
-"<img src=\"../_static/images/root/media/image42.png\" "
-"style=\"width:5.75972in;height:1.28403in\" />"
+msgid "<img src=\"../_static/images/root/media/image42.png\" style=\"width:5.75972in;height:1.28403in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:465 aa98c5bbe6704d42a3d79150a36f58c0
 msgid ""
-"<span class=\"mark\">**费率**: The rate at which fees are paid.</span> "
-"<span class=\"mark\">You can choose between regular rates or rate "
-"plans</span>"
-msgstr ""
+"<span class=\"mark\">**费率**: The rate at which fees are paid.</span> <span class=\"mark\">You can choose between regular rates or rate plans</"
+"span>"
+msgstr "<span class=\"mark\">**料金**: 料金が支払われるレート。</span> <span class=\"mark\">通常料金または料金プランから選択できます。</span>"
 
 #: ../../root/界面介绍.md:468 56ea678061f24db6b6cc2e37792f2c70
 msgid ""
-"<span class=\"mark\">Common rate: There is no initial duration "
-"calculation, and the rate is only calculated based on a per minute "
-"billing method.</span>"
-msgstr ""
+"<span class=\"mark\">Common rate: There is no initial duration calculation, and the rate is only calculated based on a per minute billing method.</"
+"span>"
+msgstr "<span class=\"mark\">共通料金: 初期の期間計算はなく、料金は分単位の課金方法に基づいてのみ計算されます。</span>"
 
 #: ../../root/界面介绍.md:470 a6f5d8b7302b4740bcf0b6088760324f
-msgid ""
-"<span class=\"mark\">Rate Plans: Select billing based on the already set "
-"rate plan.</span>"
-msgstr ""
+msgid "<span class=\"mark\">Rate Plans: Select billing based on the already set rate plan.</span>"
+msgstr "<span class=\"mark\">料金プラン: すでに設定されている料金プランに基づいて課金を選択します。</span>"
 
 #: ../../root/界面介绍.md:472 2b4f7d083c6e4a6cb4964a985606c8db
 msgid "DID 号码:"
-msgstr ""
+msgstr "DID番号:"
 
 #: ../../root/界面介绍.md:474 8b8ef057409448439d3935f7077eade0
-msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
+msgid ""
+"DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统"
+"中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
 msgstr ""
+"システムにおけるDIDの主な役割は、DID番号の識別を通じて、さまざまなダイヤルインルートを作成できることです。たとえば、内線に直接電話をかけたり、呼び出"
+"し音グループを呼び出したり、IVRやキューに入ったりできます。IVRやキューに入る。"
 
 #: ../../root/界面介绍.md:476 3856b06f8e6c4c75996fc83d6dad046d
-msgid ""
-"<img src=\"../_static/images/root/media/image43.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image43.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:479 b115eaab536841bea0c3a999a730dcee
 msgid "<span class=\"mark\">点击添加添加一个新的中继：</span>"
-msgstr ""
+msgstr "<span class=\"mark\">Add をクリックして新しいリレーを追加します：</span>"
 
 #: ../../root/界面介绍.md:481 14b9b7c422984233998e22143c71bb11
-msgid ""
-"<img src=\"../_static/images/root/media/image44.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image44.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:484 db681ab9aec54f648d0f83de86b4c34b
-msgid ""
-"<span class=\"mark\">**DID号码**: Please enter a DID number, one per "
-"line.</span>"
-msgstr ""
+msgid "<span class=\"mark\">**DID号码**: Please enter a DID number, one per line.</span>"
+msgstr "<span class=\"mark\">**DID番号**: DID番号を1行に1つずつ入力してください。</span>"
 
 #: ../../root/界面介绍.md:486 3eda3167eb5e46fcac69e2925125271c
-msgid ""
-"<span class=\"mark\">**DID名称**: "
-"DID名称用于帮助你在系统中识别该号码，在统计时如果设置了DID名称，则会使用此名称。</span>"
-msgstr ""
+msgid "<span class=\"mark\">**DID名称**: DID名称用于帮助你在系统中识别该号码，在统计时如果设置了DID名称，则会使用此名称。</span>"
+msgstr "<span class=\"mark\">**DID名**：DID名はシステム内で番号を識別するために使用され、統計時にDID名が設定された場合に使用される。</span>"
 
 #: ../../root/界面介绍.md:488 615299e658524779b9d0f1f6b035ba01
 msgid "<span class=\"mark\">**代理商**: 请为这个did号码选择一个代理商。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**再販業者**：この番号の再販業者を選択してください。</span>"
 
 #: ../../root/界面介绍.md:490 d193a3bc905e442fbfb9aa9316d1f1e9
 msgid "<span class=\"mark\">**状态**: DID号码禁用后, 呼入到当前DID的来电将不可用。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**ステータス**：DID番号が無効になると、現在のDIDへの着信は利用できなくなる。</span>"
 
 #: ../../root/界面介绍.md:492 dc59298f7d5d4a619956921b40db5ac7
 msgid "<span class=\"mark\">【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。</span>"
-msgstr ""
+msgstr "<span class=\"mark”>[詳細設定]設定：国を選択し、コメントや説明を記入することができます。</span>"
 
 #: ../../root/界面介绍.md:494 26e3a92d44644a7ea81dfa91998b9b81
-msgid ""
-"<img src=\"../_static/images/root/media/image45.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image45.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:497 27fc00c29b63408aa07b94a37a5903de
 msgid "外显号码:"
-msgstr ""
+msgstr "外部番号:"
 
 #: ../../root/界面介绍.md:499 1bb36241c3364db99edf36bd0e3182ae
-msgid ""
-"外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示） <span "
-"class=\"mark\"></span>"
+msgid "外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示） <span class=\"mark\"></span>"
 msgstr ""
+"発信番号とは、顧客との通話に使用される通話番号のことです。このページの発信番号リストには、システム・ユーザーが追加した発信番号が表示されます。下図 "
+"<span class=\"mark\"></span>"
 
 #: ../../root/界面介绍.md:502 369eda795df645deb008b25a1a799b98
-msgid ""
-"<img src=\"../_static/images/root/media/image46.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image46.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:505 8320c1a7479c426fa9e423320835896f
 msgid "**<span class=\"mark\">选择【添加】，进入【常规】设置：（如下图）</span>**"
-msgstr ""
+msgstr "**<span class=\"mark”>[追加]を選択し、[一般]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:507 f6ff35e0390645748782e885c0f4ab9e
-msgid ""
-"<img src=\"../_static/images/root/media/image47.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image47.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:510 662a18eb67a24c4c995ced4009555c57
 msgid "**外显号码:** 请输入您要添加的外显号码，每行一个。"
-msgstr ""
+msgstr "**外線番号**追加したい外線番号を1行に1つずつ入力してください。"
 
 #: ../../root/界面介绍.md:512 d07d5765b02947948cd6edc7220df7b6
 msgid "**供应商:** 你可以为这个外显号码选择一个供应商。"
-msgstr ""
+msgstr "**ベンダー:** この表示番号のベンダーを選択できます。"
 
 #: ../../root/界面介绍.md:514 1676b667370846d09772ec998a541200
 msgid "**费率计划:** 你可以为这个外显号码选择一个费率计划。"
-msgstr ""
+msgstr "**料金プラン:** この発信番号の料金プランを選択できます。"
 
 #: ../../root/界面介绍.md:516 420c38aa115549f99f75d0d42d2badf2
 msgid "**代理商:** 你可以为这个外显号码选择一个代理商。"
-msgstr ""
+msgstr "**エージェント:** この発信番号のエージェントを選択できます。"
 
 #: ../../root/界面介绍.md:518 6e6694ee374c41ea8e56d062ba2a77d9
 msgid "号码区域信息:"
-msgstr ""
+msgstr "ナンバーエリア情報:"
 
 #: ../../root/界面介绍.md:520 16fbd9e98e7e4ea5a8f4a25720dc9d8d
-msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
+msgid ""
+"号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号"
+"码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
 msgstr ""
+"番号地域情報は番号の発信地を示し、システムは発信地の番号の接頭辞に従って、システムの呼番号の発信地を照合することができる。属性エリアを追加した後、座"
+"席ページで着信があると、着信番号の属性エリア情報が表示され、座席で顧客とコンタクトを取ると、顧客プロファイルページに番号の属性エリアが表示されます。"
+"このページでは、追加/一括追加/表示/削除/DID番号更新の操作が可能です。"
 
 #: ../../root/界面介绍.md:522 02c932f67f4743869affb7a9f79ad6f1
-msgid ""
-"<img src=\"../_static/images/root/media/image48.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image48.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:525 961db128ffb9499c86dcf56040b82890
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置：（如下图所示）</span>**"
-msgstr ""
+msgstr "**<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:527 58960bb1554c4bccb2c0d1bf6763d893
-msgid ""
-"<img src=\"../_static/images/root/media/image49.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image49.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:530 ed77c43177eb4fdc929091c7b97b1df0
 msgid "<span class=\"mark\">**操作**:</span>"
-msgstr ""
+msgstr "<span class=\"mark\">**オペレーション**:</span>"
 
 #: ../../root/界面介绍.md:532 e8a9f21974ea40b8baa61c67b0825492
 msgid "<span class=\"mark\">更新：如果表内数据与当前设定的数据有重复，以设定的数据为准，对表进行更新。</span>"
-msgstr ""
+msgstr "<span class=\"mark\">更新：テーブルのデータが現在設定されているデータと重複している場合、設定されているデータでテーブルを更新する。</span>"
 
 #: ../../root/界面介绍.md:534 1397749b9aa340a584fee6402bde7dc0
 msgid "<span class=\"mark\">重置：清空表内所有号码区域信息，再将当前设定的数据导入表内.</span>"
-msgstr ""
+msgstr "<span class=\"mark\">リセット：テーブルの数字エリア情報をすべて空にし、現在のデータセットをテーブルにインポートする。</span>"
 
 #: ../../root/界面介绍.md:536 2e145b10cc454e8a8266e5b391c439c1
-msgid ""
-"<span class=\"mark\">**数据**: "
-"直接填写数据,或将csv文件拖拽到此区域(文件需使用UTF-8编码)。格式示例：号码(数字)+属性(文本)</span>"
+msgid "<span class=\"mark\">**数据**: 直接填写数据,或将csv文件拖拽到此区域(文件需使用UTF-8编码)。格式示例：号码(数字)+属性(文本)</span>"
 msgstr ""
+"<span class=\"mark\">**データ**：データを直接入力するか、csvファイルをこのフィールドにドラッグ＆ドロップしてください（ファイルはUTF-8でエンコードさ"
+"れている必要があります）。フォーマット例：数値（デジタル）＋属性（テキスト）</span>"
 
 #: ../../root/界面介绍.md:538 c4120f5cb05c46aa8412fe5fed836d53
 msgid "g. 呼叫设置:"
-msgstr ""
+msgstr "g. 通話設定:"
 
 #: ../../root/界面介绍.md:540 0c98e08f0d3b40759cf7d72a0b1b4353
 msgid "节点管理:"
-msgstr ""
+msgstr "ノード管理:"
 
 #: ../../root/界面介绍.md:542 e58d484d145441328906d721d89614c7
 msgid "从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。"
 msgstr ""
+"ノード管理では、追加したノードのセットアップ状況、CPUステータス、システム負荷、システム稼働時間、ノードタイプ、その他のシステム稼働状況を知ることが"
+"できます。"
 
 #: ../../root/界面介绍.md:544 ca301b9b1398487fabfad1e110b726e2
-msgid ""
-"<img src=\"../_static/images/root/media/image50.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image50.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:547 1fe2e371a58f420db63d32b011d7a800
 msgid "**<span class=\"mark\">选择【添加】并输入【通用】设置:</span>**"
-msgstr ""
+msgstr "**<span class=\"mark”>[Add]を選択し、[General]設定を入力します。</span>**"
 
 #: ../../root/界面介绍.md:549 f01be8d6d1e24bcda37ad69b24fd61af
 msgid "**节点类型**: 选择节点类型，分为【普通】和【 Opensips 】。系统默认为【 普通 】"
-msgstr ""
+msgstr "**Node Type**: ノードタイプを選択します。[Normal]と[Opensips]に分かれます。デフォルトは[Normal]。"
 
 #: ../../root/界面介绍.md:551 28b7fd83e26f4ef1b00f4c68f00769db
 msgid "<span class=\"mark\">当节点类型为普通时：（如下图）</span>"
-msgstr ""
+msgstr "<span class=\"mark\">ノードタイプがノーマルの場合：（以下）</span>"
 
 #: ../../root/界面介绍.md:553 43ad50bc42834a2a9d1338295ab4a5bb
-msgid ""
-"<img src=\"../_static/images/root/media/image51.png\"   "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image51.png\"   style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:556 ../../root/界面介绍.md:572
-#: 7f8e8360300b49daa6ec5193a546d449 e68f93a69bfc4b9f9edfe8137d61c52a
+#: ../../root/界面介绍.md:556 ../../root/界面介绍.md:572 7f8e8360300b49daa6ec5193a546d449 e68f93a69bfc4b9f9edfe8137d61c52a
 msgid "**节点名称:** 给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
 msgstr ""
+"**ノード名:** このノードを簡単に識別できるように名前を付けます。メディアゲートウェイとノードの対応するコンフィギュレーションは、この名前と一致してい"
+"る必要があります。"
 
-#: ../../root/界面介绍.md:559 ../../root/界面介绍.md:575
-#: 456d14aa09d64d80835c82b3fe5787e5 ec3b5feb4bc14b78a7fc114c0112c6fc
+#: ../../root/界面介绍.md:559 ../../root/界面介绍.md:575 456d14aa09d64d80835c82b3fe5787e5 ec3b5feb4bc14b78a7fc114c0112c6fc
 msgid "**节点 IP:** 请输入astercc服务器的IP地址。"
-msgstr ""
+msgstr "**ノード IP:** アスタリスク・サーバーの IP アドレスを入力してください。"
 
 #: ../../root/界面介绍.md:561 bb0ad24d96984e7c97908b01c3fcaaaa
 msgid "**Sip端口:** 节点http端口 默认值为3000。"
-msgstr ""
+msgstr "**Sip ポート:** ノードの http ポート。デフォルト値は 3000 です。"
 
-#: ../../root/界面介绍.md:563 ../../root/界面介绍.md:577
-#: 660a98c777d64e0a8631335b66234752 d988b0f334a64c8b93eaf5d498e23387
+#: ../../root/界面介绍.md:563 ../../root/界面介绍.md:577 660a98c777d64e0a8631335b66234752 d988b0f334a64c8b93eaf5d498e23387
 msgid "**Node端口:** 客户端webrtc使用的地址。"
-msgstr ""
+msgstr "**ノードポート:** クライアントwebrtcが使用するアドレス。"
 
 #: ../../root/界面介绍.md:565 5b810cb21677495ab0d5e714731e1ea5
 msgid "**处理任务:** 是否执行导出任务。"
-msgstr ""
+msgstr "**処理タスク:** エクスポート タスクを実行するかどうか。"
 
 #: ../../root/界面介绍.md:567 ce866cc2d2aa4b818adc49f3f0923ef5
 msgid "<span class=\"mark\">当节点类型为 opensips 时：（如下图）</span>"
-msgstr ""
+msgstr "<span class=\"mark\">ノードタイプがopensipsの場合：（以下）</span>"
 
 #: ../../root/界面介绍.md:569 d8af572f66d54b3b8e17dfa824e87a03
-msgid ""
-"<img src=\"../_static/images/root/media/image52.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image52.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:579 91208662dfb943709049e02487779b61
 msgid "**WS**服务器**:** 客户端webrtc使用的地址。"
-msgstr ""
+msgstr "**WS**サーバー**:** クライアントが使用するアドレス webrtc。"
 
 #: ../../root/界面介绍.md:581 189d12fa19934c83bd6cd121d6735a53
 msgid "**优先级:** WS服务器的使用优先级,坐席将优先连接优先级大的ws服务器.数值越大优先级越高.。"
-msgstr ""
+msgstr "**優先度:** WS サーバーの優先度。エージェントは優先度の高い WS サーバーに接続します。値が大きいほど、優先度が高くなります。"
 
 #: ../../root/界面介绍.md:584 e3eb5e9a3c4349dbb1b237efe0d917f5
 msgid "**Mysql地址:** 填写 Opensips 使用的 MySQL 地址。"
-msgstr ""
+msgstr "**MySQLアドレス:** Opensipsが使用するMySQLアドレスを記入してください。"
 
 #: ../../root/界面介绍.md:586 0bbc3bb478414f6d8a4e7ac849e20be5
 msgid "**Mysql** **端口:** 填写 Opensips 使用的 MySQL 端口。"
-msgstr ""
+msgstr "**Mysql** **ポート:** Opensips が使用する MySQL ポートを入力します。"
 
 #: ../../root/界面介绍.md:588 d3fa5ed3f2514d6f9f3d435bd651a385
 msgid "**Mysql** **用户名:**填写 Opensips 使用的 MySQL 用户名。"
-msgstr ""
+msgstr "**Mysql** **ユーザー名:** Opensips が使用する MySQL ユーザー名を入力します。"
 
 #: ../../root/界面介绍.md:590 e0641cb966c0450b9accf8220838be78
 msgid "**Mysql** **密码:** 填写 Opensips 使用的 MySQL 密码。"
-msgstr ""
+msgstr "**Mysql** **パスワード:** Opensips で使用される MySQL パスワードを入力します。"
 
 #: ../../root/界面介绍.md:592 e00ce01c977e4eb5848e6da0c3e97e7a
 msgid "**Mysql** **数据库:** 填写 Opensips 使用的 MySQL 数据库。"
-msgstr ""
+msgstr "**Mysql** **データベース:** Opensips で使用される MySQL データベースを入力します。"
 
 #: ../../root/界面介绍.md:594 20a77d91e01348db8e0bebf20cd5dd8a
-msgid ""
-"<img src=\"../_static/images/root/media/image53.png\" "
-"style=\"width:5.75694in;height:3.22847in\" />"
+msgid "<img src=\"../_static/images/root/media/image53.png\" style=\"width:5.75694in;height:3.22847in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:597 39e2626ce1bc49f1813be1539a03f1c0
 msgid "**编辑节点:** 编辑这个节点。"
-msgstr ""
+msgstr "**ノードを編集:** このノードを編集します。"
 
 #: ../../root/界面介绍.md:599 99e8f951e2264fea90ef4f19d8759e9d
 msgid "**健康检查:** 对节点进行健康检查。"
-msgstr ""
+msgstr "**ヘルス チェック:** ノードのヘルス チェックを実行します。"
 
 #: ../../root/界面介绍.md:601 a09ce070985948e8a01479aecb8e4d95
 msgid "**暂停:** 暂停这个节点的使用。"
-msgstr ""
+msgstr "**一時停止:** このノードの使用を一時停止します。"
 
 #: ../../root/界面介绍.md:603 ea8997f8681a447c9fdc471924e4e749
 msgid "**删除节点:** 删除这个节点"
-msgstr ""
+msgstr "**ノードを削除:** このノードを削除します"
 
 #: ../../root/界面介绍.md:605 37ed2674cfa249da871509e9462a2c26
 msgid "呼叫限制次数:"
-msgstr ""
+msgstr "通話制限の数:"
 
 #: ../../root/界面介绍.md:607 07f6b763e5d24a3c847bb9befa91514e
 msgid ""
-"呼叫限制是指号码可以拨打的次数;同时，您可以在 "
-"通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 "
-"个电话。（如下图所示） <span class=\"mark\"></span>"
+"呼叫限制是指号码可以拨打的次数;同时，您可以在 通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有"
+"客户端中，一天内只能拨打 20 个电话。（如下图所示） <span class=\"mark\"></span>"
 msgstr ""
+"また、通話制限検索で、制限された電話番号を検索することもできます。この設定は、クライアントアカウントのすべてのエージェントに適用されます。例えば、1"
+"日20回に設定した場合、全クライアントの中で1日に20回しか電話をかけることができません。下図 <span class=\"mark\"></span>"
 
 #: ../../root/界面介绍.md:610 c48fa5a467fb4fbbb753bc4d6783848f
-msgid ""
-"<img src=\"../_static/images/root/media/image54.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image54.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:613 54b121e3179044959fd11000ed4d8633
 msgid "**<span class=\"mark\">选择【添加】并进入【通用】设置：（如下图）</span>**"
-msgstr ""
+msgstr "**<span class=\"mark\">[追加] を選択し、[一般] 設定を入力します: (下図参照)</span>**"
 
 #: ../../root/界面介绍.md:615 3b6b63e8a6c345f4a9bbff0754df7522
-msgid ""
-"<img src=\"../_static/images/root/media/image55.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image55.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:618 f1334b66c912413b8ae7eed941cbc0c2
 msgid "**规则:** 你可以在 M 天内呼叫 N 次。"
-msgstr ""
+msgstr "**ルール:** M日間にN回電話をかけることができる。"
 
 #: ../../root/界面介绍.md:620 a21b222e642242cc9f10dcdb3f366b9d
 msgid "外呼档案:"
-msgstr ""
+msgstr "発信通話プロファイル:"
 
 #: ../../root/界面介绍.md:622 2f9017c8cfb2412d848805e859b65792
-msgid "外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据需要转换主叫号码或被叫号码。"
+msgid ""
+"外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据"
+"需要转换主叫号码或被叫号码。"
 msgstr ""
+"アウトバウンドコールプロファイルは、シッターのアウトバウンドトランクを選択するた めに使用されます。アウトバウンドコールプロファイルには、複数のアウ"
+"トバウンドルートがあ ります。クライアントは、発信番号または着信番号に基づいて、アウトバウンドコール に異なるトランクを使用できます。アウトバウンド"
+"ルーティングでは、必要に応じて発信番号または着信番号 を切り替えることもできます。"
 
 #: ../../root/界面介绍.md:624 6a03f4a5d40d4d8e9acb2e1e45160d10
-msgid ""
-"<img src=\"../_static/images/root/media/image56.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image56.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:627 ../../root/界面介绍.md:699
-#: 44b2122a0b2641049543ff5c61464241 57adbfb82f044a0e9183315f46efd796
+#: ../../root/界面介绍.md:627 ../../root/界面介绍.md:699 44b2122a0b2641049543ff5c61464241 57adbfb82f044a0e9183315f46efd796
 msgid "**单击【添加】以进入【常规】设置：（如下图所示）**"
-msgstr ""
+msgstr "**[追加]をクリックして[一般]設定を入力します:(下図参照)**"
 
 #: ../../root/界面介绍.md:629 971a550199ff4ebd8f93a40debdd6b82
-msgid ""
-"<img src=\"../_static/images/root/media/image57.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image57.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:632 45452b6384af4015bba35c94efcebbce
 msgid "**档案名称:**请为该外呼档案命名。"
-msgstr ""
+msgstr "**プロファイル名:** このアウトバウンド・プロファイルに名前を付けてください。"
 
 #: ../../root/界面介绍.md:634 cc57981f7e974344a79720b9eaa09db8
 msgid "<span class=\"mark\">设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark\">ファイル名を設定したら、「送信ルートの追加」をクリックして送信ルートを設定します（下図参照）</span>"
 
 #: ../../root/界面介绍.md:636 77509a8355404a4395160343871d8ba6
-msgid ""
-"<img src=\"../_static/images/root/media/image58.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image58.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:639 afc5daa20b5a48439fe1acffcd3f1c83
 msgid "**路由名称:** 请为该路由命名。"
-msgstr ""
+msgstr "**ルート名:** このルートに名前を付けてください。"
 
 #: ../../root/界面介绍.md:641 fd41d9c79a464789ac19423db6f16f36
 msgid "**匹配规则:** 设置匹配规则，满足该规则的调用将执行以下操作。如果设置了多个匹配规则，则需要匹配所有规则。"
 msgstr ""
+"**マッチルール:** マッチルールを設定すると、このルールを満たす呼は以下のアクションを実行する。複数のマッチルールが設定されている場合、すべてのルール"
+"にマッチする必要がある。"
 
 #: ../../root/界面介绍.md:644 4e7f9f9ea761478bb8cef14648270e2a
 msgid "**替换主叫号码:**在这里你可以从新设定主叫号码和主叫号码名称。"
-msgstr ""
+msgstr "**発信者IDの置き換え:** ここで、発信者IDと発信者ID名を再設定できます。"
 
 #: ../../root/界面介绍.md:646 3a87274f04ff42ee85956383a266dbce
 msgid "**被叫号码:** 你可以添加/移除被叫号码前缀，或是重置被叫号码。"
-msgstr ""
+msgstr "**着信番号:**着信番号のプレフィックスを追加/削除したり、着信番号をリセットしたりできます。"
 
 #: ../../root/界面介绍.md:648 c655087870b44021891b5a5098adf8c2
 msgid "**转向:**路由匹配时系统将进行此动作。"
-msgstr ""
+msgstr "**リダイレクト:** ルートが一致した場合、システムはこのアクションを実行します。"
 
 #: ../../root/界面介绍.md:650 034ea3302f5547fcb72ea8310410b1ab
 msgid "**中继策略:**"
-msgstr ""
+msgstr "**リレー戦略:**"
 
 #: ../../root/界面介绍.md:652 f0393f64c0c145b2ae5762c11e41f455
 msgid "顺序：每个来电从第一个中继开始（始终为 123）"
-msgstr ""
+msgstr "シーケンス：各着信コールは最初のトランク（常に123）から始まります。"
 
 #: ../../root/界面介绍.md:654 e152f34aff6042808eaafd30cc8a95c9
 msgid ""
-"轮询：第一个来电按中继添加的顺序运行，第二个来电从第一个中继的下一个顺序中继开始，依此类推，第三个呼叫。（第一次是123，第二次是 "
-"231，第三次是 312）"
+"轮询：第一个来电按中继添加的顺序运行，第二个来电从第一个中继的下一个顺序中继开始，依此类推，第三个呼叫。（第一次是123，第二次是 231，第三次是 312）"
 msgstr ""
+"ポーリング：最初のコールは、トランクが追加された順に実行され、2番目のコールは、最初のコールの次の順次トランクで開始され、3番目のコールは、そのように"
+"実行されます。(1回目は123、2回目は231、3回目は312)"
 
 #: ../../root/界面介绍.md:656 69e2795d22484799b6583eae20b6eae3
 msgid "随机：无模式"
-msgstr ""
+msgstr "ランダム：パターンなし"
 
 #: ../../root/界面介绍.md:658 1be04c353dff4ee4927cc54ebe01c5e6
 msgid "暂停原因:"
-msgstr ""
+msgstr "出場停止の理由:"
 
 #: ../../root/界面介绍.md:660 db63bee78fff4bd9b900e564585477e8
 msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。"
 msgstr ""
+"一時停止の理由は、エージェントをビジーに設定するときにエージェントが選択した一時停止の理由です。一時停止の理由ページで、システム ユーザーは一時停止"
+"の理由を追加/表示/編集/削除できます。"
 
 #: ../../root/界面介绍.md:662 11db316433f7409980114b2804fc1a08
-msgid ""
-"<img src=\"../_static/images/root/media/image59.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image59.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:665 ../../root/界面介绍.md:679 ../../root/界面介绍.md:963
-#: b03489ab2fb04843afceef2a0ad47828 cd49d9577d5f4ea4a804d8cfd30b5744
-#: dae4edca1857416fb42fc8126e3d00da
+#: ../../root/界面介绍.md:665 ../../root/界面介绍.md:679 ../../root/界面介绍.md:963 b03489ab2fb04843afceef2a0ad47828
+#: cd49d9577d5f4ea4a804d8cfd30b5744 dae4edca1857416fb42fc8126e3d00da
 msgid "**点击【添加】进入【通用】设置：（如下图）**"
-msgstr ""
+msgstr "**【追加】をクリックして【一般】設定を入力します:(下図参照)**"
 
 #: ../../root/界面介绍.md:667 d50797a91dcd46f8a0f3e7cd804aec00
-msgid ""
-"<img src=\"../_static/images/root/media/image60.png\" "
-"style=\"width:5.75972in;height:1.875in\" />"
+msgid "<img src=\"../_static/images/root/media/image60.png\" style=\"width:5.75972in;height:1.875in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:670 426245879ebd41d7b3386d0f933912c7
 msgid "**暂停原因名称:** 设置暂停原因为其命名。"
-msgstr ""
+msgstr "**一時停止理由名:** 一時停止理由の名前を設定します。"
 
 #: ../../root/界面介绍.md:672 96a4f945735840a8b53dacd5f996944a
 msgid "话机部署模版:"
-msgstr ""
+msgstr "電話配備テンプレート:"
 
 #: ../../root/界面介绍.md:674 cc05ca53c6004456af06b67692aefc33
 msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
 msgstr ""
+"電話の展開テンプレートは、電話の設定に直接構成することができ、テンプレートの内容は、複数の携帯電話の使用では、キーを展開するために多くの時間を節約す"
+"ることができ、デフォルトの構成とは独立に追加することができます。"
 
 #: ../../root/界面介绍.md:676 2eb8e0e1646048b9ba6aa26876f23bd7
-msgid ""
-"<img src=\"../_static/images/root/media/image61.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image61.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:681 0bb7352afb144ae2822b0d3bc94f6d3c
-msgid ""
-"<img src=\"../_static/images/root/media/image62.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image62.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:684 8849305c72db4cea90e280f023cbba90
 msgid "**模版名称:**请填入模版名称。"
-msgstr ""
+msgstr "**テンプレート名:** テンプレートの名前を入力してください。"
 
 #: ../../root/界面介绍.md:686 b0a296001e2044faa5584988f44cbabb
 msgid "**话机品牌:** 请输入话机型号。"
-msgstr ""
+msgstr "**携帯電話のブランド:**携帯電話のモデルを入力してください。"
 
 #: ../../root/界面介绍.md:688 82c0bd13b9724c2987937c1f4bb87694
 msgid "**模版内容:** 输入模板（root或管理员提前准备的模板，不同话机的模板不同）。"
-msgstr ""
+msgstr "**テンプレート内容:** 入力テンプレート（ルートまたは管理者があらかじめ用意したテンプレート、携帯電話ごとに異なるテンプレート）。"
 
 #: ../../root/界面介绍.md:690 ab8b7d1a556e493485c5f5bdec2b7ae8
 msgid "h. 信息:"
-msgstr ""
+msgstr "h. インフォメーション:"
 
 #: ../../root/界面介绍.md:692 d8d141a624ce43d5b8f414a599aa3904
 msgid "短信档案:"
-msgstr ""
+msgstr "SMSアーカイブ:"
 
 #: ../../root/界面介绍.md:694 7027a44cde674a1b9846517d8cf2e4f4
-msgid "短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。"
+msgid ""
+"短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的"
+"供应商。"
 msgstr ""
+"SMSプロファイルは、顧客によって送信されるSMSメッセージのルーティングを設定するために使用されます。 各プロファイルでは、一致する識別子パスをSMSプロバ"
+"イダにバインドすることができ、顧客がSMSメッセージの送信要求を開始したときに、別の識別子文字列を使用して使用するプロバイダを選択することができます。"
 
 #: ../../root/界面介绍.md:696 d21ac185671547d9852e073d1bf703c0
-msgid ""
-"<img src=\"../_static/images/root/media/image63.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image63.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:701 abb338a4e7ca43aeaf8a03a1631f9f44
-msgid ""
-"<img src=\"../_static/images/root/media/image64.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image64.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:704 af56b85ee79942c0be1299dbc9108620
 msgid "**短信档案名称:** 请给短信档案命名。"
-msgstr ""
+msgstr "**SMS アーカイブ名:** SMS アーカイブに名前を付けてください。"
 
 #: ../../root/界面介绍.md:706 b6daa16497b748bd8fb4f48f625609f3
 msgid "<span class=\"mark\">设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）</span>"
-msgstr ""
+msgstr "<span class=\"mark\">ファイル名]を設定した後、【バウンドベンダー】をクリックしてバウンドベンダーを設定します。</span>"
 
 #: ../../root/界面介绍.md:708 1c1fdc7063cc45b6b9c8606e808deef2
-msgid ""
-"<img src=\"../_static/images/root/media/image65.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image65.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:711 3e919779a7f84ccd89b87e42b504f4d1
 msgid "**匹配标识串:** 客户请求中用于选择要发送短信的供应商的标识字符串。"
-msgstr ""
+msgstr "**一致識別文字列:** SMSを送信するプロバイダーを選択するための顧客リクエストで使用される識別文字列。"
 
 #: ../../root/界面介绍.md:713 2f8593fbfa3f4a8185722dda0af37325
 msgid "**匹配供应商:** 字符串匹配时使用的供应商。"
-msgstr ""
+msgstr "**マッチ・サプライヤー:** 文字列マッチングに使用するサプライヤー。"
 
 #: ../../root/界面介绍.md:715 98f5179309394ef88440e48cee8d9338
 msgid "<span class=\"mark\">编辑完【短信文件】后，如下图所示，点击保存（如下图）</span>"
-msgstr ""
+msgstr "<span class=\"mark”>【SMSファイル】を以下のように編集したら、【保存】をクリックします。</span>"
 
 #: ../../root/界面介绍.md:717 c8f7cdb876794ee1ae42bb157a901439
-msgid ""
-"<img src=\"../_static/images/root/media/image66.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image66.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:720 eab14322fcf147679123d50cb8023357
 msgid "短信供应商:"
-msgstr ""
+msgstr "SMSプロバイダー:"
 
 #: ../../root/界面介绍.md:722 c7c58ac5f9cb44f18bdb4d46c919b896
 msgid "短信供应商页面用于管理短信供应商，你可以在系统中配置多个供应商，然后在短信档案中配置如何选择这些供应商发短信。"
 msgstr ""
+"SMSプロバイダー」ページは、SMSプロバイダーを管理するために使用されます。システムで複数のプロバイダーを設定し、SMSプロファイルでSMS用にこれらのプロバ"
+"イダーを選択する方法を設定できます。"
 
 #: ../../root/界面介绍.md:724 2dd1971b4f6f4f9a838f3ce1a6f709aa
-msgid ""
-"<img src=\"../_static/images/root/media/image67.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image67.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
-#: ../../root/界面介绍.md:727 ../../root/界面介绍.md:746
-#: 8c3def34bffc4825a5546aa982356da6 a77bbb53cb5942c6b969bcdda769809a
+#: ../../root/界面介绍.md:727 ../../root/界面介绍.md:746 8c3def34bffc4825a5546aa982356da6 a77bbb53cb5942c6b969bcdda769809a
 msgid "**选择【添加】并进入【通用】设置：（如下图）**"
-msgstr ""
+msgstr "**【追加】を選択し、【一般】設定を入力します: (以下に示すように)**"
 
 #: ../../root/界面介绍.md:729 a3a4e2e156244bfb99f9e052bf50805d
-msgid ""
-"<img src=\"../_static/images/root/media/image68.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image68.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:732 402df622f8bb449db1e88aea16a1106b
 msgid "**供应商名称:** 请输入短信供应商名称。"
-msgstr ""
+msgstr "**プロバイダー名:** SMSプロバイダーの名前を入力してください。"
 
 #: ../../root/界面介绍.md:734 25f4467e0b9347e5a95f574a6cfba360
 msgid ""
-"**标识:** "
-"每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新的标识，请联系系统管理员。"
+"**标识:** 每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新"
+"的标识，请联系系统管理员。"
 msgstr ""
+"**ロゴ:** すべてのサプライヤーには、文字で構成されるロゴが必要です。同時に、サプライヤーが提供するインターフェイスを呼び出してテキスト メッセージを"
+"送信するためのスクリプト ファイルをシステム内に記述する必要があります。新しいロゴを追加する場合は、システム管理者に問い合わせてください。"
 
 #: ../../root/界面介绍.md:737 a023d6265e44429ab1d0e8d99815c1a8
 msgid "**参数:**如果你想使用对同一个供应商的多个账号，可以在这里设置向脚本文件传递的参数。"
-msgstr ""
+msgstr "**パラメータ:** 同じプロバイダーで複数のアカウントを使用する場合は、ここでスクリプト ファイルに渡されるパラメータを設定できます。"
 
 #: ../../root/界面介绍.md:739 13f95ebc08784468a6ab4cf2083cdd1c
 msgid "邮件服务器:"
-msgstr ""
+msgstr "メールサーバー:"
 
 #: ../../root/界面介绍.md:741 6b8c52514966424380ba7a720281dcda
 msgid "邮件服务器页面用于管理电子邮件收发的管理设备。"
-msgstr ""
+msgstr "メールサーバーページは、電子メールを送受信するための管理機器を管理するためのページです。"
 
 #: ../../root/界面介绍.md:743 0570f2760abe4b538832fcccd51ba758
-msgid ""
-"<img src=\"../_static/images/root/media/image69.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image69.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:748 983cc6a4be4c421dab64e2f4169a2f44
-msgid ""
-"<img src=\"../_static/images/root/media/image70.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image70.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:751 41d4d5c9e2714f83986c839b4846e5a0
 msgid "**服务器名称:** 请为这个服务器命名。"
-msgstr ""
+msgstr "**サーバー名:** このサーバーに名前を付けてください。"
 
 #: ../../root/界面介绍.md:753 d985b6f529544921abe44b71511c17db
 msgid "**服务器类型:** 请选择这个服务器的类型。"
-msgstr ""
+msgstr "**サーバータイプ:** このサーバーのタイプを選択してください。"
 
 #: ../../root/界面介绍.md:755 80d0ffe164844205a63016a1cb665674
 msgid "**域名:** 请输入这个邮件服务器的域名。"
-msgstr ""
+msgstr "**ドメイン名:** このメールサーバーのドメイン名を入力してください。"
 
 #: ../../root/界面介绍.md:757 8bb3fc6878bb4c69937b8fd3fce6556d
 msgid "**端口号:** 请输入这个邮件服务器的端口号。"
-msgstr ""
+msgstr "**ポート番号:** このメール サーバーのポート番号を入力してください。"
 
 #: ../../root/界面介绍.md:759 8a937e9b1d2e45c383fb4e517e89aa5d
 msgid "**发信人邮箱:** 请输入这个邮件服务器的发信人邮箱。"
-msgstr ""
+msgstr "**送信者メールアドレス:** このメールサーバーの送信者メールアドレスを入力してください。"
 
 #: ../../root/界面介绍.md:761 582fcfb65be241e8b07fe90c53be585d
 msgid "**使用SMTP** 认证**:** 请确认是否需要使用SMTP认证。"
-msgstr ""
+msgstr "**SMTP** 認証を使用する**:** SMTP 認証を使用する必要があるかどうかを確認してください。"
 
 #: ../../root/界面介绍.md:763 3bdd2bd123604e70b485d5dadeee347b
 msgid "**启用** **SSL** **或TLS协议:** 选择一个启动协议。"
-msgstr ""
+msgstr "**SSL または TLS プロトコルを有効にする:** 起動プロトコルを選択します。"
 
 #: ../../root/界面介绍.md:765 96deb0a725164470a93bf6c5f9641d15
 msgid "**SMTP** 用户名**:** 若启动SMTP认证，请输入SMTP用户名。"
-msgstr ""
+msgstr "**SMTP** ユーザー名**:** SMTP 認証が有効になっている場合は、SMTP ユーザー名を入力してください。"
 
 #: ../../root/界面介绍.md:767 5d2c818c122043c482ed164acafd79ee
 msgid "**密码:** 请输入SMTP用户名对应的密码。"
-msgstr ""
+msgstr "**パスワード:** SMTP ユーザー名に対応するパスワードを入力してください。"
 
 #: ../../root/界面介绍.md:769 495d4a437c764cdba26d2eea96f8502d
 msgid "i. 统计:"
-msgstr ""
+msgstr "i. 統計:"
 
 #: ../../root/界面介绍.md:771 0198e76ed39e49f5b265de67667b8bc6
 msgid "**统计报表:** 您可以查看项目详细信息、项目摘要、任务详细信息、任务摘要和成本费率报告。（如下图所示）"
-msgstr ""
+msgstr "**統計レポート:** プロジェクト詳細、プロジェクトサマリー、タスク詳細、タスクサマリー、コストレートレポートを見ることができます。(下図)"
 
 #: ../../root/界面介绍.md:774 1843c1c4f9ed4d71a3a5d2976a25584a
-msgid ""
-"<img src=\"../_static/images/root/media/image71.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image71.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:777 aa509483e5c541a7892f151ab32f0738
 msgid "j. 监控管理:"
-msgstr ""
+msgstr "j. 監視管理:"
 
 #: ../../root/界面介绍.md:779 f5d189d9caf54fc8820c3d67ad508fc8
 msgid "**实时监控:** 系统用户可以实时监控呼入/呼出的状态以及座位是否在线（如下图所示）"
 msgstr ""
+"**リアルタイム・モニタリング:**システム・ユーザーは、着信/発信コールのステータスや、座席がオンラインかどうかをリアルタイムで監視することができます"
+"（下図参照）。"
 
 #: ../../root/界面介绍.md:782 f13380ee1507469b904421b5c1ea266f
-msgid ""
-"<img src=\"../_static/images/root/media/image72.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image72.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:785 702b812279c54138add9cc24685fa0c8
 msgid "k. 日志记录:"
-msgstr ""
+msgstr "k. ロギング:"
 
 #: ../../root/界面介绍.md:787 9e1f08c461094e47b96d4bd73cb97987
 msgid "**日志记录:** 您可以查看所有用户的行为（如下图所示）"
-msgstr ""
+msgstr "**ログ:** すべてのユーザーの行動を表示できます (以下を参照)"
 
 #: ../../root/界面介绍.md:789 72a5aa87a1f7467ca41651cf84da6653
-msgid ""
-"<img src=\"../_static/images/root/media/image73.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image73.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:792 857db0a775ab48ce9954c95a1952e699
 msgid "l. 系统:"
-msgstr ""
+msgstr "l. システム:"
 
 #: ../../root/界面介绍.md:794 f6cd592eabcb4eadac588f2ba23600f9
 msgid "系统偏好:"
-msgstr ""
+msgstr "システム環境設定:"
 
 #: ../../root/界面介绍.md:796 5811427dfe3247d39ff0b64111e88c88
 msgid "即系统设置，用户可以根据需要对系统进行常规设置"
-msgstr ""
+msgstr "すなわちシステム設定であり、ユーザーは必要に応じてシステムの一般的な設定を行うことができる"
 
 #: ../../root/界面介绍.md:798 36766caac4e744569823e8d6b3fdbb1f
 msgid "【 通用 】 设置页面：（如下图）"
-msgstr ""
+msgstr "【一般】設定ページ: (下図)"
 
 #: ../../root/界面介绍.md:800 ed6eda0c06d5415887ee9b5e7a41bb79
-msgid ""
-"<img src=\"../_static/images/root/media/image74.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image74.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:803 e5d9edc57a7943edaf72fc028c0c6ace
 msgid "**时区:** 当前使用的时区，默认为东京且无法修改。"
-msgstr ""
+msgstr "**タイムゾーン:** 現在のタイムゾーンで、デフォルトは東京で、変更することはできません。"
 
 #: ../../root/界面介绍.md:805 494a25b0eee647d28410e1a21e607a1c
 msgid "**语言:** 您可以设置语言。"
-msgstr ""
+msgstr "**言語:**言語を設定することができます。"
 
 #: ../../root/界面介绍.md:807 59f454f28bd0434b9e2f59c7056b6c68
 msgid "**国家:**你可以设置国家"
-msgstr ""
+msgstr "**国:** 国を設定できます"
 
 #: ../../root/界面介绍.md:809 95bc1bd19f344dfda5cba4ac0eb3bcf0
 msgid "**区号:** 你可以设置区号。"
-msgstr ""
+msgstr "**市外局番:** 市外局番を設定できます。"
 
 #: ../../root/界面介绍.md:811 357b950ac0ba41759e417717c5c65e0a
 msgid "**日期格式模式:** 您可以设置日期格式模式。"
-msgstr ""
+msgstr "**日付フォーマットモード:** 日付フォーマットモードを設定することができます。"
 
 #: ../../root/界面介绍.md:813 8edad9c3bd524f0593bdba56fad74108
 msgid "**日期格式:** 您可以设置日期格式，在日期格式模式下选择精确模式将显示。"
-msgstr ""
+msgstr "**日付フォーマット:** 日付フォーマットモードで正確なモードを選択することで、表示される日付フォーマットを設定できます。"
 
 #: ../../root/界面介绍.md:816 052406fcbdb04e1bb0e7f4544110cd1c
 msgid "**时间格式:** 您可以设置时间格式，将显示日期格式模式下的精确模式。"
-msgstr ""
+msgstr "**時間フォーマット:** 日付フォーマットモードで正確なモードを表示する時間フォーマットを設定できます。"
 
 #: ../../root/界面介绍.md:818 c5fe2d866a2c45e88b14bb264bbcc68b
 msgid "**时长格式:** 您可以设置时长的格式。"
-msgstr ""
+msgstr "**期間の形式:** 期間の形式を設定できます。"
 
 #: ../../root/界面介绍.md:820 9978b36e266247679544a01143a1be9e
 msgid "**号码格式:** 你可以设置号码的格式。"
-msgstr ""
+msgstr "**番号フォーマット:** 番号のフォーマットを設定できます。"
 
 #: ../../root/界面介绍.md:822 694e85b06b5e4c299e7a296349c7b3df
 msgid "**称呼格式:** 你可以设置姓名称呼的格式。"
-msgstr ""
+msgstr "**給与の形式:** 敬称の名前の形式を設定できます。"
 
 #: ../../root/界面介绍.md:824 5ab8b4a549d2452f9f5a01ff5745e2f7
 msgid "**账号超时时间:** 账号登录超时时间（单位：分钟）"
-msgstr ""
+msgstr "**アカウント・タイムアウト:** アカウント・ログイン・タイムアウト (分)"
 
 #: ../../root/界面介绍.md:826 2c8adf84076741f08ab97d32d6801c98
 msgid "**坐席超时时间:** 坐席登录超时时间（单位：分钟）"
-msgstr ""
+msgstr "** シートタイムアウト:** シートログインタイムアウト（単位：分）"
 
 #: ../../root/界面介绍.md:828 a21a726b03e5446c8c4e1500d7777a36
 msgid "**坐席浏览器超时时间:** 如果代理设置为与浏览器一起使用，则当浏览器关闭并达到此超时时间时，系统将检出所有动态签入的代理组（单位：秒）。"
 msgstr ""
+"**エージェント ブラウザ タイムアウト:** エージェントがブラウザで動作するように設定されている場合、ブラウザが閉じられ、このタイムアウト (秒単位) に達"
+"すると、システムは動的にチェックインされたすべてのエージェント グループをチェックアウトします。"
 
 #: ../../root/界面介绍.md:831 15cbbde463324fa4a4ea4ad874721b66
 msgid "【货币】设置页面：（如下图）"
-msgstr ""
+msgstr "【通貨】設定ページ: (以下のように)"
 
 #: ../../root/界面介绍.md:833 463b213e268343ec9cbb961106472243
-msgid ""
-"<img src=\"../_static/images/root/media/image75.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image75.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:836 14415afaeab04b398bb6693fcf52b88a
 msgid "**货币:** 设置货币。."
-msgstr ""
+msgstr "**通貨:** 通貨の設定。"
 
 #: ../../root/界面介绍.md:838 35c659933c8b4633834f5a57c638dff6
 msgid "**货币符号:** 设置货币符号。"
-msgstr ""
+msgstr "**通貨記号:** 通貨記号を設定します。"
 
 #: ../../root/界面介绍.md:840 1269aeb10de540a5bc92c5fabbe90b0d
 msgid "**货币小数点:** 设置货币小数点"
-msgstr ""
+msgstr "** 通貨小数点:** 通貨小数点を設定します"
 
 #: ../../root/界面介绍.md:842 4bb1baf90bb7469390b0b52787d28c90
 msgid "**数字分隔符:** 设置数字分隔符。"
-msgstr ""
+msgstr "**桁区切り:** 桁区切りを設定します。"
 
 #: ../../root/界面介绍.md:844 7bae53fb99824b7cb162b9353953c4b2
 msgid "**千位分隔符:** 设置千位分隔符。"
-msgstr ""
+msgstr "**千位分隔符:**千の区切りを設定する。"
 
 #: ../../root/界面介绍.md:846 cb5153f419804103b4bc1e082b50fee3
 msgid "【 数据 】 设置页面：（如下图）"
-msgstr ""
+msgstr "【データ】設定画面：（下図参照）"
 
 #: ../../root/界面介绍.md:848 d534df74ee104b7f81a3c16400098b1d
-msgid ""
-"<img src=\"../_static/images/root/media/image76.png\" "
-"style=\"width:5.75972in;height:1.11597in\" />"
+msgid "<img src=\"../_static/images/root/media/image76.png\" style=\"width:5.75972in;height:1.11597in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:851 a5c20d14c4d04f29ac191a3bd736ba46
 msgid "**导出文件编码:** 设置导出文件编码。"
-msgstr ""
+msgstr "**エクスポート ファイルのエンコーディング:** エクスポート ファイルのエンコーディングを設定します。"
 
 #: ../../root/界面介绍.md:853 25efd1a919ae4aca943c0017a01aa1c9
 msgid "**导出单文件最大行数:** 设置导出文件最大行数。"
-msgstr ""
+msgstr "**単一のエクスポート ファイル内の最大行数:** エクスポート ファイル内の最大行数を設定します。"
 
 #: ../../root/界面介绍.md:855 8ed47ad1a2b049b7a618882e8c1d6a8b
 msgid "【拨号】设置页面：（如下图）"
-msgstr ""
+msgstr "【ダイヤリング】設定ページ：（以下同様）"
 
 #: ../../root/界面介绍.md:857 26ba255971cb4d428b0df3bb23c1b612
-msgid ""
-"<img src=\"../_static/images/root/media/image77.png\" "
-"style=\"width:5.75972in;height:1.09167in\" />"
+msgid "<img src=\"../_static/images/root/media/image77.png\" style=\"width:5.75972in;height:1.09167in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:860 f0542cdd4f9c46afbf0fd12d9bed7ac8
 msgid "**拨打外线超时:** 外呼振铃时长。"
-msgstr ""
+msgstr "**発信コールのタイムアウト:**発信コールの呼び出し時間。"
 
 #: ../../root/界面介绍.md:862 dae2205e971d49048820720e134785c1
 msgid "**拨打分机超时**:内线振铃超时。"
-msgstr ""
+msgstr "**内線通話タイムアウト**:インターホンの呼び出し音タイムアウト。"
 
 #: ../../root/界面介绍.md:864 3ac7fc268d0444869abee6f70c401f92
 msgid "销售漏斗:"
-msgstr ""
+msgstr "セールスファネル:"
 
 #: ../../root/界面介绍.md:866 450477f68ffb4e469c32e3a9f03de3d8
 msgid "销售漏斗用于标记代理商记录的客户通话状态，默认有三种类型：成功/失败/跟踪，可以根据需要添加/编辑/删除。"
 msgstr ""
+"セールスファネルは、エージェントによって記録されたカスタマーコールのステータスをマークするために使用されます。デフォルトでは、成功/失敗/トラッキング"
+"の3つのタイプがあり、必要に応じて追加/編集/削除することができます。"
 
 #: ../../root/界面介绍.md:868 45d01776f3e44f0cb0761e29d47592a1
 msgid "销售漏斗的分数代表着坐席的呼叫和联系分数，最终可以根据坐席的总分进行排名，可以在坐席数据页面的排名列表中查看。"
-msgstr ""
+msgstr "セールスファネルスコアは、シートのコールスコアとコンタクトスコアを表し、最終的にシートのトータルスコアに基づいてランク付けされます。"
 
 #: ../../root/界面介绍.md:870 897d332952ca47be8e486ce225d221ea
-msgid ""
-"<img src=\"../_static/images/root/media/image78.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image78.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:873 dd9f47266e7a437e8229bb204746a28a
 msgid "**选择【添加】并进入【常规】设置：（如下图）**"
-msgstr ""
+msgstr "**【追加】を選択し、【一般】設定を入力します: (以下に示すように)**"
 
 #: ../../root/界面介绍.md:875 0041e01432ca4d8aa53ec60658579973
-msgid ""
-"<img src=\"../_static/images/root/media/image79.png\" "
-"style=\"width:5.75972in;height:1.58681in\" />"
+msgid "<img src=\"../_static/images/root/media/image79.png\" style=\"width:5.75972in;height:1.58681in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:878 99922556f3ab49969aaddf0fd48916d2
 msgid "**名称:**为此销售漏斗命名。"
-msgstr ""
+msgstr "**名前:** このセールスファネルの名前。"
 
 #: ../../root/界面介绍.md:880 9ab55b11f96644878b4bf1b331be4038
 msgid "**分值:** 请设置这个销售漏斗的分值，分值可体现坐席的工作情况。"
-msgstr ""
+msgstr "**分值:**このセールスファネルにスコアを設定してください。"
 
 #: ../../root/界面介绍.md:882 5846f0126e414b0ea99fef8fef333e5d
 msgid "**状态:** 销售漏斗的状态:"
-msgstr ""
+msgstr "**ステータス:**セールスファネルのステータス："
 
 #: ../../root/界面介绍.md:884 9b581ca337924b2c9a1e6ebc87574436
 msgid "启用：正常显示"
-msgstr ""
+msgstr "有効：通常表示"
 
 #: ../../root/界面介绍.md:886 6893a843c949465fb75b638fc74d4ba2
 msgid "隐藏：坐席不可见"
-msgstr ""
+msgstr "隐藏：座る人には見えない"
 
 #: ../../root/界面介绍.md:888 1c6530234fdf4b23a60c6bd5e74a96ce
 msgid "关闭：系统不可见"
-msgstr ""
+msgstr "クローズド：システムから見えない"
 
 #: ../../root/界面介绍.md:890 5d038419dda44656b83ceb9c0a4d96bc
 msgid "后台任务:"
-msgstr ""
+msgstr "バックオフィス業務:"
 
 #: ../../root/界面介绍.md:892 91c4ad4463ce421fb56e4fb8d917fcab
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
 msgstr ""
+"バックグラウンド・タスクとは、システムで許可されているプログラムされたタスクのことで、通常はレポートのインポートやエクスポートなど、時間のかかるもの"
+"である。"
 
 #: ../../root/界面介绍.md:894 729644b579df47049b7345d00a30da59
-msgid ""
-"<img src=\"../_static/images/root/media/image80.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image80.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:897 ff65cf5e44834b95983b5fd32e3bdd75
 msgid "高级:"
-msgstr ""
+msgstr "高度な:"
 
 #: ../../root/界面介绍.md:899 5d931916eff84b9ba824ebdbd2c49288
 msgid "可以查看和编辑某些系统设置"
-msgstr ""
+msgstr "特定のシステム設定を表示および編集する機能"
 
 #: ../../root/界面介绍.md:901 4b360bcb5548487180439f59a87cde83
 msgid "**\\[基本\\]设置：（如下图）**"
-msgstr ""
+msgstr "**\\[基本\\]設定: (下図参照)**"
 
 #: ../../root/界面介绍.md:903 f7f5fe21640c4d118c86d07e97d0ea22
-msgid ""
-"<img src=\"../_static/images/root/media/image81.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image81.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:906 3406ba4d694c420882dfebe4395b8bfe
 msgid "**事件类型:**"
-msgstr ""
+msgstr "**イベントタイプ:**"
 
 #: ../../root/界面介绍.md:908 8ee5143ffeb04effa06a5ee84d0e98b9
 msgid "系统提供两种事件:通话记录:当呼叫挂断时，系统会将通话记录发布到特定的URL."
-msgstr ""
+msgstr "通話ログ：通話が切れると、システムは通話ログを特定のURLに投稿する。"
 
 #: ../../root/界面介绍.md:910 5ff33865008e4584b09efec25bd3cf62
 msgid "坐席事件:系统将发布所有坐席事件，如响铃，应答，挂断，签入，签出，暂停，取消暂停等"
-msgstr ""
+msgstr "シート・イベント：着信、応答、切断、サインイン、サインアウト、一時停止、一時停止の解除など、すべてのシート・イベントを公表します"
 
 #: ../../root/界面介绍.md:912 8554614f82b6493aa34cb863d290857c
 msgid "**事件接收地址:** 系统会将事件数据发送到此URL。如果您不需要它，请将其留空。"
-msgstr ""
+msgstr "**イベント受信アドレス:** システムはこの URL にイベント・データを送信します。必要ない場合は空白にしてください。"
 
 #: ../../root/界面介绍.md:914 05c2b7f9293e47529c1b520842aa17f1
 msgid "**录音设置:** 请设置您需要的录音类型。"
-msgstr ""
+msgstr "**録画設定:**ご希望の録画タイプを設定してください。"
 
 #: ../../root/界面介绍.md:916 0bd22ca4fe1a4233bcfcd5bac9b0fe9c
 msgid "**录音格式:** 请选择录音格式。"
-msgstr ""
+msgstr "**録画形式:**録画形式を選択してください。"
 
 #: ../../root/界面介绍.md:918 5caf996112b74f97b2712ad6d1f986f0
 msgid "**录音文件名格式:**"
-msgstr ""
+msgstr "**録音ファイル名フォーマット:**"
 
 #: ../../root/界面介绍.md:920 13d86a94effc4817948b89da4dc79f17
 msgid "你可以自定义录音文件的命名规则，可用的变量包括:"
-msgstr ""
+msgstr "録画ファイルの命名規則をカスタマイズすることができます:"
 
 #: ../../root/界面介绍.md:934 1c314846e9554dc693e037a144cdeb0c
 msgid "**语音识别:** 根据需要是否开启语音识别功能。"
-msgstr ""
+msgstr "**音声認識:** 必要に応じて音声認識機能を有効にするかどうか。"
 
 #: ../../root/界面介绍.md:936 1fc22e929f964c9dbbee2e4480049c4f
 msgid "**语音识别回调地址:**如果已配置，系统会将语音识别结果发送到此 URL。"
-msgstr ""
+msgstr "**音声認識コールバックアドレス:** 設定されている場合、システムは音声認識結果をこのURLに送信します。"
 
 #: ../../root/界面介绍.md:938 404dd3e35ba54e29a2d9efc91b9f2ecf
 msgid "**账号多点登录:** 允许一个帐户多点登录。"
-msgstr ""
+msgstr "**アカウント・マルチログイン:** 1つのアカウントに対してマルチログインを許可します。"
 
 #: ../../root/界面介绍.md:940 5ff261ca1fb048e38ca22f5d8f634795
 msgid "**\\[录音转移\\]设置：（如下图）**"
-msgstr ""
+msgstr "**\\[録音転送\\]設定: (下図参照)**"
 
 #: ../../root/界面介绍.md:942 87584d255e064f68a7e51a630c9f2ab6
-msgid ""
-"<img src=\"../_static/images/root/media/image82.png\" "
-"style=\"width:5.76736in;height:1.14097in\" />"
+msgid "<img src=\"../_static/images/root/media/image82.png\" style=\"width:5.76736in;height:1.14097in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:945 944ed119899b4593876a64873ca3e0d0
 msgid "**转移路径:** 录音合成后，系统会将文件发送到该地址。"
-msgstr ""
+msgstr "**転送パス:** 録音が合成された後、システムはこのアドレスにファイルを送信します。"
 
 #: ../../root/界面介绍.md:947 3301085b03ef4dbfa93f13d5a55f838d
 msgid "**转移策略:** 转移策略是实时的或定时。"
-msgstr ""
+msgstr "***転送戦略:**転送戦略は、リアルタイムまたは時間指定です。"
 
 #: ../../root/界面介绍.md:949 fd3ccc4a18364a7c94500f7b35ae32f0
 msgid "公司信息:"
-msgstr ""
+msgstr "会社情報:"
 
 #: ../../root/界面介绍.md:951 6f47078488ab4336bc6a263af871ea09
 msgid "在此页面上，您可以查看和编辑系统的公司信息。（如下图所示）"
-msgstr ""
+msgstr "このページでは、システムの会社情報を閲覧・編集することができます。下図"
 
 #: ../../root/界面介绍.md:953 5fded2442ea34a8794ec48690e2c6535
-msgid ""
-"<img src=\"../_static/images/root/media/image83.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image83.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:956 80f800bfdf9048ba809c7beddee5880e
 msgid "假期设置 :"
-msgstr ""
+msgstr "休日の設定:"
 
 #: ../../root/界面介绍.md:958 f20d755108ae4f07a61137ae7b23e967
 msgid "根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）"
-msgstr ""
+msgstr "各国・各国の習慣や記念日に合わせて、祝祭日・休日・休憩の時間を統一する。(下表のとおり）"
 
 #: ../../root/界面介绍.md:960 3cfb0e0d6a164a6699ac3afb158c8aa6
-msgid ""
-"<img src=\"../_static/images/root/media/image84.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image84.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:965 69028b6474504edab0e5007439c704a2
-msgid ""
-"<img src=\"../_static/images/root/media/image85.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image85.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:968 da81aa5269ee4627a64b8689bd6216f9
 msgid "**假日名称:** 假日名称。"
-msgstr ""
+msgstr "**祝日名:**祝日名。"
 
 #: ../../root/界面介绍.md:970 4ed267eb06e34ffcbb788ba94d5e68af
 msgid "**国家:** 国家代码(ISO 3166-1 2位代码)。"
-msgstr ""
+msgstr "**国:** 国コード (ISO 3166-1 2 桁コード)。"
 
 #: ../../root/界面介绍.md:972 3986fa447ab546beb3f89ac8fd9c7aad
 msgid "**日期:** 日期。"
-msgstr ""
+msgstr "**日付:** 日付。"
 
 #: ../../root/界面介绍.md:974 3c82f0bc468d44518775e1737e04bcba
 msgid "工具栏"
-msgstr ""
+msgstr "ツールバー"
 
 #: ../../root/界面介绍.md:976 ae5dad4639a248329cfdd1ebb6fb18a7
 msgid "**后台任务:** 您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）"
-msgstr ""
+msgstr "***バックグラウンド・タスク:** 図のように、バックグラウンドで進行中のタスクを表示することができます。(下図のように)"
 
 #: ../../root/界面介绍.md:979 c06bed9bd8e8455c8626c4ebc4d483c6
-msgid ""
-"<img src=\"../_static/images/root/media/image86.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image86.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:982 df161f8a231343fd8e8d963f32884a45
 msgid "**通知**: 将显示一些新消息（如下所示）。"
-msgstr ""
+msgstr "**通知**: いくつかの新しいメッセージが表示されます (以下を参照)。"
 
 #: ../../root/界面介绍.md:984 0fe9b62e7c6a44169a88684394033e88
-msgid ""
-"<img src=\"../_static/images/root/media/image87.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image87.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:987 2a819de3ea0342e98ae26a498c67a29b
 msgid "**语言:** Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）"
-msgstr ""
+msgstr "**言語:** ルートユーザーは、このドロップダウン メニューから一般的な言語タイプを選択できます (下記参照)"
 
 #: ../../root/界面介绍.md:989 d0a61e39ff944d3baf589cced2f095f2
-msgid ""
-"<img src=\"../_static/images/root/media/image88.png\" "
-"style=\"width:5.75972in;height:1.11875in\" />"
+msgid "<img src=\"../_static/images/root/media/image88.png\" style=\"width:5.75972in;height:1.11875in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:992 728ee01867e247d5990f4c1339d646d1
 msgid "**我的档案**"
-msgstr ""
+msgstr "**私のプロフィール**"
 
 #: ../../root/界面介绍.md:994 bf785957be47482ca55647eee455230f
-msgid ""
-"<img src=\"../_static/images/root/media/image89.png\" "
-"style=\"width:5.75972in;height:2.83472in\" />"
+msgid "<img src=\"../_static/images/root/media/image89.png\" style=\"width:5.75972in;height:2.83472in\" />"
 msgstr ""
 
 #: ../../root/界面介绍.md:997 a5922ccd99f943cda187e8e5bc03312f
 msgid "**包括“我的档案”和“注销”**"
-msgstr ""
+msgstr "**「マイプロフィール」と「ログアウト」が含まれます**"
 
 #: ../../root/界面介绍.md:999 e93a84d87c954699966e9e98901dbbab
 msgid "**\\[我的个人资料\\] 允许编辑 root 用户个人资料**"
-msgstr ""
+msgstr "**\\[マイプロフィール\\] ルートユーザープロフィールの編集を許可**"
 
 #: ../../root/界面介绍.md:1001 fa3b9e26c909489c9980ff90f91a978d
 msgid "**\\[登录\\]退出当前登录页面**"
-msgstr ""
-
+msgstr "**\\[ログイン\\] 現在のログインページからログアウトします**"

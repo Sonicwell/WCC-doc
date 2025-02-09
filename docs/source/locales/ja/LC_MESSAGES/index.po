@@ -10,15 +10,16 @@ msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-02-09 20:42+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2025-02-09 19:56+0800\n"
+"Last-Translator: \n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
+"X-Generator: Poedit 3.5\n"
 
 #: ../../index.rst:11
 msgid "Root"
@@ -34,17 +35,19 @@ msgstr ""
 
 #: ../../index.rst:2 83dd55a611874e5db8f7c8069a44a932
 msgid "Welcome to WCC documentation!"
-msgstr ""
+msgstr "WCCドキュメントへようこそ！"
 
 #: ../../index.rst:4 ce2b2e69c07d4eceaf9392966f656377
 msgid ""
-"**WCC** contact center system is a cloud native solution, and also has an"
-" intelligent contact center architecture and solutions which is designed "
-"for the growing needs of multichannel customers in order to deliver an "
-"intelligent and efficient operational experience for you."
+"**WCC** contact center system is a cloud native solution, and also has "
+"an intelligent contact center architecture and solutions which is "
+"designed for the growing needs of multichannel customers in order to "
+"deliver an intelligent and efficient operational experience for you."
 msgstr ""
+"**WCC**コンタクトセンター・システムは、クラウド・ネイティブ・ソリューショ"
+"ンであり、インテリジェントなコンタクトセンター・アーキテクチャとソリュー"
+"ションを備えています。"
 
 #: ../../index.rst:8 1f8a3ff1eb38494eb21d9d036027ffc5
 msgid "This project is under active development."
-msgstr ""
-
+msgstr "このプロジェクトは現在進行中である。"
