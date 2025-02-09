@@ -7,10 +7,6 @@ Welcome to WCC documentation!
 
    This project is under active development.
 
-Root
---------
-
-系统用户（root级别）是最高级别的用户
 
 .. toctree::
    :maxdepth: 2
@@ -19,10 +15,6 @@ Root
    root/WCC登录
    root/界面介绍
 
-Reseller
---------
-
-代理商：针对代理商用户，由root级别建立。
 
 .. toctree::
    :maxdepth: 2
@@ -31,8 +23,6 @@ Reseller
    reseller/WCC登录
    reseller/仪表盘介绍
 
-Client
---------
 
 .. toctree::
    :maxdepth: 2
