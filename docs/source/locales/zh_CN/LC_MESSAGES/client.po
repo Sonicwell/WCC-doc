@@ -9439,13 +9439,3 @@ msgid ""
 "<img src=\"../_static/images/client/media/image328.png\" "
 "style=\"width:5.76806in;height:3.61667in\" />"
 msgstr ""
-
-#~ msgid "2.工具栏"
-#~ msgstr ""
-
-#~ msgid "1.系统登录"
-#~ msgstr ""
-
-#~ msgid "3.菜单功能"
-#~ msgstr ""
-
