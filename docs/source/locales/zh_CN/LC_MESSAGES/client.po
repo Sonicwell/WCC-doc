@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-09 20:42+0900\n"
+"POT-Creation-Date: 2025-02-10 18:33+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../client/工具栏.md:1 ddc7e10f704a4054a4437a3c1796a541
-msgid "2.工具栏"
+msgid "2. 工具栏"
 msgstr ""
 
 #: ../../client/工具栏.md:3 e244e03d2a694895be73967a8b04edf2
@@ -425,7 +425,7 @@ msgid ""
 msgstr ""
 
 #: ../../client/系统登录.md:1 7022e4dbd2564ad5a8c435feae288a72
-msgid "1.系统登录"
+msgid "1. 系统登录"
 msgstr ""
 
 #: ../../client/系统登录.md:3 35c0a5e5eedf4d0ea5ab38510089d776
@@ -465,7 +465,7 @@ msgid ""
 msgstr ""
 
 #: ../../client/菜单功能.md:1 e5de5e842810469590220f6a4c3f5a5d
-msgid "3.菜单功能"
+msgid "3. 菜单功能"
 msgstr ""
 
 #: ../../client/菜单功能.md:3 6b60ebf891274eab841d0d528f67df8d
@@ -9439,4 +9439,13 @@ msgid ""
 "<img src=\"../_static/images/client/media/image328.png\" "
 "style=\"width:5.76806in;height:3.61667in\" />"
 msgstr ""
+
+#~ msgid "2.工具栏"
+#~ msgstr ""
+
+#~ msgid "1.系统登录"
+#~ msgstr ""
+
+#~ msgid "3.菜单功能"
+#~ msgstr ""
 
