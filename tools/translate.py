@@ -1,17 +1,51 @@
 import polib
-from googletrans import Translator
+import requests
+import re
 
-# 加载 .po 文件
-po_file = '/usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/root手册.po'
-po = polib.pofile(po_file)
+# Google 翻译
+def translate_text(text, source_lang="zh-CN", target_lang="eng"):
+    url = "https://translate.googleapis.com/translate_a/single"
+    params = {
+        "client": "gtx",
+        "sl": source_lang,  # 源语言自动检测 auto
+        "tl": target_lang,  # 目标语言
+        "dt": "t",
+        "q": text,
+    }
+    try:
+        response = requests.get(url, params=params, timeout=5)
+        if response.status_code == 200:
+            result = response.json()
+            return result[0][0][0]  # 解析返回的翻译文本
+    except Exception as e:
+        print(f"翻译失败: {text}，错误: {e}")
 
-# 初始化翻译工具
-translator = Translator()
+    return ""  # 失败时返回空字符串，保持未翻译状态
 
-# 批量翻译
+# 正则匹配 <img> 标签
+img_pattern = re.compile(r'<img\s+[^>]*src=[\'"][^\'"]+[\'"][^>]*>', re.IGNORECASE)
+
+# 读取 PO 文件
+po = polib.pofile("/usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/client.po")
+
+# 遍历所有条目，翻译未翻译的部分
 for entry in po:
-    if not entry.translated():  # 如果没有翻译
-        entry.msgstr = translator.translate(entry.msgid, src='zh-cn', dest='en').text  # 翻译成日语
+    if not entry.translated():  # 只处理未翻译的条目
+        if img_pattern.search(entry.msgid):  # 如果包含 <img>，跳过翻译
+            entry.msgstr = ""  # 保持为空
+            #TODO: 扫描图片语言目录进行替换
+            print(f"跳过图片条目: {entry.msgid}")
+        else:
+            translated_text = translate_text(entry.msgid)
+            if translated_text:  # 只有成功翻译才填充
+                entry.msgstr = translated_text
+                print(f"翻译: {entry.msgid} -> {translated_text}")
+            else:
+                entry.msgstr = ""  # 保持为空
+                print(f"翻译失败, msgstr保持为空: {entry.msgid}")
 
-# 保存翻译后的 .po 文件
-po.save('/usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/root手册_translated.po')
+
+
+# 保存回 PO 文件
+po.save("/usr/src/WCC-doc/tools/client_translated.po")
+print("翻译完成，已保存到 /usr/src/WCC-doc/tools/client_translated.po")
