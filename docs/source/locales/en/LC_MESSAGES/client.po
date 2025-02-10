@@ -21,7 +21,6 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../client/工具栏.md:1 ddc7e10f704a4054a4437a3c1796a541
-#, fuzzy
 msgid "2. 工具栏"
 msgstr "2. Toolbar"
 
@@ -521,7 +520,6 @@ msgid ""
 msgstr ""
 
 #: ../../client/系统登录.md:1 7022e4dbd2564ad5a8c435feae288a72
-#, fuzzy
 msgid "1. 系统登录"
 msgstr "1. System Login"
 
@@ -572,7 +570,6 @@ msgid ""
 msgstr ""
 
 #: ../../client/菜单功能.md:1 e5de5e842810469590220f6a4c3f5a5d
-#, fuzzy
 msgid "3. 菜单功能"
 msgstr "3. Menu function"
 
