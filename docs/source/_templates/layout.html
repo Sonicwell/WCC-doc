@@ -3,6 +3,19 @@
 
 {% block extrahead %}
     {{ super() }}
-    <meta name="description" content="WCC contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you.">
-    <meta name="keywords" content="WCC contact center, cloud-native solution, intelligent contact center, multichannel customers, operational efficiency, AI-driven contact center, omnichannel support, VoIP, IP PBX, Best Call Center Software, Auto Dialer">
+
+    {% if language == 'en' %}
+        <meta name="Description" content="WCC contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you.">
+        <meta name="Keywords" content="WCC contact center, cloud-native solution, WCC, ClusterCC, intelligent contact center, multichannel customers, operational efficiency, AI-driven contact center, omnichannel support, VoIP, IP PBX, Best Call Center Software, Auto Dialer">
+    {% elif language == 'ja' %}
+        <meta name="Description" content="WCCコンタクトセンターシステムはクラウドネイティブなソリューションで、インテリジェントなコンタクトセンターアーキテクチャとソリューションを提供します。これは、マルチチャネル顧客の成長するニーズに対応し、効率的でインテリジェントなオペレーショナル体験を提供するために設計されています。">
+        <meta name="Keywords" content="WCCコンタクトセンター, クラウドネイティブソリューション, WCC, ClusterCC, インテリジェントコンタクトセンター, マルチチャネル顧客, オペレーショナル効率, AI駆動型コンタクトセンター, オムニチャネルサポート, VoIP, IP PBX, ベストコールセンターソフトウェア, オートダイヤラー">
+    {% elif language == 'zh_CN' %}
+        <meta name="Description" content="WCC 联系中心系统是一个云原生解决方案，提供智能的联系中心架构和解决方案，旨在满足多渠道客户日益增长的需求，为您提供高效、智能的操作体验。">
+        <meta name="Keywords" content="WCC 联系中心, 云原生解决方案, WCC, ClusterCC, 智能联系中心, 多渠道客户, 操作效率, AI驱动的联系中心, 全渠道支持, VoIP, IP PBX, 最佳呼叫中心软件, 自动拨号器">
+    {% endif %}
+
+    <link rel="alternate" href="https://doc.aiwcc.com/en" hreflang="en">
+    <link rel="alternate" href="https://doc.aiwcc.com/zh-cn" hreflang="zh-CN">
+    <link rel="alternate" href="https://doc.aiwcc.com/ja" hreflang="ja">
 {% endblock %}
