@@ -4,14 +4,6 @@
 {% block extrahead %}
     {{ super() }}
 
-    {% if language == 'zh-CN' %}
-        <title>{{ title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
-    {% elif language == 'ja' %}
-        <title>{{ title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
-    {% else %}
-        <title>{{ title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
-    {% endif %}
-
     {% if language == 'en' %}
         <meta name="Description" content="WCC contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you.">
         <meta name="Keywords" content="WCC contact center, cloud-native solution, WCC, ClusterCC, intelligent contact center, multichannel customers, operational efficiency, AI-driven contact center, omnichannel support, VoIP, IP PBX, Best Call Center Software, Auto Dialer">
@@ -27,3 +19,11 @@
     <link rel="alternate" href="https://doc.aiwcc.com/zh-cn" hreflang="zh-Hans">
     <link rel="alternate" href="https://doc.aiwcc.com/ja" hreflang="ja">
 {% endblock %}
+
+{% if language == 'zh-CN' %}
+    <title>{{ title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
+{% elif language == 'ja' %}
+    <title>{{ title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
+{% else %}
+    <title>{{ title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
+{% endif %}
