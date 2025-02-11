@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-10 18:33+0900\n"
+"POT-Creation-Date: 2025-02-11 12:29+0900\n"
 "PO-Revision-Date: 2025-02-10 17:09+0800\n"
 "Last-Translator: menglj\n"
 "Language: en\n"
@@ -21,7 +21,8 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../client/工具栏.md:1 ddc7e10f704a4054a4437a3c1796a541
-msgid "2. 工具栏"
+#, fuzzy
+msgid "2 工具栏"
 msgstr "2. Toolbar"
 
 #: ../../client/工具栏.md:3 e244e03d2a694895be73967a8b04edf2
@@ -256,13 +257,15 @@ msgid ""
 msgstr ""
 
 #: ../../client/工具栏.md:101 954e78ece80741b8aa3c61d26f9891bf
-msgid "**呼出:**该client当天呼出的电话总数。"
+#, fuzzy
+msgid "**呼出**:该client当天呼出的电话总数。"
 msgstr ""
 "**Outgoing calls:** The total number of outgoing calls made by the client"
 " on that day."
 
 #: ../../client/工具栏.md:103 b25db6066e1e47bc8ac504a8cdbbbaf0
-msgid "**接通:**此client当天呼出通话的接通次数。"
+#, fuzzy
+msgid "**接通**:此client当天呼出通话的接通次数。"
 msgstr ""
 "**Connected:** The number of connected outgoing calls made by this client"
 " on that day."
@@ -520,7 +523,8 @@ msgid ""
 msgstr ""
 
 #: ../../client/系统登录.md:1 7022e4dbd2564ad5a8c435feae288a72
-msgid "1. 系统登录"
+#, fuzzy
+msgid "1 系统登录"
 msgstr "1. System Login"
 
 #: ../../client/系统登录.md:3 35c0a5e5eedf4d0ea5ab38510089d776
@@ -570,7 +574,8 @@ msgid ""
 msgstr ""
 
 #: ../../client/菜单功能.md:1 e5de5e842810469590220f6a4c3f5a5d
-msgid "3. 菜单功能"
+#, fuzzy
+msgid "3 菜单功能"
 msgstr "3. Menu function"
 
 #: ../../client/菜单功能.md:3 6b60ebf891274eab841d0d528f67df8d

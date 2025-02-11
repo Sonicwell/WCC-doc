@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-09 20:42+0900\n"
+"POT-Creation-Date: 2025-02-11 12:29+0900\n"
 "PO-Revision-Date: 2025-02-09 19:54+0800\n"
 "Last-Translator: \n"
-"Language-Team: zh_CN <LL@li.org>\n"
 "Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
-"X-Generator: Poedit 3.5\n"
 
 #: ../../index.rst:11
 msgid "Root"
@@ -33,21 +32,26 @@ msgstr ""
 msgid "Client"
 msgstr ""
 
-#: ../../index.rst:2 83dd55a611874e5db8f7c8069a44a932
-msgid "Welcome to WCC documentation!"
-msgstr "欢迎使用 WCC 文档！"
+#: ../../index.rst:2 1c9df588d1584238b9a1cda54abff869
+msgid ""
+"Welcome to WCC documentation! - Best Multi-Channel Call Center Software &"
+" Auto Dialer | WCC Contact Center Documentation"
+msgstr ""
 
 #: ../../index.rst:4 ce2b2e69c07d4eceaf9392966f656377
 msgid ""
-"**WCC** contact center system is a cloud native solution, and also has "
-"an intelligent contact center architecture and solutions which is "
-"designed for the growing needs of multichannel customers in order to "
-"deliver an intelligent and efficient operational experience for you."
+"**WCC** contact center system is a cloud native solution, and also has an"
+" intelligent contact center architecture and solutions which is designed "
+"for the growing needs of multichannel customers in order to deliver an "
+"intelligent and efficient operational experience for you."
 msgstr ""
-"**WCC** 联络中心系统是一个云本地解决方案，还拥有智能联络中心架构和解决方"
-"案，专为满足多渠道客户日益增长的需求而设计，为您提供智能、高效的运营体"
-"验。"
+"**WCC** "
+"联络中心系统是一个云本地解决方案，还拥有智能联络中心架构和解决方案，专为满足多渠道客户日益增长的需求而设计，为您提供智能、高效的运营体验。"
 
 #: ../../index.rst:8 1f8a3ff1eb38494eb21d9d036027ffc5
 msgid "This project is under active development."
 msgstr "该项目正在积极开发中。"
+
+#~ msgid "Welcome to WCC documentation!"
+#~ msgstr "欢迎使用 WCC 文档！"
+
