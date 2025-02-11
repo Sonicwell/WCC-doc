@@ -1,5 +1,4 @@
 # Configuration file for the Sphinx documentation builder.
-#import os
 
 # -- Project information
 
@@ -50,15 +49,6 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_logo = '_static/images/logo.png'
 html_favicon = '_static/images/favicon.png'
-
-# language = os.getenv('SPHINX_LANGUAGE', 'en')
-# if language == 'zh-CN':
-#     html_title = "WCC 联系中心文档 | 最佳多渠道呼叫中心软件与自动拨号器"
-# elif language == 'ja':
-#     html_title = "WCC コンタクトセンター ドキュメント | ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー"
-# else:
-#     html_title = "WCC Contact Center Documentation | Best Multi-Channel Call Center Software & Auto Dialer"
-
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
