@@ -2,6 +2,14 @@
 {% extends "!layout.html" %}
 
 {% block extrahead %}
+    {% if language == 'zh-CN' %}
+        <title>{{ title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
+    {% elif language == 'ja' %}
+        <title>{{ title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
+    {% else %}
+        <title>{{ title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
+    {% endif %}
+
     {{ super() }}
 
     {% if language == 'en' %}
@@ -19,11 +27,3 @@
     <link rel="alternate" href="https://doc.aiwcc.com/zh-cn" hreflang="zh-Hans">
     <link rel="alternate" href="https://doc.aiwcc.com/ja" hreflang="ja">
 {% endblock %}
-
-{% if language == 'zh-CN' %}
-    <title>{{ title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
-{% elif language == 'ja' %}
-    <title>{{ title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
-{% else %}
-    <title>{{ title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
-{% endif %}
