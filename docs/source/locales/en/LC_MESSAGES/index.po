@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-11 12:29+0900\n"
+"POT-Creation-Date: 2025-02-11 12:39+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -32,11 +32,9 @@ msgstr ""
 msgid "Client"
 msgstr ""
 
-#: ../../index.rst:2 1c9df588d1584238b9a1cda54abff869
-msgid ""
-"Welcome to WCC documentation! - Best Multi-Channel Call Center Software &"
-" Auto Dialer | WCC Contact Center Documentation"
-msgstr "Welcome to WCC documentation!"
+#: ../../index.rst:2 3f5c9af3d64f40bbb47d7bfe5b366fb0
+msgid "Welcome to WCC documentation!"
+msgstr ""
 
 #: ../../index.rst:4 ce2b2e69c07d4eceaf9392966f656377
 msgid ""
@@ -49,4 +47,11 @@ msgstr ""
 #: ../../index.rst:8 1f8a3ff1eb38494eb21d9d036027ffc5
 msgid "This project is under active development."
 msgstr ""
+
+#~ msgid ""
+#~ "Welcome to WCC documentation! - Best "
+#~ "Multi-Channel Call Center Software & "
+#~ "Auto Dialer | WCC Contact Center "
+#~ "Documentation"
+#~ msgstr "Welcome to WCC documentation!"
 
