@@ -48,10 +48,3 @@ msgstr ""
 msgid "This project is under active development."
 msgstr ""
 
-#~ msgid ""
-#~ "Welcome to WCC documentation! - Best "
-#~ "Multi-Channel Call Center Software & "
-#~ "Auto Dialer | WCC Contact Center "
-#~ "Documentation"
-#~ msgstr "Welcome to WCC documentation!"
-

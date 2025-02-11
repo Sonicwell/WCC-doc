@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../index.rst:2 3f5c9af3d64f40bbb47d7bfe5b366fb0
 msgid "Welcome to WCC documentation!"
-msgstr ""
+msgstr "WCCドキュメントへようこそ！"
 
 #: ../../index.rst:4 ce2b2e69c07d4eceaf9392966f656377
 msgid ""
@@ -49,11 +49,4 @@ msgstr ""
 #: ../../index.rst:8 1f8a3ff1eb38494eb21d9d036027ffc5
 msgid "This project is under active development."
 msgstr "このプロジェクトは現在進行中である。"
-
-#~ msgid ""
-#~ "Welcome to WCC documentation! - Best "
-#~ "Multi-Channel Call Center Software & "
-#~ "Auto Dialer | WCC Contact Center "
-#~ "Documentation"
-#~ msgstr "WCCドキュメントへようこそ！"
 
