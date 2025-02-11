@@ -49,7 +49,14 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_logo = '_static/images/logo.png'
 html_favicon = '_static/images/favicon.png'
-html_title = "Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation"
+
+if language == 'zh_CN':
+    html_title = "最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档"
+elif language == 'ja':
+    html_title = "ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント"
+else:
+    html_title = "Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation"
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
