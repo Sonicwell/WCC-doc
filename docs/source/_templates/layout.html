@@ -5,11 +5,11 @@
     {{ super() }}
 
     {% if language == 'zh-CN' %}
-        <title>{{ document.title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
+        <title>{{ page.title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
     {% elif language == 'ja' %}
-        <title>{{ document.title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
+        <title>{{ page.title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
     {% else %}
-        <title>{{ document.title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
+        <title>{{ page.title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
     {% endif %}
 
     {% if language == 'en' %}
