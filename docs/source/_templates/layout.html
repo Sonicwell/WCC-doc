@@ -1,18 +1,16 @@
 <!-- _templates/layout.html -->
 {% extends "!layout.html" %}
 
-{% block title %}
-    {% if language == 'zh-CN' %}
-        {{ document.title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档
-    {% elif language == 'ja' %}
-        {{ document.title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント
-    {% else %}
-        {{ document.title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation
-    {% endif %}
-{% endblock %}
-
 {% block extrahead %}
     {{ super() }}
+
+    {% if language == 'zh-CN' %}
+        <title>{{ document.title }} - 最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档</title>
+    {% elif language == 'ja' %}
+        <title>{{ document.title }} - ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント</title>
+    {% else %}
+        <title>{{ document.title }} - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation</title>
+    {% endif %}
 
     {% if language == 'en' %}
         <meta name="Description" content="WCC contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you.">

@@ -51,13 +51,13 @@ html_static_path = ['_static']
 html_logo = '_static/images/logo.png'
 html_favicon = '_static/images/favicon.png'
 
-language = os.getenv('SPHINX_LANGUAGE', 'en')
-if language == 'zh_CN':
-    html_title = "最佳多渠道呼叫中心软件与自动拨号器 | WCC 联系中心文档"
-elif language == 'ja':
-    html_title = "ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー | WCC コンタクトセンター ドキュメント"
-else:
-    html_title = "Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation"
+# language = os.getenv('SPHINX_LANGUAGE', 'en')
+# if language == 'zh-CN':
+#     html_title = "WCC 联系中心文档 | 最佳多渠道呼叫中心软件与自动拨号器"
+# elif language == 'ja':
+#     html_title = "WCC コンタクトセンター ドキュメント | ベストマルチチャネルコールセンターソフトウェアとオートダイヤラー"
+# else:
+#     html_title = "WCC Contact Center Documentation | Best Multi-Channel Call Center Software & Auto Dialer"
 
 
 # -- Options for EPUB output
