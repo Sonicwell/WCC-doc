@@ -1,4 +1,4 @@
-Welcome to WCC documentation! - Best Multi-Channel Call Center Software & Auto Dialer | WCC Contact Center Documentation
+Welcome to WCC documentation!
 ===================================
 
 **WCC** contact center system is a cloud native solution, and also has an intelligent contact center architecture and solutions which is designed for the growing needs of multichannel customers in order to deliver an intelligent and efficient operational experience for you.

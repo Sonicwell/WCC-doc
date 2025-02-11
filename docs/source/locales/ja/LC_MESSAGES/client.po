@@ -21,9 +21,8 @@ msgstr ""
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../client/工具栏.md:1 ddc7e10f704a4054a4437a3c1796a541
-#, fuzzy
 msgid "2 工具栏"
-msgstr "2. ツールバー"
+msgstr "2 ツールバー"
 
 #: ../../client/工具栏.md:3 e244e03d2a694895be73967a8b04edf2
 msgid "登录Client页面后，您可以在顶部的快捷菜单栏中使用一些快捷功能。"
@@ -228,12 +227,10 @@ msgid ""
 msgstr ""
 
 #: ../../client/工具栏.md:101 954e78ece80741b8aa3c61d26f9891bf
-#, fuzzy
 msgid "**呼出**:该client当天呼出的电话总数。"
 msgstr "**発信通話:** その日にクライアントが発信した通話の合計数。"
 
 #: ../../client/工具栏.md:103 b25db6066e1e47bc8ac504a8cdbbbaf0
-#, fuzzy
 msgid "**接通**:此client当天呼出通话的接通次数。"
 msgstr "**接続済み:** その日にこのクライアントが行った接続済みの発信通話の数。"
 
@@ -446,9 +443,8 @@ msgid ""
 msgstr ""
 
 #: ../../client/系统登录.md:1 7022e4dbd2564ad5a8c435feae288a72
-#, fuzzy
 msgid "1 系统登录"
-msgstr "1. システムログイン"
+msgstr "1 システムログイン"
 
 #: ../../client/系统登录.md:3 35c0a5e5eedf4d0ea5ab38510089d776
 msgid "1.1登录"
@@ -487,9 +483,8 @@ msgid ""
 msgstr ""
 
 #: ../../client/菜单功能.md:1 e5de5e842810469590220f6a4c3f5a5d
-#, fuzzy
 msgid "3 菜单功能"
-msgstr "3. メニュー機能"
+msgstr "3 メニュー機能"
 
 #: ../../client/菜单功能.md:3 6b60ebf891274eab841d0d528f67df8d
 msgid "3.1用户"

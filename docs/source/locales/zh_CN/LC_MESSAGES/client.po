@@ -9439,19 +9439,3 @@ msgid ""
 "<img src=\"../_static/images/client/media/image328.png\" "
 "style=\"width:5.76806in;height:3.61667in\" />"
 msgstr ""
-
-#~ msgid "2. 工具栏"
-#~ msgstr ""
-
-#~ msgid "**呼出:**该client当天呼出的电话总数。"
-#~ msgstr ""
-
-#~ msgid "**接通:**此client当天呼出通话的接通次数。"
-#~ msgstr ""
-
-#~ msgid "1. 系统登录"
-#~ msgstr ""
-
-#~ msgid "3. 菜单功能"
-#~ msgstr ""
-
