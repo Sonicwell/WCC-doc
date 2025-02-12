@@ -27,10 +27,13 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 import os
+import logging
 language = os.getenv('READTHEDOCS_LANGUAGE', 'en')
-# 调试输出
-print(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
-print(f"DEBUG: language={language}")
+# 设置日志级别
+logging.basicConfig(level=logging.DEBUG)
+# 打印调试信息到日志
+logging.debug(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
+logging.debug(f"DEBUG: language={language}")
 
 if language == 'zh_CN':
     latex_engine = 'xelatex'
@@ -44,13 +47,7 @@ latex_elements = {
     \usepackage{fontspec}
     \usepackage{xeCJK}
     \setCJKmainfont{Noto Serif CJK SC}
-    \setCJKsansfont{Noto Sans CJK SC}
-    \setCJKmonofont{Noto Sans Mono CJK SC}
     \setmainfont{Liberation Serif}
-    \setCJKfamilyfont{mj}{Noto Sans CJK JP}
-    \setCJKfallbackfamilyfont{\CJKrm}{Noto Sans CJK SC}
-    \setCJKfallbackfamilyfont{\CJKsf}{Noto Serif CJK JP}
-    \setCJKfallbackfamilyfont{\CJKtt}{Noto Sans Mono CJK SC}
     '''
 }
 latex_show_urls = 'footnote'
