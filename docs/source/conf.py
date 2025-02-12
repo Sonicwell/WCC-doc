@@ -49,9 +49,6 @@ latex_engine = 'xelatex'
 
 latex_elements = {
     'preamble': r'''
-    \usepackage{fontspec}
-    \setmainfont{Times New Roman}  # 设置英文字体
-
     \usepackage[UTF8]{ctex}  # 中文支持
     \setCJKmainfont{WenQuanYi Zen Hei}  # 设置中文字体
     \setCJKmonofont{WenQuanYi Zen Hei Mono}  # 设置中文等宽字体
