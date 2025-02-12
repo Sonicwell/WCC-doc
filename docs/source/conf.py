@@ -1,4 +1,5 @@
 # Configuration file for the Sphinx documentation builder.
+import os
 
 # -- Project information
 
@@ -26,14 +27,26 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-latex_engine = 'xelatex'
+language = os.getenv('language', 'en')
+if language == 'zh-CN':
+    latex_engine = 'xelatex'
+elif language == 'ja':
+    latex_engine = 'uplatex'
+else:
+    latex_engine = 'lualatex'
 
 latex_elements = {
     'preamble': r'''
     \usepackage{fontspec}
-    \usepackage{xeCJK}  # 支持中文和日文
-    \setCJKmainfont{IPAexMincho}  # 设置日文字体为 IPAexMincho
-    \setmainfont{Times New Roman}  # 设置英文字体
+    \usepackage{xeCJK}
+    \setCJKmainfont{Noto Serif CJK SC}
+    \setCJKsansfont{Noto Sans CJK SC}
+    \setCJKmonofont{Noto Sans Mono CJK SC}
+    \setmainfont{Liberation Serif}
+    \setCJKfamilyfont{mj}{Noto Sans CJK JP}
+    \setCJKfallbackfamilyfont{\CJKrm}{Noto Sans CJK SC}
+    \setCJKfallbackfamilyfont{\CJKsf}{Noto Serif CJK JP}
+    \setCJKfallbackfamilyfont{\CJKtt}{Noto Sans Mono CJK SC}
     '''
 }
 
