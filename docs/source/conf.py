@@ -28,14 +28,15 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 language = os.getenv('language', 'en')
-if language == 'zh-CN':
+if language == 'zh_CN':
     latex_engine = 'xelatex'
 elif language == 'ja':
     latex_engine = 'uplatex'
 else:
-    latex_engine = 'lualatex'
+    latex_engine = 'pdflatex'
 
 latex_elements = {
+    fontenc': r'\usepackage[LGR,X2,T1]{fontenc}',
     'preamble': r'''
     \usepackage{fontspec}
     \usepackage{xeCJK}
@@ -49,6 +50,8 @@ latex_elements = {
     \setCJKfallbackfamilyfont{\CJKtt}{Noto Sans Mono CJK SC}
     '''
 }
+latex_show_urls = 'footnote'
+latex_use_xindy = True
 
 templates_path = ['_templates']
 
