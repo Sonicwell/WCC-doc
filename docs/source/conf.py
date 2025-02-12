@@ -26,7 +26,12 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-import sphinx.locale
+import os
+language = os.getenv('READTHEDOCS_LANGUAGE', 'en')
+# 调试输出
+print(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
+print(f"DEBUG: language={language}")
+
 language = sphinx.locale.get_translation().language  
 if language == 'zh_CN':
     latex_engine = 'xelatex'
