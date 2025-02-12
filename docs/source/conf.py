@@ -50,8 +50,8 @@ latex_engine = 'xelatex'
 latex_elements = {
     'preamble': r'''
     \usepackage[UTF8]{ctex}  # 中文支持
-    \setCJKmainfont{SimSun}  # 设置中文字体
-    \setCJKmonofont{SimSun}  # 设置中文等宽字体
+    \setCJKmainfont{WenQuanYi Zen Hei}  # 设置中文字体
+    \setCJKmonofont{WenQuanYi Zen Hei Mono}  # 设置中文等宽字体
 
     \usepackage{xeCJK}  # 日文支持
     \setCJKfamilyfont{jp}{IPAexMincho}  # 设置日文字体
