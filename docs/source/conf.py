@@ -32,7 +32,6 @@ language = os.getenv('READTHEDOCS_LANGUAGE', 'en')
 print(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
 print(f"DEBUG: language={language}")
 
-language = sphinx.locale.get_translation().language  
 if language == 'zh_CN':
     latex_engine = 'xelatex'
 elif language == 'ja':
