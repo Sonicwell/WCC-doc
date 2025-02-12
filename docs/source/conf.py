@@ -1,5 +1,4 @@
 # Configuration file for the Sphinx documentation builder.
-import os
 
 # -- Project information
 
@@ -27,7 +26,8 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-language = os.getenv('language', 'en')
+import sphinx.locale
+language = sphinx.locale.get_translation().language  
 if language == 'zh_CN':
     latex_engine = 'xelatex'
 elif language == 'ja':
