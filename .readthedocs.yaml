@@ -4,6 +4,12 @@ build:
   os: "ubuntu-22.04"
   tools:
     python: "3.11"
+  
+  apt_packages:
+    - texlive-lang-chinese  # 中文支持
+    - texlive-lang-japanese  # 日文支持
+    - texlive-xetex  # XeLaTeX 引擎
+    - fonts-noto-cjk
 
 python:
   install:

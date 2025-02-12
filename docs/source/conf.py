@@ -39,7 +39,7 @@ intersphinx_disabled_domains = ['std']
 # # 打印调试信息到日志
 # logging.debug(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
 # logging.debug(f"DEBUG: language={language}")
-# latex_engine = 'xelatex'
+latex_engine = 'xelatex'
 # if language == 'zh_CN':
 #     latex_engine = 'xelatex'
 # elif language == 'ja':
@@ -49,10 +49,11 @@ intersphinx_disabled_domains = ['std']
 
 latex_elements = {
     'preamble': r'''
-    \usepackage{ctex}  # 中文支持
-    \usepackage{xeCJK}  # 日文支持
+    \usepackage[UTF8]{ctex}  # 中文支持
     \setCJKmainfont{SimSun}  # 设置中文字体
     \setCJKmonofont{SimSun}  # 设置中文等宽字体
+
+    \usepackage{xeCJK}  # 日文支持
     \setCJKfamilyfont{jp}{IPAexMincho}  # 设置日文字体
     \newcommand{\jp}[1]{{\CJKfamily{jp}#1}}  # 定义日文命令
     '''
