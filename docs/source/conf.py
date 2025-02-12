@@ -31,14 +31,14 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-import os
-import logging
-language = os.getenv('READTHEDOCS_LANGUAGE', 'en')
-# 设置日志级别
-logging.basicConfig(level=logging.DEBUG)
-# 打印调试信息到日志
-logging.debug(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
-logging.debug(f"DEBUG: language={language}")
+# import os
+# import logging
+# language = os.getenv('READTHEDOCS_LANGUAGE', 'en')
+# # 设置日志级别
+# logging.basicConfig(level=logging.DEBUG)
+# # 打印调试信息到日志
+# logging.debug(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
+# logging.debug(f"DEBUG: language={language}")
 # latex_engine = 'xelatex'
 # if language == 'zh_CN':
 #     latex_engine = 'xelatex'
@@ -49,7 +49,7 @@ logging.debug(f"DEBUG: language={language}")
 
 latex_elements = {
     'preamble': r'''
-    \usepackage[UTF8]{ctex}  # 中文支持
+    \usepackage{ctex}  # 中文支持
     \usepackage{xeCJK}  # 日文支持
     \setCJKmainfont{SimSun}  # 设置中文字体
     \setCJKmonofont{SimSun}  # 设置中文等宽字体
