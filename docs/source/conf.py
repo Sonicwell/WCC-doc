@@ -14,9 +14,14 @@ version = '0.1.0'
 extensions = [
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.viewcode',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.imgconverter',
+    'sphinx.ext.todo',
+    'sphinx.ext.imgmath',
     'myst_parser',
 ]
 
@@ -34,7 +39,7 @@ logging.basicConfig(level=logging.DEBUG)
 # 打印调试信息到日志
 logging.debug(f"DEBUG: READTHEDOCS_LANGUAGE={os.getenv('READTHEDOCS_LANGUAGE')}")
 logging.debug(f"DEBUG: language={language}")
-latex_engine = 'xelatex'
+# latex_engine = 'xelatex'
 # if language == 'zh_CN':
 #     latex_engine = 'xelatex'
 # elif language == 'ja':
@@ -44,14 +49,14 @@ latex_engine = 'xelatex'
 
 latex_elements = {
     'preamble': r'''
-    \usepackage{fontspec}
-    \usepackage{xeCJK}
-    \setCJKmainfont{Noto Serif CJK SC}
-    \setmainfont{Liberation Serif}
+    \usepackage[UTF8]{ctex}  # 中文支持
+    \usepackage{xeCJK}  # 日文支持
+    \setCJKmainfont{SimSun}  # 设置中文字体
+    \setCJKmonofont{SimSun}  # 设置中文等宽字体
+    \setCJKfamilyfont{jp}{IPAexMincho}  # 设置日文字体
+    \newcommand{\jp}[1]{{\CJKfamily{jp}#1}}  # 定义日文命令
     '''
 }
-latex_show_urls = 'footnote'
-latex_use_xindy = True
 
 templates_path = ['_templates']
 
