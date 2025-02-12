@@ -9,7 +9,6 @@ build:
     - texlive-lang-chinese  # 中文支持
     - texlive-lang-japanese  # 日文支持
     - texlive-xetex  # XeLaTeX 引擎
-    - fonts-fandol
     - fonts-noto-cjk
     - fonts-wqy-zenhei 
     - fonts-wqy-microhei
