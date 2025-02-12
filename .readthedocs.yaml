@@ -12,6 +12,8 @@ build:
     - fonts-noto-cjk
     - fonts-wqy-zenhei 
     - fonts-wqy-microhei
+    - fonts-arphic-uming 
+    - fonts-arphic-ukai
 
 python:
   install:
