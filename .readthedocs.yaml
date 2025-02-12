@@ -13,7 +13,4 @@ sphinx:
   builder: html
   configuration: docs/source/conf.py
 
-latex:
-  engine: xelatex
-
 formats: all
