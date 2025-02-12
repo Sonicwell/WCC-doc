@@ -36,7 +36,6 @@ else:
     latex_engine = 'pdflatex'
 
 latex_elements = {
-    'fontenc': r'\usepackage[LGR,X2,T1]{fontenc}',
     'preamble': r'''
     \usepackage{fontspec}
     \usepackage{xeCJK}
