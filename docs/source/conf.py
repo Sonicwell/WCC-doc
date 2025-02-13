@@ -63,4 +63,4 @@ epub_show_urls = 'footnote'
 
 gettext_uuid = True
 locale_dirs = ['locales/']
-gettext_compact = False
+
