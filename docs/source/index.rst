@@ -36,5 +36,5 @@ Welcome to WCC documentation!
    :maxdepth: 2
    :caption: 常见问题
 
-   常见问题回答
+   常见问题/解答
    
