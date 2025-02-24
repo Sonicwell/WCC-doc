@@ -1,33 +1,36 @@
+EAPI鉴权机制开发说明
+===============================
+
+OAuth 2.0 和 JWT（JSON Web Token） 的结合是目前最常用的授权和认证方案之一，广泛应用于分布式系统、API接口和微服务架构中。这两者的组合可以提供安全、无状态、可扩展的身份验证与授权机制。
+
 ## 1 关于密钥对
 
 client添加/编辑时，增加一个选项卡，EAPI, 设置如下：
 
-- IP白名单，如果设置，则只允许白名单请求接口.包括access_token获取。
+- IP白名单，如果设置，则只允许白名单请求接口.包括access_token获取时的接口，需要检查是否符合该client白名单。
 
-- 如果客户未进行设置证书：
+- 如果客户未设置证书：
 ```
-1.允许客户上传一个公钥文件。
+1.显示生成密钥对按钮。
 
-2.也可以点击自动生成密钥对按钮进行生成。
-
-3.设置一个公钥描述
+2.提示私钥生成成功，并告知服务器不会存储私钥，请自行保管后，丢失后，只能重置。提供私钥下载按钮。
 ```
 
 - 如果客户已设置证书：
 ```
-1.展示公钥匙串....省略过长 和 描述。
+1.展示证书公钥匙串....省略过长。
 
-2.允许重新上传公钥或重新生成密钥对。之前的作废。
+2.显示重置密钥对按钮。
+
+3.若重置成功，提示私钥生成成功，并告知服务器不会存储私钥，请自行保管后，丢失后，只能重置。提供私钥下载按钮。
 ```
 
-- 服务器只保留公钥，私钥提醒客户自行保存好。
-
-- 如果客户自行上传公钥, 告知标准: RSA AES-256 2048位 pem格式, 示例
+- 密钥标准: RSA AES-256 2048位 pem格式, openssl生成示例
 ```
 openssl genpkey -algorithm RSA -out private_key.pem -aes256 -pkeyopt rsa_keygen_bits:2048
 openssl rsa -pubout -in private_key.pem -out public_key.pem
 
-#客户应把public_key.pem内容粘贴给我们
+#公钥public_key.pem内容片段示例
 
 -----BEGIN ENCRYPTED PRIVATE KEY-----
 MIIBTAYJKoZIhvcNAQcDoIIBVzCCARwCAQExDjAMBgNVBAkMBXJlY2VydDAf
@@ -35,20 +38,20 @@ MIIBTAYJKoZIhvcNAQcDoIIBVzCCARwCAQExDjAMBgNVBAkMBXJlY2VydDAf
 -----END ENCRYPTED PRIVATE KEY-----
 ```
 
-- 由我们生成密钥对及签名验证示例代码
+- 我们服务器使用NodeJS生成密钥对及签名验证的示例代码：
 ```
 const crypto = require('crypto');
 
 // 生成公私密钥对
 const { privateKey, publicKey } = crypto.generateKeyPairSync('rsa', {
-  modulusLength: 2048, // 密钥长度
+  modulusLength: 2048,
   publicKeyEncoding: {
-    type: 'spki', // 公钥编码格式
-    format: 'pem', // 公钥格式
+    type: 'spki',
+    format: 'pem',
   },
   privateKeyEncoding: {
-    type: 'pkcs8', // 私钥编码格式
-    format: 'pem', // 私钥格式
+    type: 'pkcs8',
+    format: 'pem',
   },
 });
 
@@ -66,26 +69,26 @@ const isVerified = verify.verify(publicKey, signature, 'base64');
 console.log('Signature Verified:', isVerified); // 输出 true 表示验证成功
 ```
 
-## 2 JWT构造规则
+## 2 JWT的构造规则
 
-JWT 由三个部分组成：标头、声明集和签名。标头和声明集是 JSON 对象。这些 JSON 对象会序列化为 UTF-8 字节，然后使用 Base64url 编码进行编码。这种编码可抵御因重复编码操作而导致的编码更改。标头、声明集和签名会使用句点 (.) 字符串联在一起。
+JWT由三个部分组成：标头、负载和签名。标头和负载是 JSON 对象。这些 JSON 对象会序列化为 UTF-8 字节，然后使用 Base64url 编码进行编码。这种编码可抵御因重复编码操作而导致的编码更改。标头、负载和签名会使用句点 (.) 字符串联在一起。
 
-- JWT 的构成如下：
+- JWT的构成如下：
 ```
-{Base64url encoded header}.{Base64url encoded claim set}.{Base64url encoded signature}
+{Base64url encoded header}.{Base64url encoded payload}.{Base64url encoded signature}
 ```
 
 - 签名的字符串基础如下所示：
 ```
-{Base64url encoded header}.{Base64url encoded claim set}
+{Base64url encoded header}.{Base64url encoded payload}
 ```
 
-- 构成 JWT 标头, 服务依赖于 RSA SHA-256 算法和 JWT 令牌格式。因此，标头的 JSON 表示法如下所示：
+- 构成JWT标头（header）, 服务依赖于 RSA SHA-256 算法和 JWT 令牌格式。因此，标头的 JSON 表示法如下所示：
 ```
 {"alg":"RS256","typ":"JWT"}
 ```
 
-- 构成 JWT 声明集, 
+- 构成 JWT 负载（payload）, 
 ```
 {
   "realm": "client realm",
@@ -96,7 +99,7 @@ JWT 由三个部分组成：标头、声明集和签名。标头和声明集是 
 
 - 使用私钥通过 SHA256withRSA（也称为 RSASSA-PKCS1-V1_5-SIGN，使用 SHA-256 哈希函数）对输入内容的 UTF-8 表示法进行签名：
 ```
-const data = {Base64url encoded header}.{Base64url encoded claim set};
+const data = {Base64url encoded header}.{Base64url encoded payload};
 const sign = crypto.createSign('SHA256');
 sign.update(data);
 const signature = sign.sign(privateKey, 'base64');
@@ -104,18 +107,18 @@ const signature = sign.sign(privateKey, 'base64');
 
 - 最终拼接出JWT
 ```
-{Base64url encoded header}.{Base64url encoded claim set}.{Base64url encoded signature}
+{Base64url encoded header}.{Base64url encoded payload}.{Base64url encoded signature}
 ```
 
-## 3.1 客户端换取access_token
+## 3.1 客户端如何使用JWT换取access_token?
 
-- 请求速率限制: 每小时5次, 429 Too Many Requests.
+- 请求速率限制: 5次/每小时, 超出提示 429 Too Many Requests.
 
 - access_token时效性1小时, 以最后一次请求为准。
 
 - 请求示例：
 ```
-curl -d 'type=JWT&realm=clientRealm&token=原sapi验证串&assertion=header.claim.signature' 'https://your.wcc.domain/eapi/token'
+curl -d 'type=JWT&realm=clientRealm&token=原sapi验证串&assertion=header.payload.signature' 'https://your.wcc.domain/eapi/token'
 
 {
   "access_token": "1/8xbJqaOZXSUZbHLl5EOtu1pxz3fmmetKx9W8CV4t79M",
@@ -124,11 +127,19 @@ curl -d 'type=JWT&realm=clientRealm&token=原sapi验证串&assertion=header.clai
 }
 ```
 
-## 3.2 服务端受理JWT
+## 3.2 服务端受理JWT，通过校验后，生成access_token
 
-- 1.请求速率检查(rate-limit-redis): 每小时3次, 429 Too Many Requests.
+- 1.路由地址：/eapi/token, POST请求。参数说明：
+  ```
+  type: JWT, 固定。
+  realm: client realm。
+  token: client sapi验证串。
+  assertion: JWT。
+  ```
 
-- 2.重复请求检查: redis分布式锁, md5(url path + 参数正序)
+- 2.请求速率检查(rate-limit-redis): 5次/每小时, 超出提示 429 Too Many Requests。这是access_token接口的固有限制，适用于所有client。
+  
+- 3.重复请求检查: redis分布式锁, md5(url path + 参数正序)，每5秒不得重复。
 ```
 const crypto = require('crypto');
 
@@ -149,7 +160,7 @@ const jsonData = {
   "type": "JWT",
   "realm": "clientRealm",
   "token": "原sapi验证串",
-  "assertion": "header.claim.signature"
+  "assertion": "header.payload.signature"
 };
 
 // 获取排序后的 MD5
@@ -162,37 +173,41 @@ if (lockres !== 'OK') {
 // 抢到锁，开始处理业务
 ```
 
-- 3.一致性检查realm=clientRealm&token=原sapi验证串，得到公钥
+- 4.一致性检查通过，得到client公钥、IP白名单信息:
+  ```
+  参数realm和参数token需一致。
+  参数realm和参数assertion中payload配置的realm一致。
+  ```
 
-- 4.如果client有IP白名单，需要验证是否符合
+- 5.如果client配置了IP白名单，需要验证请求源IP是否符合。
 
-- 5.验证JWT claim中时间戳:
+- 6.验证JWT payload中时间戳:
 ```
 iat, 与我们服务器当前时间戳±5秒偏移。
 
-exp > iat, 但是不能超出3600，超出按3600计算。
+exp 需要大于 iat, 但是不能超出3600，若超出则按3600计算，即最多允许1小时有效。
 ```
 
-- 6.服务端用公钥验证JWT签名
+- 6.服务端用公钥publicKey验证assertion参数提供的JWT签名
 ```
 const verify = crypto.createVerify('SHA256');
-verify.update(header.claim);
-const isVerified = verify.verify(publicKey, signature, 'base64');
+verify.update(JWT.header + '.' + JWT.payload);
+const isVerified = verify.verify(publicKey, JWT.signature, 'base64');
 console.log('Signature Verified:', isVerified); // 输出 true 表示验证成功
 ```
 
 - 7.生成access_token
 ```
+# token_string, Base64 编码会将 SHA-256 的 64 字符长十六进制字符串转换为 44 个字符长的 Base64 字符串。
 const token_string = crypto.createHash('sha256')
-  .update(header.claim.signature + Date.now() + config.serverKey + process.pid)
+  .update(header.payload.signature + Date.now() + config.serverKey + process.pid)
   .digest('base64');
 
+# 3600以客户实际差值为准，即JWT.payload.exp - JWT.payload.iat
 await myRedis.set('EAPI:TOKEN:client_realm:token_string', `${config.serverKey}-${process.pid}-${Date.now()}`, 'EX', 3600);
-
-# 3600以客户实际差值为准，即exp-iat
 ```
 
-- 8.输出
+- 8.输出结果
 ```
 {
   "access_token": "1/8xbJqaOZXSUZbHLl5EOtu1pxz3fmmetKx9W8CV4t79M",
@@ -201,7 +216,12 @@ await myRedis.set('EAPI:TOKEN:client_realm:token_string', `${config.serverKey}-$
 }
 ```
 
-## 4.1 客户端使用access_token进行EAPI请求
+- 9.响应结果说明
+```
+// TODO: 待补充
+```
+
+## 4.1 客户端如何使用access_token进行EAPI接口请求？
 
 - curl 示例
 
@@ -217,24 +237,39 @@ curl https://your.wcc.domain/eapi/files?access_token=client_realm:access_token
 
 - 访问令牌的过期时间:
 
-WCC OAuth 2.0 授权服务器签发的访问令牌会在 expires_in 值提供的有效期过后过期。在访问令牌过期后，应用应生成另一个 JWT，对其进行签名，然后请求另一个访问令牌。
+WCC OAuth 2.0 授权服务器签发的访问令牌会在 expires_in 值提供的有效期过后过期。在访问令牌过期后，应用应生成另一个JWT，对其进行签名，然后请求另一个访问令牌。
 
 
-## 4.2 服务端EAPI access_token校验
+## 4.2 服务端如何对EAPI access_token进行校验？
 
 - 1.请求中必须有access_token携带。
 
-- 2.redis EAPI:TOKEN:client_realm:token_string存在。
+- 2.redis keys中应存在EAPI:TOKEN:client_realm:token_string。
 
-- 3.重复请求检查: redis分布式锁, md5(url path + 参数正序),参照3.2介绍。
+- 3.重复请求检查: redis分布式锁, md5(url path + 参数正序),参照3.2中关于“重复请求检查”介绍。
 
 - 4.获取client参数，如ip白名单、api限制。
 
 - 5.验证ip白名单。
 
-- 6.请求速率检查(rate-limit-redis): 按client API限制中的配置进行检查, 429 Too Many Requests。
+- 6.请求速率检查(rate-limit-redis): 按client API限制中的配置进行检查, 超出提示 429 Too Many Requests。
 
-- 7.接口处理。
+- 7.接口业务处理。
 
 - 8.返回结果。
+
+- 9.响应结果说明
+```
+// TODO: 待补充
+```
+
+## 5 sapi与eapi的共用与管控
+
+- 1.sapi路由关于token的验证，应改造为前置，不应参混在接口业务函数中。
+  
+- 2.sapi和eapi都是前置鉴权，通过后进行路由匹配。
+  
+- 3.sapi与eapi只是两套路由表述，均共同指向现有的接口函数中。
+  
+- 4.sapi和eapi可在系统中设置接口服务开关，前置检查，控制服务是否启用，未启用时，一律响应404。
 
