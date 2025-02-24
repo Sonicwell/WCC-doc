@@ -134,7 +134,7 @@ curl -d 'type=JWT&realm=clientRealm&token=原sapi验证串&assertion=header.payl
   type: JWT, 固定。
   realm: client realm。
   token: client sapi验证串。
-  assertion: JWT。
+  assertion: JWT构造内容。
   ```
 
 - **2.请求速率检查**(rate-limit-redis): 5次/每小时, 超出提示 429 Too Many Requests。这是access_token接口的固有限制，适用于所有client。
@@ -245,7 +245,7 @@ WCC OAuth 2.0 授权服务器签发的访问令牌会在 expires_in 值提供的
 
 - 1.请求中必须有access_token携带。
 
-- 2.redis keys中应存在EAPI:TOKEN:client_realm:token_string。
+- 2.redis keys中应存在`EAPI:TOKEN:client_realm:token_string`。
 
 - 3.重复请求检查: redis分布式锁, md5(url path + 参数正序),参照3.2中关于“重复请求检查”介绍。
 
