@@ -13,16 +13,16 @@ client添加/编辑时，增加一个选项卡，EAPI, 设置如下：
 ```
 1.显示生成密钥对按钮。
 
-2.提示私钥生成成功，并告知服务器不会存储私钥，请自行保管后，丢失后，只能重置。提供私钥下载按钮。
+2.生成后需进行结果提示。若密钥对生成成功，需告知服务器不会存储私钥，请自行保管，丢失后只能重置。提示界面上提供私钥下载按钮。
 ```
 
 - **如果客户已设置证书**：
 ```
-1.展示证书公钥匙串....省略过长。
+1.展示证书公钥匙串内容。
 
 2.显示重置密钥对按钮。
 
-3.若重置成功，提示私钥生成成功，并告知服务器不会存储私钥，请自行保管后，丢失后，只能重置。提供私钥下载按钮。
+3.重置后需进行结果提示。若密钥对重置成功，需告知服务器不会存储私钥，请自行保管，丢失后只能重置。提示界面上提供私钥下载按钮。
 ```
 
 - **密钥标准**: RSA AES-256 2048位 pem格式, openssl生成示例
@@ -42,7 +42,7 @@ MIIBTAYJKoZIhvcNAQcDoIIBVzCCARwCAQExDjAMBgNVBAkMBXJlY2VydDAf
 ```
 const crypto = require('crypto');
 
-// 生成公私密钥对
+#生成公私密钥对
 const { privateKey, publicKey } = crypto.generateKeyPairSync('rsa', {
   modulusLength: 2048,
   publicKeyEncoding: {
@@ -55,14 +55,14 @@ const { privateKey, publicKey } = crypto.generateKeyPairSync('rsa', {
   },
 });
 
-// 客户端用私钥签名数据
+#客户端用私钥签名数据
 const data = "This is a string to be signed";
 const sign = crypto.createSign('SHA256');
 sign.update(data);
 const signature = sign.sign(privateKey, 'base64');
 console.log('Signature:', signature);
 
-// 服务端用公钥验证签名
+#服务端用公钥验证签名
 const verify = crypto.createVerify('SHA256');
 verify.update(data);
 const isVerified = verify.verify(publicKey, signature, 'base64');
@@ -154,7 +154,7 @@ function getSortedMD5(jsonData) {
   return crypto.createHash('md5').update(sortedJsonString).digest('hex');
 }
 
-// 构建 JSON 输入示例
+#构建 JSON 输入示例
 const jsonData = {
   "url_path": "/eapi/token",
   "type": "JWT",
@@ -163,14 +163,14 @@ const jsonData = {
   "assertion": "header.payload.signature"
 };
 
-// 获取排序后的 MD5
+#获取排序后的 MD5
 const md5Hash = getSortedMD5(jsonData);
 const lockres = await myRedis.set('LOCK:EAPI:md5Hash', `${config.serverKey}-${process.pid}-${Date.now()}`, 'NX', 'EX', 5);
 if (lockres !== 'OK') {
   return res.status(409).send({error: "Duplicate request", message: "This request has already been processed"});
 }
 
-// 抢到锁，开始处理业务
+#抢到锁，开始处理业务
 ```
 
 - **4.一致性检查**通过，得到client公钥、IP白名单信息:
@@ -199,12 +199,12 @@ console.log('Signature Verified:', isVerified); // 输出 true 表示验证成�
 
 - **8.生成access_token**
 ```
-# token_string, Base64 编码会将 SHA-256 的 64 字符长十六进制字符串转换为 44 个字符长的 Base64 字符串。
+#token_string, Base64 编码会将 SHA-256 的 64 字符长十六进制字符串转换为 44 个字符长的 Base64 字符串。
 const token_string = crypto.createHash('sha256')
   .update(header.payload.signature + Date.now() + config.serverKey + process.pid)
   .digest('base64');
 
-# 3600以客户实际差值为准，即JWT.payload.exp - JWT.payload.iat
+#3600以客户实际差值为准，即JWT.payload.exp - JWT.payload.iat
 await myRedis.set('EAPI:TOKEN:client_realm:token_string', `${config.serverKey}-${process.pid}-${Date.now()}`, 'EX', 3600);
 ```
 
@@ -219,7 +219,7 @@ await myRedis.set('EAPI:TOKEN:client_realm:token_string', `${config.serverKey}-$
 
 - **10.响应结果说明**
 ```
-// TODO: 待补充
+#TODO: 待补充
 ```
 
 ## 4.1 客户端如何使用access_token进行EAPI接口请求？
@@ -261,7 +261,7 @@ WCC OAuth 2.0 授权服务器签发的访问令牌会在 expires_in 值提供的
 
 - 9.响应结果说明
 ```
-// TODO: 待补充
+#TODO: 待补充
 ```
 
 ## 5 sapi与eapi的共用与管控
