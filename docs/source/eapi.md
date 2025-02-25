@@ -233,7 +233,7 @@ curl -H "Authorization: Bearer client_realm:access_token" https://your.wcc.domai
 
 或者，您也可以使用查询字符串参数选项：
 ```
-curl https://your.wcc.domain/eapi/files?token=client_realm:access_token
+curl https://your.wcc.domain/eapi/files?access_token=client_realm:access_token
 ```
 
 - **访问令牌的过期时间**:
