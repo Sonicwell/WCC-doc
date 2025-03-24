@@ -2,59 +2,59 @@
 
 登录Client页面后，您可以在顶部的快捷菜单栏中使用一些快捷功能。
 
-<img src="../_static/images/client/media/image3.png"
+<img src="_static/images/client/media/image3.png"
 style="width:5.75694in;height:2.73333in" />
 
 【折叠菜单】当您单击此按钮时，页面菜单不显示文本，仅显示图标。
 
-<img src="../_static/images/client/media/image4.png"
+<img src="_static/images/client/media/image4.png"
 style="width:5.76111in;height:0.64306in" />
 
 ↓↓↓
 
-<img src="../_static/images/client/media/image5.png"
+<img src="_static/images/client/media/image5.png"
 style="width:1.40486in;height:5.42292in" />
 
 在这里，您可以选择功能的快捷方式。选中后，将显示这些快捷方式↓↓↓
 
-<img src="../_static/images/client/media/image6.png"
+<img src="_static/images/client/media/image6.png"
 style="width:5.75694in;height:2.73333in" />
 
 【快速搜索】按钮，可直接在知识库中搜索知识。
 
-<img src="../_static/images/client/media/image7.png"
+<img src="_static/images/client/media/image7.png"
 style="width:5.75694in;height:2.73333in" />
 
 【呼叫】点击呼叫按钮，填写主叫号码和被叫号码，选择一个 外显号码 ，点击呼叫 ，即可在客户端级别进行指定呼叫。
 
 主叫号码填写坐席号码，被叫号码填写外呼号码。
 
-<img src="../_static/images/client/media/image8.png"
+<img src="_static/images/client/media/image8.png"
 style="width:5.75694in;height:1.24792in" />
 
 【任务】有导入或导出任务时，此处显示任务进度。
 
-<img src="../_static/images/client/media/image9.png"
+<img src="_static/images/client/media/image9.png"
 style="width:5.75972in;height:1.64444in" />
 
 【消息提示】如果有系统通知消息，如公告、审核等，会展示在这里，点击查看消息。
 
-<img src="../_static/images/client/media/image10.png"
+<img src="_static/images/client/media/image10.png"
 style="width:5.76667in;height:1.41528in" />
 
 【语言】可以在这里切换系统语言，切换后刷新页面，当坐席在当前语言中登录时，坐席会遵循client的当前语言。
 
-<img src="../_static/images/client/media/image11.png"
+<img src="_static/images/client/media/image11.png"
 style="width:5.75972in;height:0.71875in" />
 
 【client】单击此处查看客户的个人资料、公告和登录足迹（如果您是从高级登录者登录）
 
-<img src="../_static/images/client/media/image12.png"
+<img src="_static/images/client/media/image12.png"
 style="width:5.75694in;height:0.95972in" />
 
 【我的档案】客户可以在此处修改他们的账户信息，包括用户名。
 
-<img src="../_static/images/client/media/image13.png"
+<img src="_static/images/client/media/image13.png"
 style="width:5.75694in;height:2.73333in" />
 
 【聊天页面】client可以搜索坐席并与坐席聊天，有聊天记录的坐席可以直接显示在对话框栏中。
@@ -73,13 +73,13 @@ style="width:5.75694in;height:2.73333in" />
 
     点击【返回】，返回对话列表。
 
-    <img src="../_static/images/client/media/image14.png"
+    <img src="_static/images/client/media/image14.png"
     style="width:5.75694in;height:2.73333in" />
 
-    <img src="../_static/images/client/media/image15.png"
+    <img src="_static/images/client/media/image15.png"
     style="width:1.94653in;height:5.42292in" />
     
-    <img src="../_static/images/client/media/image16.png"
+    <img src="_static/images/client/media/image16.png"
     style="width:1.96458in;height:5.42292in" />
 
     【仪表盘】
@@ -90,12 +90,12 @@ Client用户可以在控制面板上查看统计信息; 呼出 / 接通 / 通话
 
 接通新号码 /接通旧号码; 新建工单; 公告; DID 呼入; 主叫地区; 被叫地区; 设置参数 。
 
-<img src="../_static/images/client/media/image17.png"
+<img src="_static/images/client/media/image17.png"
 style="width:5.75694in;height:2.73333in" />
 
 ### 2.1 呼出 /接通/通话时长
 
-<img src="../_static/images/client/media/image18.png"
+<img src="_static/images/client/media/image18.png"
 style="width:5.75694in;height:2.73333in" />
 
 **呼出**:该client当天呼出的电话总数。
@@ -106,7 +106,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ### 2.2呼入/ 漏话 /通话时长
 
-<img src="../_static/images/client/media/image19.png"
+<img src="_static/images/client/media/image19.png"
 style="width:5.75694in;height:2.73333in" />
 
 **呼入**:该client当日呼入通话的次数。
@@ -117,7 +117,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ### 2.3接通新号码/ 接通旧号码
 
-<img src="../_static/images/client/media/image20.png"
+<img src="_static/images/client/media/image20.png"
 style="width:5.75694in;height:2.73333in" />
 
 **接通新号码**:首次呼入该client并被接通的号码。
@@ -128,31 +128,31 @@ style="width:5.75694in;height:2.73333in" />
 
 同一天创建的所有工单，包括在客户端级工单页面上创建的工单和在客户配置文件页面上创建的工单。只有当天的记录将在第二天重置。
 
-<img src="../_static/images/client/media/image21.png"
+<img src="_static/images/client/media/image21.png"
 style="width:5.75694in;height:2.73333in" />
 
 ### 2.5 公告 
 
 Client及其坐席创建的所有公告将累积显示。
 
-<img src="../_static/images/client/media/image22.png"
+<img src="_static/images/client/media/image22.png"
 style="width:5.75694in;height:2.73333in" />
 
 ### 2.6 did 呼入
 
 did呼入次数所占百分比的饼状图。  
 
-<img src="../_static/images/client/media/image23.png"
+<img src="_static/images/client/media/image23.png"
 style="width:5.75694in;height:2.73333in" />
 
 次数、时长、分钟数的饼状图会先显示 DID 名称，没有名字则显示数字。
 
 1.频率排名：统计 DID 号码的来电次数，所有打到 DID 的号码都会被统计（来电接通/未接通），每个来电在 DID 号码后 +1。  
 
-<img src="../_static/images/client/media/image24.png"
+<img src="_static/images/client/media/image24.png"
 style="width:4.73819in;height:3.55972in" />
 
-<img src="../_static/images/client/media/image25.png"
+<img src="_static/images/client/media/image25.png"
 style="width:0.33333in;height:0.33333in" alt="IMG_262" />
 
 2.时长排名：计算 DID 号码来电的通话时长，以分钟为单位显示，计数范围如下：
@@ -173,10 +173,10 @@ style="width:0.33333in;height:0.33333in" alt="IMG_262" />
 
 8）**DID 转挂断**：不计算在内。 
 
-<img src="../_static/images/client/media/image25.png"
+<img src="_static/images/client/media/image25.png"
 style="width:0.33333in;height:0.33333in" alt="IMG_263" />
 
-<img src="../_static/images/client/media/image26.png"
+<img src="_static/images/client/media/image26.png"
 style="width:4.28542in;height:3.60139in" />
 
 3.分钟数排名：计算呼入到该did号码下的呼入应答数，每呼入并接通一通电话就会在该did号码后+1，呼入到坐席组、语音播报和ivr语音菜单，呼入不接通也会计数。
@@ -197,5 +197,5 @@ style="width:4.28542in;height:3.60139in" />
 
 8）**DID转向挂断**:不计算在内。
 
-<img src="../_static/images/client/media/image27.png"
+<img src="_static/images/client/media/image27.png"
 style="width:4.71458in;height:3.54792in" />

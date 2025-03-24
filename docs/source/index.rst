@@ -12,25 +12,25 @@ Welcome to WCC documentation!
    :maxdepth: 2
    :caption: Root
 
-   root/WCC登录
-   root/界面介绍
+   root_WCC登录
+   root_界面介绍
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Reseller
 
-   reseller/WCC登录
-   reseller/仪表盘介绍
+   reseller_WCC登录
+   reseller_仪表盘介绍
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Client
 
-   client/系统登录
-   client/工具栏
-   client/菜单功能
+   client_系统登录
+   client_工具栏
+   client_菜单功能
 
 .. toctree::
    :maxdepth: 2
