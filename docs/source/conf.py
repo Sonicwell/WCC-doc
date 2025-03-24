@@ -46,7 +46,7 @@ latex_elements = {
     \usepackage{xeCJK}  # 日文支持
     \setCJKfamilyfont{jp}{IPAexMincho}  # 设置日文字体
     \newcommand{\jp}[1]{{\CJKfamily{jp}#1}}  # 定义日文命令
-    '''
+    ''',
     'figure_align': 'H',
 }
 
