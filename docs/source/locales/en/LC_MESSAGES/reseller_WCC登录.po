@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"POT-Creation-Date: 2025-03-24 17:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -20,40 +20,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../reseller_WCC登录.md:1 9de6deec26d64d4697ad8f8d23c32d01
+#: ../../reseller_WCC登录.md:1 e76eb4de43dd448096c43fe7d3681a56
 msgid "1.1 WCC 登录"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:3 9403d541675c4cb28b0cd587bfd17658
+#: ../../reseller_WCC登录.md:3 387f9aa0da0048489a199bd22e5fa42b
 msgid "在您正在使用的浏览器的地址栏中输入网站地址。 回车进入系统登录页面"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:5 1d55141f2252466199832f0682032645
+#: ../../reseller_WCC登录.md:5 82636d505c9942faa7eadcfed8ade6a7
 msgid "用户【账户】和【密码】由上级用户预先设置。"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:7 7532e2de281f4d95a761519077172757
+#: ../../reseller_WCC登录.md:7 540d6140f3e84817a24b23777b13597c
 msgid "输入正确的账号和密码，点击【登录】，即可成功进入系统。"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:9 54a749d377374a0197c3dc5d3b235842
+#: ../../reseller_WCC登录.md:9 adce42c4c48048fb9a2cb950d7ad3ed8
 msgid "用户可以选择【记住密码】，浏览器会记住这次的账户密码，方便下次登录。"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:11 dd99f68963bb41d99779c75b8846cd0b
-msgid ""
-"<img src=\"_static/images/reseller/media/image1.png\" "
-"style=\"width:5.75972in;height:3.73542in\" alt=\"Screenshot from "
-"2024-05-20 10-15-38\" />"
+#: ../../reseller_WCC登录.md:11 2ad2dbe5fc5748cea8c31373c24d6b9e
+msgid "![alt text](_static/images/reseller/media/image1.png)"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:15 9da49ef662e84175b5bf4010acb67350
+#: ../../reseller_WCC登录.md:11 ../../reseller_WCC登录.md:15
+#: ca2fc538911c4e74afd4c6965b99119b cd526f4b5bcc4ef486fd9f9d2d126c4f
+msgid "alt text"
+msgstr ""
+
+#: ../../reseller_WCC登录.md:13 a04ab76ffbef431583342106b1de1898
 msgid "用户进入系统后，从状态栏的下拉菜单中选择【注销】，确认无误后，成功注销系统。页面返回到用户登录页面。"
 msgstr ""
 
-#: ../../reseller_WCC登录.md:17 aba69b0730b247878a75181a9833ccbb
-msgid ""
-"<img src=\"_static/images/reseller/media/image2.png\" "
-"style=\"width:5.75694in;height:2.73333in\" />"
+#: ../../reseller_WCC登录.md:15 5ecb5b3788ce47178108168b0c4dc4f4
+msgid "![alt text](_static/images/reseller/media/image2.png)"
 msgstr ""
 
