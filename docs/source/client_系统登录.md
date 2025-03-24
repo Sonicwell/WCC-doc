@@ -8,12 +8,10 @@
 
 用户可以选择【记住密码】，浏览器此时会记住账号密码，以方便下次登录。  
 
-<img src="_static/images/client/media/image1.png"
-style="width:5.75694in;height:2.96389in" />
+![alt text](_static/images/client/media/image1.png)
 
 ### 1.2登出
 
 当用户进入系统时，选择右上角的下拉选项【登出】，确认后将退出系统，页面将返回用户登录页面。  
 
-<img src="_static/images/client/media/image2.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image2.png)

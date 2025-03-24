@@ -8,8 +8,7 @@
 
 **账户**是用于管理系统的用户,例如添加坐席,查询报表,更新配置等。通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限
 
-<img src="_static/images/client/media/image28.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image28.png)
 
 【搜索】支持用户名、名、姓进行账户的全局搜索。
 
@@ -23,8 +22,7 @@ style="width:5.75694in;height:2.73333in" />
 
 【下拉菜单】以该账户登录或删除该账户。
 
-<img src="_static/images/client/media/image29.png"
-style="width:5.75972in;height:0.92639in" />
+![alt text](_static/images/client/media/image29.png)
 
 ##### 2.显示/隐藏字段
 
@@ -46,8 +44,7 @@ style="width:5.75972in;height:0.92639in" />
 
 ①点击【添加】进入添加账户常规设置页面：
 
-<img src="_static/images/client/media/image30.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image30.png)
 
 -   **用户名**：用户将用此用户名进行系统登录。
 
@@ -61,8 +58,7 @@ style="width:5.75694in;height:2.73333in" />
 
 -   **密码**:输入一个密码或是，自动生成一个密码。
 
-    <img src="_static/images/client/media/image31.png"
-    style="width:3.26806in;height:0.41042in" />
+    ![alt text](_static/images/client/media/image31.png)
 
 -   **确认密码**:请再次输入密码，确保两次密码相同。
 
@@ -70,20 +66,17 @@ style="width:5.75694in;height:2.73333in" />
 
 ②点击【高级】设置此账户的备注：
 
-<img src="_static/images/client/media/image32.png"
-style="width:5.76528in;height:1.23333in" />
+![alt text](_static/images/client/media/image32.png)
 
 ③保存后，账户创建成功。
 
 ④创建成功后账户页面显示创建成功的系统账户，点击编辑可对其账户信息进行重新编辑修改。
 
-<img src="_static/images/client/media/image33.png"
-style="width:5.75694in;height:1.38889in" />
+![alt text](_static/images/client/media/image33.png)
 
 ⑤点击下拉菜单，即可以该用户登录或删除该用户
 
-<img src="_static/images/client/media/image34.png"
-style="width:5.75694in;height:1.34097in" />
+![alt text](_static/images/client/media/image34.png)
 
 #### 3.1.2坐席
 
@@ -91,8 +84,7 @@ style="width:5.75694in;height:1.34097in" />
 
 **坐席**是系统中的基本工作单位,创建坐席时系统会自动创建一个SIP账号,你可以注册SIP设备或者将电话号码绑定到该坐席,然后坐席就可以通过系统发起和接收呼叫了。坐席可以签入到不同的坐席组进行不同的工作,系统能够提供多种报表来表现坐席的工作内容。坐席页面列表中是client用户已添加的坐席，在此页面，client用户可以添加/批量添加/查看/编辑/批量编辑/删除，也能以创建的坐席身份登录。
 
-<img src="_static/images/client/media/image35.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image35.png)
 
 【搜索】全局搜索仅支持坐席工号搜索。
 
@@ -132,8 +124,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ①点击添加进入添加/编辑坐席的常规页面：
 
-<img src="_static/images/client/media/image36.png"
-style="width:5.75833in;height:2.87431in" />
+![alt text](_static/images/client/media/image36.png)
 
 -   **坐席工号**:坐席工号应该是唯一的，它是注册sip电话机时的用户名。用途包括-通过浏览器登录系统，通过电话签入坐席组，内部拨号使用等。坐席工号是长度为2-6的数字组成，且首位非零，如01001不可设置，坐席工号设定后不可更改。
 
@@ -158,8 +149,7 @@ style="width:5.75833in;height:2.87431in" />
 
     <span class="mark">②点击【高级】进入添加/编辑坐席的高级页面：</span>
 
-    <img src="_static/images/client/media/image37.png"
-    style="width:5.76806in;height:1.52847in" />
+    ![alt text](_static/images/client/media/image37.png)
 
 <!-- -->
 
@@ -177,8 +167,7 @@ style="width:5.75833in;height:2.87431in" />
 
 <span class="mark">①</span>单击“批量操作”-“批量添加”，进入“批量添加”页面：
 
-<img src="_static/images/client/media/image38.png"
-style="width:5.75833in;height:1.91528in" />
+![alt text](_static/images/client/media/image38.png)
 
 -   **起始坐席工号**：添加坐席的首个开头工号。
 
@@ -198,13 +187,11 @@ style="width:5.75833in;height:1.91528in" />
 
 ②点击【预览并配置】出现批量导入表单，可以进行细致的设置：
 
-<img src="_static/images/client/media/image39.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image39.png)
 
 ③对已经建立好的坐席，用户也可以选择需要的坐席，点击工具中的【批量编辑】，对坐席进行批量的快速编辑:
 
-<img src="_static/images/client/media/image40.png"
-style="width:5.76528in;height:2.88264in" />
+![alt text](_static/images/client/media/image40.png)
 
 #### 3.1.3坐席组
 
@@ -212,8 +199,7 @@ style="width:5.76528in;height:2.88264in" />
 
 **坐席组** 用于管理坐席，坐席组包含静态坐席、动态坐席和坐席组长。坐席组是坐席能分配到任务的基本单位，坐席通过签入/签出坐席组来工作，对任务进行处理。系统中，坐席组是重要的存在，报表中有专门针对坐席组的统计，实时监控中也会对坐席组进行监控，呼入呼出方式中有专门针对坐席组的呼叫方式。只有针对坐席组的呼叫才会产生话后状态，例如转向到坐席组或是预拨号拨号。没有任何组别的呼叫，我们统称为默认组。
 
-<img src="_static/images/client/media/image41.png"
-style="width:5.75833in;height:1.5in" />
+![alt text](_static/images/client/media/image41.png)
 
 【搜索】全局搜索仅支持坐席组名称搜索。
 
@@ -263,15 +249,15 @@ style="width:5.75833in;height:1.5in" />
 
 -   **坐席组长**：坐席组可以设定多个坐席组长。坐席组长除了普通坐席功能外，还有监控、监听、密语、强插等功能。
 
-②点击【高级】进入添加坐席组高级设置页面：<img src="_static/images/client/media/image42.png"
-style="width:5.75347in;height:0.95in" />
+②点击【高级】进入添加坐席组高级设置页面：
+
+![alt text](_static/images/client/media/image42.png)
 
 -   **自动退出话后**：设置坐席进入话后状态，多少秒之后自动结束话后。（当设置选择零时，即为不退出话后状态）
 
 -   **话后处理**：表示当通话结束后，系统将暂停坐席以便他能够完成剩余的工作而不是被新的通话打断。此处三个选项，①禁用：关闭话后处理功能；②应答话后：将坐席设置为话后处理模式；③振铃话后：坐席电话振铃后，通话结束后坐席设置为话后处理模式。
 
-<img src="_static/images/client/media/image43.png"
-style="width:5.76389in;height:1.85833in" />
+![alt text](_static/images/client/media/image43.png)
 
 -   **SIP自动应答**：大部分的IP话机支持一个特殊的SIP头消息，当呼叫请求中包含此消息时，话机会自动应答，例如点击拨号和预拨号。
 
@@ -285,15 +271,13 @@ style="width:5.76389in;height:1.85833in" />
 
 ③点击【队列】进入添加坐席组的队列设置页面:
 
-<img src="_static/images/client/media/image44.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image44.png)
 
 -   **呼入队列**：如果你想使用该坐席组处理呼入通话或者预拨号，你需要开启并配置队列功能。
 
 -   **振铃策略**：
 
-    <img src="_static/images/client/media/image45.png"
-    style="width:3.61875in;height:1.65486in" />
+    ![alt text](_static/images/client/media/image45.png)
 
     *<u>最久未呼叫</u>*-组内当日最长时间未振铃的坐席会被优先呼叫，如果有相同时间未振铃的坐席，呼叫将以坐席组页面中组内坐席的顺序，依次呼叫。
 
@@ -307,15 +291,11 @@ style="width:5.75694in;height:2.73333in" />
 
     *<u>全部振铃</u>*-签入坐席组中的全部坐席一起振铃，全部振铃坐席没有限制，建议三十坐席内。
 
-<!-- -->
-
 -   **动态坐席**：动态坐席表示这些坐席可以自由的从该坐席组签入签出。
 
 -   **静态坐席**：静态坐席将一直签入在此坐席组中，静态坐席不允许在坐席页面被删除。
 
 -   **保持音乐**：选择一段音乐，以便在队列呼叫处于保持状态时播放，如果未选择，则默认播放系统保持音乐。
-
-<!-- -->
 
 -   **启用工号语音**：若此队列需要播报工号，你可以通过设定工号通告来实现，系统默认提供了“工号前语音”和“工号后语音。如果选择【是】，则会出现工号前语音和工号后语音。
 
@@ -365,8 +345,7 @@ style="width:5.75694in;height:2.73333in" />
 
 <span class="mark">④</span>单击【IM 队列】可进入添加坐席组的 IM队列设置页面<span class="mark">：</span>
 
-<img src="_static/images/client/media/image46.png"
-style="width:5.76042in;height:1.05139in" />
+![alt text](_static/images/client/media/image46.png)
 
 -   **技能别名**：坐席组能够被分配到在线咨询服务中。技能别名是这个坐席组能够对外提供的服务名称，用于展示给客户。
 
@@ -380,8 +359,7 @@ style="width:5.76042in;height:1.05139in" />
 
 **角色** 用于控制用户的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。同理也可以根据需要，为坐席设置权限。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。
 
-<img src="_static/images/client/media/image47.png"
-style="width:5.75972in;height:1.78681in" />
+![alt text](_static/images/client/media/image47.png)
 
 【搜索】仅支持以角色名称进行全域搜索。
 
@@ -407,27 +385,23 @@ style="width:5.75972in;height:1.78681in" />
 
 ①点击添加进入添加/编辑角色权限【常规】界面：
 
-<img src="_static/images/client/media/image48.png"
-style="width:5.76389in;height:0.70833in" />
+![alt text](_static/images/client/media/image48.png)
 
 【名称】请为这个权限的角色命名。
 
 ②点击高级进入添加/编辑角色和权限的高级页面：
 
-<img src="_static/images/client/media/image49.png"
-style="width:5.76319in;height:2.74931in" />
+![alt text](_static/images/client/media/image49.png)
 
 在高级页面，用户可以为角色设置查看表格中字段的高级页面显示或隐藏，用户禁用角色查看坐席组的高级页面权限，那么拥有这个角色的坐席或账户就不能查看编辑坐席组的高级页面。
 
-<img src="_static/images/client/media/image50.png"
-style="width:5.7625in;height:0.83681in" />
+![alt text](_static/images/client/media/image50.png)
 
 用户也可以为角色设置查看管理范围，用户设置通话记录仅自己，意思是仅查看自己的通话记录（如果选择全部就是可查看所有坐席的通话记录，选择坐席组则可以查看所在坐席组内所有成员的通话记录），设置保存后拥有这个角色的坐席或账户就只能查看自己的通话记录，其他坐席的通话记录不可查看。
 
 ③点击高级进入添加/编辑角色和权限的高级页面：
 
-<img src="_static/images/client/media/image51.png"
-style="width:5.76042in;height:2.69236in" />
+![alt text](_static/images/client/media/image51.png)
 
 在权限设置页面上，用户可以为角色设置系统功能使用权限，系统默认将列表中不可单击的字段（如统计页面等）赋予坐席或帐户，以说明权限设置对代理或帐户的影响，用户禁用角色添加代理的权限，则具有该角色的代理或帐户没有添加代理的权限。
 
@@ -439,15 +413,13 @@ style="width:5.76042in;height:2.69236in" />
 
 标记坐席所在的部门可以让管理员更清楚地管理坐席。在呼叫流程中有一个抢答流程，系统规定只有来自同一部门的坐席才能抢接电话。没有分配部门的坐席默认为默认部门，不显示在部门页面。
 
-<img src="_static/images/client/media/image52.png"
-style="width:5.76597in;height:1.65278in" />
+![alt text](_static/images/client/media/image52.png)
 
 【搜索】全局搜索仅支持部门名称搜索。
 
 【隐藏（显示）结构】选择是否显示部门结构。
 
-<img src="_static/images/client/media/image53.png"
-style="width:1.74375in;height:0.86875in" />
+![alt text](_static/images/client/media/image53.png)
 
 【添加】添加一个新的部门
 
@@ -467,8 +439,7 @@ style="width:1.74375in;height:0.86875in" />
 
 ①点击添加进入添加/编辑部门的常规页面：
 
-<img src="_static/images/client/media/image54.png"
-style="width:5.76389in;height:1.40972in" />
+![alt text](_static/images/client/media/image54.png)
 
 -   **部门名称**：请填写这个部门名称。
 
@@ -490,8 +461,7 @@ style="width:5.76389in;height:1.40972in" />
 
 在 **自定义字段页面** 可以新增/编辑/删除客户资料字段，也可以对自定义字段进行拖拽字段列重新排列顺序，新增的自定义字段默认是非必填字段且管理员接坐席可以编辑或查看字段，如果需要修改可以继续继续设置字段的显示。
 
-<img src="_static/images/client/media/image55.png"
-style="width:5.76528in;height:2.09306in" />
+![alt text](_static/images/client/media/image55.png)
 
 上图中的【默认】是客户包的选择，【默认】为默认客户包，也可选择具体客户包进行自定义字段的添加编辑或搜索，如果这个client没有被开启客户包的功能，不会出现客户包相关显示。
 
@@ -505,13 +475,11 @@ style="width:5.76528in;height:2.09306in" />
 
 【工具】可以进行字段修复、字段权限设置和字段显示顺序。
 
-<img src="_static/images/client/media/image56.png"
-style="width:2.02986in;height:1.04792in" />
+![alt text](_static/images/client/media/image56.png)
 
 ***字段修复***-在自定义字段不显示或显示不完全有错误时可以进行字段修复。
 
-<img src="_static/images/client/media/image57.png"
-style="width:5.76319in;height:1.12778in" />
+![alt text](_static/images/client/media/image57.png)
 
 -   **指定修复键**:客户数据页面缺失自定义字段的功能，缺失附件上传功能，包括客户弹屏界面，附件上传流程异常。
 
@@ -520,24 +488,20 @@ style="width:5.76319in;height:1.12778in" />
 -   **指定修复**：在存在自定义字段错误，确定具体字段时，点击指定修复将具体字段进行修复。
 
     ***字段权限设置***- 用户可以根据角色对字段进行查看和编辑的权限。不选择任何角色时，查看和编辑功能不可更改；角色字段只能更改是否可以编辑的权限，不能更改是否查看的权限。
-    <img src="_static/images/client/media/image58.png"
-    style="width:5.76528in;height:2.84167in" />
+    
+    ![alt text](_static/images/client/media/image58.png)
 
-    <img src="_static/images/client/media/image59.png"
-    style="width:5.76528in;height:2.83472in" />
+    ![alt text](_static/images/client/media/image59.png)
 
     ***字段显示顺序设置***- 用户可以在字段顺序设置中拖动字段，更该字段的排列顺序，姓名字段默认在第一位不可更改。字段可按标签A和标签B两个标签区分显示，标签B区背景颜色为高亮。在字段操作中，可以对字段是否必填，自定义字段是否在客户资料弹屏的自定义通话记录中进行编辑，字段和字段中填写内容的宽度可根据需要进行设置。
 
-    <img src="_static/images/client/media/image60.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/client/media/image60.png)
 
-    <img src="_static/images/client/media/image61.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/client/media/image61.png)
 
     如果标签设置为 B，坐席登录后，客户数据弹出屏幕将在显示为高亮。
 
-    <img src="_static/images/client/media/image62.png"
-    style="width:4.71389in;height:2.75417in" />
+    ![alt text](_static/images/client/media/image62.png)
 
 ##### 2.显示/隐藏字段
 
@@ -581,8 +545,7 @@ style="width:5.76319in;height:1.12778in" />
 
 ①点击添加进入添加/编辑自定义字段常规页面：
 
-<img src="_static/images/client/media/image63.png"
-style="width:5.76111in;height:1.97083in" />
+![alt text](_static/images/client/media/image63.png)
 
 -   **所属客户包**:设置的字段所在的客户包，仅在该客户包下的客户能够查看这个自定义字段。
 
@@ -624,8 +587,7 @@ style="width:5.76111in;height:1.97083in" />
 
 用户在代理商级别设置client时，如果用户为该client勾选了多 **客户包** 功能，则在该client用户下，可以同时拥有多个客户包组合，每个客户包并不会互相干预，坐席可以同时对不同客户包中的客户进行处理。
 
-<img src="_static/images/client/media/image64.png"
-style="width:5.75833in;height:2.38194in" />
+![alt text](_static/images/client/media/image64.png)
 
 【全局搜索】该页面支持使用客户包的显示名称进行搜索。
 
@@ -651,8 +613,7 @@ style="width:5.75833in;height:2.38194in" />
 
 <span class="mark">①点击添加进入添加/编辑客户包的常规页面：</span>
 
-<img src="_static/images/client/media/image65.png"
-style="width:5.76111in;height:1.60278in" />
+![alt text](_static/images/client/media/image65.png)
 
 -   **显示名称**：该客户包所显示的客户包名称。
 
@@ -674,8 +635,7 @@ style="width:5.76111in;height:1.60278in" />
 
 **客户数据** 页面显示的是坐席拨打的客户数据，通过客户包/项目/任务/销售漏斗/呼叫结果/客户标签等方式进行筛选，可以查看到相应的客户数据。在客户数据页面用户可以添加客户的数据字段，通过选择任务，在任务下进行新增或者批量导入客户数据。用户也可以对客户数据进行编辑/删除/批量导出。
 
-<img src="_static/images/client/media/image66.png"
-style="width:5.76528in;height:2.78125in" />
+![alt text](_static/images/client/media/image66.png)
 
 **以下的默认、全局搜索、销售漏斗、所属任务、呼叫结果、客户标签都为搜索条件。**
 
@@ -685,15 +645,13 @@ style="width:5.76528in;height:2.78125in" />
 
 【搜索】后面的【请选择】为销售漏斗，根据坐席提交的销售漏斗，用户可以搜索销售漏斗里的客户数据。.
 
-<img src="_static/images/client/media/image67.png"
-style="width:1.03542in;height:1.65486in" />
+![alt text](_static/images/client/media/image67.png)
 
 【所属任务】】用户可以根据所属任务搜索客户数据，分配了任务的客户数据可以被分配到指定坐席。
 
 【呼叫结果】根据坐席提交的呼叫结果，用户可以搜索呼叫结果中的客户数据。
 
-<img src="_static/images/client/media/image68.png"
-style="width:2.15486in;height:1.96458in" />
+![alt text](_static/images/client/media/image68.png)
 
 【客户标签】根据用户设置的客户标签搜索客户数据。
 
@@ -708,20 +666,17 @@ style="width:2.15486in;height:1.96458in" />
 
 3.  分配到坐席：如果先选择一个任务，然后再点击客户分配时，可以将客户数据直接分配给坐席。
 
-<img src="_static/images/client/media/image69.png"
-    style="width:5.76111in;height:1.56528in" />
+![alt text](_static/images/client/media/image69.png)
 
 ↓↓↓直接分配给坐席
 
-<img src="_static/images/client/media/image70.png"
-    style="width:5.76042in;height:1.72083in" />
+![alt text](_static/images/client/media/image70.png)
 
     【工具】
 
 ***导出CSV文件***-将数据以CSV格式导出;
 
-<img src="_static/images/client/media/image71.png"
-    style="width:3.97639in;height:4.83958in" />
+![alt text](_static/images/client/media/image71.png)
 
 ***数据导入***-将CSV格式的数据批量导入; (导入的客户数据文件不能超过
     20 MB)
@@ -731,8 +686,7 @@ style="width:2.15486in;height:1.96458in" />
 
 【编辑】或【下拉菜单】可以对新建成功的客户数据进行编辑。
 
-<img src="_static/images/client/media/image72.png"
-style="width:5.76042in;height:1.51806in" />
+![alt text](_static/images/client/media/image72.png)
 
 ##### 2.显示/隐藏字段
 
@@ -772,8 +726,7 @@ style="width:5.76042in;height:1.51806in" />
 
 ①击添加进入添加/编辑客户数据的常规页面:
 
-<img src="_static/images/client/media/image73.png"
-style="width:5.76319in;height:2.49931in" />
+![alt text](_static/images/client/media/image73.png)
 
 -   **姓名**：客户名称。当客户来电时弹出屏幕时，当客户弹出时显示的名称。
 
@@ -793,8 +746,7 @@ style="width:5.76319in;height:2.49931in" />
 
 ②点击数据进入添加/编辑客户数据的数据页面:
 
-<img src="_static/images/client/media/image75.png"
-style="width:5.76528in;height:1.46389in" />
+![alt text](_static/images/client/media/image75.png)
 
 -   **数据来源**：用户在数据来源页面可以对数据来源进行编辑，主要用于对客户数据进行分组。
 
@@ -812,13 +764,11 @@ style="width:5.76528in;height:1.46389in" />
 
 ①如果需要导入一批客户数据，可以直接在客户数据页面点击 工具 - 数据导入。选择 以 CSV 格式导入客户数据列表。导入的 CSV 文件需要编码为UTF-8，否则可能会出现乱码。
 
-<img src="_static/images/client/media/image76.png"
-style="width:5.76389in;height:2.79375in" />
+![alt text](_static/images/client/media/image76.png)
 
 导入数据后，系统会自动匹配和数据相同的字段，系统没有的字段需要用户点击请选择的下拉菜单进行新建：请选择——新建字段——输入框（输入新字段）。
 
-<img src="_static/images/client/media/image77.png"
-style="width:5.30764in;height:2.03333in" />
+![alt text](_static/images/client/media/image77.png)
 
 【导入首行】选择是否导入数据中的第一行数据。
 
@@ -847,8 +797,8 @@ style="width:5.30764in;height:2.03333in" />
     【选择客户标签】为客户数据选择标签。
 
     ②点击【按当前设置创建导入任务】完成数据的批量上传，页面右上角会实时显示数据上传状态，上传成功后点击【返回】返回客户数据页面。
- <img src="_static/images/client/media/image78.png"
-    style="width:5.76736in;height:3.05694in" />
+ 
+    ![alt text](_static/images/client/media/image78.png)
 
 ###### 3.3添加至禁呼列表
 
@@ -858,16 +808,13 @@ style="width:5.30764in;height:2.03333in" />
 
 如果不添加高亮，只添加一个 no-call，这个号码不会显示 no-call 标志，被禁止的号码会显示在 no-call 列表中。
 
-<img src="_static/images/client/media/image79.png"
-style="width:5.76319in;height:1.32708in" />
+![alt text](_static/images/client/media/image79.png)
 
-<img src="_static/images/client/media/image80.png"
-style="width:5.76111in;height:1.12361in" />
+![alt text](_static/images/client/media/image80.png)
 
 坐席登录后可以看到这个客户的弹屏被标记为高亮，且高亮客户不能拨打电话。
 
-<img src="_static/images/client/media/image81.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image81.png)
 
 ###### 3.4从禁呼列表移除
 
@@ -879,8 +826,7 @@ style="width:5.75694in;height:2.73333in" />
 
 如果一个客户被标记为高亮，并且该客户的一个号码被设置在禁呼列表中，则如果只删除了一种类型的禁呼，另一种禁呼仍将生效。您需要同时取消这两项操作。
 
-<img src="_static/images/client/media/image82.png"
-style="width:5.76597in;height:1.13403in" />
+![alt text](_static/images/client/media/image82.png)
 
 #### 3.3.4通话记录
 
@@ -888,8 +834,7 @@ style="width:5.76597in;height:1.13403in" />
 
 系统所有的 **通话记录** 都存在此页面，列表显示的是client用户下坐席的所有呼叫客户记录，用户可以选择部门或者近期通话的时间、任务进行查看，在此页面也可以试听坐席与客户的通话记录，用户也可以使用工具，批量导出通话记录。
 
-<img src="_static/images/client/media/image83.png"
-style="width:5.76528in;height:2.84792in" />
+![alt text](_static/images/client/media/image83.png)
 
 上图中的【全部】可将通话记录按照全部、默认客户包和客户包进行筛选。
 
@@ -903,18 +848,15 @@ style="width:5.76528in;height:2.84792in" />
 
 【工具】用户可选择通话记录导出CSV文件。
 
-<img src="_static/images/client/media/image84.png"
-style="width:5.75833in;height:3.03819in" />
+![alt text](_static/images/client/media/image84.png)
 
 【试听】点击试听在通话记录上方会有该录音的播放器显示，用户可以选择跨进或减慢该录音的播放速度。
 
-<img src="_static/images/client/media/image85.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image85.png)
 
 【下拉菜单】点击下载录音。
 
-<img src="_static/images/client/media/image86.png"
-style="width:5.76806in;height:0.26806in" />
+![alt text](_static/images/client/media/image86.png)
 
 ##### 显示/隐藏字段
 
@@ -1098,8 +1040,7 @@ style="width:5.76806in;height:0.26806in" />
 
 联络记录默认保存坐席和客户通话的记录，只要坐席接通了与客户的通话，就会生成一条默认的联络记录；若坐席对客户手动设置销售漏斗和呼叫结果，那么则会生成两段联络记录，在手动设置生成的联络记录中会显示坐席姓名及呼叫结果，呼叫状态，通话坐席，数据来源等的记录。
 
-<img src="_static/images/client/media/image87.png"
-style="width:5.75833in;height:2.58194in" />
+![alt text](_static/images/client/media/image87.png)
 
 上图中的【默认】可将联络记录按照默认和客户包进行筛选。
 
@@ -1107,8 +1048,7 @@ style="width:5.75833in;height:2.58194in" />
 
 【工具】导出CSV格式的文件。.
 
-<img src="_static/images/client/media/image88.png"
-style="width:5.76042in;height:2.75347in" />=
+![alt text](_static/images/client/media/image88.png)
 
 ##### 2显示/隐藏字段
 
@@ -1154,8 +1094,7 @@ style="width:5.76042in;height:2.75347in" />=
 
 **客户标签** 用于为客户选择不同的客户标签，用户通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。
 
-<img src="_static/images/client/media/image89.png"
-style="width:5.76528in;height:1.35in" />
+![alt text](_static/images/client/media/image89.png)
 
 【搜索】全局搜索仅支持使用标签名称进行搜索。
 
@@ -1173,18 +1112,15 @@ style="width:5.76528in;height:1.35in" />
 
 ①点击添加进入添加新客户标签常规界面
 
-<img src="_static/images/client/media/image90.png"
-style="width:5.76528in;height:0.77569in" />
+![alt text](_static/images/client/media/image90.png)
 
 ②点击高级进入添加新客户标签高级界面：
 
-<img src="_static/images/client/media/image91.png"
-style="width:5.76389in;height:1.14653in" />
+![alt text](_static/images/client/media/image91.png)
 
 ③保存新的客户标签后，可以在客户数据的【添加/编辑客户数据】的数据页面中选择客户标签。
 
-<img src="_static/images/client/media/image92.png"
-style="width:5.75833in;height:1.35069in" />
+![alt text](_static/images/client/media/image92.png)
 
 #### 3.3.7 数据来源 
 
@@ -1192,8 +1128,7 @@ style="width:5.75833in;height:1.35069in" />
 
 **数据来源** 是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源。
 
-<img src="_static/images/client/media/image93.png"
-style="width:5.7625in;height:1.62917in" />
+![alt text](_static/images/client/media/image93.png)
 
 【搜索】全局搜索仅支持来源名称搜索。
 
@@ -1211,8 +1146,7 @@ style="width:5.7625in;height:1.62917in" />
 
 ①点击添加进入添加/编辑数据来源的常规页面:
 
-<img src="_static/images/client/media/image94.png"
-style="width:5.75833in;height:2.24444in" />
+![alt text](_static/images/client/media/image94.png)
 
 **来源名称**:请输入数据来源的名称。
 
@@ -1220,8 +1154,7 @@ style="width:5.75833in;height:2.24444in" />
 
 ②点击高级进入添加/编辑数据来源的高级页面:
 
-<img src="_static/images/client/media/image95.png"
-style="width:5.76042in;height:1.26944in" />
+![alt text](_static/images/client/media/image95.png)
 
 ③点击保存即可保存新的数据来源
 
@@ -1231,8 +1164,7 @@ style="width:5.76042in;height:1.26944in" />
 
 当被用户设置了 **弹屏警告** 的客户数据，在坐席打开该客户或是拨打该客户号码时，会出现弹屏提醒。有弹屏警告权限的用户可以直接设置弹屏警告，坐席在客户数据弹屏页面设置弹屏警告时需要由有弹屏警告审核权限的用户进行审核。
 
-<img src="_static/images/client/media/image96.png"
-style="width:5.76042in;height:1.97431in" />
+![alt text](_static/images/client/media/image96.png)
 
 上图中【全部】可点击选择默认和客户包的弹屏警告。
 
@@ -1254,8 +1186,7 @@ style="width:5.76042in;height:1.97431in" />
 
 ①点击添加进入添加/编辑弹屏警告常规页面:
 
-<img src="_static/images/client/media/image97.png"
-style="width:5.75833in;height:2.57153in" />
+![alt text](_static/images/client/media/image97.png)
 
 -   **所属客户包**：当前所属客户包。
 
@@ -1267,8 +1198,7 @@ style="width:5.75833in;height:2.57153in" />
 
     ②点击保存即可添加一个新的弹屏警告。
 
-    <img src="_static/images/client/media/image98.png"
-    style="width:5.76111in;height:1.98819in" />
+    ![alt text](_static/images/client/media/image98.png)
 
 ###### 2.2 坐席添加一个新的弹屏警告
 
@@ -1276,28 +1206,23 @@ style="width:5.75833in;height:2.57153in" />
 
 ①坐席在客户资料页面——客户相关记录——备注——添加备注——备注类型选择弹屏警告，添加好弹屏内容——确认。
 
-<img src="_static/images/client/media/image99.png"
-style="width:5.76389in;height:3.09583in" />
+![alt text](_static/images/client/media/image99.png)
 
 ②坐席在客户备注页面会查看到自己设置的备注弹屏警告，此时弹屏警告未生效。
 
-<img src="_static/images/client/media/image100.png"
-style="width:5.76528in;height:2.87222in" />
+![alt text](_static/images/client/media/image100.png)
 
 ③client用户收到坐席的弹屏警告审核通知。
 
-<img src="_static/images/client/media/image101.png"
-style="width:5.76111in;height:1.37639in" />
+![alt text](_static/images/client/media/image101.png)
 
 ④<span class="mark">client用户点击编辑进入添加/编辑弹屏警告的常规页面，将状态由待审核改为启用后保存，坐席提交的弹屏审核就通过了。</span>
 
-<img src="_static/images/client/media/image102.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image102.png)
 
 ⑤弹屏警告设置成功后，坐席查看该客户资料，拨打该客户电话或者接听该客户电话时就会收到该条弹屏警告。
 
-<img src="_static/images/client/media/image103.png"
-style="width:5.76458in;height:3.15625in" />
+![alt text](_static/images/client/media/image103.png)
 
 ##### 2. 显示/隐藏字段
 
@@ -1315,8 +1240,7 @@ style="width:5.76458in;height:3.15625in" />
 
 在 **字典** 内容与客户数据字段相匹配的情况下，客户数据中与字典匹配某一字段中不包含数据，启用字典功能可以自动填充没有数据的字段，将客户数据自动填充完整。
 
-<img src="_static/images/client/media/image104.png"
-style="width:5.75833in;height:1.28264in" />
+![alt text](_static/images/client/media/image104.png)
 
 【搜索】全局搜搜仅支持搜索字典名称。
 
@@ -1330,8 +1254,7 @@ style="width:5.75833in;height:1.28264in" />
 
 【编辑】或【下拉菜单】编辑或删除当前字典。
 
-<img src="_static/images/client/media/image105.png"
-style="width:5.76667in;height:1.31667in" />
+![alt text](_static/images/client/media/image105.png)
 
 ##### 2 .显示/隐藏字段
 
@@ -1347,30 +1270,25 @@ style="width:5.76667in;height:1.31667in" />
 
 例如字典示例：
 
-<img src="_static/images/client/media/image106.png"
-style="width:3.07708in;height:1.04792in" />
+![alt text](_static/images/client/media/image106.png)
 
 Example of Original Imported Customer Data：
 
-<img src="_static/images/client/media/image107.png"
-style="width:4.08958in;height:1.02986in" />
+![alt text](_static/images/client/media/image107.png)
 
 最终导入数据：
 
-<img src="_static/images/client/media/image108.png"
-style="width:5.76389in;height:0.90764in" />
+![alt text](_static/images/client/media/image108.png)
 
 ##### 4.字典使用的流程
 
 ①<span class="mark">用户在客户数据——字典管理中点击添加，添加一个新的字典名称。</span>
 
-<img src="_static/images/client/media/image109.png"
-style="width:5.75833in;height:0.69306in" />
+![alt text](_static/images/client/media/image109.png)
 
 ②在字典管理页面选择工具——导入字典：
 
-<img src="_static/images/client/media/image110.png"
-style="width:5.76111in;height:1.55069in" />
+![alt text](_static/images/client/media/image110.png)
 
 -   **字典名称**：选择需要导入数据的字典。
 
@@ -1379,13 +1297,11 @@ style="width:5.76111in;height:1.55069in" />
 -   **选择文件**：选择需要导入的字典文件.（所选词典文件应为 CSV
     文件格式，编码设置为 UTF-8 文件）
 
-    <img src="_static/images/client/media/image111.png"
-    style="width:5.75833in;height:1.56181in" />
+    ![alt text](_static/images/client/media/image111.png)
 
     ③字典建立完成在批量导入数据时，选择需要的字典内容，即可完成需要的数据填充。
 
-    <img src="_static/images/client/media/image112.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/client/media/image112.png)
 
 ### 3.3任务管理
 
@@ -1395,8 +1311,7 @@ style="width:5.76111in;height:1.55069in" />
 
 **任务管理** 是创建分配任务的过程，坐席被分配任务后，可以在任务中获取客户进行服务。根据对任务的设置可以让坐席更高效便捷的进行工作。
 
-<img src="_static/images/client/media/image113.png"
-style="width:5.76528in;height:2.75in" />
+![alt text](_static/images/client/media/image113.png)
 
 【搜索】全局搜索仅支持对任务名称进行搜索。
 
@@ -1410,33 +1325,27 @@ style="width:5.76528in;height:2.75in" />
 
 【下拉菜单】在任务的编辑下拉菜单中：
 
-<img src="_static/images/client/media/image114.png"
-style="width:5.76528in;height:0.74861in" />
+![alt text](_static/images/client/media/image114.png)
 
 **导入**：客户数据的导入，用户可以直接将客户数据导入到这个任务中或是下载该任务的客户数据模版。具体导入方法详见客户数据的导入
 
-<img src="_static/images/client/media/image115.png"
-style="width:5.76111in;height:2.47431in" />
+![alt text](_static/images/client/media/image115.png)
 
 **下载导入模版**：下载 CSV 格式模板，以便在此推广活动下上传客户数据。
 
-<img src="_static/images/client/media/image116.png"
-style="width:5.76319in;height:2.95in" />
+![alt text](_static/images/client/media/image116.png)
 
 **克隆**：点击克隆，用户可以复制一个相同设置的任务，并对复制任务进行命名，但复制内容不包括被复制任务中的客户数据。
 
-<img src="_static/images/client/media/image117.png"
-style="width:3.98819in;height:1.40486in" />
+![alt text](_static/images/client/media/image117.png)
 
 **信息群发**：对该任务中的客户进行信息群发。
 
-<img src="_static/images/client/media/image118.png"
-style="width:5.76389in;height:1.85139in" />
+![alt text](_static/images/client/media/image118.png)
 
 **呼叫结果设置**：用户可以选择该任务中需要设置的呼叫结果。
 
-<img src="_static/images/client/media/image119.png"
-style="width:5.75833in;height:2.84931in" />
+![alt text](_static/images/client/media/image119.png)
 
 ##### 2 显示/隐藏字段
 
@@ -1475,8 +1384,7 @@ style="width:5.75833in;height:2.84931in" />
 
 <span class="mark">①点击添加进如添加/编辑任务管理的常规页面：</span>
 
-<img src="_static/images/client/media/image120.png"
-style="width:5.76042in;height:1.8125in" />
+![alt text](_static/images/client/media/image120.png)
 
 -   **任务名称**：请为这个任务命名。
 
@@ -1494,15 +1402,13 @@ style="width:5.76042in;height:1.8125in" />
 
 <span class="mark">②点击高级进入添加/编辑任务管理的高级页面：</span>
 
-<img src="_static/images/client/media/image121.png"
-style="width:5.76111in;height:2.47083in" />
+![alt text](_static/images/client/media/image121.png)
 
 -   **是否质检**：若该任务选择质检，在坐席保存客户的联络记录时选择销售漏斗分值大于0时，则该条客户数据进入质检状态，无法再进行拨打或是更改联络记录。只有当质检选择可回拨时，该条记录可继续拨打或更改联络记录。
 
 -   **优先级**：在坐席联系客户页面切换任务时排列显示的顺序，优先级越高，排列越靠前。
 
-    <img src="_static/images/client/media/image122.png"
-    style="width:5.76528in;height:2.49861in" />
+    ![alt text](_static/images/client/media/image122.png)
 
 -   **状态**：用户可以选择该任务的状态，包括：启动、待审核、关闭、结算中、暂停。
 
@@ -1510,19 +1416,15 @@ style="width:5.76111in;height:2.47083in" />
 
     ***获取客户***-是否允许该任务中的坐席组坐席从外呼的任务池中获取客户数据，若该功能没有启动，除在预拨号状态下，否则客户数据需要被手动分配给坐席才能够获取客户数据。
 
-    <img src="_static/images/client/media/image123.png"
-    style="width:5.76042in;height:2.34931in" />
+    ![alt text](_static/images/client/media/image123.png)
 
-    <img src="_static/images/client/media/image124.png"
-    style="width:5.76042in;height:2.46806in" />
+    ![alt text](_static/images/client/media/image124.png)
 
     ***添加客户***-是否允许坐席向该任务中添加新的客户。
 
-    <img src="_static/images/client/media/image125.png"
-    style="width:5.76042in;height:2.29792in" />
+    ![alt text](_static/images/client/media/image125.png)
 
-    <img src="_static/images/client/media/image126.png"
-    style="width:5.75833in;height:2.43819in" />
+    ![alt text](_static/images/client/media/image126.png)
 
 -   **提交后动作**：在坐席保存与客户的联络记录时：
 
@@ -1552,8 +1454,7 @@ style="width:5.76111in;height:2.47083in" />
 
 -   **快速预约**:用户可以设定若干个时间，这些选项将帮助坐席快速设定回拨客户的时间，该时间需要以英文的时h、分m表示，例如10m，1h。
 
-    <img src="_static/images/client/media/image127.png"
-    style="width:5.76597in;height:2.90208in" />
+    ![alt text](_static/images/client/media/image127.png)
 
 -   **最大客户样本数量**：坐席单次从项目客户池中获取客户的数量。
 
@@ -1565,8 +1466,7 @@ style="width:5.76111in;height:2.47083in" />
 
 <span class="mark">③点击预拨号进入添加/编辑任务管理的预拨号页面：</span>
 
-<img src="_static/images/client/media/image128.png"
-style="width:5.75833in;height:0.81667in" />
+![alt text](_static/images/client/media/image128.png)
 
 -   **预拨号重播间隔**：当启用预拨号时，下一次拨打呼叫失败的客户号码的间隔时间，支持的格式是“数字 + \[m,h,d,w,M\]”，例"1m,2h..."，其中，m为分钟，h为小时，d为天，w为周，M为月。
 
@@ -1584,39 +1484,33 @@ style="width:5.75833in;height:0.81667in" />
 
     ***语音播报***-：选择一个播报时需要的语音，用来提示客户接下来的操作。
 
-    <img src="_static/images/client/media/image129.png"
-    style="width:5.76319in;height:1.4in" />
+    ![alt text](_static/images/client/media/image129.png)
 
     **重播次数**-开启预拨号后，当客户接听电话时，会播放语音列表。客户根据语音列表中的内容输入一串数字，输入的信息可以在通话记录中查看。
 
 > **最大输入长度**:使用预拨号时，客户接通电话后，如果客户输入一个键并按任意一个键或自动挂断，则记录中没有记录。
 
-<img src="_static/images/client/media/image130.png"
-style="width:5.76042in;height:1.86458in" />
+![alt text](_static/images/client/media/image130.png)
 
 <span class="mark">④点击话术进入添加/编辑任务管理的话术页面</span>:
 
-<img src="_static/images/client/media/image131.png"
-style="width:5.76458in;height:1.43681in" />
+![alt text](_static/images/client/media/image131.png)
 
 -   **问卷**：<span class="mark">在【问卷】中设置问卷，用于坐席根据问卷问题对客户进行问卷调查。</span>
 
     如果一个任务设置了问卷，当坐席打开客户弹屏时，将会显示这个问卷的内容。.
 
-    <img src="_static/images/client/media/image132.png"
-    style="width:5.76042in;height:2.875in" />
+    ![alt text](_static/images/client/media/image132.png)
 
 <span class="mark">⑤点击质检进入添加/编辑任务管理的质检页面：</span>
 
-<img src="_static/images/client/media/image133.png"
-style="width:5.76597in;height:0.80972in" />
+![alt text](_static/images/client/media/image133.png)
 
 -   **质检比**：用于提示告知质检人员此任务的质检比例。
 
     设置的质检比可以在质检页面上查看，用于查看质检数量。
 
-    <img src="_static/images/client/media/image134.png"
-    style="width:5.75694in;height:1.13681in" />
+    ![alt text](_static/images/client/media/image134.png)
 
 <span class="mark">⑥点击设置进入添加/编辑任务管理的设置页面</span>:
 
@@ -1630,8 +1524,7 @@ style="width:5.76597in;height:0.80972in" />
 
 在成功提交客户页面用户可以根据外呼营销任务、呼叫结果、质检情况、销售漏斗等来查看需要的客户信息。成功提交客户是坐席在与客户通话结束后进行的操作，在客户相关记录页面坐席可以对联络记录进行设置保存。
 
-<img src="_static/images/client/media/image135.png"
-style="width:5.75833in;height:2.17778in" />
+![alt text](_static/images/client/media/image135.png)
 
 上图中的【默认】用户可以选择默认客户包或客户包查看成功提交客户数据。
 
@@ -1691,8 +1584,7 @@ style="width:5.75833in;height:2.17778in" />
 
 ①在操作中的下拉菜单，可以对坐席组预拨号进行【高级设置】，此处的设置需要用户对坐席组的工作效率有一定了解:
 
-<img src="_static/images/client/media/image136.png"
-style="width:5.76389in;height:1.80625in" />
+![alt text](_static/images/client/media/image136.png)
 
 选择按最大并发，设置高级选项启用，此时预拨号会按照高级选项中的拨号间隔设置的秒数还有每次拨号最大并发进行拨号。
 
@@ -1700,8 +1592,7 @@ style="width:5.76389in;height:1.80625in" />
 
 最大并发就是设置多少并发，每次就按设置的并发数进行拨号，坐席百分比就是需要进行计算，启用高级设置，让坐席百分比计算更精确。
 
-<img src="_static/images/client/media/image137.png"
-style="width:5.7625in;height:2.63472in" />
+![alt text](_static/images/client/media/image137.png)
 
 -   启用：启动这个预拨号的高级设置。
 
@@ -1740,22 +1631,17 @@ style="width:5.7625in;height:2.63472in" />
 
     ②设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表：
 
-    <img src="_static/images/client/media/image138.png"
-    style="width:5.76806in;height:1.51944in" />
+    ![alt text](_static/images/client/media/image138.png)
 
     ③点击【回收】，对任务中的客户数据进行回收。在【请选择】中有两种回收的方式：
 
-    <img src="_static/images/client/media/image139.png"
-    style="width:5.76319in;height:2.11667in" />
-
-<!-- -->
+    ![alt text](_static/images/client/media/image139.png)
 
 -   **按选中回收**：选中需要回收的客户数据，点击确定即可进行回收。
 
 -   **按条件回收**：用户选择回收数据的条件，比如跳过已分配客户数据、跳过今日拨打客户数，或是某一销售漏斗数据，选择该条件后直接点击按条件回收数据，该条件下的数据可被回收。
 
-<img src="_static/images/client/media/image140.png"
-style="width:5.76319in;height:1.62917in" />
+![alt text](_static/images/client/media/image140.png)
 
 -   **优先级**：在预拨号拨号时被分配数值越小的客户数据，拨打顺序越靠前，优先级可以从1-9数字中选择。
 
@@ -1767,13 +1653,11 @@ style="width:5.76319in;height:1.62917in" />
 
 注：在整个回收过程中预拨号是在停止的状态下进行。
 
-<img src="_static/images/client/media/image141.png"
-style="width:5.76458in;height:0.96458in" />
+![alt text](_static/images/client/media/image141.png)
 
 在预拨号期间你可以点击查看【预拨号列表】，列表中显示了当前正在被预拨号的号码。
 
-<img src="_static/images/client/media/image142.png"
-style="width:5.76667in;height:1.23889in" />
+![alt text](_static/images/client/media/image142.png)
 
 【搜索】全局搜索 ( 姓名,  電話番号,  Eメール,  住所,  地域,  メモ ) ...
 
@@ -1787,8 +1671,7 @@ style="width:5.76667in;height:1.23889in" />
 
 **预拨号时状态的显示**：
 
-<img src="_static/images/client/media/image143.png"
-style="width:5.76319in;height:2.85694in" />
+![alt text](_static/images/client/media/image143.png)
 
 **客户电话**：振铃客户的电话号码。
 
@@ -1796,8 +1679,7 @@ style="width:5.76319in;height:2.85694in" />
 
 **振铃时长**：客户振铃的时间。
 
-<img src="_static/images/client/media/image144.png"
-style="width:5.76389in;height:2.86458in" />
+![alt text](_static/images/client/media/image144.png)
 
 **客户电话**：接通客户的电话号码。
 
@@ -1807,8 +1689,7 @@ style="width:5.76389in;height:2.86458in" />
 
 **等待时长**：客户应答这个通话开始计算的等待时长。
 
-<img src="_static/images/client/media/image145.png"
-style="width:5.76319in;height:2.85in" />
+![alt text](_static/images/client/media/image145.png)
 
 **客户电话**：坐席应答这个客户的电话号码。
 
@@ -1854,8 +1735,7 @@ style="width:5.76319in;height:2.85in" />
 
 **呼叫结果** 是坐席呼叫客户后，坐席保存联络记录的通话结果，用于对通话结果的分类。
 
-<img src="_static/images/client/media/image146.png"
-style="width:5.76319in;height:2.90417in" />
+![alt text](_static/images/client/media/image146.png)
 
 【搜索】全局搜索仅可以使用呼叫结果名称来搜索。
 
@@ -1885,8 +1765,7 @@ style="width:5.76319in;height:2.90417in" />
 
 ①在呼叫结果页面中点击添加进入添加/编辑呼叫结果页面：
 
-<img src="_static/images/client/media/image147.png"
-style="width:5.76806in;height:1.42847in" />
+![alt text](_static/images/client/media/image147.png)
 
 -   **呼叫结果名称**：用户可以自定义一个呼叫结果，当坐席完成通话后，坐席可以选择一个呼叫结果记录此次通话结束。
 
@@ -1908,8 +1787,7 @@ style="width:5.76806in;height:1.42847in" />
 
 **质检** 是质检人员可对通话结果进行抽查，可同步播放录音，核实记录内容是否真实，对坐席的交流技巧、工作态度等进行评估，进行质检评分。坐席也可以对有歧义的质检结果进行申诉。在任务中选择需要质检后，该任务中的客户在坐席提交联络记录后将不会再被拨打，质检中选择可回拨才能够继续拨打。
 
-<img src="_static/images/client/media/image148.png"
-style="width:5.76528in;height:2.25556in" />
+![alt text](_static/images/client/media/image148.png)
 
 【默认】选择需要质检的客户包。
 
@@ -1929,18 +1807,15 @@ style="width:5.76528in;height:2.25556in" />
 
 【预览】
 
-<img src="_static/images/client/media/image149.png"
-style="width:5.76736in;height:2.03333in" />
+![alt text](_static/images/client/media/image149.png)
 
 【质检】点击质检进入质检页面。
 
-<img src="_static/images/client/media/image150.png"
-style="width:5.76042in;height:1.31319in" />
+![alt text](_static/images/client/media/image150.png)
 
 【下拉菜单】选择质量检查的结果可以对成功提交的数据进行快速质量检查。
 
-<img src="_static/images/client/media/image151.png"
-style="width:1.79792in;height:1.41042in" />
+![alt text](_static/images/client/media/image151.png)
 
 ##### 2 显示/隐藏字段
 
@@ -1972,8 +1847,7 @@ style="width:1.79792in;height:1.41042in" />
 
 点击质检进入质检流程：
 
-<img src="_static/images/client/media/image152.png"
-style="width:5.76111in;height:2.31111in" />
+![alt text](_static/images/client/media/image152.png)
 
 在质检页面有4个功能块，包括质检、联络记录以及客户资料功能和上次质检结果。
 
@@ -1983,37 +1857,31 @@ style="width:5.76111in;height:2.31111in" />
 
 在质检结果中，质检员可以选择质检的结果，包括合格、话术不规范（合格）、失败或是可回拨。
 
-<img src="_static/images/client/media/image153.png"
-style="width:3.07708in;height:2.45208in" />
+![alt text](_static/images/client/media/image153.png)
 
-<img src="_static/images/client/media/image154.png"
-style="width:3.07708in;height:2.41042in" />
+![alt text](_static/images/client/media/image154.png)
 
 如果质检结果不规范、失败或可调用，质检员除了需要填写质检备注（质检备注的快速选择入口可在质检词条中设置）。
 
-<img src="_static/images/client/media/image155.png"
-style="width:5.76528in;height:1.69931in" />
+![alt text](_static/images/client/media/image155.png)
 
 【相关记录】
 
 相关记录页面记录的是坐席跟客户的历史联络记录，质检员可以对联络记录进行查看或是听取历史录音。
 
-<img src="_static/images/client/media/image156.png"
-style="width:3.18472in;height:3.13125in" />
+![alt text](_static/images/client/media/image156.png)
 
 【客户资料】
 
 检员在质检的时候可以查看客户资料。
 
-<img src="_static/images/client/media/image157.png"
-style="width:4.45208in;height:2.88125in" />
+![alt text](_static/images/client/media/image157.png)
 
 【上次质检结果】
 
 如果上次质检结果是因为已质检的客户质检结果为可回拨，当坐席再次成功提交该客户的联络记录后，需要再次进行质检，此时，该客户页面会出现上次质检结果，以方便质检员的查看。
 
-<img src="_static/images/client/media/image158.png"
-style="width:3.16042in;height:2.63125in" />
+![alt text](_static/images/client/media/image158.png)
 
 联络记录：显示的是上次成功提交时所写的备注。
 
@@ -2031,11 +1899,9 @@ style="width:3.16042in;height:2.63125in" />
 
 **质检词条** 是设置的常用质备注信息，质检时，质检人员可以通过一键点击质检词条快速添加质检备注。
 
-<img src="_static/images/client/media/image159.png"
-style="width:5.76319in;height:1.26458in" />
+![alt text](_static/images/client/media/image159.png)
 
-<img src="_static/images/client/media/image160.png"
-style="width:3.23819in;height:3.18472in" />
+![alt text](_static/images/client/media/image160.png)
 
 【搜索】全局搜索仅可以使用质检词条名称来搜索。
 
@@ -2057,8 +1923,7 @@ style="width:3.23819in;height:3.18472in" />
 
 **DID号码** 指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接通号码即被叫号码，市公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。
 
-<img src="_static/images/client/media/image161.png"
-style="width:5.75833in;height:1.34861in" />
+![alt text](_static/images/client/media/image161.png)
 
 【搜索】全局搜索支持did号码、client以及域名进行搜索。
 
@@ -2096,8 +1961,7 @@ style="width:5.75833in;height:1.34861in" />
 
 需要注意的是client用户没有添加DID号码的权限，需要由运营商建立再分给代理商，由代理商再分给client，如有需要请联系代理商或供应商。这里我们只讲client用户对DID号码的编辑权限。下图标记字段client可以编辑。
 
-<img src="_static/images/client/media/image162.png"
-style="width:5.76528in;height:2.83333in" />
+![alt text](_static/images/client/media/image162.png)
 
 -   **ID**：每个DID号码都有一个唯一的ID。
 
@@ -2111,23 +1975,19 @@ style="width:5.76528in;height:2.83333in" />
 
 -   **转向**：系统接收到呼叫后会判断应该呼叫或转入到相应的路由，从而继续提供服务。
 
-    <img src="_static/images/client/media/image163.png"
-    style="width:5.76597in;height:2.72083in" />
+    ![alt text](_static/images/client/media/image163.png)
 
     根据需要选择转接目标，在转向中设置 IVR菜单、振铃组、条件、播放列表、坐席、坐席组等。您也可以在此处设置外线号码。所有打到该号码的来电都将由外线号码接听。如果转接设置为挂断，则对这个did 号码的任何呼叫都将被挂断。.
 
 -   **增加主叫号码前缀**：做出该设置后系统将为主叫号码增加前缀。当有电话呼入时，在下方弹屏振铃处，通话记录都会出现前缀。对于SIP设备，主叫号码还支持使用主叫名称。
 
-    <img src="_static/images/client/media/image164.png"
-    style="width:5.76597in;height:2.77569in" />
+    ![alt text](_static/images/client/media/image164.png)
 
 设置后如下图所示↓↓↓
 
-<img src="_static/images/client/media/image165.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image165.png)
 
-<img src="_static/images/client/media/image166.png"
-style="width:5.75972in;height:1.075in" />
+![alt text](_static/images/client/media/image166.png)
 
 -   **状态**：当DID号码被禁用时拨打该号码会直接拒绝该通话。
 
@@ -2141,8 +2001,7 @@ style="width:5.75972in;height:1.075in" />
 
     ②点击高级进入添加/编辑DID号码的高级页:
 
-<img src="_static/images/client/media/image167.png"
-style="width:5.76528in;height:1.27569in" />
+![alt text](_static/images/client/media/image167.png)
 
 -   **国家**：在代理商或运营商级别设置的国家，client级别不可更改。
 
@@ -2150,8 +2009,7 @@ style="width:5.76528in;height:1.27569in" />
 
 > 注意：如果用户是从更高级别以 loginas形式登录的客户端，如果您在登录时选择“是”，则会出现【代理商】字段，如果您选择“否”，则会出现【组】字段。
 
-<img src="_static/images/client/media/image168.png"
-style="width:4.22639in;height:1.66042in" />
+![alt text](_static/images/client/media/image168.png)
 
 #### 3.5.2 外显号码
 
@@ -2169,8 +2027,7 @@ style="width:4.22639in;height:1.66042in" />
 
 ##### 2 外显号码页面功能介绍
 
-<img src="_static/images/client/media/image169.png"
-style="width:5.75833in;height:1.45625in" />
+![alt text](_static/images/client/media/image169.png)
 
 【搜索】全局搜索仅支持对外显号码进行搜索。
 
@@ -2188,8 +2045,7 @@ style="width:5.75833in;height:1.45625in" />
 
 外显号码需要在代理商或运营商级别设置，设置后client可以选择所设置的外显号码。
 
-<img src="_static/images/client/media/image170.png"
-style="width:5.75972in;height:1.06042in" />
+![alt text](_static/images/client/media/image170.png)
 
 -   **ID**：每个外显号码都有一个独立ID。
 
@@ -2203,8 +2059,7 @@ style="width:5.75972in;height:1.06042in" />
 
 用户在 **媒体文件** 中添加添加语音或者等待音乐，能够在IVR、振铃组、语音播报等需要媒体文件的地方使用。
 
-<img src="_static/images/client/media/image171.png"
-style="width:5.76319in;height:1.84236in" />
+![alt text](_static/images/client/media/image171.png)
 
 【搜索】全局搜索支持媒体文件名称以及媒体文件描述搜索。
 
@@ -2220,13 +2075,11 @@ style="width:5.76319in;height:1.84236in" />
 
 媒体文件预览
 
-<img src="_static/images/client/media/image172.png"
-style="width:5.76806in;height:1.84931in" />
+![alt text](_static/images/client/media/image172.png)
 
 下载媒体文件的保存格式是wav
 
-<img src="_static/images/client/media/image173.png"
-style="width:5.76111in;height:3.12569in" />
+![alt text](_static/images/client/media/image173.png)
 
 ##### 2 显示/隐藏字段
 
@@ -2254,8 +2107,7 @@ style="width:5.76111in;height:3.12569in" />
 
 ①点击添加进入添加/编辑媒体文件的常规页面:
 
-<img src="_static/images/client/media/image174.png"
-style="width:5.76319in;height:1.90347in" />
+![alt text](_static/images/client/media/image174.png)
 
 -   **媒体文件名称**：请为这个媒体文件命名。
 
@@ -2283,8 +2135,7 @@ style="width:5.76319in;height:1.90347in" />
 
 **呼入路由** 是用于控制外线电话呼叫到系统之后流程，DID页面可以实现同样的功能，但是如果有多个号码使用相同的流程，或者有更复杂的规则，通过呼入路由更容易配置。当一个号码同时满足DID号码和呼入路由的规则设置，DID设置优先。在呼入路由页面用户还可以设定一个默认路由，如果没有其他的匹配规则，呼叫将使用默认呼入规则。
 
-<img src="_static/images/client/media/image175.png"
-style="width:5.76389in;height:1.47639in" />
+![alt text](_static/images/client/media/image175.png)
 
 【默认路由】如果DID中无转向设置，且未新建路由设置转向，呼入将最后选择该默认路由进行转向。
 
@@ -2298,8 +2149,7 @@ style="width:5.76389in;height:1.47639in" />
 
 ①点击添加进入添加/编辑呼入路由的常规设置页面:
 
-<img src="_static/images/client/media/image176.png"
-style="width:5.76528in;height:1.70833in" />
+![alt text](_static/images/client/media/image176.png)
 
 -   **路由名称**：为这个呼入路由命名。
 
@@ -2342,8 +2192,7 @@ style="width:5.76528in;height:1.70833in" />
 
 **IVR语音菜单**也称为电脑话务，为用户提供了通过电话键盘和语音进行交互的功能，目的是让连接系统的电话和直接连接交换机的电话之间进行内线拨打，以及外线呼入的电话能够拨打到连接在系统上的电话。
 
-<img src="_static/images/client/media/image177.png"
-style="width:5.76111in;height:1.20417in" />
+![alt text](_static/images/client/media/image177.png)
 
 【搜索】全局搜索支持对菜单名称进行搜索。
 
@@ -2361,8 +2210,7 @@ style="width:5.76111in;height:1.20417in" />
 
 ①点击添加新增/编辑IVR语音菜单的常规页面：
 
-<img src="_static/images/client/media/image178.png"
-style="width:5.76528in;height:1.63194in" />
+![alt text](_static/images/client/media/image178.png)
 
 -   **菜单名称**：为这个IVR命名。
 
@@ -2380,8 +2228,7 @@ style="width:5.76528in;height:1.63194in" />
 
 <span class="mark">②点击高级进入添加/编辑IVR语音菜单的高级页面:</span>
 
-<img src="_static/images/client/media/image179.png"
-style="width:5.76111in;height:2.01944in" />
+![alt text](_static/images/client/media/image179.png)
 
 -   **延迟播报**：用户初次到达IVR时，系统在播放语音前的等待时间。延迟播报用于避免IVR中的语音丢失（单位为秒）。
 
@@ -2401,8 +2248,7 @@ style="width:5.76111in;height:2.01944in" />
 
     ③点击转向进入添加/编辑IVR语音菜单的转向页面，用户可以设置数字按键转向:
 
-    <img src="_static/images/client/media/image180.png"
-    style="width:5.76319in;height:1.39653in" />
+    ![alt text](_static/images/client/media/image180.png)
 
 -   **输入**:定义IVR所能接受的客户输入，内容包括数字0-9键，\*键和#键。
 
@@ -2446,8 +2292,7 @@ style="width:5.76111in;height:2.01944in" />
 
 **语音播报** 可以包含一条或是多条语音，当有通话呼入到语音播报时，系统将逐一播报。用户在将语音播报设为转向时，可以选择【是】允许按任意键退出当前语音，或是全部语音播放完毕后的转向目标。
 
-<img src="_static/images/client/media/image181.png"
-style="width:5.75833in;height:2.28819in" />
+![alt text](_static/images/client/media/image181.png)
 
 【搜索】全局搜索允许用户以语音名称进行搜索。
 
@@ -2475,8 +2320,7 @@ style="width:5.75833in;height:2.28819in" />
 
 ①点击添加进入添加/编辑播放列表的通用页面:
 
-<img src="_static/images/client/media/image182.png"
-style="width:5.76389in;height:1.73542in" />
+![alt text](_static/images/client/media/image182.png)
 
 -   **语音名称**：为这个语音播报命名。
 
@@ -2496,8 +2340,7 @@ style="width:5.76389in;height:1.73542in" />
 
 **振铃组** 将分机组成集合，用于分别处理客户呼入通话，与坐席组不同，振铃组没有签到或是单独进行统计的功能。
 
-<img src="_static/images/client/media/image183.png"
-style="width:5.76597in;height:1.38958in" />
+![alt text](_static/images/client/media/image183.png)
 
 【搜索】全局搜索支持以振铃组名称进行搜索。
 
@@ -2535,8 +2378,7 @@ style="width:5.76597in;height:1.38958in" />
 
 点击添加进入添加振铃组页面：
 
-<img src="_static/images/client/media/image184.png"
-style="width:5.76806in;height:2.36528in" />
+![alt text](_static/images/client/media/image184.png)
 
 -   **振铃组名称**：为这个振铃组命名。
 
@@ -2572,8 +2414,7 @@ style="width:5.76806in;height:2.36528in" />
 
 用户可以在黑名单页面添加黑名单号码，在client级别添加黑名单号码可以直接生效不需要审核。
 
-<img src="_static/images/client/media/image185.png"
-style="width:5.76597in;height:1.7125in" />
+![alt text](_static/images/client/media/image185.png)
 
 【搜索】全局搜索仅支持对黑名单号码进行搜索。
 
@@ -2589,8 +2430,7 @@ style="width:5.76597in;height:1.7125in" />
 
 客户端也可以在系统偏好设置黑名单中选择来自该号码的来电的其他方向。
 
-<img src="_static/images/client/media/image186.png"
-style="width:5.76806in;height:1.48611in" />
+![alt text](_static/images/client/media/image186.png)
 
 ##### 2 显示/隐藏字段
 
@@ -2606,8 +2446,7 @@ style="width:5.76806in;height:1.48611in" />
 
 ①点击添加进入添加/编辑黑名单的常规页面：
 
-<img src="_static/images/client/media/image187.png"
-style="width:5.76597in;height:1.47361in" />
+![alt text](_static/images/client/media/image187.png)
 
 -   **黑名单号码**：输入黑名单号码，批量输入时请用英文逗号或回车分隔。
 
@@ -2619,28 +2458,23 @@ style="width:5.76597in;height:1.47361in" />
 
 除了在client级别可以直接设置黑名单号码，坐席在打开自己的客户数据时也能对该条数据进行黑名单的设置。
 
-<img src="_static/images/client/media/image188.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image188.png)
 
 点击添加黑名单后，坐席需要输入将这个电话添加到黑名单的原因。
 
-<img src="_static/images/client/media/image189.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image189.png)
 
 以坐席身份加入黑名单时，不能立即生效，该条黑名单请求会在client级别进行审核（若坐席有审核权限也可以坐席身份进行审核），审核通过才会生效。
 
-<img src="_static/images/client/media/image190.png"
-style="width:5.76111in;height:2.87014in" />
+![alt text](_static/images/client/media/image190.png)
 
 ①在客户的下拉菜单中，用户可以点击将号码添加到黑名单。当坐席加入黑名单时，它不会立即生效。黑名单禁用将client级别进行审核（如果坐席有审核权限，也可以审核）。只有在审核通过后，黑名单才会生效。
 
-<img src="_static/images/client/media/image191.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image191.png)
 
 ②点击编辑，进入黑名单审核页面：
 
-<img src="_static/images/client/media/image192.png"
-style="width:5.76111in;height:1.41736in" />
+![alt text](_static/images/client/media/image192.png)
 
 -   **ID**：数据唯一ID。
 
@@ -2654,8 +2488,7 @@ style="width:5.76111in;height:1.41736in" />
 
     ③将状态设置为启用，点击保存，黑名单生效。
 
-    <img src="_static/images/client/media/image193.png"
-    style="width:5.75972in;height:2.91875in" />
+    ![alt text](_static/images/client/media/image193.png)
 
 #### 3.7.6 DNCs
 
@@ -2663,8 +2496,7 @@ style="width:5.76111in;height:1.41736in" />
 
 <span class="mark">电话**禁呼列表**是坐席外呼禁止的电话列表，禁呼列表中的号码被坐席拨打后，可以设置系统直接挂机，或者转入其他功能。</span>
 
-<img src="_static/images/client/media/image194.png"
-style="width:5.76319in;height:2.01944in" />
+![alt text](_static/images/client/media/image194.png)
 
 【全部】可按客户包搜索禁呼列表。
 
@@ -2698,8 +2530,7 @@ style="width:5.76319in;height:2.01944in" />
 
 ①点击添加进入添加/编辑禁呼列表的常规页面
 
-<img src="_static/images/client/media/image195.png"
-style="width:5.76042in;height:1.98125in" />
+![alt text](_static/images/client/media/image195.png)
 
 -   **所属客户包**：选择禁呼号码所在的客户包，不同客户包内相同号码不会被影响。
 
@@ -2711,28 +2542,23 @@ style="width:5.76042in;height:1.98125in" />
 
     <span class="mark">②点击保存即可添加成功新的禁呼列表。</span>
 
-    <img src="_static/images/client/media/image196.png"
-    style="width:5.76597in;height:2.12083in" />
+    ![alt text](_static/images/client/media/image196.png)
 
 ###### 3.2 坐席添加禁呼
 
 除了在client级别可以直接设置禁呼号码，坐席在打开自己的客户数据时也能对该条数据进行禁呼设置。
 
-<img src="_static/images/client/media/image197.png"
-style="width:5.76458in;height:2.88958in" />
+![alt text](_static/images/client/media/image197.png)
 
 ①在客户资料中的下拉菜单中，用户可以点击将该号码加入禁呼列表。以坐席身份加入禁呼列表时，不能立即生效，该条禁呼请求会在client级别进行审核（若坐席有审核权限也可以坐席身份进行审核），审核通过才会生效。
 
-<img src="_static/images/client/media/image198.png"
-style="width:5.7625in;height:2.7375in" />
+![alt text](_static/images/client/media/image198.png)
 
-<img src="_static/images/client/media/image199.png"
-style="width:5.76389in;height:1.46875in" />
+![alt text](_static/images/client/media/image199.png)
 
 ②点击编辑即可进入添加/编辑禁呼列表常规页面：
 
-<img src="_static/images/client/media/image200.png"
-style="width:5.76042in;height:2.18056in" />
+![alt text](_static/images/client/media/image200.png)
 
 -   **ID**：创建禁呼号码后自动生成的表示身份的唯一ID。
 
@@ -2750,15 +2576,13 @@ style="width:5.76042in;height:2.18056in" />
 
     ③选择启用点击添加即可添加禁呼列表。
 
-    <img src="_static/images/client/media/image201.png"
-    style="width:5.76528in;height:2.30278in" />
+    ![alt text](_static/images/client/media/image201.png)
 
 #### 3.7.7 功能键
 
 **功能键** 主要作用于坐席使用的分机电话，以下是一些电话操作的功能说明：
 
-<img src="_static/images/client/media/image202.png"
-style="width:5.76667in;height:3.12708in" />
+![alt text](_static/images/client/media/image202.png)
 
 -   **驻留号码**：此号码为呼叫驻留号码，向后延续20个号码为驻留位置号码（如：701-720，如果此号段中有和其他分机号重复的情况，当拨打时会优先检测是否有驻留通话）使用方法：在话机上将当前通话保持并发起新通话到此驻留号码，则当前通话会被分配一个驻留位置号码，并被驻留，可使用任一分机拨打分配的驻留位置号码取回这个呼叫。
 
@@ -2794,8 +2618,7 @@ style="width:5.76667in;height:3.12708in" />
 
 **条件** 是根据设定的时间条件来决定通话的转向，符合时间的转向指定处，不符合时间的转向指定处。设定
 
-<img src="_static/images/client/media/image203.png"
-style="width:5.76597in;height:2.82847in" />
+![alt text](_static/images/client/media/image203.png)
 
 【添加】添加一个新的条件。
 
@@ -2827,8 +2650,7 @@ style="width:5.76597in;height:2.82847in" />
 
 ①点击添加进入添加/编辑号码条件的常规页面：
 
-<img src="_static/images/client/media/image204.png"
-style="width:5.76806in;height:2.8375in" />
+![alt text](_static/images/client/media/image204.png)
 
 -   **名称**：为这个条件命名。
 
@@ -2842,8 +2664,7 @@ style="width:5.76806in;height:2.8375in" />
 
     ***日期范围***-指定一个日期范围在这个日期范围内符合条件，需要注意，这里指定的日期时指定的时间是包含这个时间所在的分钟，例如日期范围是02.08 12:00-02.09 11:00，这里在02.09 11:01呼入的电话是属于符合这个条件的。
 
-<img src="_static/images/client/media/image205.png"
-style="width:5.75833in;height:1.33819in" />
+![alt text](_static/images/client/media/image205.png)
 
 -   **符合转向**：选择符合该时间条件的转向。
 
@@ -2853,33 +2674,27 @@ style="width:5.75833in;height:1.33819in" />
 
     **①每周重复**：选定每周重复的时间（可编辑或删除），然后选择符合该条件的转向和不符合该时间条件的转向保存即可。
 
-<img src="_static/images/client/media/image206.png"
-style="width:5.76111in;height:2.45347in" />
+![alt text](_static/images/client/media/image206.png)
 
-<img src="_static/images/client/media/image207.png"
-style="width:5.76806in;height:0.74653in" />
+![alt text](_static/images/client/media/image207.png)
 
 **②指定时间**：选择指定时间的范围，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个指定时间。
 
-<img src="_static/images/client/media/image208.png"
-style="width:5.76042in;height:1.54375in" />
+![alt text](_static/images/client/media/image208.png)
 
 **③指定日期**：选择指定日期，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个指定日期。
 
-<img src="_static/images/client/media/image209.png"
-style="width:5.76597in;height:1.58681in" />
+![alt text](_static/images/client/media/image209.png)
 
 **④日期范围**：选择一个条件生成的日期范围，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个日期范围。
 
-<img src="_static/images/client/media/image210.png"
-style="width:5.75833in;height:2.38333in" />
+![alt text](_static/images/client/media/image210.png)
 
 ②点击使用情况进入添加/编辑条件的使用情况页面：
 
 在使用情况页面可以看到所有使用该条件的任务的情况。（在任务中的工作时间即为该条件的使用设置）
 
-<img src="_static/images/client/media/image211.png"
-style="width:5.76389in;height:0.74722in" />
+![alt text](_static/images/client/media/image211.png)
 
 ③点击保存即可添加成功新的条件。
 
@@ -2889,8 +2704,7 @@ style="width:5.76389in;height:0.74722in" />
 
 **暂停管理** 是坐席置忙时选择的一个暂停的理由，在暂停原因页面系统用户可以添加/查看/编辑/删除暂停原因。
 
-<img src="_static/images/client/media/image212.png"
-style="width:5.76042in;height:1.54931in" />
+![alt text](_static/images/client/media/image212.png)
 
 【搜索】仅支持以暂停原因名称进行全局搜索。
 
@@ -2908,15 +2722,13 @@ style="width:5.76042in;height:1.54931in" />
 
 ①点击添加进入添加/编辑暂停原因常规页面：
 
-<img src="_static/images/client/media/image213.png"
-style="width:5.76111in;height:0.78056in" />
+![alt text](_static/images/client/media/image213.png)
 
 ②点击保存即可添加成功新的暂停原因。
 
 坐席在忙碌时可以在右上角的下拉菜单中选择暂停，此时坐席为忙，无法开始工作。当坐席暂停时，暂停的次数和原因会在统计中记录。如果没有设置默认组坐席在暂停状态下依旧能够收到呼入的电话，但此时呼入电话的组别显示的是默认。
 
-<img src="_static/images/client/media/image214.png" 
-style="width:5.76736in;height:2.83542in" />
+![alt text](_static/images/client/media/image214.png)
 
 #### 2.7.10 话机部署模板
 
@@ -2926,8 +2738,7 @@ style="width:5.76736in;height:2.83542in" />
 
 高级别设置的话机模板，低级别不能编辑只能复制该模板。client自己建立的模板可以进行编辑。
 
-<img src="_static/images/client/media/image215.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image215.png)
 
 【搜索】全局搜索支持以话机部署模板的名称进行搜索。
 
@@ -2959,8 +2770,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ①点击添加进入添加/编辑话机部署模板常规页面：
 
-<img src="_static/images/client/media/image216.png"
-style="width:5.76319in;height:2.36181in" />
+![alt text](_static/images/client/media/image216.png)
 
 -   **模板名称**：请写出模板的名称。
 
@@ -2976,15 +2786,13 @@ style="width:5.76319in;height:2.36181in" />
 
 ##### 1 页面介绍
 
-<img src="_static/images/client/media/image217.png"
-style="width:5.76528in;height:1.28611in" />
+![alt text](_static/images/client/media/image217.png)
 
 【搜索】搜索知识库里的文件。
 
 【＋】点击搜索旁边的加号可以添加一个新的知识库文件
 
-<img src="_static/images/client/media/image218.png"
-style="width:5.76042in;height:1.37292in" />
+![alt text](_static/images/client/media/image218.png)
 
 -   **知识库名称**：为这个知识库命名。
 
@@ -2992,23 +2800,19 @@ style="width:5.76042in;height:1.37292in" />
 
 用户还可以为已建立的知识库增加一个知识库分支，可以直接点击知识库，再点击【＋】即可添加一个知识库分支，也可以使用删除编辑按钮对知识库进行修改。
 
-<img src="_static/images/client/media/image219.png"
-style="width:5.76319in;height:1.60486in" />
+![alt text](_static/images/client/media/image219.png)
 
 添加完成后，点击折叠标志即可查看添加的知识库分支，也可进行添加删除编辑，对已经有知识库分支的知识库不能删除，需要先删除知识库分支后才可删除。
 
-<img src="_static/images/client/media/image220.png"
-style="width:5.75833in;height:1.09722in" />
+![alt text](_static/images/client/media/image220.png)
 
 ##### 2 添加知识
 
 单击知识库文件，然后单击添加知识可以将知识添加到文件中。具有知识库页面权限的管理员提交的知识无需审核即可成功创建.
 
-<img src="_static/images/client/media/image221.png"
-style="width:5.76111in;height:3.01597in" />
+![alt text](_static/images/client/media/image221.png)
 
-<img src="_static/images/client/media/image222.png"
-style="width:5.76042in;height:2.61181in" />
+![alt text](_static/images/client/media/image222.png)
 
 -   **问题**：输入需要解答的问题内容。
 
@@ -3026,59 +2830,49 @@ style="width:5.76042in;height:2.61181in" />
 
 在知识库页面用户可以选择批量审核，用户可以选择选择需要批量审核通过或是不通过的数据。需要审核的知识是坐席建立的。
 
-<img src="_static/images/client/media/image223.png"
-style="width:5.7625in;height:1.39236in" />
+![alt text](_static/images/client/media/image223.png)
 
 【有效期】用户可以选择查看有关有效期限的知识库知识。
 
-<img src="_static/images/client/media/image224.png"
-style="width:5.76319in;height:1.52014in" />
+![alt text](_static/images/client/media/image224.png)
 
 【最新】
 
 用户可以根据初始或最新的排列方式排列知识。
 
-<img src="_static/images/client/media/image225.png"
-style="width:5.75972in;height:1.45625in" />
+![alt text](_static/images/client/media/image225.png)
 
 【状态】
 
 用户可以根据知识的审核状态对知识进行查看。
 
-<img src="_static/images/client/media/image226.png"
-style="width:5.76319in;height:1.41736in" />
+![alt text](_static/images/client/media/image226.png)
 
 【坐席知识】
 
 当坐席的角色中包含了坐席知识库的权限，坐席仪表盘页面会显示知识库。
 
-<img src="_static/images/client/media/image227.png"
-style="width:5.75833in;height:3.00694in" />
+![alt text](_static/images/client/media/image227.png)
 
 点击【我的提交】进入坐席添加知识库页面，点击【添加知识】添加新知识
 
-<img src="_static/images/client/media/image228.png"
-style="width:5.76111in;height:1.64514in" />
+![alt text](_static/images/client/media/image228.png)
 
 点击【知识列表】可查看已审核并提交但未审核的知识。可以直接点击大字体标签，显示该标签下的知识。
 
-<img src="_static/images/client/media/image229.png"
-style="width:5.75833in;height:2.08264in" />
+![alt text](_static/images/client/media/image229.png)
 
 点击【我的提交】，查看坐席自己提交的知识.
 
-<img src="_static/images/client/media/image230.png"
-style="width:5.75833in;height:1.20903in" />
+![alt text](_static/images/client/media/image230.png)
 
 坐席提交知识后client知识库页面上将出现提示。单击此提示，带有问号的知识将是需要审核的知识。点击这个黄色问号进入审核页面.
 
-<img src="_static/images/client/media/image231.png"
-style="width:5.76042in;height:1.85972in" />
+![alt text](_static/images/client/media/image231.png)
 
 在页面上可以审核查看知识。
 
-<img src="_static/images/client/media/image232.png"
-style="width:5.76597in;height:1.07986in" />
+![alt text](_static/images/client/media/image232.png)
 
 ### 3.8 问卷
 
@@ -3088,8 +2882,7 @@ style="width:5.76597in;height:1.07986in" />
 
 **问卷** 是坐席与客户通话时坐席跟据问卷内容对客户进行问卷调，问卷的答案用户可以再问卷答案中进行导出。
 
-<img src="_static/images/client/media/image233.png"
-style="width:5.76319in;height:1.10069in" />
+![alt text](_static/images/client/media/image233.png)
 
 【搜索】全局搜索支持以问卷名称搜索。
 
@@ -3103,8 +2896,7 @@ style="width:5.76319in;height:1.10069in" />
 
 【下拉菜单】
 
-<img src="_static/images/client/media/image234.png"
-style="width:3.29792in;height:2.05972in" />
+![alt text](_static/images/client/media/image234.png)
 
 ***删除***-删除这个问卷。
 
@@ -3112,8 +2904,7 @@ style="width:3.29792in;height:2.05972in" />
 
 ***问卷预览***-预览这个问卷.
 
-<img src="_static/images/client/media/image235.png"
-style="width:5.76528in;height:1.62431in" />
+![alt text](_static/images/client/media/image235.png)
 
 ##### 2 显示/隐藏字段
 
@@ -3129,8 +2920,7 @@ style="width:5.76528in;height:1.62431in" />
 
 ①C点击添加进入添加/编辑问卷常规页面：
 
-<img src="_static/images/client/media/image236.png"
-style="width:5.76042in;height:0.99931in" />
+![alt text](_static/images/client/media/image236.png)
 
 -   **问题名称**: 为问卷命名。
 
@@ -3142,8 +2932,7 @@ style="width:5.76042in;height:0.99931in" />
 
     ②点击高级进入添加/编辑问卷高级页面：
 
-<img src="_static/images/client/media/image237.png"
-style="width:5.76597in;height:2.58958in" />
+![alt text](_static/images/client/media/image237.png)
 
 -   **欢迎语**：问卷首页的欢迎语。
 
@@ -3153,8 +2942,7 @@ style="width:5.76597in;height:2.58958in" />
 
     ③点击问题进入添加/编辑问卷问题界面：
 
-<img src="_static/images/client/media/image238.png"
-style="width:5.76528in;height:2.70625in" />
+![alt text](_static/images/client/media/image238.png)
 
 -   **问题名称**：一个问卷是由多个问题组成的，在在这里用户可以为其中一个问题命名。
 
@@ -3172,13 +2960,11 @@ style="width:5.76528in;height:2.70625in" />
 
     ***多选-*** 该问题可以有多个选项。
 
-    <img src="_static/images/client/media/image239.png"
-    style="width:5.76528in;height:2.30278in" />
+    ![alt text](_static/images/client/media/image239.png)
 
     ***文本-*** 该问题没有选项，需要直接输入文字回答。
 
-    <img src="_static/images/client/media/image240.png"
-    style="width:5.76458in;height:2.35486in" />
+    ![alt text](_static/images/client/media/image240.png)
 
 -   **可输入**：是否启用可输入，若启用可以在选择答案之后进行备注说明。
 
@@ -3186,8 +2972,7 @@ style="width:5.76528in;height:2.70625in" />
 
 ④点击逻辑进入添加/编辑问卷逻辑页面（若按问题序号顺序进行则可跳过该页面设置）：
 
-<img src="_static/images/client/media/image241.png"
-style="width:5.76528in;height:2.26389in" />
+![alt text](_static/images/client/media/image241.png)
 
 -   **问题**：根据只选择问卷的必选问题，进行逻辑问题的问答。
 
@@ -3209,8 +2994,7 @@ style="width:5.76528in;height:2.26389in" />
 
 **问卷选项模板** 是常用问题的选项，在添加问卷问题中可以选择问卷选项模板快速进行选项添加。
 
-<img src="_static/images/client/media/image242.png"
-style="width:5.76111in;height:1.36528in" />
+![alt text](_static/images/client/media/image242.png)
 
 【搜索】全局搜索支持以模板名称进行搜索。
 
@@ -3240,15 +3024,15 @@ style="width:5.76111in;height:1.36528in" />
 
 ①点击添加进入添加/编辑问卷选项模板常规界面：
 
-<img src="_static/images/client/media/image243.png"
-style="width:5.76806in;height:1.07986in" />
+![alt text](_static/images/client/media/image243.png)
 
 -   **模板名称**：为这个模板命名。
 
 -   **选项类型**：单选-此问题只能选择一个选项：
 
-    <img src="_static/images/client/media/image244.png"
-    style="width:5.76806in;height:1.48611in" />**单选**-此问题只能选择一个选项。
+    ![alt text](_static/images/client/media/image244.png)
+    
+    **单选**-此问题只能选择一个选项。
 
     ***多选***  -此问题可以选择多个选项。
 
@@ -3256,8 +3040,7 @@ style="width:5.76806in;height:1.07986in" />
 
     <span class="mark">***单选+下拉框-***此问题每个单选后面都可以下拉添加选项</span>.
 
-    <img src="_static/images/client/media/image245.png"
-    style="width:5.76319in;height:1.53472in" />
+    ![alt text](_static/images/client/media/image245.png)
 
 -   **选项**：常用的选项作为此模板的选项，输入选项，enter键添加可以添加多个。
 
@@ -3269,8 +3052,7 @@ style="width:5.76806in;height:1.07986in" />
 
 在 **问卷答案** 页面用户可以查看客户问卷调查的结果。用户需要选择问卷的名称还有问卷所属的任务才能查看完整的问卷调查结果。
 
-<img src="_static/images/client/media/image246.png"
-style="width:5.76597in;height:1.81528in" />
+![alt text](_static/images/client/media/image246.png)
 
 上图中的【默认】为可根据客户包查看问卷答案。
 
@@ -3282,8 +3064,7 @@ style="width:5.76597in;height:1.81528in" />
 
 【工具】导出CSV文件。只有在选择问卷时，该导出工具才会显示。
 
-<img src="_static/images/client/media/image247.png"
-style="width:5.75833in;height:1.83264in" />
+![alt text](_static/images/client/media/image247.png)
 
 ##### 2 显示/隐藏字段
 
@@ -3319,8 +3100,7 @@ style="width:5.75833in;height:1.83264in" />
 
 **邮件模板** 的目的是为了给客户发送邮件时一键添加邮件模板，从而节省工作时间。
 
-<img src="_static/images/client/media/image248.png"
-style="width:5.7625in;height:1.58125in" />
+![alt text](_static/images/client/media/image248.png)
 
 【搜索】仅支持以邮件模板名称进行全局搜索。
 
@@ -3354,8 +3134,7 @@ style="width:5.7625in;height:1.58125in" />
 
 ①C点击【添加】进入添加/编辑邮件模板的【常规】界面：
 
-<img src="_static/images/client/media/image249.png"
-style="width:5.75833in;height:2.75069in" />
+![alt text](_static/images/client/media/image249.png)
 
 -   **模板名称**：请为这个邮件模板命名。
 
@@ -3371,15 +3150,13 @@ style="width:5.75833in;height:2.75069in" />
 
 ②点击【高级】进入添加/编辑邮件模板的高级界面：
 
-<img src="_static/images/client/media/image250.png"
-style="width:5.76111in;height:1.27014in" />
+![alt text](_static/images/client/media/image250.png)
 
 -   模板注释：你可以填写邮件模板的注释说明。
 
     ③点击保存即可在邮件模板列表查看到已保存的邮件模板，你也可以在点击【编辑】对已保存的邮件模板进行重新编辑，点击【下拉菜单】对保存的邮件模板进行删除。
 
-    <img src="_static/images/client/media/image251.png"
-    style="width:5.75833in;height:1.17847in" />
+    ![alt text](_static/images/client/media/image251.png)
 
 #### 3.9.2 短信模版
 
@@ -3387,8 +3164,7 @@ style="width:5.76111in;height:1.27014in" />
 
 短信模板是为了给客户发短信时一键添加，从而节省工作时间。
 
-<img src="_static/images/client/media/image252.png"
-style="width:5.76111in;height:1.34028in" />
+![alt text](_static/images/client/media/image252.png)
 
 【搜索】仅支持以短信模板名称进行全局搜索。
 
@@ -3418,8 +3194,7 @@ style="width:5.76111in;height:1.34028in" />
 
 ①点击【添加】进入添加/编辑短信模板的常规界面：
 
-<img src="_static/images/client/media/image253.png"
-style="width:5.76806in;height:1.68403in" />
+![alt text](_static/images/client/media/image253.png)
 
 -   **模板名称**：请为这个短信模板命名。
 
@@ -3433,8 +3208,7 @@ style="width:5.76806in;height:1.68403in" />
 
 ②点击【高级】进入添加/编辑短信模板的【高级】界面：
 
-<img src="_static/images/client/media/image254.png"
-style="width:5.76042in;height:1.73889in" />
+![alt text](_static/images/client/media/image254.png)
 
 -   **允许修改**：你可以设置此短信模板是否允许修改。
 
@@ -3442,11 +3216,9 @@ style="width:5.76042in;height:1.73889in" />
 
     ③点击保存即可在短信模板列表查看到已保存的短信模板，你也可以在点击【编辑】对已保存的短信模板进行重新编辑，点击【下拉菜单】对保存的短信模板进行删除。
 
-    <img src="_static/images/client/media/image255.png"
-    style="width:5.76042in;height:1.18194in" />
+    ![alt text](_static/images/client/media/image255.png)
 
-    <img src="_static/images/client/media/image256.png"
-    style="width:5.75972in;height:1.88472in" />
+    ![alt text](_static/images/client/media/image256.png)
 
 #### 3.9.3 群发信息
 
@@ -3454,8 +3226,7 @@ style="width:5.76042in;height:1.73889in" />
 
 ①步骤1：选择信息类型与目标
 
-<img src="_static/images/client/media/image257.png"
-style="width:5.76389in;height:1.91042in" />
+![alt text](_static/images/client/media/image257.png)
 
 -   **信息类型**：用户可以选择群发信息的类型，可以选择邮件、闪信、短信。
 
@@ -3465,23 +3236,19 @@ style="width:5.76389in;height:1.91042in" />
 
 > <span class="mark">在步骤1页面可以选择直接发送短信，点击发送短信填写群发的客户号码，编辑短信内容，但不能选择模板，点击发送即可。</span>
 
-<img src="_static/images/client/media/image258.png"
-style="width:5.76736in;height:3.01597in" />
+![alt text](_static/images/client/media/image258.png)
 
 ②<span class="mark">步骤2：根据步骤1中的设定客户数据条件后点击【继续】选择模板，进行更加个性化的设置</span>
 
-<img src="_static/images/client/media/image259.png"
-style="width:5.75972in;height:1.87986in" />
+![alt text](_static/images/client/media/image259.png)
 
 ③步骤3：变量匹配，<span class="mark">选择需要匹配的变量信息，变量信息即为邮件信息中以##变量##格式出现的信息，双#号中间的变量信息即为选择可以替换的信息。例如名字、性别等。</span>
 
-<img src="_static/images/client/media/image260.png"
-style="width:5.76528in;height:2.25069in" />
+![alt text](_static/images/client/media/image260.png)
 
 ④步骤4：对邮件群发内容进行预览和确认，请确认步骤3中设置的匹配变量是否正确，如检查无误，点击提交即可。
 
-<img src="_static/images/client/media/image261.png"
-style="width:5.76736in;height:2.75417in" />
+![alt text](_static/images/client/media/image261.png)
 
 特别提醒，提交成功并不意味着发送成功。这里，它只表示进入发送队列。发送状态可以在短信发送记录或邮件发送记录中查看。.
 
@@ -3489,8 +3256,7 @@ style="width:5.76736in;height:2.75417in" />
 
 坐席或client用户给客户发送的所有短信记录都可以在此查看，包括发送失败的短信记录也可查看。
 
-<img src="_static/images/client/media/image262.png"
-style="width:5.76111in;height:1.09583in" />
+![alt text](_static/images/client/media/image262.png)
 
 【搜索】支持发送号码、接收号码、短信内容进行全局搜索。
 
@@ -3506,8 +3272,7 @@ style="width:5.76111in;height:1.09583in" />
 
 坐席或client用户给客户发送的所有邮件记录都可以在此查看，包括发送失败的邮件记录也可查看。
 
-<img src="_static/images/client/media/image263.png"
-style="width:5.76042in;height:1.27986in" />
+![alt text](_static/images/client/media/image263.png)
 
 【搜索】支持发送号码、接收号码、短信内容进行全局搜索。
 
@@ -3519,8 +3284,7 @@ style="width:5.76042in;height:1.27986in" />
 
 【查看】点击查看可以看到该条短信息的具体内容。
 
-<img src="_static/images/client/media/image264.png"
-style="width:5.76319in;height:2.82014in" />
+![alt text](_static/images/client/media/image264.png)
 
 #### 3.9.6 公告管理
 
@@ -3528,8 +3292,7 @@ style="width:5.76319in;height:2.82014in" />
 
 client可以在 **公告** 页面给坐席或是账户用户发送一个公告。账户用户和坐席可以在仪表盘中查看公告。client也可以在仪表盘中查看所发的公告。
 
-<img src="_static/images/client/media/image265.png"
-style="width:5.75833in;height:2.55417in" />
+![alt text](_static/images/client/media/image265.png)
 
 【发送公告】发送一个新的公告。
 
@@ -3537,20 +3300,17 @@ style="width:5.75833in;height:2.55417in" />
 
 【查看】查看这个公告。
 
-<img src="_static/images/client/media/image266.png"
-style="width:5.76458in;height:4.13681in" />
+![alt text](_static/images/client/media/image266.png)
 
 在坐席组中添加或移除坐席时，系统会发送默认公告，如下图所示
 
-<img src="_static/images/client/media/image267.png"
-style="width:5.76597in;height:2.94722in" />
+![alt text](_static/images/client/media/image267.png)
 
 ##### 2 发送一个新的公告
 
 ①点击【发送公告】进入添加/编辑公告管理的常规页面：
 
-<img src="_static/images/client/media/image268.png"
-style="width:5.76389in;height:2.83958in" />
+![alt text](_static/images/client/media/image268.png)
 
 -   **接收人**：公告的接收人。
 
@@ -3558,16 +3318,13 @@ style="width:5.76389in;height:2.83958in" />
 
 -   **大屏显示**：该功能需要用户打开大屏监控页面，在大屏监控页面开启时，发送该公告，公告会大屏显示。
 
-    <img src="_static/images/client/media/image269.png"
-    style="width:5.76389in;height:3.10903in"
-    alt="75be12cd82f48501c48d8eac21544b15" />
+    ![alt text](_static/images/client/media/image269.png)
 
 <!-- -->
 
 -   **弹屏显示**：选择弹屏显示时，接收人在登录该账号时该公告会自动弹出。
 
-    <img src="_static/images/client/media/image270.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/client/media/image270.png)
 
 <!-- -->
 
@@ -3581,8 +3338,7 @@ style="width:5.76389in;height:2.83958in" />
 
 **通知** 是坐席组长在侧栏的组内对话中发送给坐席组成员的信息，有临时信息和固定信息两种，临时信息失效为30s。信息在组内坐席页面以走马灯的类型出现。
 
-<img src="_static/images/client/media/image271.png"
-style="width:5.76042in;height:1.93194in" />
+![alt text](_static/images/client/media/image271.png)
 
 【搜索】全局搜索支持以发送者名字以及内容进行搜索。
 
@@ -3618,8 +3374,7 @@ style="width:5.76042in;height:1.93194in" />
 
 工单的完成状态。方便判断工单的进度。
 
-<img src="_static/images/client/media/image272.png"
-style="width:5.76597in;height:1.90069in" />
+![alt text](_static/images/client/media/image272.png)
 
 【搜索】全局搜索支持以工单状态进行搜索。
 
@@ -3645,8 +3400,7 @@ style="width:5.76597in;height:1.90069in" />
 
 ① 点击【添加】进入添加/编辑工单状态的常规页面：
 
-<img src="_static/images/client/media/image273.png"
-style="width:5.76528in;height:1.57153in" />
+![alt text](_static/images/client/media/image273.png)
 
 -   **状态**:工单状态的名称。
 
@@ -3662,8 +3416,7 @@ style="width:5.76528in;height:1.57153in" />
 
 工单类别主要用来标记工单的分类，对工单进行设置。
 
-<img src="_static/images/client/media/image274.png"
-style="width:5.76806in;height:1.67639in" />
+![alt text](_static/images/client/media/image274.png)
 
 【搜索】全局搜索支持以工单类别进行搜索。
 
@@ -3677,20 +3430,17 @@ style="width:5.76806in;height:1.67639in" />
 
 【下拉菜单】
 
-<img src="_static/images/client/media/image275.png"
-style="width:3.60139in;height:0.76806in" />
+![alt text](_static/images/client/media/image275.png)
 
 ***删除***-删除该条工单类别。
 
 ***自定义字段*** -添加一个需要的自定义字段，字段类型包括文本框、输入框、日期、链接、邮件、关联字段、自定义。用户可以新增自定义字段也可以对新增后的字段进行编辑或删除。新增时用户可以自定义字段、显示名称、输入类型和该字段是否为必填。设定该自定义字段后，当新增工单时用户在工单类别中选择了增加了自定义字段的类别，新增工单时能够直接填写该新增字段。（坐席新增时同样适用具体可参考坐席页面手册）
 
-<img src="_static/images/client/media/image276.png"
-style="width:5.76111in;height:1.60278in" />
+![alt text](_static/images/client/media/image276.png)
 
 自定义字段在坐席页面显示。
 
-<img src="_static/images/client/media/image277.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image277.png)
 
 ##### 2 显示/隐藏字段
 
@@ -3702,8 +3452,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ①点击【添加】进入添加/编辑工单类别的常规设置页面：
 
-<img src="_static/images/client/media/image278.png"
-style="width:5.76389in;height:1.51806in" />
+![alt text](_static/images/client/media/image278.png)
 
 -   **工单类别**：为这个工单的类别命名。
 
@@ -3727,8 +3476,7 @@ style="width:5.76389in;height:1.51806in" />
 
 工单的整个处理的结果，从结果判断该工单是否完成。
 
-<img src="_static/images/client/media/image279.png"
-style="width:5.76597in;height:1.97083in" />
+![alt text](_static/images/client/media/image279.png)
 
 【搜索】全局搜索支持以结果命名进行搜索。
 
@@ -3752,8 +3500,7 @@ style="width:5.76597in;height:1.97083in" />
 
 ①点击添加进入处理结果的添加/编辑的常规页面：
 
-<img src="_static/images/client/media/image280.png"
-style="width:5.76597in;height:0.71806in" />
+![alt text](_static/images/client/media/image280.png)
 
 -   结果：处理结果的名称。
 
@@ -3765,8 +3512,7 @@ style="width:5.76597in;height:0.71806in" />
 
 **工单** 是根据工作需要提出的工作记录，工单可以由client建立也可以由坐席直接建立。
 
-<img src="_static/images/client/media/image281.png"
-style="width:5.76597in;height:2.81806in" />
+![alt text](_static/images/client/media/image281.png)
 
 【搜索】全局搜索支持以工单标题、指定坐席、指定坐席组进行搜索。
 
@@ -3802,8 +3548,7 @@ style="width:5.76597in;height:2.81806in" />
 
 <span class="mark">①点击添加进入添加/编辑进入工单常规设置页面：</span>
 
-<img src="_static/images/client/media/image282.png"
-style="width:5.76319in;height:1.76319in" />
+![alt text](_static/images/client/media/image282.png)
 
 -   **工单标题**：为这个工单添加一个标题。
 
@@ -3817,8 +3562,7 @@ style="width:5.76319in;height:1.76319in" />
 
     在工单页面选择编辑进入编辑页面除在新增工单时的设置，坐席还能看到以下设置：
 
-    <img src="_static/images/client/media/image283.png"
-    style="width:5.75833in;height:2.39653in" />
+    ![alt text](_static/images/client/media/image283.png)
 
 -   **ID**：数据唯一ID。所有建立的数据均有一个唯一ID。
 
@@ -3836,13 +3580,11 @@ style="width:5.76319in;height:1.76319in" />
 
     坐席可以在仪表板中查看未完成的工单 --&gt; 在中间查看未完成的工作订单
 
-    <img src="_static/images/client/media/image284.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/client/media/image284.png)
 
     坐席可以查看分配给他们的未完成工单、不同状态的工单，如果他们是坐席组长，他们还可以看到组内的工单.
 
-    <img src="_static/images/client/media/image285.png"
-    style="width:5.76181in;height:2.06806in" />
+    ![alt text](_static/images/client/media/image285.png)
 
     当工单状态和工单类别同时开启自动分配功能时，
 
@@ -3852,8 +3594,7 @@ style="width:5.76319in;height:1.76319in" />
 
     如果创建的工单没有指定状态，则会分配给类别绑定坐席组中的在线坐席.
 
-    <img src="_static/images/client/media/image286.png"
-    style="width:5.76389in;height:2.82153in" />
+    ![alt text](_static/images/client/media/image286.png)
 
 ### 3.11 待办事项
 
@@ -3863,8 +3604,7 @@ style="width:5.76319in;height:1.76319in" />
 
 **坐席待办** 由client设置的需要坐席办理的事项发布，该事项只能由client编辑，坐席处理完成可以在坐席页面进行标记，最后的完成状态需要client来进行。
 
-<img src="_static/images/client/media/image287.png"
-style="width:5.76736in;height:2.70764in" />
+![alt text](_static/images/client/media/image287.png)
 
 【搜索】全局搜索支持以坐席待办的标题来搜索。
 
@@ -3892,8 +3632,7 @@ style="width:5.76736in;height:2.70764in" />
 
 ①点击添加进入添加/编辑坐席待办的常规页面：
 
-<img src="_static/images/client/media/image288.png"
-style="width:5.76597in;height:1.94931in" />
+![alt text](_static/images/client/media/image288.png)
 
 -   **标题**:坐席待办事项标题。
 
@@ -3911,8 +3650,7 @@ style="width:5.76597in;height:1.94931in" />
 
 在坐席报表中用户可以查看包括坐席报表、坐席汇总、坐席组明细、坐席组汇总、部门报表在内的统计报表，用户选择坐席后可以点击搜索，搜索该坐席的报表。用户可以选择需要显示的字段，点击查看字段即可。用户也可以对坐席明细数据进行下载，点击下载即可。
 
-<img src="_static/images/client/media/image289.png"
-style="width:5.76597in;height:1.55486in" />
+![alt text](_static/images/client/media/image289.png)
 
 #### 3.12.1 统计报表
 
@@ -3922,8 +3660,7 @@ style="width:5.76597in;height:1.55486in" />
 
 坐席明细主要统计坐席在任务中所产生的数据进行统计，用户可以选择一个坐席不选择任务查看该坐席在所有任务中的统计数据，也可以选择一个坐席查看该坐席在选定任务中的统计数据。
 
-<img src="_static/images/client/media/image290.png"
-style="width:5.76042in;height:2.74167in" />
+![alt text](_static/images/client/media/image290.png)
 
 【选择坐席】选择查看的坐席。
 
@@ -3931,16 +3668,13 @@ style="width:5.76042in;height:2.74167in" />
 
 【日期】选择查看该坐席的统计明细的日期或时间或总计的范围。
 
-<img src="_static/images/client/media/image291.png"
-style="width:5.76319in;height:2.96528in" />
+![alt text](_static/images/client/media/image291.png)
 
-<img src="_static/images/client/media/image292.png"
-style="width:5.76042in;height:2.04375in" />
+![alt text](_static/images/client/media/image292.png)
 
 【查看字段】选择查询显示的字段数据。
 
-<img src="_static/images/client/media/image293.png"
-style="width:4.25625in;height:2.80972in" />
+![alt text](_static/images/client/media/image293.png)
 
 -   统计日期：该统计数据的所属日期。
 
@@ -3982,8 +3716,7 @@ style="width:4.25625in;height:2.80972in" />
 
 坐席汇总主要统计坐席在组内的数据汇总，用户在坐席汇总页面可以根据坐席组坐席以及任务对数据进行查看。
 
-<img src="_static/images/client/media/image294.png"
-style="width:5.76042in;height:1.68611in" />
+![alt text](_static/images/client/media/image294.png)
 
 【日期】选择查看坐席汇总的日期或时间范围。
 
@@ -3995,8 +3728,7 @@ style="width:5.76042in;height:1.68611in" />
 
 【查看字段】选择查询显示的字段。
 
-<img src="_static/images/client/media/image295.png"
-style="width:4.11875in;height:3.60139in" />
+![alt text](_static/images/client/media/image295.png)
 
 -   统计日期：坐席的统计日期。
 
@@ -4050,7 +3782,7 @@ style="width:4.11875in;height:3.60139in" />
 
 -   暂停合计：该坐席的合计暂停时间。
 
-    【搜索】根据需求完成以上条件设定后 **搜索** 坐席汇总。
+【搜索】根据需求完成以上条件设定后 **搜索** 坐席汇总。
 
 【下载】根据需求完成以上条件设定后 **下载** 坐席汇总.
 
@@ -4058,8 +3790,7 @@ style="width:4.11875in;height:3.60139in" />
 
 **坐席组明细** 是方便用户查看每个坐席组和该组内任务的统计数据，用户选择坐席组后可以查看该坐席组在所有任务下的统计数据，用户也可以直接选择想要查看的该坐席组和任务，查看该任务下坐席组的统计数据。（用户可以同时查看多个坐席组在多个任务下的统计数据）
 
-<img src="_static/images/client/media/image296.png"
-style="width:5.76111in;height:2.58333in" />
+![alt text](_static/images/client/media/image296.png)
 
 【日期】选择查看坐席组明细的日期或时间范围。
 
@@ -4069,8 +3800,7 @@ style="width:5.76111in;height:2.58333in" />
 
 【查看字段】选择查询显示的字段。
 
-<img src="_static/images/client/media/image297.png"
-style="width:4.03542in;height:2.78542in" />
+![alt text](_static/images/client/media/image297.png)
 
 -   统计日期：用户需要查看的统计日期。
 
@@ -4116,8 +3846,7 @@ style="width:4.03542in;height:2.78542in" />
 
 坐席组汇总主要统计坐席组的数据汇总，用户在坐席组汇总页面可以根据日期即日期范围对数据进行查看。
 
-<img src="_static/images/client/media/image298.png"
-style="width:5.76736in;height:2.06111in" />
+![alt text](_static/images/client/media/image298.png)
 
 【日期】选择查看坐席组明细的日期或时间范围。
 
@@ -4125,8 +3854,7 @@ style="width:5.76736in;height:2.06111in" />
 
 【查看字段】选择查询显示的字段。
 
-<img src="_static/images/client/media/image299.png"
-style="width:4.07708in;height:4.02986in" />
+![alt text](_static/images/client/media/image299.png)
 
 -   统计日期：该坐席组数据的统计日期。
 
@@ -4188,7 +3916,7 @@ style="width:4.07708in;height:4.02986in" />
 
 -   抢接数：该坐席组坐席的抢接数。
 
-    【搜索】根据需求完成以上条件设定后 **搜索** 坐席组汇总。
+【搜索】根据需求完成以上条件设定后 **搜索** 坐席组汇总。
 
 【下载】根据需求完成以上条件设定后 **下载** 坐席组汇总。
 
@@ -4196,8 +3924,7 @@ style="width:4.07708in;height:4.02986in" />
 
 在部门报表页面，用户可以选择一个日期范围，选择想要查看的部门，点击搜索进行查看，此外，用户还可以选择该部门想要查看的坐席数据或是该部门的通话时长查看报表内容。
 
-<img src="_static/images/client/media/image300.png"
-style="width:5.76111in;height:2.06875in" />
+![alt text](_static/images/client/media/image300.png)
 
 【日期】选择查看部门报表的日期或时间范围。
 
@@ -4209,8 +3936,7 @@ style="width:5.76111in;height:2.06875in" />
 
 【查看字段】选择查询显示的字段。
 
-<img src="_static/images/client/media/image301.png"
-style="width:4.00625in;height:2.02986in" />
+![alt text](_static/images/client/media/image301.png)
 
 -   统计日期：该部门报表的统计日期。
 
@@ -4248,13 +3974,11 @@ style="width:4.00625in;height:2.02986in" />
 
 坐席组坐席：进入该页面用户可以输入一个或多个想要监控的坐席组进行提交查看。
 
-<img src="_static/images/client/media/image302.png"
-style="width:5.76597in;height:1.52292in" />
+![alt text](_static/images/client/media/image302.png)
 
 -   红框中显示这个组中所有坐席的状态情况。
 
-<img src="_static/images/client/media/image303.png"
-style="width:3.83958in;height:0.36875in" />
+![alt text](_static/images/client/media/image303.png)
 
 **签入**：显示在这个坐席组中签入的坐席数。
 
@@ -4275,8 +3999,7 @@ style="width:3.83958in;height:0.36875in" />
 
 -   **坐席排序**
 
-<img src="_static/images/client/media/image304.png"
-style="width:1.11319in;height:1.32708in" />
+![alt text](_static/images/client/media/image304.png)
 
 坐席状态正序：话后状态&gt;通话状态&gt;保持状态&gt;暂停&gt;空闲&gt;振铃
 
@@ -4292,8 +4015,7 @@ style="width:1.11319in;height:1.32708in" />
 
 **坐席**：实时监控坐席，点击下拉菜单对坐席实现如下操作;
 
-<img src="_static/images/client/media/image305.png"
-style="width:4.47847in;height:1.86319in" />
+![alt text](_static/images/client/media/image305.png)
 
 *以此坐席身份登录* -登录到此坐席。
 
@@ -4329,20 +4051,17 @@ style="width:4.47847in;height:1.86319in" />
 
 紫色框中显示的坐席状态可由用户在 显示字段按钮的下拉菜单中进行调整。
 
-<img src="_static/images/client/media/image306.png"
-style="width:5.76736in;height:1.60278in" />
+![alt text](_static/images/client/media/image306.png)
 
 如果有来电但没有坐席应答，页面会弹出绿色的呼叫队列提示消息框.
 
-<img src="_static/images/client/media/image307.png"
-style="width:5.75833in;height:2.31111in" />
+![alt text](_static/images/client/media/image307.png)
 
 ##### 2 坐席组
 
 点击坐席组页面可以看到坐席组的实时信息
 
-<img src="_static/images/client/media/image308.png"
-style="width:5.76597in;height:1.9in" />
+![alt text](_static/images/client/media/image308.png)
 
 呼入
 
@@ -4380,44 +4099,37 @@ style="width:5.76597in;height:1.9in" />
 
 用户也可以切换视图
 
-<img src="_static/images/client/media/image309.png"
-style="width:5.76042in;height:1.45833in" />
+![alt text](_static/images/client/media/image309.png)
 
 ##### 3 坐席
 
 点击坐席页面可以看到坐席的实时信息。
 
-<img src="_static/images/client/media/image310.png"
-style="width:5.76528in;height:2.32014in" />
+![alt text](_static/images/client/media/image310.png)
 
 ##### 4 百分比
 
 如果坐席通话次数较多，可以直接切换到百分比模式（内部通话和转接通话不以百分比显示）
 
-<img src="_static/images/client/media/image311.png"
-style="width:5.76042in;height:2.04792in" />
+![alt text](_static/images/client/media/image311.png)
 
 #### 3.13.2 大屏监控
 
 大屏监控能够实时看到所有坐席的状态闪烁，用户可以选择全屏或简洁模式观看。用户点击坐席状态后可以以该坐席登录或是将该坐席置闲，同事也能看到该坐席的签入情况。该坐席的呼入、漏话、呼出、应答情况也可以直接查看。
 
-<img src="_static/images/client/media/image312.png"
-style="width:5.76597in;height:2.87431in" />
+![alt text](_static/images/client/media/image312.png)
 
 全屏:
 
-<img src="_static/images/client/media/image313.png"
-style="width:5.75694in;height:3.23681in" />
+![alt text](_static/images/client/media/image313.png)
 
 简洁:
 
-<img src="_static/images/client/media/image314.png"
-style="width:5.75972in;height:2.5375in" />
+![alt text](_static/images/client/media/image314.png)
 
 点击空闲，对坐席可以进行操作
 
-<img src="_static/images/client/media/image315.png"
-style="width:5.76389in;height:3.0375in" />
+![alt text](_static/images/client/media/image315.png)
 
 ### 3.14 日志记录
 
@@ -4427,8 +4139,7 @@ style="width:5.76389in;height:3.0375in" />
 
 记录系统用户行为日志，系统中的默认保留期为30天。客户端及以上用户可以在此处查询和下载某个座位在特定时间和时刻的通话记录和客户数据。
 
-<img src="_static/images/client/media/image316.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image316.png)
 
 【搜索】日志记录支持以用户名、IP地址、请求地址作为搜索对象。
 
@@ -4458,8 +4169,7 @@ style="width:5.75694in;height:2.73333in" />
 
 用于查询坐席事件日志。
 
-<img src="_static/images/client/media/image317.png"
-style="width:5.76528in;height:2.84861in" />
+![alt text](_static/images/client/media/image317.png)
 
 【搜索】支持以坐席工号、事件为搜索对象。
 
@@ -4485,8 +4195,7 @@ style="width:5.76528in;height:2.84861in" />
 
 ##### 1 常规
 
-<img src="_static/images/client/media/image318.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image318.png)
 
 -   **时区**:该系统的时区。
 
@@ -4514,8 +4223,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ##### 2 货币
 
-<img src="_static/images/client/media/image319.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image319.png)
 
 -   **货币**：使货币种类。
 
@@ -4529,8 +4237,7 @@ style="width:5.75694in;height:2.73333in" />
 
 ##### 3 数据
 
-<img src="_static/images/client/media/image320.png"
-style="width:5.75972in;height:1.24792in" />
+![alt text](_static/images/client/media/image320.png)
 
 -   **默认客户包:**系统默认呼入呼出时，使用的客户包。当前使用的具体客户包别设定不可见后，默认客户包将自动恢复为默认。
 
@@ -4540,8 +4247,7 @@ style="width:5.75972in;height:1.24792in" />
 
 ##### 4 拨号
 
-<img src="_static/images/client/media/image321.png"
-style="width:5.76806in;height:1.96111in" />
+![alt text](_static/images/client/media/image321.png)
 
 -   **拨打外线超时（秒）**：外呼振铃的超时时长。
 
@@ -4560,8 +4266,7 @@ style="width:5.76806in;height:1.96111in" />
 
 ##### 5呼叫设置
 
-<img src="_static/images/client/media/image322.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/client/media/image322.png)
 
 -   **外显号码轮询**：外显号码轮询功能可以帮助你自动更换外显号码，例如1表示每一天更换一个号码，0表示每次通话都会使用一个新的号码，此功能适用于外呼接口，坐席外呼或者外呼任务。
 
@@ -4575,8 +4280,7 @@ style="width:5.75694in;height:2.73333in" />
 
 用于记录坐席记录的客户通话状态。如果销售漏斗大于0，则会在提交成功的位置进行记录。
 
-<img src="_static/images/client/media/image323.png"
-style="width:5.76806in;height:1.64167in" />
+![alt text](_static/images/client/media/image323.png)
 
 上图【默认】是可选择的客户包。
 
@@ -4600,8 +4304,7 @@ style="width:5.76806in;height:1.64167in" />
 
 ①Click Add to enter the general interface for adding/editing sales funnel:
 
-<img src="_static/images/client/media/image324.png"
-style="width:5.76597in;height:1.40764in" />
+![alt text](_static/images/client/media/image324.png)
 
 -   **名称**：为这个销售漏斗命名。
 
@@ -4625,8 +4328,7 @@ style="width:5.76597in;height:1.40764in" />
 
 后台任务是允许在系统的程序任务，通常是属于耗时的任务，比如导入或是导出数据。页面默认显示的事正在进行中的任务，需要查看或搜索过往和现在全部的后台任务需要点击全部任务。
 
-<img src="_static/images/client/media/image325.png"
-style="width:5.76111in;height:1.64653in" />
+![alt text](_static/images/client/media/image325.png)
 
 【搜索】在全局搜索中支持以任务编号、文件名称为关键词搜索。
 
@@ -4678,8 +4380,7 @@ style="width:5.76111in;height:1.64653in" />
 
 ##### 1 api验证串
 
-<img src="_static/images/client/media/image326.png"
-style="width:5.7625in;height:2.82014in" />
+![alt text](_static/images/client/media/image326.png)
 
 -   **api验证串**：填写api验证串。
 
@@ -4689,8 +4390,7 @@ style="width:5.7625in;height:2.82014in" />
 
 ##### 2 API 限制
 
-<img src="_static/images/client/media/image327.png"
-style="width:4.36875in;height:1.99375in" />
+![alt text](_static/images/client/media/image327.png)
 
 -   **短信**：设置短信的限制数量。
 
@@ -4704,5 +4404,4 @@ style="width:4.36875in;height:1.99375in" />
 
 用户可以填写自己的公司信息和财务信息。
 
-<img src="_static/images/client/media/image328.png"
-style="width:5.76806in;height:3.61667in" />
+![alt text](_static/images/client/media/image328.png)

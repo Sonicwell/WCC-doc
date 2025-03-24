@@ -4,8 +4,7 @@
 
 WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2）上部状态栏和 （3） 中间工作区。
 
-<img src="_static/images/reseller/media/image3.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image3.png)
 
 ### 1.2.2 工具栏
 
@@ -23,13 +22,11 @@ style="width:5.75694in;height:2.73333in" />
 
 由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。
 
-<img src="_static/images/reseller/media/image4.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image4.png)
 
 **单击【添加】以执行常【规】设置**
 
-<img src="_static/images/reseller/media/image5.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image5.png)
 
 -   **域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。
 
@@ -51,8 +48,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【高级】设置**:
 
-<img src="_static/images/reseller/media/image6.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image6.png)
 
 -   **多客户包**: 允许client创建多个客户包。
 
@@ -101,8 +97,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【呼叫设置】**:
 
-<img src="_static/images/reseller/media/image7.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image7.png)
 
 -   **外呼档案**:
     根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。
@@ -120,16 +115,13 @@ style="width:5.75694in;height:2.73333in" />
 
 **【AI赋能】设置**:
 
-<img src="_static/images/reseller/media/image8.png"
-style="width:5.75764in;height:3.32083in"
-alt="Screenshot from 2024-05-20 10-51-47" />
+![alt text](_static/images/reseller/media/image8.png)
 
 -   **AI 参数配置**: 联系管理管理员进行配置。
 
 -   **【API 限制】设置**:
 
-<img src="_static/images/reseller/media/image9.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image9.png)
 
 -   **短信**:请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。
 
@@ -141,8 +133,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【客户信息】设置**:
 
-<img src="_static/images/reseller/media/image10.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image10.png)
 
 -   **公司名称**: 请填写公司名称。
 
@@ -166,8 +157,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【信息】设置**:
 
-<img src="_static/images/reseller/media/image11.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image11.png)
 
 -   **邮件服务器**:
     根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。
@@ -177,8 +167,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【其他】设置**:
 
-<img src="_static/images/reseller/media/image12.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image12.png)
 
 -   **禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。
 
@@ -194,14 +183,11 @@ style="width:5.75694in;height:2.73333in" />
 
 账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限。
 
-<img src="_static/images/reseller/media/image13.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image13.png)
 
 **点击\[添加\] 进入\[常规\] 设置**:
 
-<img src="_static/images/reseller/media/image14.png"
-style="width:5.75764in;height:3.32083in"
-alt="Screenshot from 2024-05-20 10-58-00" />
+![alt text](_static/images/reseller/media/image14.png)
 
 -   **用户名**: 用户将用此用户名进行系统登录。
 
@@ -219,8 +205,7 @@ alt="Screenshot from 2024-05-20 10-58-00" />
 
 **【高级 】设置**:
 
-<img src="_static/images/reseller/media/image15.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image15.png)
 
 **备注**: 您可以在此处设置有关此帐户的一些注释信息。
 
@@ -228,18 +213,15 @@ style="width:5.75694in;height:2.73333in" />
 
 角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。
 
-<img src="_static/images/reseller/media/image16.png"
-style="width:5.96528in;height:3.44097in" alt="IMG_256" />
+![alt text](_static/images/reseller/media/image16.png)
 
 **在 \[添加/编辑\] 角色权限中，可以设置 \[常规\] 设置来命名角色。**
 
-<img src="_static/images/reseller/media/image17.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image17.png)
 
 **【编辑】**:
 
-<img src="_static/images/reseller/media/image18.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image18.png)
 
 -   **名称**: 请为这个权限角色命名。
 
@@ -247,15 +229,13 @@ style="width:5.75694in;height:2.73333in" />
 
 控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。
 
-<img src="_static/images/reseller/media/image19.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image19.png)
 
 **【权限】设置**:
 
 控制具有此角色的用户的页面显示权限。
 
-<img src="_static/images/reseller/media/image20.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image20.png)
 
 #### d. 计费：
 
@@ -263,13 +243,11 @@ style="width:5.75694in;height:2.73333in" />
 
 它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。.
 
-<img src="_static/images/reseller/media/image21.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image21.png)
 
 **单击 \[编辑\] 执行 \[常规\] 设置。**
 
-<img src="_static/images/reseller/media/image22.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image22.png)
 
 -   **ID**: 数据的唯一 ID。
 
@@ -279,8 +257,7 @@ style="width:5.75694in;height:2.73333in" />
 
 **【计费】设置**:
 
-<img src="_static/images/reseller/media/image23.png"
-style="width:5.62153in;height:2.66944in" />
+![alt text](_static/images/reseller/media/image23.png)
 
 -   **应缴费用**: 应当缴纳的本期费用。
 
@@ -302,8 +279,7 @@ style="width:5.62153in;height:2.66944in" />
 
 **【账单和提醒】设置**:
 
-<img src="_static/images/reseller/media/image24.png"
-style="width:5.75903in;height:3.31875in" />
+![alt text](_static/images/reseller/media/image24.png)
 
 -   **余额不足提醒**: 设置余额不足后的提醒次数。
 
@@ -313,11 +289,9 @@ style="width:5.75903in;height:3.31875in" />
 
     <span class="mark">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户的充值金额及交易时间，如有需要，还可以填写备注信息。</span>
 
-    <img src="_static/images/reseller/media/image25.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/reseller/media/image25.png)
 
-    <img src="_static/images/reseller/media/image26.png"
-    style="width:5.75694in;height:2.73333in" />
+    ![alt text](_static/images/reseller/media/image26.png)
 
 #### e. 语音设置：
 
@@ -325,13 +299,11 @@ style="width:5.75903in;height:3.31875in" />
 
 DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。
 
-<img src="_static/images/reseller/media/image27.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image27.png)
 
 **点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名称】和【客户端】。**
 
-<img src="_static/images/reseller/media/image28.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image28.png)
 
 -   **ID**: 数据唯一ID。
 
@@ -355,20 +327,17 @@ style="width:5.75694in;height:2.73333in" />
 
 可以选择国家，填写备注，这些是上一级设置的，代理商级别是不能修改的。.
 
-<img src="_static/images/reseller/media/image29.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image29.png)
 
 ##### 外显号码：
 
 外显号码即主叫号码，是呼叫客户时的号码。
 
-<img src="_static/images/reseller/media/image30.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image30.png)
 
 **单击【编辑】以编辑【外显号码】**
 
-<img src="_static/images/reseller/media/image31.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image31.png)
 
 -   **ID**: 数据唯一ID。
 
@@ -384,13 +353,11 @@ style="width:5.75694in;height:2.73333in" />
 
 话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。
 
-<img src="_static/images/reseller/media/image32.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image32.png)
 
 **单击【添加】进入【常规】设置**:
 
-<img src="_static/images/reseller/media/image33.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image33.png)
 
 -   **模版名称**: 请填入模版名称。
 
@@ -404,25 +371,21 @@ style="width:5.75694in;height:2.73333in" />
 
 **坐席组坐席**:选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能显示数据。
 
-<img src="_static/images/reseller/media/image34.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image34.png)
 
 **坐席组**: 选择需要监控的座席组，即当天有来电且活跃的座席组。
 
-<img src="_static/images/reseller/media/image35.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image35.png)
 
 **坐席**:选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据
 
-<img src="_static/images/reseller/media/image36.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image36.png)
 
 #### h. 日志记录：
 
 **日志记录**:记录系统用户行为为日志。
 
-<img src="_static/images/reseller/media/image37.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image37.png)
 
 #### 系统：
 
@@ -430,15 +393,13 @@ style="width:5.75694in;height:2.73333in" />
 
 后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。
 
-<img src="_static/images/reseller/media/image38.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image38.png)
 
 ##### 公司信息：
 
 在此页面您可以查看和编辑系统的公司信息。
 
-<img src="_static/images/reseller/media/image39.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image39.png)
 
 ### 1.2.3 工具栏
 
@@ -446,22 +407,19 @@ style="width:5.75694in;height:2.73333in" />
 
 可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。
 
-<img src="_static/images/reseller/media/image40.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image40.png)
 
 #### b. 通知
 
 将显示一些新消息。
 
-<img src="_static/images/reseller/media/image41.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image41.png)
 
 #### c. 语言
 
 代理商用户可以从此下拉菜单中选择常见的语言类型。
 
-<img src="_static/images/reseller/media/image42.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image42.png)
 
 #### d. 我的信息
 
@@ -471,8 +429,6 @@ style="width:5.75694in;height:2.73333in" />
 
 \[退出\]退出当前登录页面。
 
-<img src="_static/images/reseller/media/image43.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image43.png)
 
-<img src="_static/images/reseller/media/image44.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/reseller/media/image44.png)

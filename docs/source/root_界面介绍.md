@@ -4,9 +4,6 @@
 
 WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②上方状态栏、③中间工作区。（如下图所示）
 
-<img src="_static/images/root/media/image3.png"
-style="width:5.65486in;height:2.78333in" />
-
 ![alt text](_static/images/root/media/image3.png)
 
 ### 菜单栏 
@@ -15,8 +12,7 @@ style="width:5.65486in;height:2.78333in" />
 
 系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：外拨/已应答、在线代理、DID入站、入站区域和出站区域。
 
-<img src="_static/images/root/media/image4.png"
-style="width:5.56875in;height:2.74097in" />
+![alt text](_static/images/root/media/image4.png)
 
 #### b. 用户: 
 
@@ -26,8 +22,7 @@ style="width:5.56875in;height:2.74097in" />
 
 选择【添加】，进入【常规】添加代理的设置：（如下图）
 
-<img src="_static/images/root/media/image5.png"
-style="width:5.75694in;height:2.73333in" />
+![alt text](_static/images/root/media/image5.png)
 
 -   **域名**：每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字（0-9）、字符（.-）的组合。
 
@@ -47,16 +42,14 @@ style="width:5.75694in;height:2.73333in" />
 
 **【 高级 】 设置:**
 
-<img src="_static/images/root/media/image6.png"
-style="width:5.46389in;height:2.68958in" />
+![alt text](_static/images/root/media/image6.png)
 
 -   **时区**: 请为该代理用户设置时区。设置后不可修改。您可以直接搜索或向下滚动进行选择。
 
 **\[公司信息\]:**
 公司信息基本编辑（如下图）
 
-<img src="_static/images/root/media/image7.png"
-style="width:5.39236in;height:3.28542in" />
+![alt text](_static/images/root/media/image7.png)
 
 -   **公司名称**:请填写这个公司的名字。
 
@@ -82,20 +75,17 @@ style="width:5.39236in;height:3.28542in" />
 
 clients 用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。
 
-<img src="_static/images/root/media/image8.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image8.png)
 
 ##### 账户:
 
 账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色可以实现不同的账户拥有不同的功能权限:
 
-<img src="_static/images/root/media/image9.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image9.png)
 
 选择【添加】并输入【通用】设置：（如下图所示）
 
-<img src="_static/images/root/media/image10.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image10.png)
 
 -   **用户名**: 用户将使用该用户名登录系统。>
 
@@ -117,21 +107,19 @@ style="width:5.75972in;height:2.83472in" />
 
 角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。
 
-<img src="_static/images/root/media/image11.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image11.png)
 
 单击【编辑】/【添加】，然后输入【通用】来命名角色：（如下图所示）
 
-<img src="_static/images/root/media/image12.png"
-style="width:5.75972in;height:1.42222in" />
+![alt text](_static/images/root/media/image12.png)
 
 【 高级 】设置:
 
-<img src="_static/images/root/media/image13.png"
-style="width:5.75972in;height:2.83472in" />【权限设置】:
+![alt text](_static/images/root/media/image13.png)
 
-<img src="_static/images/root/media/image14.png"
-style="width:5.75972in;height:2.83472in" />
+【权限设置】:
+
+![alt text](_static/images/root/media/image14.png)
 
 #### c. 客户数据: 
 
@@ -139,30 +127,25 @@ style="width:5.75972in;height:2.83472in" />
 
 客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。
 
-<img src="_static/images/root/media/image15.png"
-style="width:5.75972in;height:2.13333in" />
+![alt text](_static/images/root/media/image15.png)
 
 单击【添加】以进入【常规】设置：（如下图所示）
 
-<img src="_static/images/root/media/image16.png"
-style="width:5.75972in;height:0.98681in" />
+![alt text](_static/images/root/media/image16.png)
 
 -   **标签名称**：请输入客户标签的名称。
 
-<img src="_static/images/root/media/image17.png"
-style="width:5.75972in;height:0.94792in" />
+![alt text](_static/images/root/media/image17.png)
 
 ##### 数据来源
 
 数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源。
 
-<img src="_static/images/root/media/image18.png"
-style="width:5.75972in;height:1.34722in" />
+![alt text](_static/images/root/media/image18.png)
 
 单击【添加】以进入【常规】设置：（如下图所示）
 
-<img src="_static/images/root/media/image19.png"
-style="width:5.75972in;height:1.33819in" />
+![alt text](_static/images/root/media/image19.png)
 
 -   **来源名称**：请输入数据来源的名称。
 
@@ -170,8 +153,7 @@ style="width:5.75972in;height:1.33819in" />
 
 **在【高级】设置中可以设置备注信息（如下图）>**
 
-<img src="_static/images/root/media/image20.png"
-style="width:5.75972in;height:1.17292in" />
+![alt text](_static/images/root/media/image20.png)
 
 #### d.任务管理：
 
@@ -179,13 +161,11 @@ style="width:5.75972in;height:1.17292in" />
 
 呼叫结果是坐席呼叫客户后记录的通话结果，用于通话结果的分类。
 
-<img src="_static/images/root/media/image21.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image21.png)
 
 选择【添加】，进入【常规】设置：（如下图）
 
-<img src="_static/images/root/media/image22.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image22.png)
 
 -   **呼叫结果名称**:您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。
 
@@ -201,13 +181,11 @@ style="width:5.75972in;height:2.83472in" />
 
 客户计费是对代理商的计费。
 
-<img src="_static/images/root/media/image23.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image23.png)
 
 单击【编辑】进入【常规】设置：（如下图所示）
 
-<img src="_static/images/root/media/image24.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image24.png)
 
 -   **ID**： 唯一id。
 
@@ -217,8 +195,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【账单】设置：（如下图）
 
-<img src="_static/images/root/media/image25.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image25.png)
 
 -   **应缴费用**： 应当缴纳的本期费用。
 
@@ -240,8 +217,7 @@ style="width:5.75972in;height:2.83472in" />
 
 **【账单和提醒】设置:**
 
-<img src="_static/images/root/media/image26.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image26.png)
 
 -   **余额不足提醒**： 设置余额不足后的提醒次数。
 
@@ -251,26 +227,21 @@ style="width:5.75972in;height:2.83472in" />
 
 在设置的客户页面点击下拉菜单选择【充值】，记录客户的充值金额及交易时间，如有需要，也可填写备注信息；点击【费用扣减】类似；点击【立即生效】，对客户的账单信息生效（如下图）
 
-<img src="_static/images/root/media/image27.png"
-style="width:5.75972in;height:1.47569in" />
+![alt text](_static/images/root/media/image27.png)
 
-<img src="_static/images/root/media/image28.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image28.png)
 
-<img src="_static/images/root/media/image29.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image29.png)
 
 ##### 费率计划:
 
 费率计划是指按照费用决策要求，具体编制在一定时期(计划期)内实现的费率计划，包括:销售费率和成本费率看。
 
-<img src="_static/images/root/media/image30.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image30.png)
 
 选择【添加】，进入【常规】设置：（如下图）
 
-<img src="_static/images/root/media/image31.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image31.png)
 
 -   **费率名称**： 请为这个费率命名。
 
@@ -288,8 +259,7 @@ style="width:5.75972in;height:2.83472in" />
 
 **【高级 】 设置:**
 
-<img src="_static/images/root/media/image32.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image32.png)
 
 -   **时间**：请选择这个费率计划开始执行的时间。
 
@@ -301,13 +271,11 @@ style="width:5.75972in;height:2.83472in" />
 
 中继是用于将本机的电话网络与其他系统的电话网络连接在一起的线路管理。
 
-<img src="_static/images/root/media/image33.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image33.png)
 
 选择【添加】并输入【常规】设置：
 
-<img src="_static/images/root/media/image34.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image34.png)
 
 -   **名称**：给中继起个名字，你可以随时改变他。
 
@@ -316,8 +284,7 @@ style="width:5.75972in;height:2.83472in" />
 -   **验证**：请选择这个中继的验证方式.
     以下步骤根据验证方式不同有所差异，添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）
 
-<img src="_static/images/root/media/image35.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image35.png)
 
 -   **服务器地址**：请输入这个服务器的地址，它可能是一个域或者IP。
 
@@ -329,8 +296,7 @@ style="width:5.75972in;height:2.83472in" />
 
 添加编辑中继管理界面【验证】，然后选择【用户名/密码】（如下图所示）
 
-<img src="_static/images/root/media/image36.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image36.png)
 
 -   **注册服务器**： 请选择一个注册服务器。
 
@@ -357,8 +323,7 @@ style="width:5.75972in;height:2.83472in" />
 
 添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。
 
-<img src="_static/images/root/media/image37.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image37.png)
 
 -   **验证域**： 需要验证的域。
 
@@ -366,8 +331,7 @@ style="width:5.75972in;height:2.83472in" />
 
 在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）
 
-<img src="_static/images/root/media/image38.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image38.png)
 
 -   **已拨**： 已拨打电话总数量。
 
@@ -377,8 +341,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【高级】设置：（如下图所示）
 
-<img src="_static/images/root/media/image39.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image39.png)
 
 -   **绑定呼入到 client**：您可以将此中继线绑定到某个Client，然后来自此中继线的所有呼叫都将发送到此Client。
 
@@ -396,8 +359,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）)
 
-<img src="_static/images/root/media/image40.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image40.png)
 
 -   **名称**: 请为这个呼出规则命名。
 
@@ -413,13 +375,11 @@ style="width:5.75972in;height:2.83472in" />
 
 【呼入IP 】设置:
 
-<img src="_static/images/root/media/image41.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image41.png)
 
 -   **呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。
 
-<img src="_static/images/root/media/image42.png"
-style="width:5.75972in;heig     ht:1.28403in" />
+![alt text](_static/images/root/media/image42.png)
 
    **费率**: 缴纳费用的比率。 
 
@@ -431,13 +391,11 @@ style="width:5.75972in;heig     ht:1.28403in" />
 
 DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。
 
-<img src="_static/images/root/media/image43.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image43.png)
 
 点击添加添加一个新的中继：
 
-<img src="_static/images/root/media/image44.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image44.png)
 
 -   **DID号码**: Please enter a DID number, one per line.
 
@@ -449,21 +407,18 @@ style="width:5.75972in;height:2.83472in" />
 
 【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。
 
-<img src="_static/images/root/media/image45.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image45.png)
 
 ##### 外显号码: 
 
 外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示）
 
 
-<img src="_static/images/root/media/image46.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image46.png)
 
 **选择【添加】，进入【常规】设置：（如下图）**
 
-<img src="_static/images/root/media/image47.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image47.png)
 
 -   **外显号码**： 请输入您要添加的外显号码，每行一个。
 
@@ -477,13 +432,11 @@ style="width:5.75972in;height:2.83472in" />
 
 号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。
 
-<img src="_static/images/root/media/image48.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image48.png)
 
 **选择【添加】并输入【通用】设置：（如下图所示）**
 
-<img src="_static/images/root/media/image49.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image49.png)
 
 -   **操作**:
 
@@ -499,8 +452,7 @@ style="width:5.75972in;height:2.83472in" />
 
 从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。
 
-<img src="_static/images/root/media/image50.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image50.png)
 
 **选择【添加】并输入【通用】设置:**
 
@@ -508,8 +460,7 @@ style="width:5.75972in;height:2.83472in" />
 
 > 当节点类型为普通时：（如下图）
 >
-> <img src="_static/images/root/media/image51.png"
-  style="width:5.75972in;height:2.83472in" />
+> ![alt text](_static/images/root/media/image51.png)
 
 -   **节点名称**：
     给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。
@@ -524,8 +475,7 @@ style="width:5.75972in;height:2.83472in" />
 
 当节点类型为 opensips 时：（如下图）
 
-<img src="_static/images/root/media/image52.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image52.png)
 
 -   **节点名称**：给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。
 
@@ -547,8 +497,7 @@ style="width:5.75972in;height:2.83472in" />
 
 -   **Mysql数据库**： 填写 Opensips 使用的 MySQL 数据库。
 
-<img src="_static/images/root/media/image53.png"
-style="width:5.75694in;height:3.22847in" />
+![alt text](_static/images/root/media/image53.png)
 
 -   **编辑节点**： 编辑这个节点。
 
@@ -563,13 +512,11 @@ style="width:5.75694in;height:3.22847in" />
 呼叫限制是指号码可以拨打的次数;同时，您可以在 通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 个电话。（如下图所示）
 
 
-<img src="_static/images/root/media/image54.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image54.png)
 
 **选择【添加】并进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image55.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image55.png)
 
 -   **规则**： 你可以在 M 天内呼叫 N 次超出设置次数通话会被限制。
 
@@ -577,20 +524,17 @@ style="width:5.75972in;height:2.83472in" />
 
 外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据需要转换主叫号码或被叫号码。
 
-<img src="_static/images/root/media/image56.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image56.png)
 
 **单击【添加】以进入【常规】设置：（如下图所示）**
 
-<img src="_static/images/root/media/image57.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image57.png)
 
 -   **档案名称**：请为该外呼档案命名。
 
 设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）
 
-<img src="_static/images/root/media/image58.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image58.png)
 
 -   **路由名称**： 请为该路由命名。
 
@@ -614,13 +558,11 @@ style="width:5.75972in;height:2.83472in" />
 
 暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。
 
-<img src="_static/images/root/media/image59.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image59.png)
 
 **点击【添加】进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image60.png"
-style="width:5.75972in;height:1.875in" />
+![alt text](_static/images/root/media/image60.png)
 
 -   **暂停原因名称**： 设置暂停原因为其命名。
 
@@ -628,13 +570,11 @@ style="width:5.75972in;height:1.875in" />
 
 话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。
 
-<img src="_static/images/root/media/image61.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image61.png)
 
 **点击【添加】进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image62.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image62.png)
 
 -   **模版名称**：请填入模版名称。
 
@@ -648,20 +588,17 @@ style="width:5.75972in;height:2.83472in" />
 
 短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。
 
-<img src="_static/images/root/media/image63.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image63.png)
 
 **单击【添加】以进入【常规】设置：（如下图所示）**
 
-<img src="_static/images/root/media/image64.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image64.png)
 
 -   **短信档案名称**： 请给短信档案命名。
 
 设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）
 
-<img src="_static/images/root/media/image65.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image65.png)
 
 -   **匹配标识串**： 客户请求中用于选择要发送短信的供应商的标识字符串。
 
@@ -669,20 +606,17 @@ style="width:5.75972in;height:2.83472in" />
 
 编辑完【短信文件】后，如下图所示，点击保存（如下图）
 
-<img src="_static/images/root/media/image66.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image66.png)
 
 ##### 短信供应商: 
 
 短信供应商页面用于管理短信供应商，你可以在系统中配置多个供应商，然后在短信档案中配置如何选择这些供应商发短信。
 
-<img src="_static/images/root/media/image67.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image67.png)
 
 **选择【添加】并进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image68.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image68.png)
 
 -   **供应商名称**： 请输入短信供应商名称。
 
@@ -694,13 +628,11 @@ style="width:5.75972in;height:2.83472in" />
 
 邮件服务器页面用于管理电子邮件收发的管理设备。
 
-<img src="_static/images/root/media/image69.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image69.png)
 
 **选择【添加】并进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image70.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image70.png)
 
 -   **服务器名称**： 请为这个服务器命名。
 
@@ -724,22 +656,19 @@ style="width:5.75972in;height:2.83472in" />
 
 **统计报表**：您可以查看项目详细信息、项目摘要、任务详细信息、任务摘要和成本费率报告。（如下图所示）
 
-<img src="_static/images/root/media/image71.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image71.png)
 
 #### j. 监控管理: 
 
 **实时监控**：系统用户可以实时监控呼入/呼出的状态以及座位是否在线（如下图所示）
 
-<img src="_static/images/root/media/image72.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image72.png)
 
 #### k. 日志记录: 
 
 **日志记录**： 您可以查看所有用户的行为（如下图所示）
 
-<img src="_static/images/root/media/image73.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image73.png)
 
 #### l. 系统: 
 
@@ -749,8 +678,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【 通用 】 设置页面：（如下图）
 
-<img src="_static/images/root/media/image74.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image74.png)
 
 -   **时区**： 当前使用的时区，默认为东京且无法修改。
 
@@ -780,8 +708,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【货币】设置页面：（如下图）
 
-<img src="_static/images/root/media/image75.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image75.png)
 
 -   **货币**： 设置货币。.
 
@@ -795,8 +722,7 @@ style="width:5.75972in;height:2.83472in" />
 
 【 数据 】 设置页面：（如下图）
 
-<img src="_static/images/root/media/image76.png"
-style="width:5.75972in;height:1.11597in" />
+![alt text](_static/images/root/media/image76.png)
 
 -   **导出文件编**： 设置导出文件编码。
 
@@ -804,8 +730,7 @@ style="width:5.75972in;height:1.11597in" />
 
 【拨号】设置页面：（如下图）
 
-<img src="_static/images/root/media/image77.png"
-style="width:5.75972in;height:1.09167in" />
+![alt text](_static/images/root/media/image77.png)
 
 -   **拨打外线超时**： 外呼振铃时长。
 
@@ -817,13 +742,11 @@ style="width:5.75972in;height:1.09167in" />
 
 销售漏斗的分数代表着坐席的呼叫和联系分数，最终可以根据坐席的总分进行排名，可以在坐席数据页面的排名列表中查看。
 
-<img src="_static/images/root/media/image78.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image78.png)
 
 **选择【添加】并进入【常规】设置：（如下图）**
 
-<img src="_static/images/root/media/image79.png"
-style="width:5.75972in;height:1.58681in" />
+![alt text](_static/images/root/media/image79.png)
 
 -   **名称**：为此销售漏斗命名。
 
@@ -841,8 +764,7 @@ style="width:5.75972in;height:1.58681in" />
 
 后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。
 
-<img src="_static/images/root/media/image80.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image80.png)
 
 ##### 高级:
 
@@ -850,8 +772,7 @@ style="width:5.75972in;height:2.83472in" />
 
 **\[基本\]设置：（如下图）**
 
-<img src="_static/images/root/media/image81.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image81.png)
 
 -   **事件类型**;
 
@@ -887,8 +808,7 @@ style="width:5.75972in;height:2.83472in" />
 
 **\[录音转移\]设置：（如下图）**
 
-<img src="_static/images/root/media/image82.png"
-style="width:5.76736in;height:1.14097in" />
+![alt text](_static/images/root/media/image82.png)
 
 -   **转移路径**: 录音合成后，系统会将文件发送到该地址。
 
@@ -898,20 +818,17 @@ style="width:5.76736in;height:1.14097in" />
 
 在此页面上，您可以查看和编辑系统的公司信息。（如下图所示）
 
-<img src="_static/images/root/media/image83.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image83.png)
 
 ##### 假期设置 :
 
 根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）
 
-<img src="_static/images/root/media/image84.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image84.png)
 
 **点击【添加】进入【通用】设置：（如下图）**
 
-<img src="_static/images/root/media/image85.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image85.png)
 
 -   **假日名称**: 假日名称。
 
@@ -923,23 +840,19 @@ style="width:5.75972in;height:2.83472in" />
 
 **后台任务**:您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）
 
-<img src="_static/images/root/media/image86.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image86.png)
 
 **通知**: 将显示一些新消息（如下所示）。
 
-<img src="_static/images/root/media/image87.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image87.png)
 
 **语言**: Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）
 
-<img src="_static/images/root/media/image88.png"
-style="width:5.75972in;height:1.11875in" />
+![alt text](_static/images/root/media/image88.png)
 
 **我的档案**
 
-<img src="_static/images/root/media/image89.png"
-style="width:5.75972in;height:2.83472in" />
+![alt text](_static/images/root/media/image89.png)
 
 **包括“我的档案”和“注销”**
 
