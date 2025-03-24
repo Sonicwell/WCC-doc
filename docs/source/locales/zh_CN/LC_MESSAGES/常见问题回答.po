@@ -1,0 +1,1163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../常见问题回答.md:1 8bc5f73cd288413f9117c9b623305f44
+msgid "常见问题"
+msgstr ""
+
+#: ../../常见问题回答.md:2 22e05166907c4b9e8b4df8e6559fa23d
+msgid "1 PBX错误编码的解释"
+msgstr ""
+
+#: ../../常见问题回答.md cc5fc1c1ae19405c970268a33ecc43fd
+msgid "错误编码"
+msgstr ""
+
+#: ../../常见问题回答.md 643a2634a6a446a8a0d77b7d76d98b6c
+msgid "中文解释"
+msgstr ""
+
+#: ../../常见问题回答.md 0aad7866cdaf4a82a8e280e2cb27ed8a
+msgid "示例"
+msgstr ""
+
+#: ../../常见问题回答.md 558d18ccefca4e07a85de02f54b9a100
+msgid "404"
+msgstr ""
+
+#: ../../常见问题回答.md 7fbbf13975c14fc9a1445aa391a50115
+msgid "未找到此分机，禁止呼出"
+msgstr ""
+
+#: ../../常见问题回答.md dcd5f2905a09477c8bedb1159d7e9896
+msgid "例：坐席A注册一个sip电话，然后在坐席编辑页面中将坐席状态设置为禁用，保存后删除该坐席，在话机注册超时前呼出外线，就会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md d171d38803c940db9b2fd1425949bb89
+msgid "410"
+msgstr ""
+
+#: ../../常见问题回答.md 16b22309dc79403a8c289133acaaf979
+msgid "转向类型或转向目标缺失"
+msgstr ""
+
+#: ../../常见问题回答.md 25e736d4b6054b41aeb0a1e91ea90a37
+msgid "例：did不设置转向，呼入电话走呼入路由，然后呼入路由能匹配上但是不设置转向，听不到提示音，但是在通话记录里显示410/did转向到坐席组，坐席组溢出转向有类别没目标，会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 36c803539e8b4ae0a3a5ec98e5d5bb9c
+msgid "411"
+msgstr ""
+
+#: ../../常见问题回答.md 1971a801901f422ba9b6346d7969ad96
+msgid "未找到该转向目标配置(一般是设置是转向目标被删除了)"
+msgstr ""
+
+#: ../../常见问题回答.md 6a582e53d7dc487faa51f66f423c1e03
+msgid "例：did转向到ivr，然后删掉该ivr，外线呼入时会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 9eafb19b74cd44f8a51e2225cfd753f8
+msgid "415"
+msgstr ""
+
+#: ../../常见问题回答.md 77cc123022774573a02fe598cf95c580
+msgid "外呼档案中未匹配到路由"
+msgstr ""
+
+#: ../../常见问题回答.md 8f32650ed5ca4801807a32021c09a176
+msgid "例：没有设置外呼档案；或设置的外呼档案路由匹配不上"
+msgstr ""
+
+#: ../../常见问题回答.md 39de0c4538004943992b2b5d4b8d1dba
+msgid "416"
+msgstr ""
+
+#: ../../常见问题回答.md e6f03b50159a4406964798582f917dd0
+msgid "未找到指定的外呼中继"
+msgstr ""
+
+#: ../../常见问题回答.md 5841f3473b274bdc81babcccff816f25
+msgid "例：外呼档案中不设置中继"
+msgstr ""
+
+#: ../../常见问题回答.md 9085cb3106b64a3596f0a1ccf03b1654
+msgid "417"
+msgstr ""
+
+#: ../../常见问题回答.md 2ead45014af84d0ca3dc409da0e8125b
+msgid "获取IVR语音列表媒体文件失败"
+msgstr ""
+
+#: ../../常见问题回答.md cc9a8f234f794b0b9810e3920cfffd63
+msgid "例：在ivr语音菜单中设置了一个媒体文件，然后将设置的媒体文件删除，did转向到该ivr，外线呼入时会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 9b004d8d5ef9439696c20448d8416243
+msgid "418"
+msgstr ""
+
+#: ../../常见问题回答.md 4fa81b7fceb14c2ba0ca54c7931e83bb
+msgid "中继绑定的Client与DID绑定的Client不一致"
+msgstr ""
+
+#: ../../常见问题回答.md 6ae9471e71e14c809d08953d2f8fae54
+msgid "以did的realm为准"
+msgstr ""
+
+#: ../../常见问题回答.md c1c0660f1aba44248c7f647afc38e44c
+msgid "419"
+msgstr ""
+
+#: ../../常见问题回答.md 7c272de5921148fdbcc4cdbe03538b28
+msgid "呼入通话未匹配到任何Client，无法进行转向"
+msgstr ""
+
+#: ../../常见问题回答.md eace537787b043b28cc6b27882c9f182
+msgid "例：呼入的DID和中继都不绑定clien"
+msgstr ""
+
+#: ../../常见问题回答.md 0a6a21c9741b4fc4a79960a021789e95
+msgid "420"
+msgstr ""
+
+#: ../../常见问题回答.md 8619d0fd7f18476595f9521017cf9a92
+msgid "DNC列表中的号码，禁止呼叫"
+msgstr ""
+
+#: ../../常见问题回答.md 92bec322a374473c9c434811c35b173e
+msgid "例：将客户号码添加到禁呼列表，坐席呼出，会有语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md c7a18b00e4e24814bc6e896bf0eb4eaa
+msgid "421"
+msgstr ""
+
+#: ../../常见问题回答.md 11cc71fe529e49c1852f60c9882806f7
+msgid "DID已被禁用"
+msgstr ""
+
+#: ../../常见问题回答.md f269c51730464e2293a846e7dca0a234
+msgid "422"
+msgstr ""
+
+#: ../../常见问题回答.md 19fb3e1d50d4480395ba5f009ade8889
+msgid "达到系统呼叫次数限制规则，禁止呼出"
+msgstr ""
+
+#: ../../常见问题回答.md da753de8cd0b4796ac27040b8ba65fbd
+msgid "例：在root-呼叫限制次数页面，添加呼叫限制，坐席呼出会有语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 251ec2dd54ac48e5ae8771444f370833
+msgid "423"
+msgstr ""
+
+#: ../../常见问题回答.md 7a4eff451c8b456e8b98a2a13f2a6b28
+msgid "默认呼入路由未设置转向目标"
+msgstr ""
+
+#: ../../常见问题回答.md a102ce026c2f44668dd849b2307170a0
+msgid "例：did不设置转向，已有的呼入路由匹配不上时，默认呼入路由未设置转向，外线呼入会语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 849e589058244376812d50ee9c5966f6
+msgid "424"
+msgstr ""
+
+#: ../../常见问题回答.md 073662c4421a40f7a3405ff07ecb5276
+msgid "监听/秘语/强插对象未在通话中"
+msgstr ""
+
+#: ../../常见问题回答.md d0edeacc1e4a4751a47333db88b28286
+msgid "例：9010未在通话，9003输入*909010，会有语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 36f8926f4f9445beb5b81bdd0234c98b
+msgid "425"
+msgstr ""
+
+#: ../../常见问题回答.md 7c66a723675e4ceaba6643895973b7f1
+msgid "该坐席只允许进行点击呼叫(双呼)，禁止直接呼叫"
+msgstr ""
+
+#: ../../常见问题回答.md 67849dff05c547d9823b89d7a054e603
+msgid "例：在坐席编辑页面开启：只允许点击呼叫，坐席直接呼出会有语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md f0683cbca3204900bbe81a4686bcce3d
+msgid "426"
+msgstr ""
+
+#: ../../常见问题回答.md c9caf4793d27484bb2aa19a502debfb1
+msgid "无权使用功能键进行监听相关操作，监听目标不在监控范围内"
+msgstr ""
+
+#: ../../常见问题回答.md 5b1ce181c6b046cd9b486242cf5179a0
+msgid "例：该坐席没有监听特权或者被监听方不在该坐席的监听范围内，该坐席监听时会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md bfe65cb4c14049d3a8d3a746a96f891b
+msgid "427"
+msgstr ""
+
+#: ../../常见问题回答.md 0e38845338994a55aef7605052848915
+msgid "不允许坐席自己的分机对自己进行监听相关操作"
+msgstr ""
+
+#: ../../常见问题回答.md dd0ca2a09e4641f8897d0c708895c89e
+msgid "例：坐席监听、密语、强插自己会听到语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 5397a1f57ec844fd80ebd89f36de7158
+msgid "430"
+msgstr ""
+
+#: ../../常见问题回答.md f787fca481804a5cb17945bb9e016417
+msgid "未在任何节点找到该目标通话/*85不加工号"
+msgstr ""
+
+#: ../../常见问题回答.md 8151f2c6469e42c5a4ccdb323034f018
+msgid "例：同部门的坐席不处于振铃状态，该坐席输入*85会有语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md 5b9032c9be9f4218baf4868dde966854
+msgid "432"
+msgstr ""
+
+#: ../../常见问题回答.md 68d410f4d07d4f6f98a4eaf34c1d3703
+msgid "抢接目标未处于振铃状态"
+msgstr ""
+
+#: ../../常见问题回答.md 0a0bba6fa2f447cda0a683408b2c5a2b
+#: 5a175ba92602455f97aa4009410a2ba9
+msgid "例：坐席2006输入“*859010:”抢接9010坐席的电话，但9010处于空闲状态，会语音提示"
+msgstr ""
+
+#: ../../常见问题回答.md c4ca679cf6b049b5bfb8c019e22d9266
+msgid "434"
+msgstr ""
+
+#: ../../常见问题回答.md 1d34f32ba3d84783be27c303b5ab5bde
+msgid "功能键抢接不同部门的电话"
+msgstr ""
+
+#: ../../常见问题回答.md 09efc3bd732349edb16b4690448f69d3
+msgid "460"
+msgstr ""
+
+#: ../../常见问题回答.md 13d2b5c362dd4220a801a8adb6f715eb
+msgid "接回的驻留通话不存在"
+msgstr ""
+
+#: ../../常见问题回答.md c4944def59cc4826bc7de6f14e1ef001
+msgid "例：找不到驻留取回通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才会报"
+msgstr ""
+
+#: ../../常见问题回答.md 31769d32054949508f6501dfb8053762
+msgid "461"
+msgstr ""
+
+#: ../../常见问题回答.md e1ff16565f0f445fa38529deaad8f949
+msgid "同上"
+msgstr ""
+
+#: ../../常见问题回答.md 8b6437dd382c4a9e865a52905ff35dae
+msgid "462"
+msgstr ""
+
+#: ../../常见问题回答.md 09c394820c94443db7eeb7b2562c9491
+msgid "抢接的通话不存在"
+msgstr ""
+
+#: ../../常见问题回答.md 95db73fb86dd4d6eb915d5ed39228cdc
+msgid "例：找不到抢接通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才会报"
+msgstr ""
+
+#: ../../常见问题回答.md:30 b829a19ee37a47d4829b16ec35ddddb4
+msgid "2 通话记录中呼叫类型"
+msgstr ""
+
+#: ../../常见问题回答.md 7a4d371bf48e44d3b93f6d6ce716737e
+msgid "呼叫类型"
+msgstr ""
+
+#: ../../常见问题回答.md b0f61c05d5c14bcb93077efe107ce607
+msgid "呼入"
+msgstr ""
+
+#: ../../常见问题回答.md 2ad4779cbf674dd0b82b9a829f2b57f6
+msgid "呼出"
+msgstr ""
+
+#: ../../常见问题回答.md 1a43bcbff4d04d749777a40474f5245b
+msgid "两端呼"
+msgstr ""
+
+#: ../../常见问题回答.md e8836c591419438385e15d87a51b6db0
+msgid "预拨号"
+msgstr ""
+
+#: ../../常见问题回答.md 729280cc63c34eae9d727328085a885c
+msgid "内线"
+msgstr ""
+
+#: ../../常见问题回答.md 65d1bdadb71f4c08a9ad6a4ad9c853ff
+msgid "语音通知"
+msgstr ""
+
+#: ../../常见问题回答.md 7649ff22ef76435aac1789c55564ff7e
+msgid "放音收号"
+msgstr ""
+
+#: ../../常见问题回答.md f38c041d85bd43b1be37058c8a4028f4
+msgid "强插"
+msgstr ""
+
+#: ../../常见问题回答.md f6003739cf9d4458b937c90ad00cfb60
+msgid "密语"
+msgstr ""
+
+#: ../../常见问题回答.md 9bf9cd69b17d4a38b9db6be1bde43bd0
+msgid "监听"
+msgstr ""
+
+#: ../../常见问题回答.md 793ffff1219e4164a8f4f2fa67e75ab6
+#: cce947d78f5e446e880aedb84a69d8ff
+msgid "抢接"
+msgstr ""
+
+#: ../../常见问题回答.md 58f97bfe15564d97b26ff15c2b00d55a
+msgid "驻留"
+msgstr ""
+
+#: ../../常见问题回答.md 476c76a9e3e54a369272d81d01855d88
+msgid "三方通话"
+msgstr ""
+
+#: ../../常见问题回答.md:48 d5e96486982a44db8c5fd89058c43809
+msgid "3 通话记录中挂断原因及其产生的方式"
+msgstr ""
+
+#: ../../常见问题回答.md 5f0c7f3cc4104229b58d3a89e57d333b
+msgid "挂断原因"
+msgstr ""
+
+#: ../../常见问题回答.md ab9488a2eb47457e8b838a6bb172a3a6
+msgid "产生原因"
+msgstr ""
+
+#: ../../常见问题回答.md 5f617dfd7d264fed9e2e13252d748898
+msgid "接通"
+msgstr ""
+
+#: ../../常见问题回答.md 824dc8b7600d4c3182f87d22dffcba17
+msgid "通话接通"
+msgstr ""
+
+#: ../../常见问题回答.md f6258f3e0db84c438035da05885cdeff
+msgid "未应答"
+msgstr ""
+
+#: ../../常见问题回答.md c5f17a98707942d7813acb533a4654fd
+msgid "呼入到未在线的坐席"
+msgstr ""
+
+#: ../../常见问题回答.md 93afd80ff65146a7a6ccc4ae45bf4bca
+msgid "呼叫失败"
+msgstr ""
+
+#: ../../常见问题回答.md c0e09c2256b348b8966d339f02aea54c
+msgid "呼出错误号码（呼出匹配不到外呼档案）"
+msgstr ""
+
+#: ../../常见问题回答.md 792fa2ea747d499b9b918091d3d4c6da
+msgid "黑名单"
+msgstr ""
+
+#: ../../常见问题回答.md 123082d61d7a4b92b8d02b85c2a3eabc
+msgid "把这个号码设置在黑名单中进行呼叫"
+msgstr ""
+
+#: ../../常见问题回答.md f7a41004e5424ca6ab6934a8a12ec179
+msgid "呼叫次数限制"
+msgstr ""
+
+#: ../../常见问题回答.md c6a6a91c451e41339d878ab0e6fe376c
+msgid "系统设置了呼叫次数限制，当达到限制次数时，会提示"
+msgstr ""
+
+#: ../../常见问题回答.md 8e15b2edd79d446597f63e2085c1c118
+msgid "紧急号码屏蔽"
+msgstr ""
+
+#: ../../常见问题回答.md 753587cd8751440ab86ad70d4cc27f17
+msgid "禁止呼叫紧急号码 110 118 119"
+msgstr ""
+
+#: ../../常见问题回答.md b6ade39533af494aa494f1ba0a08d059
+msgid "被叫忙"
+msgstr ""
+
+#: ../../常见问题回答.md 9f66ea29f34e415c8ec6d3ce3099fcc2
+msgid "呼叫的一方正在通话中或是拒绝通话，会显示被叫忙"
+msgstr ""
+
+#: ../../常见问题回答.md ac533b7c9c4b4f7c97752bf06a1783c4
+msgid "被叫拒接"
+msgstr ""
+
+#: ../../常见问题回答.md 648e5554e85148d88a29c4bea97310ee
+#: 9f3a26ac468a4d8792ae3a4ebc8a2ee3 dc2e37adf68d4edfa1ce1f486582cf96
+msgid "主叫提前挂机"
+msgstr ""
+
+#: ../../常见问题回答.md 433fbc1ce6c7443a947b960b65491867
+msgid "呼出错误号码，但号码可以匹配到对应的外呼档案"
+msgstr ""
+
+#: ../../常见问题回答.md cc4f87b5bbfb47fc91c3e1837a983ee5
+msgid "已删除，系统可能会有残留"
+msgstr ""
+
+#: ../../常见问题回答.md 0c3b0edc510e4ee99ce9ec7f6dcab2f8
+msgid "呼叫超时"
+msgstr ""
+
+#: ../../常见问题回答.md 25b4d45cd8b041e0b9a818d5b65b8437
+msgid "呼叫（呼入呼出）到在线坐席或客户，但坐席或客户没有接通，直到超时挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 0844ed493ad74ee2a17e59ef96e507b7
+msgid "队列等待退出"
+msgstr ""
+
+#: ../../常见问题回答.md 8a8c4235b2034849aa30422db1b49f0c
+msgid "呼入到队列时，客户在队列中等待坐席接通电话时，挂断"
+msgstr ""
+
+#: ../../常见问题回答.md fba522a968094708b2b7ea67ddc10b7e
+msgid "队列超时"
+msgstr ""
+
+#: ../../常见问题回答.md de1962e12c9247b78722c7db6ff786f2
+msgid "呼入到队列时，客户在队列中等待坐席接通电话，直到队列超时时间，通话被挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 22a4c3bed51641259b8c4a5b1a7d4902
+msgid "空队列禁入"
+msgstr ""
+
+#: ../../常见问题回答.md f71e055f35944d279cf22fbeaf527742
+msgid "队列中设置，没有坐席签入时不允许呼入"
+msgstr ""
+
+#: ../../常见问题回答.md e9ae632946cb467cbe01f3766eb8ebe4
+msgid "空队列溢出"
+msgstr ""
+
+#: ../../常见问题回答.md 6c5d650ceeff46628793aaf574affef2
+msgid "队列排队溢出"
+msgstr ""
+
+#: ../../常见问题回答.md a7bcf1d2b0bd41668dd45f4af02294c2
+msgid "当呼入队列通话超过坐席组设置的最大排队数时，通话被挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 7fbcc944b7424f25bbb3722e4df73843
+msgid "识别错误"
+msgstr ""
+
+#: ../../常见问题回答.md 7886f1f513a646eaa26d7e0f4b32f657
+msgid "关机"
+msgstr ""
+
+#: ../../常见问题回答.md 8efc06e9cc7c47338f8c4b663b0245e2
+msgid "停机"
+msgstr ""
+
+#: ../../常见问题回答.md 1c4a7589bf5e43118b98d005d3325a1b
+msgid "其他"
+msgstr ""
+
+#: ../../常见问题回答.md 3c972b3ed3a4463a87339d8b8e55f552
+msgid "呼叫错误"
+msgstr ""
+
+#: ../../常见问题回答.md 2e8ec414a9e34a55ac2c23663afe0560
+msgid "转接"
+msgstr ""
+
+#: ../../常见问题回答.md fe2a97864d68496e95c54fc9f929358e
+msgid "通话因为转接而被挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 84833039ca264d60ac920740ead025e9
+msgid "通话抢接"
+msgstr ""
+
+#: ../../常见问题回答.md e1c13a7a9c7e43d19ba90efe5199fabc
+msgid "阻塞"
+msgstr ""
+
+#: ../../常见问题回答.md:78 c2e88de0fc174f8584919aabb708db59
+msgid "4 坐席事件"
+msgstr ""
+
+#: ../../常见问题回答.md adee7f57bb014f1bbc300aa57936eab2
+msgid "Party"
+msgstr ""
+
+#: ../../常见问题回答.md b2ffaa125ecb43e2893ad5d935f6e8fd
+msgid "Action"
+msgstr ""
+
+#: ../../常见问题回答.md fcbb08409fcb4400accaebb762f59d1b
+msgid "描述"
+msgstr ""
+
+#: ../../常见问题回答.md 6298a020b4b647558cea9fcb48d15e87
+msgid "原因"
+msgstr ""
+
+#: ../../常见问题回答.md 7542aaa3a7d44bf09fc62f464cb325a0
+msgid "agent"
+msgstr ""
+
+#: ../../常见问题回答.md 3e4996e5450e44058cdf462beb22270b
+#: 9ab10aef0cbe4f829804b726a0d3b17b a92b1434f40e453cae003fc9f7459f43
+msgid "ringing"
+msgstr ""
+
+#: ../../常见问题回答.md 572d9bedccc54ba89d96814a0768e147
+msgid "坐席进入振铃状态"
+msgstr ""
+
+#: ../../常见问题回答.md 82ebe8ac5adc4582ba4422c16c9ab182
+#: ab66bfb54d324787b497934a5db7a721 bd0187751f644593845011f641ab19fe
+msgid "answer"
+msgstr ""
+
+#: ../../常见问题回答.md 9e3ea342b1f34068a6e85e5d8ce5177c
+msgid "坐席进入应答状态（坐席接通电话的事件）"
+msgstr ""
+
+#: ../../常见问题回答.md fb68597ced1649619b8d013854a7babb
+msgid "pause"
+msgstr ""
+
+#: ../../常见问题回答.md c6cc3a28eccf44ddab5eeccdb2274552
+msgid "坐席暂停"
+msgstr ""
+
+#: ../../常见问题回答.md 1619c2126c4b41439e07abaf30090ab8
+msgid "①默认暂停不显示 ②选择暂停原因显示暂停名称 ③组长暂停:SP"
+msgstr ""
+
+#: ../../常见问题回答.md 8d14c6b53ed444eeba05e66c82ec2144
+msgid "ACW"
+msgstr ""
+
+#: ../../常见问题回答.md 38bd622e75b242a19bc3f6ead4b88ffc
+msgid "进入话后"
+msgstr ""
+
+#: ../../常见问题回答.md 62573287dd0e4aafacf2c544fb621607
+#: 808240a92e26467fb0c3b24d17dcb11e 8a4bf4ebbc6d4a3bb3d7b7f9aba99c00
+#: a7579c36c8124210b04535bba7566926 d39b2f72b621471b830b650bb86e82cf
+msgid "hangup"
+msgstr ""
+
+#: ../../常见问题回答.md 90e80572828947faba2b50549493357e
+msgid "通话被挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 82532044ee2340c8aefd4d8f96c20908
+msgid "hangupPause"
+msgstr ""
+
+#: ../../常见问题回答.md a9e5e13a089e4bf8bd5a71e598aaf256
+msgid "挂机恢复暂停"
+msgstr ""
+
+#: ../../常见问题回答.md 0b3adf1354814ac79ce7c4c5681e843c
+msgid "呼入到坐席组，坐席签入但话机不在线: NoR"
+msgstr ""
+
+#: ../../常见问题回答.md 944f8f9b99994d0d85384a823619b57a
+msgid "hangupACW"
+msgstr ""
+
+#: ../../常见问题回答.md 5d79bc8ab5d9407bacd21265fcb0c8b9
+msgid "挂机进入话后"
+msgstr ""
+
+#: ../../常见问题回答.md c1e596f9aec04269b455c5b61468dff4
+msgid "auto"
+msgstr ""
+
+#: ../../常见问题回答.md 792f327a9e104df9806664461888953b
+msgid "onhold"
+msgstr ""
+
+#: ../../常见问题回答.md eadca254c9b2461c81a2ddbfd5d4d6c4
+msgid "通话保持"
+msgstr ""
+
+#: ../../常见问题回答.md 5a5d1447a8d14b68b2deaba1ea990d4d
+msgid "resume"
+msgstr ""
+
+#: ../../常见问题回答.md e0ab76853f0e4621a90407913c3b6dc7
+msgid "通话恢复"
+msgstr ""
+
+#: ../../常见问题回答.md ff16f3600f6c4449994e44fcebbf9b3f
+msgid "unpause"
+msgstr ""
+
+#: ../../常见问题回答.md 831e0c06378e4dac9cb97ce3b367101a
+msgid "取消暂停"
+msgstr ""
+
+#: ../../常见问题回答.md 7500c64421bf4bcea30fd75c9153f953
+msgid "exitACW"
+msgstr ""
+
+#: ../../常见问题回答.md 5a1892092c9647628a98e7f0a628e7a7
+msgid "结束话后"
+msgstr ""
+
+#: ../../常见问题回答.md ff19bb34b920412487e590cc350c8594
+msgid "login"
+msgstr ""
+
+#: ../../常见问题回答.md 2dbded87e5e74b879ea18e2f9280e539
+msgid "签入坐席组"
+msgstr ""
+
+#: ../../常见问题回答.md 95f25c16cad142e4a11fe2290259e74f
+msgid "logoff"
+msgstr ""
+
+#: ../../常见问题回答.md 2a114ffbb35549468a8a874d993a16a7
+msgid "签出坐席组"
+msgstr ""
+
+#: ../../常见问题回答.md 570b2518a4f648088196bb540aab2da2
+msgid "①坐席签入坐席组没有签出，直接关闭浏览器页面或是网络断开-->坐席浏览器超时--checkws.②坐席登录超时--checkonline"
+msgstr ""
+
+#: ../../常见问题回答.md c4797b0e17c141df81da92ea6b98c6aa
+msgid "QPause"
+msgstr ""
+
+#: ../../常见问题回答.md 70d1235937d94006baff808b0981e3b7
+msgid "队列暂停"
+msgstr ""
+
+#: ../../常见问题回答.md d1682bbcb68140cf8291fc19365c6c9e
+msgid "QUnpause"
+msgstr ""
+
+#: ../../常见问题回答.md 1ca6fb6041d54dcf98c5df90473ef57a
+msgid "取消队列暂停"
+msgstr ""
+
+#: ../../常见问题回答.md 4b75f6bedca64268b953c8bda4d4b2b7
+msgid "confJoin"
+msgstr ""
+
+#: ../../常见问题回答.md 1ab8e74c36d94a76834ef3ab4dc3971d
+msgid "加入三方会议"
+msgstr ""
+
+#: ../../常见问题回答.md 815fa4416fbb4aaeb7376155d66b62f6
+msgid "加入三方会在两个坐席处分别产生一个加入的事件"
+msgstr ""
+
+#: ../../常见问题回答.md 778c1cf51e054aeb82872633bcede5c7
+msgid "confLeave"
+msgstr ""
+
+#: ../../常见问题回答.md ea0c87e9ce384632a6b0a195a2608ad7
+msgid "离开三方会议"
+msgstr ""
+
+#: ../../常见问题回答.md 6a2dcd7126a647a1bc120b0c7e0b2b14
+msgid "退出三方也会有两个坐席事件"
+msgstr ""
+
+#: ../../常见问题回答.md e8b79f5bdaa04e3fb4ca109a38ab6c95
+msgid "setDefaultGroup"
+msgstr ""
+
+#: ../../常见问题回答.md e32c43076e0346a3be27403cbc00330f
+msgid "设置坐席默认组，该功能已取消，只是保留了事件日志"
+msgstr ""
+
+#: ../../常见问题回答.md 5062549321e54c679e76c36f73b590ea
+msgid "abandon"
+msgstr ""
+
+#: ../../常见问题回答.md c614737f3b994ad3be92aa18b7e2b0ae
+msgid "①队列中没被接听，等待超时或是主叫挂断。②呼入到队列，有坐席振铃没接通，到超时。③呼入到队列，达到最大排队数"
+msgstr ""
+
+#: ../../常见问题回答.md 659eff1104254a6da0c6802d71ccf582
+msgid "①JOINEMPTY（队列中未开启允许进入空队列时，通话呼入挂断会显示该提示）。②timeout。③如果队列没有溢出转向，当坐席呼入队列达到最大排队数时，通话记录的挂断原因也是full，如果队列中有溢出转向，会显示最后挂断原因，不会显示full"
+msgstr ""
+
+#: ../../常见问题回答.md 1827c7ab172a4b60886f38e2e4f89e1c
+msgid "joinQueue"
+msgstr ""
+
+#: ../../常见问题回答.md 7755ae2546c14d859b1ef0dc822c8a6c
+msgid "有通话进入队列"
+msgstr ""
+
+#: ../../常见问题回答.md 1485e53b460f4caf83e5491f2c33b393
+msgid "call"
+msgstr ""
+
+#: ../../常见问题回答.md 97845d44e95b4710984afe82d5444942
+msgid "create"
+msgstr ""
+
+#: ../../常见问题回答.md 9e9a534fc9024e139a8bedfe66d3794f
+msgid "开始新通话（通话建立）"
+msgstr ""
+
+#: ../../常见问题回答.md 2386646790e44b1b8b6806cb42224820
+msgid "通话应答（在双方的通话建立被应答，会现有一个answer的事件）"
+msgstr ""
+
+#: ../../常见问题回答.md 0390378112df4294844b2c735b12fa0c
+#: dabaab94cb0f40e598696e577d1a641b
+msgid "通话挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 6acd300d082249148cb5099abffcf816
+msgid "caller"
+msgstr ""
+
+#: ../../常见问题回答.md 53d2eadcf13045be99b1ffcda8675041
+msgid "incoming"
+msgstr ""
+
+#: ../../常见问题回答.md be3b99c2b6eb446298e37220711225e2
+msgid "有呼入通话"
+msgstr ""
+
+#: ../../常见问题回答.md c03e38c396284fbb962b6ead5d34fcbf
+msgid "主叫挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 3457a01252da426ab58e01f15c990436
+msgid "callee"
+msgstr ""
+
+#: ../../常见问题回答.md 267c335c794544f5824d27f67673ac35
+msgid "被叫振铃"
+msgstr ""
+
+#: ../../常见问题回答.md 3d57bd496fb44d3bb533f89c6e5cca5e
+msgid "被叫应答（被叫应答建立的事件）"
+msgstr ""
+
+#: ../../常见问题回答.md 93df29cb71e24a14ad1f496b61fa5949
+msgid "被叫挂断"
+msgstr ""
+
+#: ../../常见问题回答.md 78dc37f6a6c247798e1078e88ced082f
+msgid "conversation"
+msgstr ""
+
+#: ../../常见问题回答.md 33b7973bc9c34acba2f92af6d75394eb
+msgid "consult"
+msgstr ""
+
+#: ../../常见问题回答.md 0730a717fdbe485486454ff84302744d
+msgid "开始呼叫被咨询方"
+msgstr ""
+
+#: ../../常见问题回答.md 6c70d235291240f9b26a663b45803c85
+msgid "ivr"
+msgstr ""
+
+#: ../../常见问题回答.md a77b229ce24542d1a75a69416a383374
+msgid "start"
+msgstr ""
+
+#: ../../常见问题回答.md 0b3d8fe6b5984e6f95a441898bdcce2c
+msgid "进入IVR(内线拨ivr才会出现)"
+msgstr ""
+
+#: ../../常见问题回答.md a9109698845a41c683cc8c1c3b50834c
+msgid "userInput"
+msgstr ""
+
+#: ../../常见问题回答.md c044a1a95b72401c88450c4363a3503a
+msgid "IVR按键操作"
+msgstr ""
+
+#: ../../常见问题回答.md 90defaeda7444d6c891f8ebe77f2f449
+msgid "end"
+msgstr ""
+
+#: ../../常见问题回答.md 07c3a63c0adc4234b6246412797ebe59
+msgid "退出IVR"
+msgstr ""
+
+#: ../../常见问题回答.md:116 d472db81feb5416eb4f8604f3ec393b4
+msgid "5 统计报表中，各项数据的计算公式和统计范围"
+msgstr ""
+
+#: ../../常见问题回答.md 8f837c1ab2be4019853566836f1d9271
+msgid "统计项目"
+msgstr ""
+
+#: ../../常见问题回答.md dfa73ba6774a42fbbdd66e8f346dd285
+msgid "类别"
+msgstr ""
+
+#: ../../常见问题回答.md 7fe0d48583b742a595c543d5ad114f51
+msgid "计算方法"
+msgstr ""
+
+#: ../../常见问题回答.md 6225d6ca1db34820827033d3295df2d2
+msgid "取整方法"
+msgstr ""
+
+#: ../../常见问题回答.md f67fd1e7a6074e47a46d558d12df843e
+msgid "坐席明细"
+msgstr ""
+
+#: ../../常见问题回答.md 6214ed7c59b54894aff05cf4c00d3827
+#: 7b2886f46d8a4fda9e173d3b43684907
+msgid "呼入平均通话时长"
+msgstr ""
+
+#: ../../常见问题回答.md 902139ca0f104895acd444ddd91af752
+msgid "呼入平均通话时长=呼入通话总时长 /呼入接通量"
+msgstr ""
+
+#: ../../常见问题回答.md 855a52d874fc465ba5380d0f8b552b04
+msgid "向下取整,比如11/2=5.5最后取5秒"
+msgstr ""
+
+#: ../../常见问题回答.md 754d1e6d7cbd4f66ab23e0aac20b81ca
+#: a9561a0b88c04baeb41842b7fc5a337f
+msgid "呼入通话总时长"
+msgstr ""
+
+#: ../../常见问题回答.md 604cfa15708a41f4bc3c933c333de1d1
+#: a851640aea81497d8138d26e7817445e
+msgid "呼入通话总时长=通话"
+msgstr ""
+
+#: ../../常见问题回答.md aee4b9ad02d849159f4371eb01940d6e
+msgid "按通话情况直接取整"
+msgstr ""
+
+#: ../../常见问题回答.md 12e26315970b4a10a70e45142df84463
+#: 26b9d15e5ceb4ed18152a15c57b908c4
+msgid "呼出平均通话时长"
+msgstr ""
+
+#: ../../常见问题回答.md a6fe4f5960b04028bb5b91e9416b9cc4
+#: baf88c7f2b7a46718b1fd7b574625b18
+msgid "呼出平均通话时长=呼出通话总时长 / 呼出接通总量"
+msgstr ""
+
+#: ../../常见问题回答.md fe59b18d5ea74edc843f7b81e5a0d568
+msgid "呼出总时长"
+msgstr ""
+
+#: ../../常见问题回答.md db3eee8b5bd34ee2896b8d6b5668d684
+msgid "呼出总时长=振铃+通话"
+msgstr ""
+
+#: ../../常见问题回答.md 5cf006c6de684bfbafc536fddd32c49e
+#: c4497f9ebd4c458ea25c1b26cc3b4dcc cff98ccc6ee7499aa01a2bfbb7f68701
+msgid "平均保持时长"
+msgstr ""
+
+#: ../../常见问题回答.md 15bd042dfca9474a8734e6f194e0a15c
+#: 371e749b07f64658b1d4bfa6dfc5bc25 e69f64a1a877437e88c34284a5bf6a77
+msgid "平均保持时长=保持时长 / 保持次数"
+msgstr ""
+
+#: ../../常见问题回答.md f2db5fd4dec74681af6a948268da6d18
+msgid "平均保持时长=保持时长 / 保持次数\t向下取整,比如7/2=3.5最后保持时长取3"
+msgstr ""
+
+#: ../../常见问题回答.md a9fcf7871ecf421aba4ad95024e14858
+msgid "坐席汇总"
+msgstr ""
+
+#: ../../常见问题回答.md 07db83d851b34794bdde85305c0d1bf8
+msgid "向下取整,比如7/2=3.5最后保持时长取3"
+msgstr ""
+
+#: ../../常见问题回答.md 95b2f7acc93e4472abc03ce8304e583b
+msgid "话后时长"
+msgstr ""
+
+#: ../../常见问题回答.md 0b43b58ee61f4f91a165754334c2dc88
+msgid "呼入到坐席组，坐席挂断通话后进入的话后时长"
+msgstr ""
+
+#: ../../常见问题回答.md bb64eaaaed714b34978f390fbfba411f
+msgid "按话后情况直接取整"
+msgstr ""
+
+#: ../../常见问题回答.md 64f1e7199d0b409f97245bffb78d3bf3
+msgid "签入时长"
+msgstr ""
+
+#: ../../常见问题回答.md 83502831dfce45059feffb23c910d591
+msgid "签入到坐席组的时长"
+msgstr ""
+
+#: ../../常见问题回答.md 28c42cf070aa41a7ba621d7dc6e3eb75
+msgid "按签入时长直接取整"
+msgstr ""
+
+#: ../../常见问题回答.md a35b575bf0fb466ebd69d50f202626ca
+msgid "拨打时长=振铃+通话"
+msgstr ""
+
+#: ../../常见问题回答.md 7eebe9065bb942358f36bb8272226248
+msgid "按拨打时长直接取整"
+msgstr ""
+
+#: ../../常见问题回答.md 7d0e39b99c6946f2891d9e3a991aa65a
+msgid "坐席组明细"
+msgstr ""
+
+#: ../../常见问题回答.md 346933dbde6940deae1984bf84f96cb1
+#: c3704703be6142aea37505d68fa2421b
+msgid "呼入接通率"
+msgstr ""
+
+#: ../../常见问题回答.md 26c38ec20f8e4390ab23051862b368cf
+#: 6081e382266744bbb28c386a80dd783f
+msgid "呼入接通率=呼入接通量 / 呼入总量 后再乘以 100"
+msgstr ""
+
+#: ../../常见问题回答.md 4dce7c82cc8740e3bf0eb679559d0d5d
+#: aa68aa9d46f74ec4b241bf294850319d
+msgid "留小数点后两位,四舍五入,1/3*100%=33.33%"
+msgstr ""
+
+#: ../../常见问题回答.md 303b3675fcb3417f8bda3c1edbbff668
+msgid "呼入平均通话时长=呼入通话总时长 / 呼入接通总量"
+msgstr ""
+
+#: ../../常见问题回答.md 80bcc3c09ccb44a98b91d82311bc48a6
+msgid "向下取整数,11/2=5.5取5"
+msgstr ""
+
+#: ../../常见问题回答.md e3c7b020018242b0914e4a5ec0a79e44
+msgid "呼出接通率"
+msgstr ""
+
+#: ../../常见问题回答.md 92845f35b9194c28a1d0124a4cea1bb8
+msgid "呼出接通率=呼出接通量 / 呼出总量 后再乘以 100"
+msgstr ""
+
+#: ../../常见问题回答.md 5d8ab3fa9f534b2a9eba729081abe3c9
+msgid "向下取整数,240/9=26.66取26"
+msgstr ""
+
+#: ../../常见问题回答.md 6d274587a8384dbe95339ea708704bed
+msgid "呼出通话总时长"
+msgstr ""
+
+#: ../../常见问题回答.md 814e3e29448b4f7cb07483885eba543e
+msgid "呼出通话总时长=通话"
+msgstr ""
+
+#: ../../常见问题回答.md fe4aeb84847e4cb4ae5bafec65888d19
+msgid "向下取整数,116/15=7.73取7"
+msgstr ""
+
+#: ../../常见问题回答.md f10fb38092d740d3a78b633a84eb8bff
+msgid "坐席组汇总"
+msgstr ""
+
+#: ../../常见问题回答.md 22ca16400882450080ee7cf7854c0795
+msgid "留小数点后两位,四舍五入,7/9*100%=77.78%"
+msgstr ""
+
+#: ../../常见问题回答.md:138 762381b2c23141b0b0cff55fd1b2ef7a
+msgid "6预拨号高级设置中按坐席百分比计算的例子"
+msgstr ""
+
+#: ../../常见问题回答.md:140 20eb5afccb494cef9e389603fc21a803
+msgid "高级设置如图   ![alt text](_static/images/QA/image.png)"
+msgstr ""
+
+#: ../../常见问题回答.md:140 ../../常见问题回答.md:178 ../../常见问题回答.md:194
+#: ../../常见问题回答.md:247 06f23f99824d448c898a1cc9164b0f65
+#: 289c385b0456461bb5d656b886913093 362ea70cbbda4663921e7be6d0757b26
+#: 3a9a18715bb542d69feab66b027b6344 53a9891f606f482294d29bdbd76e2463
+#: 5985c8009e374bdc9b8017ca03224e21 5fbe6f9fd2524ed59523ecb13f0fc2b2
+#: 777124ce913c45faa516bcf94c513e0e 8a92e3d703ed43eb9afcdb57a616278a
+#: 978861955b124abe8b3137c33b070d47 9e5376a43d514ff5941fde5763730688
+#: a3f83099564f4c9881ea132bdd5beea3 ac1c6c2170d1440aa35f18566cad45f3
+#: af9a003f8aff400c844e0dc98b6a5edd d4056fef25eb4affa33a69400760eac5
+#: e2e2b945bd4d4b5991c8332dbe270b25 e7193d4de644456591274fb489f52212
+msgid "alt text"
+msgstr ""
+
+#: ../../常见问题回答.md:144 be6585b039c34f84b11ddbc173b8d8bd
+msgid ""
+"列举情况 坐席在线总数10 坐席1：通话时长20s 坐席2：通话时长120s（大于平均通话时长60s【talkend】） "
+"坐席3：通话时长4s（小于短话单时长10s*短话单比率50%=5s【shorttalk】） "
+"坐席4：话后时长60s（大于平均话后时长30s单小于平均话后时长90S【acwend】） 坐席5：话后时长30s "
+"其他坐席为空闲坐席【idleagent】"
+msgstr ""
+
+#: ../../常见问题回答.md:153 14a99cc8af5a4d7e819725934db6964d
+msgid "客户1：振铃，振铃15S，已经接通，但是没有坐席接通 客户2：振铃20s被接通（小于平均振铃时长25s【ringing】）"
+msgstr ""
+
+#: ../../常见问题回答.md:157 9ae7dd6740de483383f3a88656e7904b
+msgid ""
+"可用坐席 = idleAgent + talkEnd + acwEnd + shortTalk - waiting "
+"预测下次可用坐席数量=空闲坐席5个+坐席2（此时系统判断这个通话即将要被挂断了）+坐席4（大于平均话后时长系统预测这个坐席即将离开话后）+坐席3（短话单即将结束）-客户1=5+1+1+1-1=7"
+msgstr ""
+
+#: ../../常见问题回答.md:160 11eddf03e9f24b1db070c60f5eed367b
+msgid ""
+"拨号数 =（可用坐席 × 坐席百分比）/应答率 - ringing 拨号数量=（7*150%）/50%-1=20 "
+"系统会在每次轮预拨号开始前预测计算下一次拨号的数量。"
+msgstr ""
+
+#: ../../常见问题回答.md:164 9ebab9f52464418fb9009ea12ab5ec09
+msgid ""
+"allRinging = 所有振铃数 waiting = 客户接通但坐席未接的通话通话数 allAnswered = 坐席接通的通话数 "
+"ringing = 振铃时长小于平均振铃时长的通话数 talkEnd = 通话时长大于平均通话时长的通话数 shortTalk = "
+"通话时长小于短话单 × 短话单比例 maxChannel = 任务最大拨号限制 idleAgent = 队列中空闲的坐席 可用坐席 = "
+"idleAgent + talkEnd + acwEnd + shortTalk - waiting 拨号数 =（可用坐席 × "
+"坐席百分比）/应答率 - ringing 每次发起的呼叫数取：（公式计算所得拨号数）， （每次拨号最大并发），(任务最大并发数 - "
+"allRinging  -waiting - allAnswered ) 三者中最小值"
+msgstr ""
+
+#: ../../常见问题回答.md:177 0777997f059f4f409764e7f6ec13294d
+msgid "7坐席进行外呼前，都需要做什么准备？"
+msgstr ""
+
+#: ../../常见问题回答.md:178 d3056b3d121240ddba9e369b65af9729
+msgid ""
+"①首先在root级别建立好中继，外显号码，和外呼档案 ![alt text](_static/images/QA/image-1.png) "
+"先将外显号码分配给所属代理商，由代理商分配给client进行使用 ![alt "
+"text](_static/images/QA/image-2.png) 建立外呼档案，把外呼档案分到client ![alt "
+"text](_static/images/QA/image-3.png) ![alt "
+"text](_static/images/QA/image-4.png) "
+"在client级别--->系统偏好--->拨号--->默认外呼档案中选择相应的外呼档案   ![alt "
+"text](_static/images/QA/image-5.png) "
+"在client级别--->系统偏好--->呼叫设置--->外显号码中选择相应的外显号码 ![alt "
+"text](_static/images/QA/image-6.png) 如外呼档案中相应配置正常，登录坐席后，坐席开启电话就可以进行外呼了。"
+msgstr ""
+
+#: ../../常见问题回答.md:192 13f87e0a7c3d4e2887284270277f523c
+msgid "8使用外呼任务的呼叫方法"
+msgstr ""
+
+#: ../../常见问题回答.md:194 c7d11fd8f86248919f102d5673e604fc
+msgid ""
+"**1.坐席手动拨打** client建立坐席后，登录坐席，坐席签入坐席组，打开联系客户页面准备开始工作。 ![alt "
+"text](_static/images/QA/image-8.png) "
+"在【联系客户】页面选择想要添加客户的任务，点击【我的客户】后面的“+”添加客户 ![alt "
+"text](_static/images/QA/image-9.png) 对客户资料进行编辑，并保存。保存后在电话号码处用户可以拨打电话。 "
+"![alt text](_static/images/QA/image-10.png) "
+"保存客户资料后还可以对该客户进行问卷调查，或是建立、处理工单等。 ![alt "
+"text](_static/images/QA/image-11.png) "
+"当坐席组中有被分配的客户坐席也可以在任务客户池中对客户池中的客户进行批量获取。获取到的客户会再我的客户池中显示。坐席点击呼叫客户资料页面会自动弹出，坐席响铃，坐席接听坐席电话外呼呼叫开始。"
+" **2.分配坐席自动拨号** "
+"坐席签入坐席组后，选择对应任务。选择联系系客户，点击任务客户池可以对该任务下的客户进行获取。获取到的客户会在我的客户池中，点击自动拨号可以对列表中的客户进行自动拨打。"
+" ![alt text](_static/images/QA/image-12.png) 点击自动拨号会显示坐席需要自动拨号的客户所满足的条件： "
+"拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。 上次联络信息：坐席可以根据客户上次联络的时间界定所要拨打的客户号码。 "
+"![alt text](_static/images/QA/image-13.png) 拨号次数：自动拨号设定的条件。 "
+"延迟：在通话结束后到下一个自动呼叫开始时有一个间歇时间供坐席处理该通话的结果，如果时间不够，坐席可以点击延迟，延迟的时间由任务管理中设定，点击一次即可延迟该设定的延迟时间，延迟可累计。"
+" "
+"开始到下一个通话：在通话结束后到下一个自动呼叫开始时如果坐席在任务设定的倒计时时间内完成该呼叫的处理，可以开始下一个自动呼叫，坐席可以点击该键直接进入下一个自动呼叫状态。"
+" "
+"暂停：在通话结束后到下一个自动呼叫开始时，坐席如果临时有事暂时不能处理接下来的自动呼叫可以暂停该自动呼叫，等待有时间时继续处理。在暂停状态下如有任何通话则视为结束暂停状态。"
+" 倒计时：任务管理所设置的在通话结束后到下一个自动呼叫开始时的一个间歇的时间倒计时。 ×：关闭自动呼叫，已经在呼叫的无法关闭。 **3.预拨号**"
+" "
+"在分配外呼任务后，启动预拨号之前可以先对预拨号进行设置。在操作中的下拉菜单，可以对坐席组预拨号进行高级设置，此处的设置需要用户对坐席组的工作效率有一定了解。"
+" ![alt text](_static/images/QA/image-14.png) "
+"设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表。 点击回收，对任务中的客户数据进行回收。 "
+"此时回到坐席组预拨号页面点击开始，开启预拨号。 在预拨号拨打过程中，用户可以在预拨号列表中点击预拨号列表查看当前拨号列表。"
+msgstr ""
+
+#: ../../常见问题回答.md:226 0e79e2cec2944a20a60f237471122b01
+msgid "9通话中的三种转接方式"
+msgstr ""
+
+#: ../../常见问题回答.md:227 f24a685e63ed4b50bbdf823ad1404feb
+msgid "**1话机盲转**"
+msgstr ""
+
+#: ../../常见问题回答.md:229 7a488139754942e59fed790e02cb3f5f
+msgid ""
+"坐席在通话状态时，当需要对该通话进行转接至第三方时，坐席有两种方法可以进行盲转转接，即可以使用在页面上直接转接，也可以使用话机转接，具体操作方法如下："
+" "
+"A.以yealink电话为例，直接使用话机点击（trans话机中对应按键）输入第三方号码后再次点击（trans）转接至第三方处，此时坐席的所有操作仅在话机上执行。"
+" B.使用坐席页面可以直接点击呼叫按钮然后输入第三方号码，再次点击呼叫按钮，对通话进行转接，此时坐席操作是在网页上执行。 "
+"转接后，发起转接坐席的通话直接挂断，当前通话转接至第三方，此时由于第三方的状态未知，若第三方可以应答，则该次转接成功，即拨号用户与第三方成功连接。若第三方未应答或为忙，则该通话直接挂断结束。"
+" 上述即实现电话盲转。 注：第三方可包含坐席、外线等。"
+msgstr ""
+
+#: ../../常见问题回答.md:236 c8e87e29925d41e0a67e87b3ab1ef1f7
+msgid "**2话机咨询转接**"
+msgstr ""
+
+#: ../../常见问题回答.md:238 8c516b46964b477bbff78a39b580857f
+msgid "坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直接使用话机点击（trans）输入第三方号码，输入后点击话机上的（send），发起转接的坐席可以与指定的第三方进行通话确定此时第三方的通话状态，确认能够接听再将电话点击（trans）转接。若第三方为忙或无法接听，坐席可将继续重复上述操作将通话转接至能够接听方，若转接不成功，该通话最终回到原坐席处。在转接过程中用户电话端为等待音乐,该操作目前仅支持在话机上进行。"
+msgstr ""
+
+#: ../../常见问题回答.md:240 76d30eb22e31472e90bc35ec345b8354
+msgid "**3话机驻留**"
+msgstr ""
+
+#: ../../常见问题回答.md:242 bfcb7450a0f44ed2a2ca2662970ecc26
+msgid "坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直接使用话机点击（trans）输入功能键中设置的驻留号码以系统默认700为例，输入后点击话机上的（send），通话驻留，被驻留方响保持音乐，当第三方坐席或是原坐席想要取回，可以根据语音提示，按701取回。如果没有坐席取回，电话会回呼到驻留坐席处。"
+msgstr ""
+
+#: ../../常见问题回答.md:245 1b9ae595d55b452ca23a063a8240f4b3
+msgid "10话机自动部署的使用方法"
+msgstr ""
+
+#: ../../常见问题回答.md:247 4d7d8ddc1ffb44049a1290799d61ac89
+msgid ""
+"以yealink话机为例，在client和话机中设置自动部署的用户名及密码 ![alt "
+"text](_static/images/QA/image-15.png) 在坐席--高级页面选择话机部署模版--填写话机的MAC地址 ![alt"
+" text](_static/images/QA/image-16.png) 保存后再点击该坐席编辑--预览话机部署模版，填写用户名跟密码进行预览"
+" 在yealink话机设置页面--设置--自动更新处填写服务器url以及在client设置中设置的用户名和密码 ![alt "
+"text](_static/images/QA/image-17.png) 话机的自动部署就会成功。"
+msgstr ""
+

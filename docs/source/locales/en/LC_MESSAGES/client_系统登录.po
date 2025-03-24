@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../client_系统登录.md:1 b41c37c3d7ea449ba3ac3ea93ef83dfe
+msgid "1 系统登录"
+msgstr ""
+
+#: ../../client_系统登录.md:3 58caf69119984660a25e2fcc5ae7bdf6
+msgid "1.1登录"
+msgstr ""
+
+#: ../../client_系统登录.md:5 eddf0612c01e4ded9276a619a4cd0026
+msgid "在您正在使用的浏览器的地址栏中输入 URL。按 Enter 键进入系统登录页面。"
+msgstr ""
+
+#: ../../client_系统登录.md:7 0d9132695b864cd490ffdaa5137a91e7
+msgid "用户帐户是客户端名称。密码可在【代理商】--&gt;【通用】--&gt;【密码】中更改，输入正确的账号和密码即可成功进入系统。"
+msgstr ""
+
+#: ../../client_系统登录.md:9 c8b392e0d7fa4492b9e67f21fe5d15b6
+msgid "用户可以选择【记住密码】，浏览器此时会记住账号密码，以方便下次登录。"
+msgstr ""
+
+#: ../../client_系统登录.md:11 8a73d87ccc5745e1b5e331ab9a1150db
+msgid ""
+"<img src=\"_static/images/client/media/image1.png\" "
+"style=\"width:5.75694in;height:2.96389in\" />"
+msgstr ""
+
+#: ../../client_系统登录.md:14 276fdf2ae8ae42a4b133297c1a3d7e86
+msgid "1.2登出"
+msgstr ""
+
+#: ../../client_系统登录.md:16 6b063cbe33fe4738a661bf3169fb0ad8
+msgid "当用户进入系统时，选择右上角的下拉选项【登出】，确认后将退出系统，页面将返回用户登录页面。"
+msgstr ""
+
+#: ../../client_系统登录.md:18 cdf164c6395e49fda4f050c8eba534aa
+msgid ""
+"<img src=\"_static/images/client/media/image2.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+

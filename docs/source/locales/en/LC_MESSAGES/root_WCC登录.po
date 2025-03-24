@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../root_WCC登录.md:1 5f28826377c84d388b4cac4efbde38de
+msgid "1.1WCC 登录"
+msgstr ""
+
+#: ../../root_WCC登录.md:3 533fe7d301644a37b4a28bdcea29b778
+msgid "在您使用的浏览器地址栏中输入网站地址，回车进入系统登录页面。"
+msgstr ""
+
+#: ../../root_WCC登录.md:5 895983e87e9e479a9bbc64c7c8d02497
+msgid "用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
+msgstr ""
+
+#: ../../root_WCC登录.md:7 e91440ad56f34ec8ba1d9bbac503af97
+msgid "（如下图所示）"
+msgstr ""
+
+#: ../../root_WCC登录.md:9 e066fab1431c48179331c7c7d2583c55
+msgid ""
+"<img src=\"_static/images/root/media/image1.png\" "
+"style=\"width:5.75972in;height:2.83472in\" />"
+msgstr ""
+
+#: ../../root_WCC登录.md:12 57d3380f6ce5451e8b506a9b1557386d
+msgid "用户进入系统后，在状态栏下拉菜单中选择【退出】，确认，成功退出系统。页面返回用户登录页面（如下图所示）。"
+msgstr ""
+
+#: ../../root_WCC登录.md:14 6accb59dca1744948701f971c949c924
+msgid ""
+"<img src=\"_static/images/root/media/image2.png\" "
+"style=\"width:5.75972in;height:2.83472in\" />"
+msgstr ""
+

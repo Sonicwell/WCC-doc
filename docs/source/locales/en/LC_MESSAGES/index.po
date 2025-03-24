@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-11 12:39+0900\n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -30,6 +30,10 @@ msgstr ""
 
 #: ../../index.rst:27
 msgid "Client"
+msgstr ""
+
+#: ../../index.rst:35
+msgid "常见问题"
 msgstr ""
 
 #: ../../index.rst:2 3f5c9af3d64f40bbb47d7bfe5b366fb0

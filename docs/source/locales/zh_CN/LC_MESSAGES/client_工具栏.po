@@ -1,0 +1,426 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../client_工具栏.md:1 cc91170c93174a5a9351e21daf121a7d
+msgid "2 工具栏"
+msgstr ""
+
+#: ../../client_工具栏.md:3 3b182f9e0dec4279b12a2289c960c3ba
+msgid "登录Client页面后，您可以在顶部的快捷菜单栏中使用一些快捷功能。"
+msgstr ""
+
+#: ../../client_工具栏.md:5 b7f4c04d8b764e8cae4baa6e6c19c5de
+msgid ""
+"<img src=\"_static/images/client/media/image3.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:8 c9f8f089a2744e1d85d923b9bca55517
+msgid "【折叠菜单】当您单击此按钮时，页面菜单不显示文本，仅显示图标。"
+msgstr ""
+
+#: ../../client_工具栏.md:10 c33b789624544d40b9a868acccc06f89
+msgid ""
+"<img src=\"_static/images/client/media/image4.png\" "
+"style=\"width:5.76111in;height:0.64306in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:13 d2f64f41f62d4308be4f9f7e1048df9d
+msgid "↓↓↓"
+msgstr ""
+
+#: ../../client_工具栏.md:15 86218280b2ad447ca0b5abe459f56009
+msgid ""
+"<img src=\"_static/images/client/media/image5.png\" "
+"style=\"width:1.40486in;height:5.42292in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:18 7b8d3e543f4d4a458b4a2e8bb5ecc5bd
+msgid "在这里，您可以选择功能的快捷方式。选中后，将显示这些快捷方式↓↓↓"
+msgstr ""
+
+#: ../../client_工具栏.md:20 fac8b3cd11aa40419d206d86ddd2e6d3
+msgid ""
+"<img src=\"_static/images/client/media/image6.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:23 5e56c3a390ee4284b93dcc8bf632a517
+msgid "【快速搜索】按钮，可直接在知识库中搜索知识。"
+msgstr ""
+
+#: ../../client_工具栏.md:25 1065870d3054476899774b725430da0a
+msgid ""
+"<img src=\"_static/images/client/media/image7.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:28 3e4942eede154c14a7d49db755fb4da1
+msgid "【呼叫】点击呼叫按钮，填写主叫号码和被叫号码，选择一个 外显号码 ，点击呼叫 ，即可在客户端级别进行指定呼叫。"
+msgstr ""
+
+#: ../../client_工具栏.md:30 f9c9ee5c78bd4e5fae12c04941ebff5e
+msgid "主叫号码填写坐席号码，被叫号码填写外呼号码。"
+msgstr ""
+
+#: ../../client_工具栏.md:32 9906b268276240d2bb10057851e7dc85
+msgid ""
+"<img src=\"_static/images/client/media/image8.png\" "
+"style=\"width:5.75694in;height:1.24792in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:35 9d8e258df0164a27abfa5e6aa194855c
+msgid "【任务】有导入或导出任务时，此处显示任务进度。"
+msgstr ""
+
+#: ../../client_工具栏.md:37 ee27f28b5530458ba13fcd216f292a4e
+msgid ""
+"<img src=\"_static/images/client/media/image9.png\" "
+"style=\"width:5.75972in;height:1.64444in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:40 90dd18be4fc24c548db90ffa85ed151f
+msgid "【消息提示】如果有系统通知消息，如公告、审核等，会展示在这里，点击查看消息。"
+msgstr ""
+
+#: ../../client_工具栏.md:42 6ec8842edf80421ab6da9a4f29d559fe
+msgid ""
+"<img src=\"_static/images/client/media/image10.png\" "
+"style=\"width:5.76667in;height:1.41528in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:45 75777e190fc4496db3d027f744ed13f8
+msgid "【语言】可以在这里切换系统语言，切换后刷新页面，当坐席在当前语言中登录时，坐席会遵循client的当前语言。"
+msgstr ""
+
+#: ../../client_工具栏.md:47 2262506f1665434c82bf61d0772c9c70
+msgid ""
+"<img src=\"_static/images/client/media/image11.png\" "
+"style=\"width:5.75972in;height:0.71875in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:50 3d5b74e6cc3147e5896d77cf0be333c4
+msgid "【client】单击此处查看客户的个人资料、公告和登录足迹（如果您是从高级登录者登录）"
+msgstr ""
+
+#: ../../client_工具栏.md:52 2211de92e3a14790a0096d2608ce8511
+msgid ""
+"<img src=\"_static/images/client/media/image12.png\" "
+"style=\"width:5.75694in;height:0.95972in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:55 794b5064455e4d2e9de35a34a40d7853
+msgid "【我的档案】客户可以在此处修改他们的账户信息，包括用户名。"
+msgstr ""
+
+#: ../../client_工具栏.md:57 c67da975106740a0b427ed8643b7183f
+msgid ""
+"<img src=\"_static/images/client/media/image13.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:60 2f5cff4e716c48a6b19435914b3be5e0
+msgid "【聊天页面】client可以搜索坐席并与坐席聊天，有聊天记录的坐席可以直接显示在对话框栏中。"
+msgstr ""
+
+#: ../../client_工具栏.md:62 cb5daacd1385412089ca11c5af6ec97f
+msgid "【用户】"
+msgstr ""
+
+#: ../../client_工具栏.md:64 b5d6c32e1ff040b9a57491515cd5e06e
+msgid "显示最近的联系人的姓名。"
+msgstr ""
+
+#: ../../client_工具栏.md:66 239774e02c17462287fe413db951e216
+msgid "Client在输入框中输入要发送的文本消息。"
+msgstr ""
+
+#: ../../client_工具栏.md:68 bd536066821e4ac2a6647982e4103648
+msgid "单击获取消息历史记录 以查看以前与坐席的聊天。"
+msgstr ""
+
+#: ../../client_工具栏.md:70 c35dddae6d9f46a3b4bfb88ca389b3a5
+msgid "Client在输入框中输入短信发送。"
+msgstr ""
+
+#: ../../client_工具栏.md:72 8fefce92af174866a8b9506bcd82bf50
+msgid "点击图【片发送】发送图片，图片格式目前支持JPG、PNG、JPEG。图片大小不得超过 2MB。"
+msgstr ""
+
+#: ../../client_工具栏.md:74 d64d6976d73a4d1898eb58f657dbc53f
+msgid "点击【返回】，返回对话列表。"
+msgstr ""
+
+#: ../../client_工具栏.md:76 23975d974e0e4254a87bbfadd1ec63c0
+msgid ""
+"<img src=\"_static/images/client/media/image14.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:79 bc7c00ce1e5b45e198e918a42462d7ff
+msgid ""
+"<img src=\"_static/images/client/media/image15.png\" "
+"style=\"width:1.94653in;height:5.42292in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:82 d34398ddddbe4f5d99ae329696f7816f
+msgid ""
+"<img src=\"_static/images/client/media/image16.png\" "
+"style=\"width:1.96458in;height:5.42292in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:85 abf6ba70f2444905954e9e054ca32ad3
+msgid "【仪表盘】"
+msgstr ""
+
+#: ../../client_工具栏.md:87 a3b6a28fc203445faa12b2a39587fcaa
+msgid "仪表板显示代理呼叫的传入和传出统计信息。"
+msgstr ""
+
+#: ../../client_工具栏.md:89 320db9c11fd64a25aed0357f9beaa6bb
+msgid "Client用户可以在控制面板上查看统计信息; 呼出 / 接通 / 通话时长; 呼入 / 漏话 / 通话时长;"
+msgstr ""
+
+#: ../../client_工具栏.md:91 f7a77e0cbe694a288a6a31ba105b960b
+msgid "接通新号码 /接通旧号码; 新建工单; 公告; DID 呼入; 主叫地区; 被叫地区; 设置参数 。"
+msgstr ""
+
+#: ../../client_工具栏.md:93 9625bbe6bc3245f2b0fd73b35342c975
+msgid ""
+"<img src=\"_static/images/client/media/image17.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:96 428b73cb5c2a46fa9b6a995ccf4e97fb
+msgid "2.1 呼出 /接通/通话时长"
+msgstr ""
+
+#: ../../client_工具栏.md:98 5c166400f88a4c8bb80aeb625177d5dc
+msgid ""
+"<img src=\"_static/images/client/media/image18.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:101 19bf4a7035004957a6460a85d2bfd2bc
+msgid "**呼出**:该client当天呼出的电话总数。"
+msgstr ""
+
+#: ../../client_工具栏.md:103 6738c898e1b34cc8a8e546b3e7500c1b
+msgid "**接通**:此client当天呼出通话的接通次数。"
+msgstr ""
+
+#: ../../client_工具栏.md:105 3fcc76c1b3bc44318307f0956f96bf06
+msgid "**通话时长:** client当天呼出接通的时间长度。"
+msgstr ""
+
+#: ../../client_工具栏.md:107 09e867e914cc4f409a6c430554e93810
+msgid "2.2呼入/ 漏话 /通话时长"
+msgstr ""
+
+#: ../../client_工具栏.md:109 f48ff172e3f241a1ab98940954d80ba3
+msgid ""
+"<img src=\"_static/images/client/media/image19.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:112 5bd43d94845b48dca51f9816fd06fb46
+msgid "**呼入**:该client当日呼入通话的次数。"
+msgstr ""
+
+#: ../../client_工具栏.md:114 47c61d5f6bed4e978ea58addf8aa0791
+msgid "**漏话**:当日呼入到该client的通话，但是没有被接通。"
+msgstr ""
+
+#: ../../client_工具栏.md:116 256dcc3a034f4402b687a84cd3097299
+msgid "**通话时长**: 当日呼入到该client的接通通话时长。"
+msgstr ""
+
+#: ../../client_工具栏.md:118 d5e2d5e609df45c6a53ec4cb04bf534f
+msgid "2.3接通新号码/ 接通旧号码"
+msgstr ""
+
+#: ../../client_工具栏.md:120 4e043133a55b409d996022a06938215c
+msgid ""
+"<img src=\"_static/images/client/media/image20.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:123 64acef9b205341c6871174727114f2d4
+msgid "**接通新号码**:首次呼入该client并被接通的号码。"
+msgstr ""
+
+#: ../../client_工具栏.md:125 a6cf1ffd8f8449b297eaea111c229701
+msgid "**接通旧号码**:系统已保存或删除的号码将在拨打并接通后显示为旧号码。"
+msgstr ""
+
+#: ../../client_工具栏.md:127 0bce41eeca274749a8874b0635f5918c
+msgid "2.4 新建工单"
+msgstr ""
+
+#: ../../client_工具栏.md:129 9bb9b6ab66d44129aecfe71a05b219c0
+msgid "同一天创建的所有工单，包括在客户端级工单页面上创建的工单和在客户配置文件页面上创建的工单。只有当天的记录将在第二天重置。"
+msgstr ""
+
+#: ../../client_工具栏.md:131 aa65417c3efb41cb85d7632b5eaef28d
+msgid ""
+"<img src=\"_static/images/client/media/image21.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:134 1df82bdf4367407c9a8bc5c8aebec90a
+msgid "2.5 公告"
+msgstr ""
+
+#: ../../client_工具栏.md:136 a3758be043134e9886e50b9c05727791
+msgid "Client及其坐席创建的所有公告将累积显示。"
+msgstr ""
+
+#: ../../client_工具栏.md:138 10af4b19e55a47a187d804976aaa2238
+msgid ""
+"<img src=\"_static/images/client/media/image22.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:141 2431333b60e2441ca016820da5f21af3
+msgid "2.6 did 呼入"
+msgstr ""
+
+#: ../../client_工具栏.md:143 649189bb10c748e889c839d314392318
+msgid "did呼入次数所占百分比的饼状图。"
+msgstr ""
+
+#: ../../client_工具栏.md:145 e0c5373cf9e34a25a015a96c0056664d
+msgid ""
+"<img src=\"_static/images/client/media/image23.png\" "
+"style=\"width:5.75694in;height:2.73333in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:148 9e5b0e7d4c1842d989fbebdc932baea9
+msgid "次数、时长、分钟数的饼状图会先显示 DID 名称，没有名字则显示数字。"
+msgstr ""
+
+#: ../../client_工具栏.md:150 eb859d05c4a944d986c4ec34d339decc
+msgid "1.频率排名：统计 DID 号码的来电次数，所有打到 DID 的号码都会被统计（来电接通/未接通），每个来电在 DID 号码后 +1。"
+msgstr ""
+
+#: ../../client_工具栏.md:152 dbe2f94590c3482b83028ccb29baff97
+msgid ""
+"<img src=\"_static/images/client/media/image24.png\" "
+"style=\"width:4.73819in;height:3.55972in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:155 07cb60dad995421891b5a9dd7f5b26c0
+msgid ""
+"<img src=\"_static/images/client/media/image25.png\" "
+"style=\"width:0.33333in;height:0.33333in\" alt=\"IMG_262\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:158 5d293112ed25481586f31d86d69a10cc
+msgid "2.时长排名：计算 DID 号码来电的通话时长，以分钟为单位显示，计数范围如下："
+msgstr ""
+
+#: ../../client_工具栏.md:160 8d39f6ddcd65412ea07fef3d22120f0f
+msgid "1）**DID 转IVR，按钮转接给坐席**：呼入时间将计入总通话时长，无论是否点击按钮转接，也无论坐席是否接通。"
+msgstr ""
+
+#: ../../client_工具栏.md:162 e71e6ff468274e95a1494f1a3ec3253b
+msgid "2）**DID 转语音播报，再转给坐席**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
+msgstr ""
+
+#: ../../client_工具栏.md:164 38cf44066a3c4d2a85f2afb3b85d2672
+msgid "3）**DID 转接坐席组**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
+msgstr ""
+
+#: ../../client_工具栏.md:166 79ca62319ee04bdaa1bdd361811f4ec0
+msgid "4）**DID 转振铃组**：只有坐席接通后，才会计算通话时长。"
+msgstr ""
+
+#: ../../client_工具栏.md:168 20e6a0f84a9a47ceb4f8e3d3fae31227
+msgid "5）**DID 转条件，再转接给坐席**:只有坐席接通后，才会计算通话时长。"
+msgstr ""
+
+#: ../../client_工具栏.md:170 9f3a114d7cb743e3b9731c07bd887d38
+msgid "6）**DID 转接坐席**:只有坐席接通后，才会计算通话时长。"
+msgstr ""
+
+#: ../../client_工具栏.md:172 4a6209de324a458399dbd92860942803
+msgid "7）**DID 转外号码**：只有外线号码接通时，才会计算通话时长。"
+msgstr ""
+
+#: ../../client_工具栏.md:174 177a98200726477eb4ec8ded220ff836
+msgid "8）**DID 转挂断**：不计算在内。"
+msgstr ""
+
+#: ../../client_工具栏.md:176 eb507fb12ec9418487273215ea1e0e66
+msgid ""
+"<img src=\"_static/images/client/media/image25.png\" "
+"style=\"width:0.33333in;height:0.33333in\" alt=\"IMG_263\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:179 1a8b6b1d7c4b457ea3bacdb15281f72a
+msgid ""
+"<img src=\"_static/images/client/media/image26.png\" "
+"style=\"width:4.28542in;height:3.60139in\" />"
+msgstr ""
+
+#: ../../client_工具栏.md:182 904f0832207441949e44046e45269065
+msgid "3.分钟数排名：计算呼入到该did号码下的呼入应答数，每呼入并接通一通电话就会在该did号码后+1，呼入到坐席组、语音播报和ivr语音菜单，呼入不接通也会计数。"
+msgstr ""
+
+#: ../../client_工具栏.md:184 618422b8c54f4ec5a8a32ffe91cc5641
+msgid "1）**DID 转接 IVR，按键转接给坐席**：呼入会 +1。"
+msgstr ""
+
+#: ../../client_工具栏.md:186 551da451b012470ea86a0eac2b161608
+msgid "2）**DID 转到语音播报，然后转接给坐席**：呼入会 +1。"
+msgstr ""
+
+#: ../../client_工具栏.md:188 994c4dc3dc984709822d85c74e11ca4c
+msgid "3）**DID 转接到坐席组**：呼入会 +1。"
+msgstr ""
+
+#: ../../client_工具栏.md:190 e34c822811ba4a04aacb5ba7066481a9
+msgid "4）**DID转接到振铃组**：坐席接通+1，未接通不会计算。"
+msgstr ""
+
+#: ../../client_工具栏.md:192 2e8b402407ad437da074976558db2b3b
+msgid "5）**DID转条件后转给坐席**：坐席接通+1，未接通不会计算。"
+msgstr ""
+
+#: ../../client_工具栏.md:194 ad217ce3c2e8466fa5ec32e352f338ff
+msgid "6）**DID转坐席**：坐席接通+1，未接通不会计算。"
+msgstr ""
+
+#: ../../client_工具栏.md:196 db1c4960e7bd49fc8f13d8ad1f26481e
+msgid "7）**DID转外线号码**：坐席接通+1，未接通不会计算。"
+msgstr ""
+
+#: ../../client_工具栏.md:198 a366d1ed59594323bc295fbb3a26174b
+msgid "8）**DID转向挂断**:不计算在内。"
+msgstr ""
+
+#: ../../client_工具栏.md:200 2db278a5c9be4c1bbdab1560658a06d3
+msgid ""
+"<img src=\"_static/images/client/media/image27.png\" "
+"style=\"width:4.71458in;height:3.54792in\" />"
+msgstr ""
+
