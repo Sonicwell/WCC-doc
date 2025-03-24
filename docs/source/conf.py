@@ -35,6 +35,10 @@ latex_engine = 'xelatex'
 
 latex_elements = {
     'preamble': r'''
+    \usepackage{graphicx}
+    \usepackage{grffile}  # 允许复杂图片路径
+    \DeclareGraphicsExtensions{.pdf,.png,.jpg,.jpeg}
+
     \usepackage[UTF8]{ctex}  # 中文支持
     \setCJKmainfont{WenQuanYi Zen Hei}  # 设置中文字体
     \setCJKmonofont{WenQuanYi Zen Hei Mono}  # 设置中文等宽字体
@@ -43,6 +47,7 @@ latex_elements = {
     \setCJKfamilyfont{jp}{IPAexMincho}  # 设置日文字体
     \newcommand{\jp}[1]{{\CJKfamily{jp}#1}}  # 定义日文命令
     '''
+    'figure_align': 'H',
 }
 
 templates_path = ['_templates']
