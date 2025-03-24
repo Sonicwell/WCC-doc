@@ -7,6 +7,8 @@ WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②�
 <img src="_static/images/root/media/image3.png"
 style="width:5.65486in;height:2.78333in" />
 
+![alt text](_static/images/root/media/image3.png)
+
 ### 菜单栏 
 
 #### a. 仪表盘:

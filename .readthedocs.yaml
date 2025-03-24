@@ -13,7 +13,6 @@ build:
     - fonts-wqy-zenhei 
     - fonts-wqy-microhei
     - texlive-latex-extra 
-    - texlive-fonts-recommended 
     - inkscape
     # - fonts-arphic-uming 
     # - fonts-arphic-ukai
