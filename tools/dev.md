@@ -64,6 +64,7 @@ pip3.11 install sphinx-intl
 4 图片都放到 docs/source/_static/images 目录下，你可以在其下构建每个文档的目录，这样便于管理。
 
 5 图片引入语法统一使用 ![alt text](_static/images/client/media/image24.png)
+  图片要单独占一行，不要和文字同行。
 
 6 图片多语言目录为 _static/images/en 和 _static/images/ja，默认 _static/images 下面放中文图片。
   多语言图片子目录要保持路径、文件名称一致。举例：
