@@ -40,7 +40,7 @@ WCC坐席界面窗口由3个主区域组成，他们分别是：①左侧菜单�
 
 用于平时仪表盘及联系客户。坐席登陆后默认显示内容。
 
-![alt text](image-18.png)
+![alt text](_static/images/agent/image-a8.png)
 
 #### 2.2.1 仪表盘
 
