@@ -8,6 +8,22 @@ sphinx-build -b gettext . _build/gettext
 sphinx-intl update -p _build/gettext -l en -l ja -l zh_CN
 ```
 
+## 使用脚本进行自动翻译
+
+```
+cd tools
+
+export http_proxy=http://192.168.1.91:7890
+
+export https_proxy=http://192.168.1.91:7890
+
+python3.11 translate.py \
+  --input /usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/client_菜单功能.po \
+  --source zh-CN \
+  --target en \
+  --output /usr/src/WCC-doc/tools/client_菜单功能_translated.po
+```
+
 ## docx转md
 
 ```

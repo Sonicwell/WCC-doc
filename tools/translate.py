@@ -1,13 +1,36 @@
 import polib
 import requests
 import re
+import argparse
+import os
+import time
+import sys
+from datetime import datetime
 
-# Google 翻译
-def translate_text(text, source_lang="zh-CN", target_lang="eng"):
+USE_COLOR = sys.stdout.isatty()
+
+def log(msg, level="info"):
+    now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    color = ""
+    reset = "\033[0m" if USE_COLOR else ""
+
+    if USE_COLOR:
+        if level == "error":
+            color = "\033[91m"  # 红色
+        elif level == "success":
+            color = "\033[92m"  # 绿色
+        elif level == "warning":
+            color = "\033[93m"  # 黄色
+
+    print(f"{now} - {color}{msg}{reset}")
+
+
+# Google 翻译  zh-CN en ja auto
+def translate_text(text, source_lang="zh-CN", target_lang="en"):
     url = "https://translate.googleapis.com/translate_a/single"
     params = {
         "client": "gtx",
-        "sl": source_lang,  # 源语言自动检测 auto
+        "sl": source_lang,  # 源语言
         "tl": target_lang,  # 目标语言
         "dt": "t",
         "q": text,
@@ -22,33 +45,81 @@ def translate_text(text, source_lang="zh-CN", target_lang="eng"):
 
     return ""  # 失败时返回空字符串，保持未翻译状态
 
+
 # 正则匹配 <img> 标签
 img_pattern = re.compile(r'<img\s+[^>]*src=[\'"][^\'"]+[\'"][^>]*>', re.IGNORECASE)
 
 # Markdown 格式图片 ![alt text](_static/images/root/media/image1.png)
 markdown_img_pattern = re.compile(r'!\[[^\]]*\]\([^\)]+\)', re.IGNORECASE)
 
-# 读取 PO 文件
-po = polib.pofile("/usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/client.po")
 
-# 遍历所有条目，翻译未翻译的部分
-for entry in po:
-    if not entry.translated():  # 只处理未翻译的条目
-        if img_pattern.search(entry.msgid) or markdown_img_pattern.search(entry.msgid):  # 如果是图片，跳过翻译
-            entry.msgstr = ""  # 保持为空
-            #TODO: 扫描图片语言目录进行替换
-            print(f"跳过图片条目: {entry.msgid}")
+def process_po_file(input_file, source_lang, target_lang, output_file):
+    if not os.path.exists(input_file):
+        log(f"输入文件不存在: {input_file}")
+        return
+
+    po = polib.pofile(input_file)
+
+    total_entries = len(po)
+    log(f"总条目数: {total_entries}")
+
+    processed_count = 0
+    skip_img_count = 0
+    skip_translated_count = 0
+    success_count = 0
+    failed_count = 0
+
+    # 遍历所有条目，翻译未翻译的部分
+    for index, entry in enumerate(po, start=1):
+        if entry.occurrences and len(entry.occurrences[0]) == 2:
+            line_number = entry.occurrences[0][1]
         else:
-            translated_text = translate_text(entry.msgid)
-            if translated_text:  # 只有成功翻译才填充
-                entry.msgstr = translated_text
-                print(f"翻译: {entry.msgid} -> {translated_text}")
-            else:
+            line_number = "未知"
+
+        if not entry.translated():  # 只处理未翻译的条目
+            if img_pattern.search(entry.msgid) or markdown_img_pattern.search(entry.msgid):  # 如果是图片，跳过翻译
                 entry.msgstr = ""  # 保持为空
-                print(f"翻译失败, msgstr保持为空: {entry.msgid}")
+                #TODO: 扫描图片语言目录进行替换
+                log(f"[{index}/{total_entries}] 跳过图片条目: {entry.msgid} （位置: {line_number}）")
+                skip_img_count += 1
+            else:
+                translated_text = translate_text(entry.msgid, source_lang, target_lang)
+                if translated_text:  # 只有成功翻译才填充
+                    entry.msgstr = translated_text
+                    log(f"[{index}/{total_entries}] 翻译: {entry.msgid} -> {translated_text} （位置: {line_number}）", level="success")
+                    success_count += 1
+                else:
+                    entry.msgstr = ""  # 保持为空
+                    log(f"[{index}/{total_entries}] 翻译失败, msgstr保持为空: {entry.msgid} （位置: {line_number}）", level="error")
+                    failed_count += 1
+        else:
+            log(f"[{index}/{total_entries}] 已翻译，跳过: {entry.msgid} （位置: {line_number}）")
+            skip_translated_count += 1
+
+        processed_count += 1
+
+    # 保存回 PO 文件
+    po.save(output_file)
+    log(f"翻译完成，共处理 {processed_count} 条，已保存到 {output_file}")
+    print(f"翻译成功数: {success_count} 条")
+    print(f"翻译失败数: {failed_count} 条")
+    print(f"跳过图片数: {skip_img_count} 条")
+    print(f"跳过已译数: {skip_translated_count} 条")
 
 
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="PO 文件翻译器（基于 Google Translate）")
+    parser.add_argument('--input', required=True, help="输入 PO 文件路径")
+    parser.add_argument('--source', default='zh-CN', help="源语言代码，默认 zh-CN，自动检测 auto")
+    parser.add_argument('--target', required=True, help="目标语言代码，例如 zh-CN en ja")
+    parser.add_argument('--output', required=True, help="输出翻译后 PO 文件路径")
 
-# 保存回 PO 文件
-po.save("/usr/src/WCC-doc/tools/client_translated.po")
-print("翻译完成，已保存到 /usr/src/WCC-doc/tools/client_translated.po")
+    args = parser.parse_args()
+
+    start_time = time.time()  # 记录开始时间
+    process_po_file(args.input, args.source, args.target, args.output)
+    end_time = time.time()    # 记录结束时间
+
+    total_seconds = int(end_time - start_time)
+    minutes, seconds = divmod(total_seconds, 60)
+    log(f"程序总耗时: {minutes} 分 {seconds} 秒")
