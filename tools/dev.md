@@ -18,10 +18,11 @@ export http_proxy=http://192.168.1.91:7890
 export https_proxy=http://192.168.1.91:7890
 
 python3.11 translate.py \
-  --input /usr/src/WCC-doc/docs/source/locales/en/LC_MESSAGES/client_菜单功能.po \
+  --input /usr/src/WCC-doc/docs/source/locales/ja/LC_MESSAGES/常见问题回答.po \
   --source zh-CN \
-  --target en \
-  --output /usr/src/WCC-doc/tools/client_菜单功能_translated.po
+  --target ja \
+  --output /usr/src/WCC-doc/tools/常见问题回答_translated.po
+
 ```
 
 ## docx转md

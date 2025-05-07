@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../index.rst:35
 msgid "常见问题"
-msgstr ""
+msgstr "FAQ"
 
 #: ../../index.rst:2 3f5c9af3d64f40bbb47d7bfe5b366fb0
 msgid "Welcome to WCC documentation!"

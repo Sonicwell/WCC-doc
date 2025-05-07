@@ -350,7 +350,7 @@ msgstr ""
 #: ../../client_工具栏.md:129 68538a3a671d480a8a88b0359434959a
 msgid "1.频率排名：统计 DID 号码的来电次数，所有打到 DID 的号码都会被统计（来电接通/未接通），每个来电在 DID 号码后 +1。"
 msgstr ""
-"1. Frequency ranking: count the number of calls to the DID number. All "
+"1 Frequency ranking: count the number of calls to the DID number. All "
 "numbers that call to the DID will be counted (incoming call is on/not "
 "connected), and each incoming call is +1 after the DID number."
 
@@ -366,7 +366,7 @@ msgstr ""
 #: ../../client_工具栏.md:135 566693d9967e43d5911a96f53b220489
 msgid "2.时长排名：计算 DID 号码来电的通话时长，以分钟为单位显示，计数范围如下："
 msgstr ""
-"2. Duration ranking: Calculate the call duration of the incoming call of the"
+"2 Duration ranking: Calculate the call duration of the incoming call of the"
 " DID number, displayed in minutes, and the counting range is as follows:"
 
 #: ../../client_工具栏.md:137 6d7000f9d57845c69e156ce7642c5a4e
@@ -426,7 +426,7 @@ msgstr ""
 msgid ""
 "3.分钟数排名：计算呼入到该did号码下的呼入应答数，每呼入并接通一通电话就会在该did号码后+1，呼入到坐席组、语音播报和ivr语音菜单，呼入不接通也会计数。"
 msgstr ""
-"3. Minute ranking: Calculate the number of incoming calls under the did "
+"3 Minute ranking: Calculate the number of incoming calls under the did "
 "number. Every time the call is incoming and connected, it will +1 after the "
 "did number. The call will be incoming to the seat group, voice broadcast and"
 " ivr voice menus. If the incoming call is not connected, it will also count."

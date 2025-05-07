@@ -34,7 +34,7 @@ msgstr "3.1.1 Account"
 
 #: ../../client_菜单功能.md:7 9d6295a024644262867eadd0304500a4
 msgid "1.账户页面介绍"
-msgstr "1. Account page introduction"
+msgstr "1 Account page introduction"
 
 #: ../../client_菜单功能.md:9 a41317a4b671425fa57c08b8cee0a3c6
 msgid "**账户**是用于管理系统的用户,例如添加坐席,查询报表,更新配置等。通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限"
@@ -243,7 +243,7 @@ msgstr ""
 #: ../../client_菜单功能.md:693 4eaa48f89b344fdbbe166397d04e05bf
 #: d5d83618be3042bfb7030308b775774c
 msgid "2.显示/隐藏字段"
-msgstr "2. Show/Hide fields"
+msgstr "2 Show/Hide fields"
 
 #: ../../client_菜单功能.md:29 8a348fa241ad4d608fec47ed95e9cfbf
 msgid "用户名：该账户名。"
@@ -275,7 +275,7 @@ msgstr "Last login date: The last login date for this account."
 
 #: ../../client_菜单功能.md:43 803f378ccd9b40ec94876361d413f5be
 msgid "3.添加一个账户"
-msgstr "3. Add an account"
+msgstr "3 Add an account"
 
 #: ../../client_菜单功能.md:45 292f05f1edff408c82230197cfec6b35
 msgid "①点击【添加】进入添加账户常规设置页面："
@@ -363,7 +363,7 @@ msgstr "3.1.2 Seat"
 
 #: ../../client_菜单功能.md:83 2c41465bc536479394761e7a85ef7b34
 msgid "1.坐席页面介绍"
-msgstr "1. Introduction to the seat page"
+msgstr "1 Introduction to the seat page"
 
 #: ../../client_菜单功能.md:85 045d84522e894a949838f97035598bf9
 msgid ""
@@ -406,7 +406,7 @@ msgstr "[Batch Operation] Perform - Batch Add - Batch Edit on the agent."
 
 #: ../../client_菜单功能.md:101 6a55777fe89448d2bb239f5a4e8b592d
 msgid "2.隐藏/显示字段"
-msgstr "2. Hide/Show fields"
+msgstr "2 Hide/Show fields"
 
 #: ../../client_菜单功能.md:103 836fa90f9ecd4c308e5bb12599ad5ec9
 msgid "坐席工号：坐席工号。"
@@ -454,7 +454,7 @@ msgstr "Phone MAC address: The phone’s MAC address."
 
 #: ../../client_菜单功能.md:123 f65cfd9dfe5c42e6b37577c8bc0c6806
 msgid "3.添加新的坐席"
-msgstr "3. Add a new seat"
+msgstr "3 Add a new seat"
 
 #: ../../client_菜单功能.md:125 e6197cfdab974eb4b5710fc5cd5e68c9
 msgid "添加坐席有两种方式：逐个添加或批量添加。"
@@ -571,7 +571,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:168 1ab3635812a841c1a95aa7cc8bca071e
 msgid "4.批量建立新坐席"
-msgstr "4. Build new seats"
+msgstr "4 Build new seats"
 
 #: ../../client_菜单功能.md:170 9dbf452408cb4e75977441033ba99026
 msgid "<span class=\"mark\">①</span>单击“批量操作”-“批量添加”，进入“批量添加”页面："
@@ -657,7 +657,7 @@ msgstr "3.1.3 Seating Group"
 
 #: ../../client_菜单功能.md:200 0bb28670fa1c4903a86839ede014d9d8
 msgid "1.坐席组页面介绍"
-msgstr "1. Introduction to the seat group page"
+msgstr "1 Introduction to the seat group page"
 
 #: ../../client_菜单功能.md:202 b56210400507464f8d679756ab03b6c1
 msgid ""
@@ -1117,7 +1117,7 @@ msgstr "3.1.4 Roles and Permissions"
 #: ../../client_菜单功能.md:636 ../../client_菜单功能.md:2217
 #: 5a10c3dcdfb7473ba29969e340adc237
 msgid "1.页面介绍"
-msgstr "1. Page introduction"
+msgstr "1 Page introduction"
 
 #: ../../client_菜单功能.md:362 7301e363cdd64339aec82f6dea0cfa1d
 msgid ""
@@ -1159,7 +1159,7 @@ msgstr "Last Update: The last updated date for the character."
 
 #: ../../client_菜单功能.md:386 ab8f5b1d4b6b4d45aa6a84eb76088ce7
 msgid "3.添加新角色"
-msgstr "3. Add a new role"
+msgstr "3 Add a new role"
 
 #: ../../client_菜单功能.md:388 7b9bfe6eb9db47429d21db6b41e31f0a
 msgid "①点击添加进入添加/编辑角色权限【常规】界面："
@@ -1242,7 +1242,7 @@ msgstr "3.1.5 Department"
 
 #: ../../client_菜单功能.md:414 5afe6142bbb3479bb0a990ad45ac6f70
 msgid "1.部门页面功能简介"
-msgstr "1. Introduction to the functions of department pages"
+msgstr "1 Introduction to the functions of department pages"
 
 #: ../../client_菜单功能.md:416 47fa3d0e4ac34d14b52063ec0fb439ac
 msgid ""
@@ -1296,7 +1296,7 @@ msgstr "Superior department: The superior department of this department."
 
 #: ../../client_菜单功能.md:440 93042a590d2f427e89f7e04e20a5529f
 msgid "3.添加一个新的部门"
-msgstr "3. Add a new department"
+msgstr "3 Add a new department"
 
 #: ../../client_菜单功能.md:442 5d34186fa25146dab0f7bbbffeddf850
 msgid "①点击添加进入添加/编辑部门的常规页面："
@@ -1557,7 +1557,7 @@ msgstr "Last updated: The latest update date for this field."
 
 #: ../../client_菜单功能.md:546 4e702e47af094536afb71360f88aeffc
 msgid "3.添加自定义字段"
-msgstr "3. Add custom fields"
+msgstr "3 Add custom fields"
 
 #: ../../client_菜单功能.md:548 6d261b74e8984b099cc829591847c358
 msgid "①点击添加进入添加/编辑自定义字段常规页面："
@@ -1715,7 +1715,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:614 d14a2776821c4c33b83837274a9f0974
 msgid "3.新建一个客户包"
-msgstr "3. Create a new customer package"
+msgstr "3 Create a new customer package"
 
 #: ../../client_菜单功能.md:616 2e533d47fa664be7b6cf2ff96b473ca1
 msgid "<span class=\"mark\">①点击添加进入添加/编辑客户包的常规页面：</span>"
@@ -1988,7 +1988,7 @@ msgstr "Total number of calls: Total number of calls to the customer."
 
 #: ../../client_菜单功能.md:725 589bedc93c6a421788a5fcc3d1740016
 msgid "3.新增客户数据"
-msgstr "3. Add new customer data"
+msgstr "3 Add new customer data"
 
 #: ../../client_菜单功能.md:727 6dee3581c95c47c894412c5ff227e9a6
 msgid "3.1单条数据导入"
@@ -2937,7 +2937,7 @@ msgstr "3.3.6 Customer Tags"
 
 #: ../../client_菜单功能.md:1095 0653c33bae1643a5b066d3244492772d
 msgid "1. 页面简介"
-msgstr "1. Page Introduction"
+msgstr "1 Page Introduction"
 
 #: ../../client_菜单功能.md:1097 6e556b3d754c4350b546481f6c6457b1
 msgid "**客户标签** 用于为客户选择不同的客户标签，用户通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。"
@@ -2976,7 +2976,7 @@ msgstr "[Drop-down menu] You can delete the customer tag."
 
 #: ../../client_菜单功能.md:1113 95a6ea2af389425d80bf009ff5663b22
 msgid "2.添加一个新的标签"
-msgstr "2. Add a new tag"
+msgstr "2 Add a new tag"
 
 #: ../../client_菜单功能.md:1115 7cfce257c9c14d82a8d96fc159c2fb0d
 msgid "①点击添加进入添加新客户标签常规界面"
@@ -3013,7 +3013,7 @@ msgstr "3.3.7 Data source"
 #: ../../client_菜单功能.md:1129 ../../client_菜单功能.md:1167
 #: a404808e5fb64a88996865f78236734e
 msgid "1. 页面介绍"
-msgstr "1. Page introduction"
+msgstr "1 Page introduction"
 
 #: ../../client_菜单功能.md:1131 37fc397fdb4f431ebdf16e2ed54b13b3
 msgid ""
@@ -3143,7 +3143,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1187 7da3bb0a19db490f9c46f82b881be0ed
 msgid "2 .添加一个弹屏警告"
-msgstr "2. Add a pop-up warning"
+msgstr "2 Add a pop-up warning"
 
 #: ../../client_菜单功能.md:1189 ef9b8618958a4d398ff7827ed9dd32af
 msgid "2.1client用户添加一个新的弹屏警告"
@@ -3252,7 +3252,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1231 153906a373624cf483129016aa766c50
 msgid "2. 显示/隐藏字段"
-msgstr "2. Show/Hide fields"
+msgstr "2 Show/Hide fields"
 
 #: ../../client_菜单功能.md:1233 2a2401c0fca74ff4b2c8305472c8c4bd
 msgid "客户姓名：弹屏警告的客户名称。如果未设置，则不会显示."
@@ -3318,7 +3318,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1263 21929462705042cd8a13b73ca9c503fa
 msgid "2 .显示/隐藏字段"
-msgstr "2. Show/Hide fields"
+msgstr "2 Show/Hide fields"
 
 #: ../../client_菜单功能.md:1265 9299154cec8e4357bfa4a872828d5e8f
 msgid "字典名称：该字典的名称。"
@@ -3372,7 +3372,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1287 337141e61e234168878c13d6c5fe4d35
 msgid "4.字典使用的流程"
-msgstr "4. The process of dictionary use"
+msgstr "4 The process of dictionary use"
 
 #: ../../client_菜单功能.md:1289 0f597e0bdfac48aea0ae65e2afe24e10
 msgid "①<span class=\"mark\">用户在客户数据——字典管理中点击添加，添加一个新的字典名称。</span>"
@@ -5329,7 +5329,7 @@ msgstr "Supplier: The supplier settings of this display number."
 
 #: ../../client_菜单功能.md:2063 960d370d7ab04fbe90862abfdde96908
 msgid "4 外显号码的设置"
-msgstr "4. Settings of the display number"
+msgstr "4 Settings of the display number"
 
 #: ../../client_菜单功能.md:2065 cd8f55c16cd64c13add92fd0dcfa76ae
 msgid "外显号码需要在代理商或运营商级别设置，设置后client可以选择所设置的外显号码。"
@@ -5691,7 +5691,7 @@ msgstr "[Drop-down menu] Delete this voice menu."
 
 #: ../../client_菜单功能.md:2235 7ac2bce566e446ed96240fcdcdbe470a
 msgid "2.添加一个ivr菜单"
-msgstr "2. Add an ivr menu"
+msgstr "2 Add an ivr menu"
 
 #: ../../client_菜单功能.md:2237 a155566c5ce641b4a6a52e129ed520ee
 msgid "①点击添加新增/编辑IVR语音菜单的常规页面："

@@ -409,7 +409,7 @@ msgstr "Three-party call"
 #: ../../常见问题回答.md:48 deb52f5c12294d4f8b7960325843500e
 msgid "3 通话记录中挂断原因及其产生的方式"
 msgstr ""
-"3. The reason for hanging up in the call record and its way of occurrence"
+"3 The reason for hanging up in the call record and its way of occurrence"
 
 #: ../../常见问题回答.md 4049dffede18438e8f1e6e335e4ad305
 msgid "挂断原因"
@@ -916,7 +916,7 @@ msgstr "Exit IVR"
 #: ../../常见问题回答.md:116 777c821d630c4312bd88aa1c4e885d5c
 msgid "5 统计报表中，各项数据的计算公式和统计范围"
 msgstr ""
-"5. Calculation formulas and statistical scope of each data in the "
+"5 Calculation formulas and statistical scope of each data in the "
 "statistical report"
 
 #: ../../常见问题回答.md 387f54972cd94c799f450163b669b028
