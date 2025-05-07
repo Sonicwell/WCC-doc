@@ -1,0 +1,2045 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 17:00+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../root_界面介绍.md:1 4b20b79831c74f6f8a01e20a68e8de34
+msgid "1.2 界面介绍"
+msgstr "1.2 Interface introduction"
+
+#: ../../root_界面介绍.md:3 dfa2704d9b6e416eb730f7306697574e
+msgid "1.2.1 界面介绍"
+msgstr "1.2.1 Interface introduction"
+
+#: ../../root_界面介绍.md:5 7d6d4be517b845319a879819d57e5f49
+msgid "WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②上方状态栏、③中间工作区。（如下图所示）"
+msgstr ""
+"The WCC system root interface window is mainly composed of three areas: ① "
+"the left menu bar, ② the upper status bar, and ③ the middle work area. "
+
+#: ../../root_界面介绍.md:7 aa6129fd91ee4540827d935dfe8985c6
+msgid "![alt text](_static/images/root/media/image3.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:7 ../../root_界面介绍.md:15 ../../root_界面介绍.md:25
+#: ../../root_界面介绍.md:45 ../../root_界面介绍.md:52 ../../root_界面介绍.md:78
+#: ../../root_界面介绍.md:84 ../../root_界面介绍.md:88 ../../root_界面介绍.md:110
+#: ../../root_界面介绍.md:114 ../../root_界面介绍.md:118 ../../root_界面介绍.md:122
+#: ../../root_界面介绍.md:130 ../../root_界面介绍.md:134 ../../root_界面介绍.md:138
+#: ../../root_界面介绍.md:144 ../../root_界面介绍.md:148 ../../root_界面介绍.md:156
+#: ../../root_界面介绍.md:164 ../../root_界面介绍.md:168 ../../root_界面介绍.md:184
+#: ../../root_界面介绍.md:188 ../../root_界面介绍.md:198 ../../root_界面介绍.md:220
+#: ../../root_界面介绍.md:230 ../../root_界面介绍.md:232 ../../root_界面介绍.md:234
+#: ../../root_界面介绍.md:240 ../../root_界面介绍.md:244 ../../root_界面介绍.md:262
+#: ../../root_界面介绍.md:274 ../../root_界面介绍.md:278 ../../root_界面介绍.md:287
+#: ../../root_界面介绍.md:299 ../../root_界面介绍.md:326 ../../root_界面介绍.md:334
+#: ../../root_界面介绍.md:344 ../../root_界面介绍.md:362 ../../root_界面介绍.md:378
+#: ../../root_界面介绍.md:382 ../../root_界面介绍.md:394 ../../root_界面介绍.md:398
+#: ../../root_界面介绍.md:410 ../../root_界面介绍.md:417 ../../root_界面介绍.md:421
+#: ../../root_界面介绍.md:435 ../../root_界面介绍.md:439 ../../root_界面介绍.md:455
+#: ../../root_界面介绍.md:463 ../../root_界面介绍.md:478 ../../root_界面介绍.md:500
+#: ../../root_界面介绍.md:515 ../../root_界面介绍.md:519 ../../root_界面介绍.md:527
+#: ../../root_界面介绍.md:531 ../../root_界面介绍.md:537 ../../root_界面介绍.md:561
+#: ../../root_界面介绍.md:565 ../../root_界面介绍.md:573 ../../root_界面介绍.md:577
+#: ../../root_界面介绍.md:591 ../../root_界面介绍.md:595 ../../root_界面介绍.md:601
+#: ../../root_界面介绍.md:609 ../../root_界面介绍.md:615 ../../root_界面介绍.md:619
+#: ../../root_界面介绍.md:631 ../../root_界面介绍.md:635 ../../root_界面介绍.md:659
+#: ../../root_界面介绍.md:665 ../../root_界面介绍.md:671 ../../root_界面介绍.md:681
+#: ../../root_界面介绍.md:711 ../../root_界面介绍.md:725 ../../root_界面介绍.md:733
+#: ../../root_界面介绍.md:745 ../../root_界面介绍.md:749 ../../root_界面介绍.md:767
+#: ../../root_界面介绍.md:775 ../../root_界面介绍.md:811 ../../root_界面介绍.md:821
+#: ../../root_界面介绍.md:827 ../../root_界面介绍.md:831 ../../root_界面介绍.md:843
+#: ../../root_界面介绍.md:847 ../../root_界面介绍.md:851 ../../root_界面介绍.md:855
+#: 001ab18ceeca494a89c91f1d043b2416 00c5932e14114f839365a653fbf4434b
+#: 052c192c98b7479d9ee9cc5729f312e9 071b0b24215c4e04a88000d35e709f0a
+#: 07ef9a582b8649d994c120846388623b 10a7fc9d55fd4499994f65259135f660
+#: 10fa77cfd1f346d4b1961077706d7700 1459fa3d96b6435fb8dbeb307b51cdc6
+#: 18a643e3aaa74c4ca1c9d5121363d714 1b64398449b34830af81e76bdff988b6
+#: 1bd79e3d0f414a05ba42aa2967f94392 1db51e5106334bfcbe9c1a0cf33ed32e
+#: 1dc9cd55c925400d94965bacc597296f 1f705b3ca6244d35bf317f9dedcf9ee4
+#: 1fb364792ef44ebaa7d4c5652e0342d0 21f5eab4ee304ed6b761bd4beecadea7
+#: 2534a65163214d51856a140cbe5f5add 2c5bac23ffd2482cb16faeb399b6f85c
+#: 2f1e88aeafd9433286c9115ec167269b 30fb21c4faac4e1f921be3e4d2ff1dc5
+#: 31b4776b236a47a39d28ae04db1cff71 33c9c5ee158a4d2fbf8a970d20db388b
+#: 37b29b1195f74902a30a0dd298693a55 3c7c7d2878184f17862c751ada227e65
+#: 46cf8bb125444a2f8785bc01d2af7510 4aba8f5c6684481199fa13c9f6ce2de6
+#: 4d02d35547b4424c8f6e3b4e67b27cc0 4d34e7dbce2c4cfe99187e918a326e2e
+#: 512b32aa44e94317aaae9b9b97f2c240 5472111e9e5f4ab9af847025b7e7a8ac
+#: 5485e7caefe7458aae42e5a35b2c5d7f 560a2763ead544458a279fed8c734b8a
+#: 5e73daa914dd4049bf0f86ae984c643b 5f0092525692405bb3a19d1ae7cc7861
+#: 67ffb9bb02e7479792a5e675c0f900c7 6da9dac2c1834a1cbbc4667dafc4ed49
+#: 74cd5ec7defe4a9f827dd4d82cd7c663 74d39af507ce43749f6326094975e5ba
+#: 791a528cc08c4122849d310a3e92fd39 795635587fce47d4b640851bc6382c89
+#: 7f297844517e4d2487274fd35ad38f05 804814b90e984a7e8efceab156225f20
+#: 81d96246fe014c25a56623c35eac56bf 844560361bfd4ac2aa5104d95f81fd07
+#: 844aecc0728a48b28a81abb7305e6c09 84501b7811a549188f229b7aba2a0443
+#: 8a388e6259ea4139a518b782b10782cc 8dd3c52b0b004a8eb0a5d8b9c3792df5
+#: 94adb849f18649b4a922b70ae5a58693 978588819e584c31853826d2318a7ac6
+#: 98dfccb21ccd4a8fbe74ca907bf17d45 997421521a554a7fad430b9107a4dda3
+#: 9b0aa5aa351e48ca874c4660734a5bdb 9f4f5a806e1f46d98ac27337179e6a84
+#: 9f96a3b9391b4e4eb47f660f15725ca5 a0f451cb961742b3a1f48b386fb67999
+#: a446f057ad3643ac9f44f8f90affaca4 a75c1f3c5e0b48c3a37dc322888c7257
+#: aae05b137e9944519ffee47525871f4f ab860aad55e24f4c9036175c6a7aae6b
+#: aca59f2ddcba4334913abbe65392c27b af7f482a2a0f4abaadbbe67570e9c9aa
+#: b00679a087a8430ca5f5cdaa4cf6c740 b06a2c041b534df2ade5d7dbeaf66e9e
+#: b2c0008d7f5b483caa8d51ea456a2c78 b2dc6c81fb794603b6973c65bd181c31
+#: b3ab4758bf1c41169893402195cc4d50 b577e5005da44d31ab43452dcbb03bf8
+#: b8d5f0a1731a4f98b7ec0c9b6eebfe37 b92f4c7911d0479ebb9a17434c18f54e
+#: cf483a1f996844f1bf3c01c0349a5b05 d751ee5e0c41487f98dc8c1ee6806305
+#: da9da259f4cf4f47b8680b87f09488b8 de160c0121924cb88321d67bc661c1fa
+#: e320fe57d8524b4a8a41c4905b360cd8 e3d895c793dc42f2bd57c04095aa62bd
+#: e3da2bc3dd4343a88f9ab8676452d7c4 e4e77fbb104341cea941c3f34913652d
+#: e4fa69a0e45041ab9a76ce765e7a8d07 eb38c5bdb2f14a08b3c37afe7d4847d9
+#: ec99d543c0ed429ca95c7bbe2ef1276b ee6a9dc7a5fe41bdb5a6e9e9d17a4965
+#: ef790a92c7584221a3349efbb2f8a7b0 efa1e4c626dc4fcb9c48d5514e8b703b
+#: f540098259374df9b25220bf052d04b7 f6bf8557992c47078a5ec7bdcf10e7f0
+#: f916b8e331a549a380b30a0a563ef888
+msgid "alt text"
+msgstr "alt text"
+
+#: ../../root_界面介绍.md:9 2a7bb14b02fe45c09383009fa59b1132
+msgid "菜单栏"
+msgstr "Menu Bar"
+
+#: ../../root_界面介绍.md:11 353323e0fd9f4385a2ac1a0f5158e8b5
+msgid "a. 仪表盘:"
+msgstr "a. Dashboard:"
+
+#: ../../root_界面介绍.md:13 fdc570f706e74df89a742670f096096f
+msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：外拨/已应答、在线代理、DID入站、入站区域和出站区域。"
+msgstr ""
+"System users can view statistics on the dashboard: System users can view "
+"statistics on the dashboard: outbound/responsed, online proxy, DID inbound, "
+"inbound area and outbound area."
+
+#: ../../root_界面介绍.md:15 f655bf6c34f24885898538044695e8a7
+msgid "![alt text](_static/images/root/media/image4.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:17 8a3b428fcf5b4dffb5e2c65f45909e59
+msgid "b. 用户:"
+msgstr "b. User:"
+
+#: ../../root_界面介绍.md:19 78bcfa1f0ec148b5a1323ade9697faa6
+msgid "代理商："
+msgstr "Agent:"
+
+#: ../../root_界面介绍.md:21 6785ee023eae4f2fa60612df0864a453
+msgid "由系统用户建立"
+msgstr "Created by system users"
+
+#: ../../root_界面介绍.md:23 895acd4fdd5048ef8d1435a1518f2e15
+msgid "选择【添加】，进入【常规】添加代理的设置：（如下图）"
+msgstr ""
+"Select [Add] to enter [General] to add proxy settings: (as shown below)"
+
+#: ../../root_界面介绍.md:25 8cab43bc111143e3b39662d11487a264
+msgid "![alt text](_static/images/root/media/image5.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:27 3b65237929794bfcbdd20e6a8a9db9e4
+msgid "**域名**：每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字（0-9）、字符（.-）的组合。"
+msgstr ""
+"**Domain Name**: Each proxy user should have a unique domain name, and the "
+"domain name cannot be modified once it is set. "
+
+#: ../../root_界面介绍.md:29 fde4fc8db7034e338fd777032d91e00f
+msgid "**代理商**: 请指定该代理商的姓名，姓名可以随时更改。"
+msgstr ""
+"**Agent**: Please specify the name of the agent, and the name can be changed"
+" at any time."
+
+#: ../../root_界面介绍.md:31 aea82b5213e94bf8ad4f4208e2350399
+msgid "**费率**：为代理商设定适用的费率范围。"
+msgstr "**Rate**: Set the applicable rate range for the agent."
+
+#: ../../root_界面介绍.md:33 4cd422cf68384486aab9a8785c764380
+msgid "**用户名**: 用户将使用该用户名登录系统。"
+msgstr ""
+"**Username**: The user will use this username to log in to the system."
+
+#: ../../root_界面介绍.md:35 37f62b2384f640e590f20a3357b1f460
+msgid "**名**: 请填写该代理商用户的名称。"
+msgstr "**Name**: Please fill in the name of the agent user."
+
+#: ../../root_界面介绍.md:37 5debebd812d745868d2afaca89ed5d92
+msgid "**姓**: 请填写该代理商用户的姓。"
+msgstr "**Secret**: Please fill in the last name of the agent user."
+
+#: ../../root_界面介绍.md:39 fdab648b586a40eabca7f3aa515711d6
+msgid "**密码**：填写用户登录密码，用户将使用此密码登录系统。"
+msgstr ""
+"**Password**: Fill in the user's login password, and the user will use this "
+"password to log in to the system."
+
+#: ../../root_界面介绍.md:41 e530a33d38cd462ebe9b4884358b4eb3
+msgid "**确认密码**：再次确认密码，确保两次密码相同。"
+msgstr ""
+"**Confirm password**: Confirm password again to ensure that the passwords "
+"are the same twice."
+
+#: ../../root_界面介绍.md:43 b8db88524f1f4e9a96e1993c1522acb2
+msgid "**【 高级 】 设置:**"
+msgstr "**【Advanced】Settings:**"
+
+#: ../../root_界面介绍.md:45 18864985b36a4de9827fb0a389152c4f
+msgid "![alt text](_static/images/root/media/image6.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:47 8efa82fa9c2c4e32a392143af6faa57f
+msgid "**时区**: 请为该代理用户设置时区。设置后不可修改。您可以直接搜索或向下滚动进行选择。"
+msgstr "**Time Zone**: Please set the time zone for this proxy user. "
+
+#: ../../root_界面介绍.md:49 ae6a95f008454f12a45b79e8b737d4ab
+msgid "**\\[公司信息\\]:** 公司信息基本编辑（如下图）"
+msgstr ""
+"**\\[Company Information\\]:** Basic edit of company information (as shown "
+"below)"
+
+#: ../../root_界面介绍.md:52 7d108ee637e74c94b46971b55a08af61
+msgid "![alt text](_static/images/root/media/image7.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:54 bfab2e50c324486d8b1376319d47edd6
+msgid "**公司名称**:请填写这个公司的名字。"
+msgstr "**Company Name**: Please fill in the name of this company."
+
+#: ../../root_界面介绍.md:56 754d15d06b0442dcbe890156893a5ef0
+msgid "**注册地址**: 请填写这个公司的注册地址。"
+msgstr ""
+"**Registered address**: Please fill in the company's registered address."
+
+#: ../../root_界面介绍.md:58 417e4f2da8ff4a619390f07150e559ab
+msgid "**联系电话**：请填写这个公司的联系电话。"
+msgstr ""
+"**Contact number**: Please fill in the contact number of this company."
+
+#: ../../root_界面介绍.md:60 e86a119338d04299a29001ff08a11956
+msgid "**公司网址**:请填写这个公司的网址。"
+msgstr "**Company URL**: Please fill in the website of this company."
+
+#: ../../root_界面介绍.md:62 266f4effa8274144b6c6cdfab96b6d90
+msgid "**电子邮件**: 请填写公司的电子邮件地址。"
+msgstr "**Email**: Please fill in the company's email address."
+
+#: ../../root_界面介绍.md:64 1820ebff690a4e61b220220e6527de0c
+msgid "**税号**:请填写公司的税号。"
+msgstr "**Tax number**: Please fill in the company's tax number."
+
+#: ../../root_界面介绍.md:66 86b2205cfe4f45eebff8594076165aee
+msgid "**开户银行**： 请填写这个公司的开户银行。"
+msgstr ""
+"**Opening an account**: Please fill in the account opening bank of this "
+"company."
+
+#: ../../root_界面介绍.md:68 c7b52e085d3b42759ef4a7fb4396e05d
+msgid "**账户名称**:请填写这个账户的名称。"
+msgstr "**Account Name**: Please fill in the name of this account."
+
+#: ../../root_界面介绍.md:70 413d33d285994082a44d0cdc34a5cda5
+msgid "**账号**: 请填写账号。"
+msgstr "**Account**: Please fill in your account."
+
+#: ../../root_界面介绍.md:72 e1d739933e5642b4a572d8716ea0a8be
+msgid "**办公地址**: 请填写办公地址。"
+msgstr "**Office Address**: Please fill in the office address."
+
+#: ../../root_界面介绍.md:74 d32db6449f9e429eab8e24458a10dd54
+msgid "Clients:"
+msgstr "Clients:"
+
+#: ../../root_界面介绍.md:76 f4b9ac76c8f741fbb281e0b07d80b5e8
+msgid ""
+"clients 用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-"
+"client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。"
+msgstr "clients The user is created by an agent user. "
+
+#: ../../root_界面介绍.md:78 75c05816931e49ef8cd8388b8ab561cb
+msgid "![alt text](_static/images/root/media/image8.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:80 e956ea3c4df446d1af46e61cd118c38a
+msgid "账户:"
+msgstr "Account:"
+
+#: ../../root_界面介绍.md:82 aa25955f78ed483cba224ac2c32c9cea
+msgid "账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色可以实现不同的账户拥有不同的功能权限:"
+msgstr ""
+"Accounts are used to manage users of the system, such as adding agents, "
+"querying reports, updating configurations, etc. By configuring different "
+"permission roles for the account, different accounts can have different "
+"functional permissions:"
+
+#: ../../root_界面介绍.md:84 cbd1615b3c6944a581a8466e1f5bc31b
+msgid "![alt text](_static/images/root/media/image9.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:86 8163613e5b19415c95e24f9d1554a0cd
+msgid "选择【添加】并输入【通用】设置：（如下图所示）"
+msgstr ""
+"Select [Add] and enter [General] settings: (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:88 ec9e2686dba24d0fbfba3db04ce54e91
+msgid "![alt text](_static/images/root/media/image10.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:90 52cfc3941fad4da6b7f15c7b0b1e895b
+msgid "**用户名**: 用户将使用该用户名登录系统。>"
+msgstr ""
+"**Username**: The user will use this username to log in to the system. "
+
+#: ../../root_界面介绍.md:92 0290e82a0872417680630dd12e5b4883
+msgid "**状态**:您可以选择启用/禁用该帐户。"
+msgstr "**Status**: You can choose to enable/disable the account."
+
+#: ../../root_界面介绍.md:94 b5d2b7c5f0954b73be30d1136bbaac39
+msgid "**名**: 请输入用户的名。"
+msgstr "**Name**: Please enter the user's name."
+
+#: ../../root_界面介绍.md:96 63aa8d7a3da5478f9e49be6265f9fcaa
+msgid "**姓**: 请输入用户的姓。"
+msgstr "**Secret**: Please enter the user's last name."
+
+#: ../../root_界面介绍.md:98 6820a376b1e842a89c76235e67785870
+msgid "**密码**: 用户将用此密码进行系统登录。"
+msgstr ""
+"**Password**: The user will use this password to log in to the system."
+
+#: ../../root_界面介绍.md:100 688f8c2f903a43dea9b1c95fb41cb96d
+msgid "**确认密码**：请再次输入密码，确保两次密码相同。"
+msgstr ""
+"**Confirm password**: Please enter your password again to ensure that your "
+"passwords are the same twice."
+
+#: ../../root_界面介绍.md:102 caef5baf391a42a4aec72b07efb5c149
+msgid "**所属角色**：角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。"
+msgstr ""
+"**Role**: The role is used to set the pages this account can access and the "
+"permissions it has on that page."
+
+#: ../../root_界面介绍.md:104 786e47556a9047e68e02328a15e20af3
+msgid "在【高级】设置中，您可以设置此帐户的备注信息"
+msgstr "In the Advanced settings, you can set the notes for this account"
+
+#: ../../root_界面介绍.md:106 d131e89916f84da981149795fa3e1e4f
+msgid "角色和权限:"
+msgstr "Roles and Permissions:"
+
+#: ../../root_界面介绍.md:108 2ac157c5db4c44a6a9e11885cc78d251
+msgid ""
+"角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
+msgstr "Roles are used to control the permissions that users have. "
+
+#: ../../root_界面介绍.md:110 8a497edc6df04fd685cce509fe32e5bc
+msgid "![alt text](_static/images/root/media/image11.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:112 bd74b157127447c1bbb674debe39c9a0
+msgid "单击【编辑】/【添加】，然后输入【通用】来命名角色：（如下图所示）"
+msgstr ""
+"Click [Edit]/[Add], and then enter [General] to name the role: (as shown in "
+"the figure below)"
+
+#: ../../root_界面介绍.md:114 f2525cd10ad444da882ab770d603f612
+msgid "![alt text](_static/images/root/media/image12.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:116 1ecbfa44174e46349a09fef1e34a02db
+msgid "【 高级 】设置:"
+msgstr "【Advanced】Settings:"
+
+#: ../../root_界面介绍.md:118 3285d5a3fec542188779b321a999b690
+msgid "![alt text](_static/images/root/media/image13.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:120 3fe0d7568d4841e68889ab00320bcf0b
+msgid "【权限设置】:"
+msgstr "【Permission Settings】:"
+
+#: ../../root_界面介绍.md:122 717682832f814b2782c2d877054b981c
+msgid "![alt text](_static/images/root/media/image14.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:124 afa1a7b32c3741f78a865e272cecb0fd
+msgid "c. 客户数据:"
+msgstr "c. Customer data:"
+
+#: ../../root_界面介绍.md:126 0ea365fbac754582bea8db1c2de11326
+msgid "客户标签:"
+msgstr "Customer Tags:"
+
+#: ../../root_界面介绍.md:128 49a5bd5cc1ef44dda2096ff4ce15c91e
+msgid "客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。"
+msgstr ""
+"Customer Tag Management Page, Customer Tags are used to select different "
+"customer tags for customers, making it easier to find customers through "
+"customer tags. "
+
+#: ../../root_界面介绍.md:130 b9235fcddd0442b89f4e8c4a598efbe4
+msgid "![alt text](_static/images/root/media/image15.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:132 ../../root_界面介绍.md:146
+#: 93ed2068a6e042cbae482e4325aedfe1 f6405ec487244ac09571df0f94b65964
+msgid "单击【添加】以进入【常规】设置：（如下图所示）"
+msgstr ""
+"Click [Add] to enter [General] settings: (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:134 5fddf1531b11434e9438968d5893a15c
+msgid "![alt text](_static/images/root/media/image16.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:136 c7e2dcf7ce55417b838cf557b8e20f02
+msgid "**标签名称**：请输入客户标签的名称。"
+msgstr "**Tag name**: Please enter the name of the customer tag."
+
+#: ../../root_界面介绍.md:138 876febbec0f5491f90e340627c1b5ecf
+msgid "![alt text](_static/images/root/media/image17.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:140 efd643173ab04a90b0f29dce948d5a84
+msgid "数据来源"
+msgstr "Source of data"
+
+#: ../../root_界面介绍.md:142 6017107a9e404aeab3d83e9b4aeb1bed
+msgid ""
+"数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源。"
+msgstr ""
+"Data source refers to the data source of customer data. Once the customer "
+"data is imported, the data source will be added, marked with time and color."
+" "
+
+#: ../../root_界面介绍.md:144 d2607da97f5844b184e06e8f38e3fe82
+msgid "![alt text](_static/images/root/media/image18.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:148 4c8326b719714b5c97df82de69f26c91
+msgid "![alt text](_static/images/root/media/image19.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:150 826144440d3a4e9a8755dfeab833950f
+msgid "**来源名称**：请输入数据来源的名称。"
+msgstr "**Source Name**: Please enter the name of the data source."
+
+#: ../../root_界面介绍.md:152 00737aa2896c48febf945977a531fb14
+msgid "**来源颜色**: 请选择客户数据来源的颜色。"
+msgstr ""
+"**Source Color**: Please select the color of the source of the customer "
+"data."
+
+#: ../../root_界面介绍.md:154 dde65967ba864b7a935e63af787efca8
+msgid "**在【高级】设置中可以设置备注信息（如下图）>**"
+msgstr ""
+"**In the [Advanced] settings, you can set the notes information (as shown "
+"below)>**"
+
+#: ../../root_界面介绍.md:156 23fed35f535746028983c7a13911f944
+msgid "![alt text](_static/images/root/media/image20.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:158 c2101dfb588d4f92aa0bc666e9341a88
+msgid "d.任务管理："
+msgstr "d. Task management:"
+
+#: ../../root_界面介绍.md:160 2694aef391cd4bf28252d73cf4df633d
+msgid "呼叫结果"
+msgstr "Call results"
+
+#: ../../root_界面介绍.md:162 2401ae68f77047c9aa8c842fa93e5e8f
+msgid "呼叫结果是坐席呼叫客户后记录的通话结果，用于通话结果的分类。"
+msgstr ""
+"The call result is the call result recorded after the agent calls the "
+"client, and is used to classify the call result."
+
+#: ../../root_界面介绍.md:164 ed670801809141f3a514e686db0066f4
+msgid "![alt text](_static/images/root/media/image21.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:166 ../../root_界面介绍.md:242
+#: 2bf763555b9d4a229459f4924c794db6 7b8413b74352437a900f8a84d5f588b8
+msgid "选择【添加】，进入【常规】设置：（如下图）"
+msgstr "Select [Add] and enter [General] settings: (as shown below)"
+
+#: ../../root_界面介绍.md:168 46f451548d704cbba44013d98f87cef9
+msgid "![alt text](_static/images/root/media/image22.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:170 57105f4d357743b794df710a8a20ce35
+msgid "**呼叫结果名称**:您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。"
+msgstr ""
+"**Call result name**: You can customize the call results. After the agent "
+"completes the call, you can choose to record the call results."
+
+#: ../../root_界面介绍.md:172 76f24543f7004b4c9e337511c91eb4e0
+msgid "**通话状态**:呼叫结果仅在接听电话时才可设置。“无”表示无论通话状态如何，坐席都可以随时使用呼叫结果。"
+msgstr ""
+"**Call Status**: The call result can only be set when answering the call. "
+
+#: ../../root_界面介绍.md:174 c99e6b28d4fb4684b894a87435352f9b
+msgid "**所属销售漏斗**:设置仅在指定销售漏斗下显示的呼叫结果。"
+msgstr ""
+"**Sales funnel to which you belong**: Sets the call results that are "
+"displayed only under the specified sales funnel."
+
+#: ../../root_界面介绍.md:176 46010ea0551747f9b1850ce6c3df16f5
+msgid "**强制预约**:必须建立预约，否则无法保存客户，也无法提交联系记录。"
+msgstr ""
+"**Mandatory appointment**: The appointment must be established, otherwise "
+"the customer cannot be saved and the contact history cannot be submitted."
+
+#: ../../root_界面介绍.md:178 afa2b80135b64d0d95ce48466b0b8bdf
+msgid "e. 计费:"
+msgstr "e. Billing:"
+
+#: ../../root_界面介绍.md:180 ab25f440f8ed4e83b4574b2cfe662abf
+msgid "客户计费"
+msgstr "Customer billing"
+
+#: ../../root_界面介绍.md:182 e2dfe51d9b7d48ea8cf93316ca788edb
+msgid "客户计费是对代理商的计费。"
+msgstr "Customer billing is billing to the agent."
+
+#: ../../root_界面介绍.md:184 f3329291089c4e52a52f766d40a5c5ac
+msgid "![alt text](_static/images/root/media/image23.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:186 569067c207784145930925e0251e2afc
+msgid "单击【编辑】进入【常规】设置：（如下图所示）"
+msgstr ""
+"Click [Edit] to enter [General] settings: (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:188 04862d18ffae419e992be6e34ba73bec
+msgid "![alt text](_static/images/root/media/image24.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:190 6333c065a19f4252884584d5e1ec8823
+msgid "**ID**： 唯一id。"
+msgstr "**ID**: Unique id."
+
+#: ../../root_界面介绍.md:192 6c2e62e5b2844322a6b69a8b3c0c8a46
+msgid "**客户名称**: 添加一个客户名称，添加后不能更改。"
+msgstr ""
+"**Customer Name**: Add a customer name, it cannot be changed after adding."
+
+#: ../../root_界面介绍.md:194 4aac5c8175af45f793b83137abae8c0f
+msgid "**域名**: 添加一个域名，域名保存后不能更改。"
+msgstr ""
+"**Domain Name**: Add a domain name, the domain name cannot be changed after "
+"saving."
+
+#: ../../root_界面介绍.md:196 1594bba0315d4f70b61a52c95b6c7c0c
+msgid "【账单】设置：（如下图）"
+msgstr "[Bill] Settings: (as shown below)"
+
+#: ../../root_界面介绍.md:198 68a7d30aa5fd4bf98d078a0467d68502
+msgid "![alt text](_static/images/root/media/image25.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:200 7253fa569ffc4f6d87500c2b9fccebd7
+msgid "**应缴费用**： 应当缴纳的本期费用。"
+msgstr "**Fees to be paid**: The fees to be paid for this period."
+
+#: ../../root_界面介绍.md:202 67f9534a298c42b4898f5303faf08364
+msgid "**最大坐席数量**： 允许使用的最大坐席数量。"
+msgstr "**Maximum number of seats**: The maximum number of seats allowed."
+
+#: ../../root_界面介绍.md:204 367cdf84af0248ad8edc3167271aade8
+msgid "**付款方式**： 选择付款方式预付款或后付款。"
+msgstr "**Payment Method**: Select payment method to advance or postpay."
+
+#: ../../root_界面介绍.md:206 fb2de66883a84d70a1bc47843fda4208
+msgid "**信用额度**： 设置可使用的信用额度。"
+msgstr "**Credit Limit**: Set the available credit Limit."
+
+#: ../../root_界面介绍.md:208 f3af5755a6e24c4fac5dc6375bed5476
+msgid "**月租**： 设置月租数额。"
+msgstr "**Monthly Rental**: Set the monthly rent amount."
+
+#: ../../root_界面介绍.md:210 7fcbc97415454be0bebdd21ce16cbf17
+msgid "**短信**：能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
+msgstr ""
+"**SMS**: You can learn more about the consumption of SMS this month, the "
+"remaining time of the month, the number of SMSs manually added, and select "
+"the SMS rate."
+
+#: ../../root_界面介绍.md:212 e9363537d59b44d39f175c6f14bf7786
+msgid "**呼出**：能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
+msgstr ""
+"**Exhaust**: Can learn more about the consumption of money exhaled this "
+"month and the rest of the month. "
+
+#: ../../root_界面介绍.md:214 fffb5550cf924f419cd46f9629eaac20
+msgid "**实际通话**：当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
+msgstr ""
+"**Actual call**: When the system calls the agent, the agent calls back to "
+"the customer, and the customer will incur the charge when answering the "
+"call."
+
+#: ../../root_界面介绍.md:216 233e440f3b7142e8bd77fc8ce0dbad4b
+msgid "**主叫通话**： 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
+msgstr ""
+"**Call call**: Settings for the call process billing status of the system to"
+" the agent-bound phone."
+
+#: ../../root_界面介绍.md:218 7f3f20a13193442abde4516bba8fd410
+msgid "**【账单和提醒】设置:**"
+msgstr "**【Bills and Reminders】Settings:**"
+
+#: ../../root_界面介绍.md:220 47347eb0f1614b218e5d44e3fcac6e0f
+msgid "![alt text](_static/images/root/media/image26.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:222 a8edee176909401688408360054b8175
+msgid "**余额不足提醒**： 设置余额不足后的提醒次数。"
+msgstr ""
+"**Reminder for insufficient balance**: Set the number of reminders after "
+"insufficient balance."
+
+#: ../../root_界面介绍.md:224 48722f3916b646ed9c3b979291cad89d
+msgid "**提醒方式**： 选择手机号码或者邮箱的提醒方式。"
+msgstr ""
+"**Reminder method**: Select the reminder method of your mobile phone number "
+"or email address."
+
+#: ../../root_界面介绍.md:226 55e223bf75cc4156bb4965fd8b44c700
+msgid "**账单电子邮件地址**： 填写收到账单的电子邮件地址。"
+msgstr ""
+"**Billing Email Address**: Fill in the email address where the bill was "
+"received."
+
+#: ../../root_界面介绍.md:228 531737d80441481dbbcd48ffdb5247be
+msgid ""
+"在设置的客户页面点击下拉菜单选择【充值】，记录客户的充值金额及交易时间，如有需要，也可填写备注信息；点击【费用扣减】类似；点击【立即生效】，对客户的账单信息生效（如下图）"
+msgstr ""
+"Click the drop-down menu on the set customer page to select [Recharge] to "
+"record the customer's recharge amount and transaction time. If necessary, "
+"you can also fill in the notes information; click [Fee Deduction] similar; "
+"click [Effective Now] to take effect on the customer's bill information (as "
+"shown below)"
+
+#: ../../root_界面介绍.md:230 38b380c7753749be897b5faccec80631
+msgid "![alt text](_static/images/root/media/image27.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:232 1ec0bfaccaae47bb89f760ea6389fea7
+msgid "![alt text](_static/images/root/media/image28.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:234 8bd8aa20f17f4f0e8c699032c6dded20
+msgid "![alt text](_static/images/root/media/image29.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:236 74af168bc3544427a99c41349c90c9c3
+msgid "费率计划:"
+msgstr "Rate plan:"
+
+#: ../../root_界面介绍.md:238 e12a403c1de044a294e3c3a7bfd0e34d
+msgid "费率计划是指按照费用决策要求，具体编制在一定时期(计划期)内实现的费率计划，包括:销售费率和成本费率看。"
+msgstr ""
+"Rate plan refers to the specific preparation of a rate plan that is realized"
+" within a certain period (plan period) according to the cost decision-making"
+" requirements, including: sales rate and cost rate."
+
+#: ../../root_界面介绍.md:240 d620186887964dadb84e023bf1d60a01
+msgid "![alt text](_static/images/root/media/image30.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:244 832e04b2aa1b4a15b38f3c740ba926d8
+msgid "![alt text](_static/images/root/media/image31.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:246 9ae00e31672945f7be7163061560a12d
+msgid "**费率名称**： 请为这个费率命名。"
+msgstr "**Rate Name**: Please name this rate."
+
+#: ../../root_界面介绍.md:248 b7aa71f3683b4cba96a64c43aea30325
+msgid "**费率类别**：请选择一个费率类别。"
+msgstr "**Rate Category**: Please select a rate category."
+
+#: ../../root_界面介绍.md:250 9305485c18a64654b8716c0e0adeeb7c
+msgid "**初始计费**:初始计费是在初始时长内，每分钟的费率,相当于起步价，单位是元/分。"
+msgstr ""
+"**Initial billing**: The initial billing is within the initial time period, "
+"the rate per minute is equivalent to the starting price, and the unit is "
+"RMB/min."
+
+#: ../../root_界面介绍.md:252 78c8f3d92a39419fad0c71061eb95b0f
+msgid "**初始计费时长**:初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。"
+msgstr ""
+"**Initial billing time**: The initial billing time is the time billed for "
+"the initial call, which is equivalent to the mileage corresponding to the "
+"starting price, and is in seconds."
+
+#: ../../root_界面介绍.md:254 2126fe81e29642bf92ce1629f7c8e704
+msgid "**费率**:初始计费后每分钟的费率，单位是元/分。"
+msgstr "**Rate**: The rate per minute after initial billing, unit is RMB/min."
+
+#: ../../root_界面介绍.md:256 57b462cda40e43e1b9089e5d36691d20
+msgid "**计费周期**:计费周期是指过初始时长后多久计费一次，单位是秒。"
+msgstr ""
+"**Billing cycle**: The billing cycle refers to how long it takes to bill "
+"once after the initial time period is over, and the unit is seconds."
+
+#: ../../root_界面介绍.md:258 2ce44b10efe5404e855bbb53e4483de7
+msgid "**费率数目**：编辑所要选择的费率数目。"
+msgstr "**Number of rates**: The number of rates to be selected by editing."
+
+#: ../../root_界面介绍.md:260 cae1bd2361cd4b67821e60ea2d593899
+msgid "**【高级 】 设置:**"
+msgstr "**【Advanced】Settings:**"
+
+#: ../../root_界面介绍.md:262 e1f2ea07848947cbb94d5099f74f392a
+msgid "![alt text](_static/images/root/media/image32.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:264 5ad3bca8eaf74a51aa9d630eac20471a
+msgid "**时间**：请选择这个费率计划开始执行的时间。"
+msgstr ""
+"**Time**: Please select the time when this rate plan begins to be executed."
+
+#: ../../root_界面介绍.md:266 756ec730e5ca4d50a8407947149b53c6
+msgid "**费率名称**: 请选择一个已添加的费率计划。"
+msgstr "**Rate Name**: Please select an added rate plan."
+
+#: ../../root_界面介绍.md:268 1fe0337ddff4453183c63b19455ff2de
+msgid "f. 语音设置:"
+msgstr "f. Voice settings:"
+
+#: ../../root_界面介绍.md:270 189967f7ad294c0cbf371c1151be7c75
+msgid "中继管理:"
+msgstr "Relay Management:"
+
+#: ../../root_界面介绍.md:272 f8df86d593ac482d9830a802a2f0f01f
+msgid "中继是用于将本机的电话网络与其他系统的电话网络连接在一起的线路管理。"
+msgstr ""
+"Relay is a line management used to connect the telephone network of the "
+"local machine with the telephone network of other systems."
+
+#: ../../root_界面介绍.md:274 fbdbb890ab0845e2ac02ba2f51994c14
+msgid "![alt text](_static/images/root/media/image33.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:276 a2e4a0ea6b174ed4a803ccb53f52ff06
+msgid "选择【添加】并输入【常规】设置："
+msgstr "Select [Add] and enter [General] settings:"
+
+#: ../../root_界面介绍.md:278 2331ac2621f443cda16e2c10eb263776
+msgid "![alt text](_static/images/root/media/image34.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:280 347162556383467b9c7e7d791fff7131
+msgid "**名称**：给中继起个名字，你可以随时改变他。"
+msgstr "**Name**: Give the relay a name and you can change it at any time."
+
+#: ../../root_界面介绍.md:282 7edf348966aa44f68b1d807a7cec6628
+msgid "**协议**：请选择这个中继的协议类型。"
+msgstr "**Protocol**: Please select the protocol type of this relay."
+
+#: ../../root_界面介绍.md:284 012fb8b763ff454282a1202f19f4c9a1
+msgid "**验证**：请选择这个中继的验证方式. 以下步骤根据验证方式不同有所差异，添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）"
+msgstr ""
+"**Verification**: Please select the verification method of this relay. The "
+"following steps vary according to the verification method. Add the "
+"management relay management interface [Verification Method]. The system "
+"defaults to [IP] (as shown below)"
+
+#: ../../root_界面介绍.md:287 072359d02f5e4b96b7f89164491da668
+msgid "![alt text](_static/images/root/media/image35.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:289 74dbbde10d79432c8ba2e1cb5ecd0a74
+msgid "**服务器地址**：请输入这个服务器的地址，它可能是一个域或者IP。"
+msgstr ""
+"**Server address**: Please enter the address of this server, it may be a "
+"domain or IP."
+
+#: ../../root_界面介绍.md:291 d8c8b458e5734c51b3afb4ea7d7621ba
+msgid "**端口**：请输入这个中继的端口号，默认是5060。"
+msgstr ""
+"**Port**: Please enter the port number of this relay, the default is 5060."
+
+#: ../../root_界面介绍.md:293 ../../root_界面介绍.md:320
+#: 8ba459a6315740d4b989b51347f7419a df3d3f16dc9e48ffacfac20562764dfe
+msgid "**通道限制**：通道限制数表示最多有多少外拨电话数，0表示无限制。"
+msgstr ""
+"**Channel Limit**: The number of channel limits indicates the maximum number"
+" of outbound calls, and 0 indicates no limit."
+
+#: ../../root_界面介绍.md:295 feba4b7703004731aa663853a524de36
+msgid "**状态**: 根据你的需要你可禁用这个中继。"
+msgstr "**Status**: You can disable this relay according to your needs."
+
+#: ../../root_界面介绍.md:297 4a1aada6b30741bba4d93861e882ff08
+msgid "添加编辑中继管理界面【验证】，然后选择【用户名/密码】（如下图所示）"
+msgstr ""
+"Add the edit relay management interface [Verification], and then select "
+"[Username/Password] (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:299 65140dc23c13497e828bf3ed608bf4d1
+msgid "![alt text](_static/images/root/media/image36.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:301 fd966c9aba06448886335ea26b46a182
+msgid "**注册服务器**： 请选择一个注册服务器。"
+msgstr "**Register server**: Please select a registration server."
+
+#: ../../root_界面介绍.md:303 d5df75f4dbc74b4188d8452c7d2486b3
+msgid "**启用注册**： 当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。"
+msgstr ""
+"**Enable registration**: When the verification method is username/password, "
+"you can choose whether to enable registration. If you enable registration, "
+"you need to continue filling in the registration information."
+
+#: ../../root_界面介绍.md:306 3ced03075de54d2ab249cec25201f913
+msgid "**语音编码**： 当验证方式是用户名/密码验证时，请选择这个中继的语音编码。"
+msgstr ""
+"**Voice encoding**: When the verification method is username/password "
+"verification, please select the voice encoding of this relay."
+
+#: ../../root_界面介绍.md:309 38b58396de62421897fa53e9d7690606
+msgid "**服务器地址**： 请输入这个服务器的地址，它可能是一个域或者IP 。"
+msgstr ""
+"**Server Address**: Please enter the address of this server, it may be a "
+"domain or IP."
+
+#: ../../root_界面介绍.md:312 bc74415010ce42be83dfbccefe1b3235
+msgid "**端口**： 请输入这个中继的端口号。"
+msgstr "**Port**: Please enter the port number of this relay."
+
+#: ../../root_界面介绍.md:314 67783dedea564b9290b2646c6cfe5f23
+msgid "**用户名**:当验证方式是用户名/密码验证时，请输入用户名。"
+msgstr ""
+"**Username**: When the verification method is username/password "
+"verification, please enter the username."
+
+#: ../../root_界面介绍.md:316 cce5a887291b40b9940e072577db023b
+msgid "**认证用户名**： 认证这个用户名 。"
+msgstr "**Certified username**: Authenticate this username."
+
+#: ../../root_界面介绍.md:318 72858e5d03d549d09555edc39c58031d
+msgid "**密码**：当验证方式是用户名/密码验证时，请输入密码。"
+msgstr ""
+"**Password**: When the verification method is username/password "
+"verification, please enter your password."
+
+#: ../../root_界面介绍.md:322 ../../root_界面介绍.md:330
+#: 003f45d3dbec4ad8812e00c9c98ea342 05340f03142d46d8bd31c457ec835495
+msgid "**状态**： 根据你的需要你可以禁用这个域 。"
+msgstr "**Status**: You can disable this domain according to your needs."
+
+#: ../../root_界面介绍.md:324 f95ff6087bbf4db5ac02490cfa679dd4
+msgid "添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。"
+msgstr ""
+"Add the management relay management interface [Authentication], and then "
+"select [O Port Gateway] (as shown in the figure below)."
+
+#: ../../root_界面介绍.md:326 d407f3c97bae4b98a8d618a7849284b2
+msgid "![alt text](_static/images/root/media/image37.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:328 bc112ba29877452a8169b86fdc913f90
+msgid "**验证域**： 需要验证的域。"
+msgstr "**Verification Domain**: The domain that needs to be verified."
+
+#: ../../root_界面介绍.md:332 318e8123e73a4929bc4e57b5d728b4a4
+msgid "在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）"
+msgstr ""
+"In relay management, selecting [Edit] will display dial-out, failed, and "
+"unreceived messages (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:334 e1d90db6403d4685ad279e10c2c36004
+msgid "![alt text](_static/images/root/media/image38.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:336 89442f7c88a948fabc08164a9417f92c
+msgid "**已拨**： 已拨打电话总数量。"
+msgstr "**Dialed**: Total number of calls have been made."
+
+#: ../../root_界面介绍.md:338 08583ba19b314a75a02362e2a10ce573
+msgid "**失败**： 已拨打电话失败数量。"
+msgstr "**Failed**: Number of failed calls."
+
+#: ../../root_界面介绍.md:340 4d99efb8a2084731871ee8c417d76fe9
+msgid "**未应答**： 已拨打电话未应答数量。"
+msgstr "**Not answered**: Number of calls not answered."
+
+#: ../../root_界面介绍.md:342 3c29e4c16be14ec8998eba66db40e571
+msgid "【高级】设置：（如下图所示）"
+msgstr "【Advanced】Settings: (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:344 785f0afb507d458cb96876559591a9ff
+msgid "![alt text](_static/images/root/media/image39.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:346 c3d36f9c70d64651b176064eae9b15bf
+msgid "**绑定呼入到 client**：您可以将此中继线绑定到某个Client，然后来自此中继线的所有呼叫都将发送到此Client。"
+msgstr ""
+"**Binding call incoming client**: You can bind this trunk to a client, and "
+"then all calls from this trunk will be sent to this client."
+
+#: ../../root_界面介绍.md:348 5ee71701441546d0964374f2d736a8d5
+msgid "**中继侧录音增益**：如果为0则表示禁用此功能。"
+msgstr "**Relay side recording gain**: If 0, this function is disabled."
+
+#: ../../root_界面介绍.md:350 64eb777e018c4a6a981497d9b7a53e45
+msgid "**分机侧录音增益**：如果为0则表示禁用此功能。"
+msgstr "**Extension side recording gain**: If 0, this function is disabled."
+
+#: ../../root_界面介绍.md:352 1d7dd88f5e1c493a99cddb5eca6dc405
+msgid "**中继侧通话增益**：如果为0则表示禁用此功能。"
+msgstr "**Relay side call gain**: If 0, this function is disabled."
+
+#: ../../root_界面介绍.md:354 a2c45a04cecd438e92548fcbfd7fffa2
+msgid "**坐席侧通话增益**：如果为0则表示禁用此功能。"
+msgstr "**Agent side call gain**: If 0, this function is disabled."
+
+#: ../../root_界面介绍.md:356 cc84599ae60547d2be3cc92ef25f36b0
+msgid "**坐席注册超时时间**：在启用注册时，您可以输入注册超时。（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
+msgstr ""
+"**Agent registration timeout**: When registration is enabled, you can enter "
+"the registration timeout. "
+
+#: ../../root_界面介绍.md:358 9f8e7d9a404a4d5984834622fcaa0bfa
+msgid "**描述**：你可以填这个中继的描述信息，进行备注说明。"
+msgstr ""
+"**Description**: You can fill in the description information of this relay "
+"and make notes."
+
+#: ../../root_界面介绍.md:360 6f31c01abe034cd491580988b667bded
+msgid ""
+"【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）)"
+msgstr ""
+"[Out Call Rules] Settings: Select [Add Out Call Rules] to enter the Add Out "
+"Call Rules page. The outgoing call phones called through this relay will use"
+" this outgoing call rule. "
+
+#: ../../root_界面介绍.md:362 418939acd1b04e7e8cad52854646d9cf
+msgid "![alt text](_static/images/root/media/image40.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:364 86baee4bb7eb45f98d71dc960d9b1616
+msgid "**名称**: 请为这个呼出规则命名。"
+msgstr "**Name**: Please name this callout rule."
+
+#: ../../root_界面介绍.md:366 66ca4b04860c4339ba35371392c3ff65
+msgid "**匹配规则**:设置这个匹配规则，符合此规则的呼叫将执行以下操作。"
+msgstr ""
+"**Match Rule**: Set this matching rule, and calls that comply with this rule"
+" will perform the following operations."
+
+#: ../../root_界面介绍.md:368 e8c68e813e8e4dc58b16f7ffb63649b4
+msgid "**替换主叫号码**:在这里你可以重新设定主叫号码和主叫号码名称。"
+msgstr ""
+"**Replace caller number**: Here you can reset the caller number and caller "
+"number name."
+
+#: ../../root_界面介绍.md:370 d753f9c4401e4b15b435eca0995a3b35
+msgid "**增加主叫号码前缀**:系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。"
+msgstr ""
+"**Add to call number prefix**: The system will add a prefix to the call "
+"number. "
+
+#: ../../root_界面介绍.md:372 d1b9a9acaf9e45f9aebe02ae9542d16b
+msgid "**被叫号码**:你可以添加/移除被叫号码前缀或者重置被叫号码。"
+msgstr ""
+"**Called Number**: You can add/remove the called number prefix or reset the "
+"called number."
+
+#: ../../root_界面介绍.md:374 590ffedadde944ae89b7e818fbaa1783
+msgid "**转向**: 路由匹配时系统将进行此动作。"
+msgstr ""
+"**Turning**: The system will perform this action when the route is matched."
+
+#: ../../root_界面介绍.md:376 78fdba6cbd92405a843d5232fdf596a9
+msgid "【呼入IP 】设置:"
+msgstr "[Incoming IP] Settings:"
+
+#: ../../root_界面介绍.md:378 30c86a68e88d4c5793c07d439560fc1b
+msgid "![alt text](_static/images/root/media/image41.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:380 e265456f705d4bc9b8667720efc5713e
+msgid "**呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。"
+msgstr ""
+"**Incoming IP**: Set the IP address that allows access, and you can add "
+"multiple IP addresses at the same time."
+
+#: ../../root_界面介绍.md:382 9ea0043ffac244258cf3d6fd89706f3d
+msgid "![alt text](_static/images/root/media/image42.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:384 a26520ab17344fcdb59933e5573d1702
+msgid "**费率**: 缴纳费用的比率。"
+msgstr "**Rate**: The rate of payment."
+
+#: ../../root_界面介绍.md:386 e2766a0bc7164510a87b6508a7c0b1ea
+msgid "普通费率：没有初始时长计算，只按照每分钟的计费方式计算费率。"
+msgstr ""
+"Normal rate: There is no initial time calculation, only the rate is "
+"calculated according to the billing method per minute."
+
+#: ../../root_界面介绍.md:388 592325486fe549b19d15f9a34b372411
+msgid "费率计划：根据已设置好的费率计划选择计费。"
+msgstr "Rate plan: Choose billing based on the set rate plan."
+
+#: ../../root_界面介绍.md:390 deeb2927779a47d0ae4fa5cac29bda2f
+msgid "DID 号码:"
+msgstr "DID number:"
+
+#: ../../root_界面介绍.md:392 2e0d9708c15845a09679fc009ca9a5c7
+msgid ""
+"DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
+msgstr ""
+"The DID number refers to the telephone number provided by the telecom "
+"operator that can be called into the system. It is the access number when an"
+" external call is in, that is, the called number. It is the telephone number"
+" announced by the company to the public, and can also be understood as the "
+"number dialed by the customer. "
+
+#: ../../root_界面介绍.md:394 67d346e49d0a48d48e3c662de3fd62b2
+msgid "![alt text](_static/images/root/media/image43.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:396 f401ae3cf7e24ede9a533413d2fdf317
+msgid "点击添加添加一个新的中继："
+msgstr "Click Add to add a new relay:"
+
+#: ../../root_界面介绍.md:398 9371dc14f44544c6b328c5058f3e005d
+msgid "![alt text](_static/images/root/media/image44.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:400 9baddbdc3fad4881b4eb9cb0585dfc3c
+msgid "**DID号码**: Please enter a DID number, one per line."
+msgstr "**DID number**: Please enter a DID number, one per line."
+
+#: ../../root_界面介绍.md:402 48c688182e1e42deaae74d8261ac0003
+msgid "**DID名称**: DID名称用于帮助你在系统中识别该号码，在统计时如果设置了DID名称，则会使用此名称。"
+msgstr ""
+"**DID name**: The DID name is used to help you identify the number in the "
+"system. If the DID name is set during statistics, this name will be used."
+
+#: ../../root_界面介绍.md:404 fcc76ad72e0b4818a0ad2426b7564d90
+msgid "**代理商**: 请为这个did号码选择一个代理商。"
+msgstr "**Agent**: Please select an agent for this did number."
+
+#: ../../root_界面介绍.md:406 e44a2a3c50074e0d98a896922d8e78ca
+msgid "**状态**: DID号码禁用后, 呼入到当前DID的来电将不可用。"
+msgstr ""
+"**Status**: After the DID number is disabled, the incoming call to the "
+"current DID will be unavailable."
+
+#: ../../root_界面介绍.md:408 ea615deabdd44cf88b2a12102a773232
+msgid "【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。"
+msgstr ""
+"【Advanced Settings】Settings: You can select a country and fill in comments "
+"and instructions."
+
+#: ../../root_界面介绍.md:410 a8c2d5a132a8443fb1babdcd019a212b
+msgid "![alt text](_static/images/root/media/image45.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:412 b68761345a0247768eb331f6fd9008d7
+msgid "外显号码:"
+msgstr "Display number:"
+
+#: ../../root_界面介绍.md:414 7d0b4b4a8cbc4fd5a63dc6d6b1ed39ec
+msgid "外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示）"
+msgstr ""
+"The displayed number is the call number, which is the number used to call "
+"the customer. "
+
+#: ../../root_界面介绍.md:417 9b5bcfc6bf1647fb91cad01a5b69b663
+msgid "![alt text](_static/images/root/media/image46.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:419 a17e846f473c47b2b00af7db568db20a
+msgid "**选择【添加】，进入【常规】设置：（如下图）**"
+msgstr "**Select [Add] and enter [General] settings: (as shown below) **"
+
+#: ../../root_界面介绍.md:421 897aab0ad62c48529ca673336be85f54
+msgid "![alt text](_static/images/root/media/image47.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:423 4af1d72ef5804f59adca8d9286839d77
+msgid "**外显号码**： 请输入您要添加的外显号码，每行一个。"
+msgstr ""
+"**External Number**: Please enter the display number you want to add, one "
+"per line."
+
+#: ../../root_界面介绍.md:425 bc63cadbf58745ad9274581013d8624a
+msgid "**供应商**： 你可以为这个外显号码选择一个供应商。"
+msgstr "**Supplier**: You can select a supplier for this display number."
+
+#: ../../root_界面介绍.md:427 4e0a216faa4141d68dbe5f317404f51d
+msgid "**费率计划**： 你可以为这个外显号码选择一个费率计划。"
+msgstr "**Rate Plan**: You can choose a rate plan for this display number."
+
+#: ../../root_界面介绍.md:429 d892efe096cd44a6a95fbdbba2818172
+msgid "**代理商**： 你可以为这个外显号码选择一个代理商。"
+msgstr "**Agent**: You can choose an agent for this display number."
+
+#: ../../root_界面介绍.md:431 9364a87578564e84b33788fea460755c
+msgid "号码区域信息:"
+msgstr "Number area information:"
+
+#: ../../root_界面介绍.md:433 36076854e77c458bb6e20cebde2c2e9f
+msgid ""
+"号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
+msgstr ""
+"The number area information represents the number's home location, and the "
+"system can match the location of the system's call number based on the "
+"number prefix in the number's home location. "
+
+#: ../../root_界面介绍.md:435 3bf8edbfa0fe4648bb5f2b2bd0384561
+msgid "![alt text](_static/images/root/media/image48.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:437 54f87b9089e541f289fef73e47712f73
+msgid "**选择【添加】并输入【通用】设置：（如下图所示）**"
+msgstr ""
+"**Select [Add] and enter [General] settings: (as shown in the figure "
+"below)**"
+
+#: ../../root_界面介绍.md:439 56cdd0d72d274c3e8ab36229c798947b
+msgid "![alt text](_static/images/root/media/image49.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:441 dc461d2ff7d34a68966be54dd23f1148
+msgid "**操作**:"
+msgstr "**operate**:"
+
+#: ../../root_界面介绍.md:443 0900c4e9e4314dedb5196b39ac5cda6b
+msgid "更新：如果表内数据与当前设定的数据有重复，以设定的数据为准，对表进行更新。"
+msgstr ""
+"Update: If the data in the table is repeated with the currently set data, "
+"the table will be updated based on the set data."
+
+#: ../../root_界面介绍.md:445 6f563a070d2d4402afa14d05d2d8898d
+msgid "重置：清空表内所有号码区域信息，再将当前设定的数据导入表内."
+msgstr ""
+"Reset: Clear all number area information in the table, and then import the "
+"currently set data into the table."
+
+#: ../../root_界面介绍.md:447 e98de6200d974530b831631152f16cfe
+msgid "**数据**: 直接填写数据,或将csv文件拖拽到此区域(文件需使用UTF-8编码)。格式示例：号码(数字)+属性(文本)"
+msgstr ""
+"**Data**: Fill in the data directly, or drag the csv file to this area (the "
+"file must be encoded using UTF-8). "
+
+#: ../../root_界面介绍.md:449 1aef1465c130434b9d7ac481c21d12f4
+msgid "g. 呼叫设置:"
+msgstr "g. Call settings:"
+
+#: ../../root_界面介绍.md:451 b99a9ef805c64c6a9c5b2511490751ce
+msgid "节点管理:"
+msgstr "Node Management:"
+
+#: ../../root_界面介绍.md:453 755cc9479ea645cfbd059ebd65ebf4dc
+msgid "从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。"
+msgstr ""
+"From node management, you can understand the setting status, CPU status, "
+"system load, system running time, node type and other system working "
+"conditions of the added node."
+
+#: ../../root_界面介绍.md:455 6029c800921948b69c17ba9de23afeaa
+msgid "![alt text](_static/images/root/media/image50.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:457 1413919e863244fe95723d60f525b73a
+msgid "**选择【添加】并输入【通用】设置:**"
+msgstr "**Select [Add] and enter [General] settings: **"
+
+#: ../../root_界面介绍.md:459 c42a956dcc4f45deb5fd44e2576d2228
+msgid "**节点类型**: 选择节点类型，分为【普通】和【 Opensips 】。系统默认为【 普通 】"
+msgstr ""
+"**Node Type**: Select the node type, divided into [Normal] and [Opensips]. "
+
+#: ../../root_界面介绍.md:461 2052563ec0c04916a68b4e6612a56fd3
+msgid "当节点类型为普通时：（如下图）"
+msgstr "When the node type is normal: (as shown below)"
+
+#: ../../root_界面介绍.md:463 712bb0d1ca6b4db8932775792ebcd87f
+msgid "![alt text](_static/images/root/media/image51.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:465 715f1803b0d9491aa364a459eab999fa
+msgid "**节点名称**： 给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
+msgstr "**Node Name**: Give this node a name for easy identification. "
+
+#: ../../root_界面介绍.md:468 e74e278aef73484a9fa232e279652d98
+msgid "**节点 I**： 请输入astercc服务器的IP地址。"
+msgstr "**Node I**: Please enter the IP address of the astercc server."
+
+#: ../../root_界面介绍.md:470 f9f6769ebbc04a83a8ba17fed23f1eb8
+msgid "**Sip端口**： 节点http端口 默认值为3000。"
+msgstr "**Sip port**: Node http port The default value is 3000."
+
+#: ../../root_界面介绍.md:472 ../../root_界面介绍.md:484
+#: 367441af80e54e61bd0d1b958e48315a 96f3f930afd549378ba801261d31239a
+msgid "**Node端口**： 客户端webrtc使用的地址。"
+msgstr "**Node port**: The address used by the client webrtc."
+
+#: ../../root_界面介绍.md:474 7dbcc700907540df8b25cc992b2a94a7
+msgid "**处理任务**： 是否执行导出任务。"
+msgstr "**Take Tasks**: Whether to perform export tasks."
+
+#: ../../root_界面介绍.md:476 8af7dc2fcd8841aab731309655732877
+msgid "当节点类型为 opensips 时：（如下图）"
+msgstr "When the node type is opensips: (as shown below)"
+
+#: ../../root_界面介绍.md:478 496cfe5fb38b4940994b27ffc2b20f6d
+msgid "![alt text](_static/images/root/media/image52.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:480 25a24a22f19b4e7ab14f08de87927f6c
+msgid "**节点名称**：给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
+msgstr "**Node Name**: Give this node a name for easy identification. "
+
+#: ../../root_界面介绍.md:482 ebb7031c345343dc8837d3bfb6d4a1a0
+msgid "**节点 IP**： 请输入astercc服务器的IP地址。"
+msgstr "**Node IP**: Please enter the IP address of the astercc server."
+
+#: ../../root_界面介绍.md:486 c0554396e0d649168902ed92c468e676
+msgid "**WS服务器**: 客户端webrtc使用的地址。"
+msgstr "**WS Server**: The address used by the client webrtc."
+
+#: ../../root_界面介绍.md:488 a1bcd90e24be48d98301168e7c314e49
+msgid "**优先级**：WS服务器的使用优先级,坐席将优先连接优先级大的ws服务器.数值越大优先级越高.。"
+msgstr ""
+"**Priority**: The priority of the use of WS servers, the agent will "
+"prioritize connections to WS servers with a higher priority. The larger the "
+"value, the higher the priority."
+
+#: ../../root_界面介绍.md:490 cde9fbd63621451299107104b5b181ca
+msgid "**Mysql地址**： 填写 Opensips 使用的 MySQL 地址。"
+msgstr "**Mysql address**: Fill in the MySQL address used by Opensips."
+
+#: ../../root_界面介绍.md:492 4ea6fafe58324e938f549f4f36f09c9b
+msgid "**Mysql端口**： 填写 Opensips 使用的 MySQL 端口。"
+msgstr "**Mysql port**: Fill in the MySQL port used by Opensips."
+
+#: ../../root_界面介绍.md:494 5db68aeac854474386256fe8e90f1c0a
+msgid "**Mysql用户名**：填写 Opensips 使用的 MySQL 用户名。"
+msgstr "**Mysql username**: Fill in the MySQL username used by Opensips."
+
+#: ../../root_界面介绍.md:496 037ecb05e73248f0a24a388044ff0575
+msgid "**Mysql密码**： 填写 Opensips 使用的 MySQL 密码。"
+msgstr "**Mysql password**: Fill in the MySQL password used by Opensips."
+
+#: ../../root_界面介绍.md:498 5267d9506175400db2d3d3e691bc1f36
+msgid "**Mysql数据库**： 填写 Opensips 使用的 MySQL 数据库。"
+msgstr "**Mysql database**: Fill in the MySQL database used by Opensips."
+
+#: ../../root_界面介绍.md:500 03e1c122fa774e21b96dccb68eb6c9e3
+msgid "![alt text](_static/images/root/media/image53.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:502 105bd1923d1e420cb6188e1ac49b6980
+msgid "**编辑节点**： 编辑这个节点。"
+msgstr "**Edit node**: Edit this node."
+
+#: ../../root_界面介绍.md:504 829bcaf03a444614a3ad4a501dd552a1
+msgid "**健康检查**： 对节点进行健康检查。"
+msgstr "**Health Check**: Perform a health check on the node."
+
+#: ../../root_界面介绍.md:506 30ccf06e6bf5492f870a6babd9330679
+msgid "**暂停**： 暂停这个节点的使用。"
+msgstr "**Pause**: Pause the use of this node."
+
+#: ../../root_界面介绍.md:508 4ab3013861cb42fa8ce53a13e2ff68c5
+msgid "**删除节点**： 删除这个节点"
+msgstr "**Delete node**: Delete this node"
+
+#: ../../root_界面介绍.md:510 114907eda11d47ebb814bcbf48665a8d
+msgid "呼叫限制次数:"
+msgstr "Call limit:"
+
+#: ../../root_界面介绍.md:512 1cb2d5902bd1429ba0c1d4f9ee2067a5
+msgid ""
+"呼叫限制是指号码可以拨打的次数;同时，您可以在 "
+"通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 "
+"个电话。（如下图所示）"
+msgstr ""
+"Call limit is the number of times a number can be called; at the same time, "
+"you can search for restricted phone numbers in Call limit search. "
+
+#: ../../root_界面介绍.md:515 7fee9ba8ded04a4c9618ff0eba6def88
+msgid "![alt text](_static/images/root/media/image54.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:517 ../../root_界面介绍.md:617 ../../root_界面介绍.md:633
+#: 7be9df6ab99b495d99fd5018777e5734 93f4b25887344222a80ef853564845bc
+#: d2d27e724d59421da321c8329b58be02
+msgid "**选择【添加】并进入【通用】设置：（如下图）**"
+msgstr "**Select [Add] and enter [General] settings: (as shown below)**"
+
+#: ../../root_界面介绍.md:519 21ccfeaeabd5488387e10a6e15993c20
+msgid "![alt text](_static/images/root/media/image55.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:521 de2d34645a1b400da3ffe94d20d37ad0
+msgid "**规则**： 你可以在 M 天内呼叫 N 次超出设置次数通话会被限制。"
+msgstr ""
+"**Rules**: You can call N times in M ​​days beyond the set number of calls "
+"will be limited."
+
+#: ../../root_界面介绍.md:523 4b5b85f318334eab9190207742bc8250
+msgid "外呼档案:"
+msgstr "Outbound call file:"
+
+#: ../../root_界面介绍.md:525 8f33bf4defb3404689f45d87b0f1176c
+msgid ""
+"外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据需要转换主叫号码或被叫号码。"
+msgstr ""
+"The outgoing call file is used to select an outgoing call trunk for the "
+"agent. There can be multiple outgoing call routes in one outgoing call file,"
+" and the Client can use different relay call out based on the calling number"
+" or called number. "
+
+#: ../../root_界面介绍.md:527 08b8bf07dc0347c990f2d99bdaf517fc
+msgid "![alt text](_static/images/root/media/image56.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:529 ../../root_界面介绍.md:593
+#: 2313ba15ad734be58fa8426ae5232f2f 404b2cd8f5e24633845ec57b6c9a11a0
+msgid "**单击【添加】以进入【常规】设置：（如下图所示）**"
+msgstr ""
+"**Click [Add] to enter [General] settings: (as shown in the figure below)**"
+
+#: ../../root_界面介绍.md:531 d45228e530394f4180faaa70419894ac
+msgid "![alt text](_static/images/root/media/image57.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:533 2567cdbed8d0435f9e19bc83890eefa4
+msgid "**档案名称**：请为该外呼档案命名。"
+msgstr "**File name**: Please name the outbound call file."
+
+#: ../../root_界面介绍.md:535 affc2fbf59654bbb9bb6018d390de646
+msgid "设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）"
+msgstr ""
+"After setting the file name, click \"Add Outbound Call Routing\" to set the "
+"outbound route (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:537 a56537cdfc644f4484f39c195def6f71
+msgid "![alt text](_static/images/root/media/image58.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:539 a1bd4b12fd704936a77a04ebc3bca3f8
+msgid "**路由名称**： 请为该路由命名。"
+msgstr "**Route Name**: Please name the route."
+
+#: ../../root_界面介绍.md:541 71af7083e4b54d5f99b9ced3f08a908b
+msgid "**匹配规则**：设置匹配规则，满足该规则的调用将执行以下操作。如果设置了多个匹配规则，则需要匹配所有规则。"
+msgstr ""
+"**Match Rule**: Set a matching rule, and calls that satisfy this rule will "
+"perform the following operations. "
+
+#: ../../root_界面介绍.md:543 44f434e6ffc84177ac0c5647f01cc9a4
+msgid "**替换主叫号码**：在这里你可以从新设定主叫号码和主叫号码名称。"
+msgstr ""
+"**Replace Calling Number**: Here you can set the caller number and caller "
+"number name from the new one."
+
+#: ../../root_界面介绍.md:545 232471fc87ef48139907e1fc94cc556f
+msgid "**被叫号码**： 你可以添加/移除被叫号码前缀，或是重置被叫号码。"
+msgstr ""
+"**Called Number**: You can add/remove the called number prefix, or reset the"
+" called number."
+
+#: ../../root_界面介绍.md:547 5bd961eaff074ab38eeaee86a44de2be
+msgid "**转向**：路由匹配时系统将进行此动作。"
+msgstr ""
+"**Turning**: The system will perform this action when the route is matched."
+
+#: ../../root_界面介绍.md:549 685cbd2389b84d5d9967de324db20a00
+msgid "**中继策略**："
+msgstr "**Relay Policy**:"
+
+#: ../../root_界面介绍.md:551 16f7405610954d0a8eeab325363cc5a9
+msgid "顺序：每个来电从第一个中继开始（始终为 123）"
+msgstr "Sequence: Each incoming call starts with the first relay (always 123)"
+
+#: ../../root_界面介绍.md:553 6de7a67e447544de9096199923152eab
+msgid ""
+"轮询：第一个来电按中继添加的顺序运行，第二个来电从第一个中继的下一个顺序中继开始，依此类推，第三个呼叫。（第一次是123，第二次是 231，第三次是 "
+"312）"
+msgstr ""
+"Polling: The first incoming call runs in the order added by the relay, the "
+"second incoming call starts with the next order of the first relay, and so "
+"on, the third call. "
+
+#: ../../root_界面介绍.md:555 b8b56e1733d243a3b380a182a79f5bf6
+msgid "随机：无模式"
+msgstr "Random: No mode"
+
+#: ../../root_界面介绍.md:557 076b0e65145042e6bcc1c90181b7f8f1
+msgid "暂停原因:"
+msgstr "Reason for suspension:"
+
+#: ../../root_界面介绍.md:559 e888abe380ee4606bd06ac8f33493b5b
+msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。"
+msgstr ""
+"The reason for pause is a pause reason selected when the agent is busy. On "
+"the pause reason page, system users can add/view/edit/delete the pause "
+"reason."
+
+#: ../../root_界面介绍.md:561 e60afdcc788d47ccb27c03913e7b2bdb
+msgid "![alt text](_static/images/root/media/image59.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:563 ../../root_界面介绍.md:575 ../../root_界面介绍.md:829
+#: 57d1c6e5e74e40ba9c410f55eb5bd05b 6cbf928a005d47b08d0b445444fa0695
+#: fb974de482c0451db93cec9c21af2344
+msgid "**点击【添加】进入【通用】设置：（如下图）**"
+msgstr "**Click [Add] to enter [General] settings: (as shown below)**"
+
+#: ../../root_界面介绍.md:565 77343765afd44832a7cc76cd1651ed9a
+msgid "![alt text](_static/images/root/media/image60.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:567 d4954cb432e14cd2a76c7ea4644b8a2c
+msgid "**暂停原因名称**： 设置暂停原因为其命名。"
+msgstr "**Pause Reason Name**: Set the pause reason to name it."
+
+#: ../../root_界面介绍.md:569 c25ca579d694499fa8655941f9564514
+msgid "话机部署模版:"
+msgstr "Telephone deployment template:"
+
+#: ../../root_界面介绍.md:571 2553c382efd141448a3f3841aba38802
+msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
+msgstr ""
+"The phone deployment template can be configured directly by the phone "
+"settings, and the template content can be added independently for default "
+"configuration, which can save more time when using multiple phones."
+
+#: ../../root_界面介绍.md:573 090fa6c502524bf2a575ddaefae8f0e1
+msgid "![alt text](_static/images/root/media/image61.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:577 074be63363614763968eb3656515fcaa
+msgid "![alt text](_static/images/root/media/image62.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:579 0ae11f8ff2da43e183393561cc1472f7
+msgid "**模版名称**：请填入模版名称。"
+msgstr "**Template name**: Please fill in the template name."
+
+#: ../../root_界面介绍.md:581 3f392c503ae442c79c6d943ae4b40a21
+msgid "**话机品牌**： 请输入话机型号。"
+msgstr "**Telephone brand**: Please enter the phone model."
+
+#: ../../root_界面介绍.md:583 10733cc7a2a445eb86a888322b69cdc0
+msgid "**模版内容**： 输入模板（root或管理员提前准备的模板，不同话机的模板不同）。"
+msgstr ""
+"**Template content**: Enter the template (a template prepared by root or "
+"administrator in advance, the templates for different phones are different)."
+
+#: ../../root_界面介绍.md:585 fc1d8bef06f1474b81ea936153e84028
+msgid "h. 信息:"
+msgstr "h. Information:"
+
+#: ../../root_界面介绍.md:587 898300dd4cc9402f97e0344d4880bd70
+msgid "短信档案:"
+msgstr "SMS file:"
+
+#: ../../root_界面介绍.md:589 ccdd537e78b9475a809b63c1c197b1a9
+msgid ""
+"短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。"
+msgstr ""
+"SMS files are used to configure the route when customers send SMS messages. "
+"In each file, you can bind the matching identity to the SMS provider. When "
+"the customer initiates a request to send SMS, you can select the vendor to "
+"use by using different identification strings."
+
+#: ../../root_界面介绍.md:591 05bfef0f238244fc821f7d5f83f1234b
+msgid "![alt text](_static/images/root/media/image63.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:595 2106f4b1c5e04573a12699b7c3b30ea2
+msgid "![alt text](_static/images/root/media/image64.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:597 9abcd0a88233479ea2f6710dbb14f7ab
+msgid "**短信档案名称**： 请给短信档案命名。"
+msgstr "**SMS file name**: Please name the SMS file."
+
+#: ../../root_界面介绍.md:599 457d62ada96940ac9af310ce5b7de20f
+msgid "设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）"
+msgstr ""
+"After setting up the [File Name], click [Binding Supplier] to set the bound "
+"supplier: (as shown in the figure below)"
+
+#: ../../root_界面介绍.md:601 3b95bb11387b4e3ca92d80a0b3c54584
+msgid "![alt text](_static/images/root/media/image65.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:603 193a34b2805f44bd994ebd9bb27f4e6c
+msgid "**匹配标识串**： 客户请求中用于选择要发送短信的供应商的标识字符串。"
+msgstr ""
+"**Match ID string**: The identification string used in the customer request "
+"to select the vendor to send the SMS."
+
+#: ../../root_界面介绍.md:605 7240ffce0c5741df95221efdb1959e42
+msgid "**匹配供应商**： 字符串匹配时使用的供应商。"
+msgstr "**Match supplier**: The vendor used when string matching."
+
+#: ../../root_界面介绍.md:607 c1da0e26744c4c4b8eba4ce828e6f23c
+msgid "编辑完【短信文件】后，如下图所示，点击保存（如下图）"
+msgstr ""
+"After editing [SMS File], as shown in the figure below, click Save (as shown"
+" in the figure below)"
+
+#: ../../root_界面介绍.md:609 272ba6bb501e4400a1a90f088bf63954
+msgid "![alt text](_static/images/root/media/image66.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:611 82b78fe4d7d640399ebdbe97eb0d07e4
+msgid "短信供应商:"
+msgstr "SMS supplier:"
+
+#: ../../root_界面介绍.md:613 3b1ee3b0f5074448854954190ffdbdbf
+msgid "短信供应商页面用于管理短信供应商，你可以在系统中配置多个供应商，然后在短信档案中配置如何选择这些供应商发短信。"
+msgstr ""
+"The SMS Provider page is used to manage SMS providers. You can configure "
+"multiple vendors in the system and then configure how to select these "
+"vendors to send text messages in the SMS profile."
+
+#: ../../root_界面介绍.md:615 f5299d3b5b1e43dfba98275cf41705a6
+msgid "![alt text](_static/images/root/media/image67.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:619 d8c03673fa014a20b975ebb9d0e45975
+msgid "![alt text](_static/images/root/media/image68.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:621 581be7be0d4944e7b6e967631012cc03
+msgid "**供应商名称**： 请输入短信供应商名称。"
+msgstr "**Supply Name**: Please enter the SMS supplier name."
+
+#: ../../root_界面介绍.md:623 d18801b4df4e4ccd8f2034d87dd18f08
+msgid ""
+"**标识**：每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新的标识，请联系系统管理员。"
+msgstr ""
+"**Login**: Every supplier needs a logo, and the logo consists of letters. "
+
+#: ../../root_界面介绍.md:625 e848c9538bc341309be2a41bec98bc42
+msgid "**参数**：如果你想使用对同一个供应商的多个账号，可以在这里设置向脚本文件传递的参数。"
+msgstr ""
+"**Parameters**: If you want to use multiple accounts for the same vendor, "
+"you can set the parameters passed to the script file here."
+
+#: ../../root_界面介绍.md:627 a4bac4adbaf44cf7810da9ceacc177cd
+msgid "邮件服务器:"
+msgstr "Mail Server:"
+
+#: ../../root_界面介绍.md:629 7996ace6c83d4aa89dfa6f9c29acf35a
+msgid "邮件服务器页面用于管理电子邮件收发的管理设备。"
+msgstr ""
+"The mail server page is used to manage the management devices for sending "
+"and receiving emails."
+
+#: ../../root_界面介绍.md:631 7cbda46af21a429db16d7388090c96d8
+msgid "![alt text](_static/images/root/media/image69.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:635 d1dcb256a5284e479d65e2461a3cc3d3
+msgid "![alt text](_static/images/root/media/image70.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:637 5cc7ba9c3dc943e88cf5578f33b8d5a4
+msgid "**服务器名称**： 请为这个服务器命名。"
+msgstr "**Server name**: Please name this server."
+
+#: ../../root_界面介绍.md:639 2b7f39cd12f14aaab4adcccad61ddc0b
+msgid "**服务器类型**： 请选择这个服务器的类型。"
+msgstr "**Server Type**: Please select the type of this server."
+
+#: ../../root_界面介绍.md:641 4afe094e1fa44ebf880aea0d20b35753
+msgid "**域名**： 请输入这个邮件服务器的域名。"
+msgstr "**Domain Name**: Please enter the domain name of this mail server."
+
+#: ../../root_界面介绍.md:643 d32b91c49225490eb2a70a85bbf6548d
+msgid "**端口**： 请输入这个邮件服务器的端口号。"
+msgstr "**Port**: Please enter the port number of this mail server."
+
+#: ../../root_界面介绍.md:645 238f413b1b8e4ba4ba13490c3dbbb4d6
+msgid "**发信人邮箱**： 请输入这个邮件服务器的发信人邮箱。"
+msgstr "**Sender Email**: Please enter the sender email of this email server."
+
+#: ../../root_界面介绍.md:647 ff1ee94e41ee47d79b31d433e8b62d7e
+msgid "**使用SMTP认证**: 请确认是否需要使用SMTP认证。"
+msgstr ""
+"**Use SMTP authentication**: Please confirm whether you need SMTP "
+"authentication."
+
+#: ../../root_界面介绍.md:649 6cda62e929034946bb93a3ac659cb08f
+msgid "**启用SSL或TLS协议**： 选择一个启动协议。"
+msgstr "**Enable SSL or TLS protocol**: Select a startup protocol."
+
+#: ../../root_界面介绍.md:651 4a901f3c04f04a10b0ed6d9188cc45d7
+msgid "**SMTP用户名**: 若启动SMTP认证，请输入SMTP用户名。"
+msgstr ""
+"**SMTP username**: If SMTP authentication is activated, please enter the "
+"SMTP username."
+
+#: ../../root_界面介绍.md:653 964d3ff9c8c84a729a14e2ec870c81c3
+msgid "**密码**： 请输入SMTP用户名对应的密码。"
+msgstr ""
+"**Password**: Please enter the password corresponding to the SMTP username."
+
+#: ../../root_界面介绍.md:655 1ca0393c0a414b2b9df32a60cedd0b74
+msgid "i. 统计:"
+msgstr "i. Statistics:"
+
+#: ../../root_界面介绍.md:657 61cf245a32e140d39bb33c7af563347b
+msgid "**统计报表**：您可以查看项目详细信息、项目摘要、任务详细信息、任务摘要和成本费率报告。（如下图所示）"
+msgstr ""
+"**Statistical Report**: You can view project details, project summary, task "
+"details, task summary and cost rate reports. "
+
+#: ../../root_界面介绍.md:659 85c35b32492048d6a8333dfc9f0fcc69
+msgid "![alt text](_static/images/root/media/image71.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:661 b83e776abcfc40498d76cea497f5fa70
+msgid "j. 监控管理:"
+msgstr "j. Monitoring management:"
+
+#: ../../root_界面介绍.md:663 814400da261d4ff3abf83ba574e932d3
+msgid "**实时监控**：系统用户可以实时监控呼入/呼出的状态以及座位是否在线（如下图所示）"
+msgstr ""
+"**Real-time monitoring**: System users can monitor the incoming/outgoing "
+"status and whether the seat is online in real time (as shown in the figure "
+"below)"
+
+#: ../../root_界面介绍.md:665 b2c5130530cf4e868d2ac127e0101588
+msgid "![alt text](_static/images/root/media/image72.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:667 c9a8805920bb4ce1acf8c6db4ac10a45
+msgid "k. 日志记录:"
+msgstr "k. Logging:"
+
+#: ../../root_界面介绍.md:669 9dd7aac0180b44d6938a3679654a5950
+msgid "**日志记录**： 您可以查看所有用户的行为（如下图所示）"
+msgstr ""
+"**Log Record**: You can view all users' behavior (as shown in the figure "
+"below)"
+
+#: ../../root_界面介绍.md:671 3262191aac674c5480dbc3307a596a5f
+msgid "![alt text](_static/images/root/media/image73.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:673 362eca6518a34bed89eb238387d87962
+msgid "l. 系统:"
+msgstr "l. System:"
+
+#: ../../root_界面介绍.md:675 7d04a4851bad4fac8f8608bad43d796a
+msgid "系统偏好:"
+msgstr "System preferences:"
+
+#: ../../root_界面介绍.md:677 0a8dda7664f445368e2184cf4e9fd1d3
+msgid "即系统设置，用户可以根据需要对系统进行常规设置"
+msgstr "That is, system settings, users can set the system normally as needed"
+
+#: ../../root_界面介绍.md:679 1a1db6dbc62d4a05a32a505a86b5e56d
+msgid "【 通用 】 设置页面：（如下图）"
+msgstr "【General】Setting page: (as shown below)"
+
+#: ../../root_界面介绍.md:681 978d36efb6124fd4a1b05919a78c3805
+msgid "![alt text](_static/images/root/media/image74.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:683 4c00e992cd6e45c185892814c54d1938
+msgid "**时区**： 当前使用的时区，默认为东京且无法修改。"
+msgstr ""
+"**Time Zone**: The current time zone is Tokyo by default and cannot be "
+"modified."
+
+#: ../../root_界面介绍.md:685 63f89056c76f40bc9ef96a0f55a4875a
+msgid "**语言**： 您可以设置语言。"
+msgstr "**Language**: You can set the language."
+
+#: ../../root_界面介绍.md:687 6663dd6f8f5446f1867d169b1bd2e1a7
+msgid "**国家**：你可以设置国家"
+msgstr "**Country**: You can set up a country"
+
+#: ../../root_界面介绍.md:689 53e106cc5333438c965a6345c549d713
+msgid "**区号**： 你可以设置区号。"
+msgstr "** Area Code**: You can set the area code."
+
+#: ../../root_界面介绍.md:691 12c0f29249364498a792f59df2e39b6a
+msgid "**日期格式模式**： 您可以设置日期格式模式。"
+msgstr "**Date Format Mode**: You can set the date format mode."
+
+#: ../../root_界面介绍.md:693 be107226bc484ba48f6b555cb0f36f3a
+msgid "**日期格式**：您可以设置日期格式，在日期格式模式下选择精确模式将显示。"
+msgstr ""
+"**Date Format**: You can set the date format and select the exact mode in "
+"the date format mode to display."
+
+#: ../../root_界面介绍.md:695 9af2c221a4a74db6abda69750a4b9747
+msgid "**时间格式**： 您可以设置时间格式，将显示日期格式模式下的精确模式。"
+msgstr ""
+"**Time Format**: You can set the time format and the exact mode in date "
+"format mode will be displayed."
+
+#: ../../root_界面介绍.md:697 f6073568e59c4cca9bd20d694a9f67c3
+msgid "**时长格式**： 您可以设置时长的格式。"
+msgstr "**Duration format**: You can set the format of the duration."
+
+#: ../../root_界面介绍.md:699 9ad27a97b0834d88b24b7682c611fbff
+msgid "**号码格式**： 你可以设置号码的格式。"
+msgstr "**Number format**: You can set the format of the number."
+
+#: ../../root_界面介绍.md:701 f90459e739a54f6d8666510e2937f76f
+msgid "**称呼格式**： 你可以设置姓名称呼的格式。"
+msgstr "**Title format**: You can set the format of your name call."
+
+#: ../../root_界面介绍.md:703 c44c7e20679f4d3c81a471a04223991e
+msgid "**账号超时时间**： 账号登录超时时间（单位：分钟）"
+msgstr "**Account timeout time**: Account login timeout time (unit: minutes)"
+
+#: ../../root_界面介绍.md:705 5cd6e8485bfa47b0a6699c753f2f53ef
+msgid "**坐席超时时间**： 坐席登录超时时间（单位：分钟）"
+msgstr "**Agent timeout time**: Agent login timeout time (unit: minutes)"
+
+#: ../../root_界面介绍.md:707 1b5360f556cf4ab49c7938a9a7e528b9
+msgid "**坐席浏览器超时时间**：如果代理设置为与浏览器一起使用，则当浏览器关闭并达到此超时时间时，系统将检出所有动态签入的代理组（单位：秒）。"
+msgstr ""
+"**Agent Browser Timeout**: If the proxy is set to be used with the browser, "
+"when the browser closes and reaches this timeout, the system will check out "
+"all dynamically checked-in proxy groups (in seconds)."
+
+#: ../../root_界面介绍.md:709 39898cd0b25442a9a013ebbf507cdbea
+msgid "【货币】设置页面：（如下图）"
+msgstr "[Currency] Setting Page: (As shown below)"
+
+#: ../../root_界面介绍.md:711 18777a636bc2415097541c173237fe09
+msgid "![alt text](_static/images/root/media/image75.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:713 2a3ff4cbe9de49fc9b01f9d88bd434d8
+msgid "**货币**： 设置货币。."
+msgstr "**Currency**: Set currency. "
+
+#: ../../root_界面介绍.md:715 2e5ae4bd24db49caa026e476e1680532
+msgid "**货币符号**： 设置货币符号。"
+msgstr "**Currency Symbol**: Set currency symbol."
+
+#: ../../root_界面介绍.md:717 027b8768914d4aca9cb75c8fbf72eb78
+msgid "**货币小数点**： 设置货币小数点"
+msgstr "**Currency decimal point**: Set currency decimal point"
+
+#: ../../root_界面介绍.md:719 3c0f7f62fe3546baa82893db22620787
+msgid "**数字分隔符**： 设置数字分隔符。"
+msgstr "**Number delimiter**: Set the numeric delimiter."
+
+#: ../../root_界面介绍.md:721 b6d9165efdd449b1be5b94f2f91526e6
+msgid "**千位分隔符**： 设置千位分隔符。"
+msgstr "**Thousand Delimiter**: Set the Thousand Delimiter."
+
+#: ../../root_界面介绍.md:723 4a923a5bab454a01ab4cd8e2315dd23b
+msgid "【 数据 】 设置页面：（如下图）"
+msgstr "【Data】Setting page: (as shown below)"
+
+#: ../../root_界面介绍.md:725 f83c6350c8ba46c0b80c198671de03d6
+msgid "![alt text](_static/images/root/media/image76.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:727 3f9e8e4726fa4f6cb56eef469e14d169
+msgid "**导出文件编**： 设置导出文件编码。"
+msgstr "**Export file encoding**: Set the export file encoding."
+
+#: ../../root_界面介绍.md:729 1f91d15a557a4bb58dc1bc144f398bce
+msgid "**导出单文件最大行数**： 设置导出文件最大行数。"
+msgstr ""
+"**Maximum number of lines for exporting single files**: Set the maximum "
+"number of lines for exporting files."
+
+#: ../../root_界面介绍.md:731 036facd09b06403dbfedc20fe93e9a45
+msgid "【拨号】设置页面：（如下图）"
+msgstr "[Dial] Setting page: (as shown below)"
+
+#: ../../root_界面介绍.md:733 430f66fb226e4f8aa63ef5ff4e0ebeb0
+msgid "![alt text](_static/images/root/media/image77.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:735 81612f8e5cd6426db01f5e19e834d213
+msgid "**拨打外线超时**： 外呼振铃时长。"
+msgstr "**Dialing outside timeout**: External call ringing duration."
+
+#: ../../root_界面介绍.md:737 65915049729247f9a2c6501e97eacf43
+msgid "**拨打分机超时**:内线振铃超时。"
+msgstr "**Dial extension timeout**: Inside line ringing timeout."
+
+#: ../../root_界面介绍.md:739 3b994f3a86c34260b29c6392b234d3db
+msgid "销售漏斗:"
+msgstr "Sales funnel:"
+
+#: ../../root_界面介绍.md:741 9fb8170d43704e47bffd8b2d8ddda77f
+msgid "销售漏斗用于标记代理商记录的客户通话状态，默认有三种类型：成功/失败/跟踪，可以根据需要添加/编辑/删除。"
+msgstr ""
+"Sales funnel is used to mark the status of customer call recorded by the "
+"agent. There are three types by default: Success/Failure/Tracking, and can "
+"be added/edited/deleted as needed."
+
+#: ../../root_界面介绍.md:743 5c8797d8d0bb45558c49c001d8f195bd
+msgid "销售漏斗的分数代表着坐席的呼叫和联系分数，最终可以根据坐席的总分进行排名，可以在坐席数据页面的排名列表中查看。"
+msgstr ""
+"The score of the sales funnel represents the call and contact scores of the "
+"agent, which can be finally ranked based on the total score of the agent, "
+"which can be viewed in the ranking list of the agent data page."
+
+#: ../../root_界面介绍.md:745 73fee14f96b2472aa463944d6dc69adb
+msgid "![alt text](_static/images/root/media/image78.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:747 7c37deff110a4fdc92349f3d6ff381d0
+msgid "**选择【添加】并进入【常规】设置：（如下图）**"
+msgstr "**Select [Add] and enter [General] settings: (as shown below)**"
+
+#: ../../root_界面介绍.md:749 361b0b87f09c4cf991141aa1f40d2b73
+msgid "![alt text](_static/images/root/media/image79.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:751 2a57a6ee864145d59d7665e7bc4e2d35
+msgid "**名称**：为此销售漏斗命名。"
+msgstr "**Name**: Name this sales funnel."
+
+#: ../../root_界面介绍.md:753 1bdd35b8f3e240d3a4d2e51837a10b30
+msgid "**分值**： 请设置这个销售漏斗的分值，分值可体现坐席的工作情况。"
+msgstr ""
+"**Score**: Please set the score of this sales funnel, the score can reflect "
+"the working status of the seat."
+
+#: ../../root_界面介绍.md:755 c34f3517526141058c0f77af151d9f4b
+msgid "**状态**： 销售漏斗的状态:"
+msgstr "**Status**: Status of sales funnel:"
+
+#: ../../root_界面介绍.md:757 34d9e769ef1d4d55bee8ea2440da5cc4
+msgid "启用：正常显示"
+msgstr "Enable: Display normally"
+
+#: ../../root_界面介绍.md:759 75cc8af847134f63a675b96fd346af56
+msgid "隐藏：坐席不可见"
+msgstr "Hide: The seat is invisible"
+
+#: ../../root_界面介绍.md:761 b3f1e10fbb074ae8846b4a8cf648deaa
+msgid "关闭：系统不可见"
+msgstr "Close: The system is not visible"
+
+#: ../../root_界面介绍.md:763 bea524c262e14bbe81fe23d8d5ee2725
+msgid "后台任务:"
+msgstr "Backstage tasks:"
+
+#: ../../root_界面介绍.md:765 72c9fbe054b94dce9eb5f225c89158fb
+msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
+msgstr ""
+"Background tasks are allowed to program tasks in the system, and they are "
+"usually time consuming, such as importing and exporting reports."
+
+#: ../../root_界面介绍.md:767 c1e7ac51beb2494c94e29c55f0f4bc41
+msgid "![alt text](_static/images/root/media/image80.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:769 1945be0c32fb45c0aad3b8ec818cba03
+msgid "高级:"
+msgstr "advanced:"
+
+#: ../../root_界面介绍.md:771 0ca5c69614e34a4c82ac95e148de1ad1
+msgid "可以查看和编辑某些系统设置"
+msgstr "You can view and edit certain system settings"
+
+#: ../../root_界面介绍.md:773 ebaf9bf80b5746668d195e479a54a0d1
+msgid "**\\[基本\\]设置：（如下图）**"
+msgstr "**\\[Basic\\] Settings: (as shown below) **"
+
+#: ../../root_界面介绍.md:775 9e90dab554744b4fbf8453e0f72d64fc
+msgid "![alt text](_static/images/root/media/image81.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:777 2b0cc6bd7278428fa8d2c6227fb7044a
+msgid "**事件类型**;"
+msgstr "**Event Type**;"
+
+#: ../../root_界面介绍.md:779 b61723a77d694d88a5981661a60df1a3
+msgid "系统提供两种事件:通话记录:当呼叫挂断时，系统会将通话记录发布到特定的URL."
+msgstr ""
+"The system provides two kinds of events: call history: When a call is hung "
+"up, the system publishes the call history to a specific URL."
+
+#: ../../root_界面介绍.md:781 e83eec207bf8459d85aa09eb2111a297
+msgid "坐席事件:系统将发布所有坐席事件，如响铃，应答，挂断，签入，签出，暂停，取消暂停等"
+msgstr ""
+"Agent events: The system will publish all agent events, such as ringing, "
+"answering, hanging up, checking in, checking out, pausing, canceling pause, "
+"etc."
+
+#: ../../root_界面介绍.md:783 0758d9e2cd9b4d40b99c9b099c452878
+msgid "**事件接收地址**: 系统会将事件数据发送到此URL。如果您不需要它，请将其留空。"
+msgstr ""
+"**Event Receive Address**: The system will send event data to this URL. "
+
+#: ../../root_界面介绍.md:785 fbb5998771ed4b9088cc53ef3895a335
+msgid "**录音设置**: 请设置您需要的录音类型。"
+msgstr "**Recording settings**: Please set the recording type you need."
+
+#: ../../root_界面介绍.md:787 4d94504b50054217ac91e594698d3389
+msgid "**录音格式**: 请选择录音格式。"
+msgstr "**Recording Format**: Please select the recording format."
+
+#: ../../root_界面介绍.md:789 6041e5dd953b47439e5238df444194d6
+msgid "**录音文件名格式**:你可以自定义录音文件的命名规则，可用的变量包括:"
+msgstr ""
+"**Recording file name format**: You can customize the naming rules of "
+"recording files, and the available variables include:"
+
+#: ../../root_界面介绍.md:803 682d750a7f5b48bdb6da7909aa210798
+msgid "**语音识别**: 根据需要是否开启语音识别功能。"
+msgstr ""
+"**Speech Recognition**: Whether the voice recognition function is enabled as"
+" needed."
+
+#: ../../root_界面介绍.md:805 90902e737345423891266e04062997d3
+msgid "**语音识别回调地址**:如果已配置，系统会将语音识别结果发送到此 URL。"
+msgstr ""
+"**Speech recognition callback address**: If configured, the system will send"
+" the voice recognition result to this URL."
+
+#: ../../root_界面介绍.md:807 a138bb1988834426a755c82ea789587e
+msgid "**账号多点登录**: 允许一个帐户多点登录。"
+msgstr "**Account multi-point login**: Allow multiple login for one account."
+
+#: ../../root_界面介绍.md:809 c25846813cb34ea195da9bd57eed30a1
+msgid "**\\[录音转移\\]设置：（如下图）**"
+msgstr "**\\[Record Transfer\\] Settings: (as shown below) **"
+
+#: ../../root_界面介绍.md:811 ad9efa749b8e4ac8ac21efbb8d747117
+msgid "![alt text](_static/images/root/media/image82.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:813 28ca1048b4de4281819d9f8efe9a2ad0
+msgid "**转移路径**: 录音合成后，系统会将文件发送到该地址。"
+msgstr ""
+"**Transfer path**: After recording and synthesis, the system will send the "
+"file to this address."
+
+#: ../../root_界面介绍.md:815 275773d01d144000a2d68994d4ea5d43
+msgid "**转移策略**: 转移策略是实时的或定时。"
+msgstr "**Transfer Policy**: The transfer policy is real-time or timed."
+
+#: ../../root_界面介绍.md:817 78955c34bcd541b8967051cb381a5dc8
+msgid "公司信息:"
+msgstr "Company Information:"
+
+#: ../../root_界面介绍.md:819 04a518f32c3c4867a513c6b5133272e6
+msgid "在此页面上，您可以查看和编辑系统的公司信息。（如下图所示）"
+msgstr ""
+"On this page, you can view and edit the system's company information. "
+
+#: ../../root_界面介绍.md:821 0215e2e33d2e4e869994e869fb22ecc2
+msgid "![alt text](_static/images/root/media/image83.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:823 3758ed93982d447e94ced9ca8107875f
+msgid "假期设置 :"
+msgstr "Holiday settings:"
+
+#: ../../root_界面介绍.md:825 0b90e372d4ad45558ed5cdccb3b9984a
+msgid "根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）"
+msgstr ""
+"According to the customs and commemorative requirements of various countries"
+" and ethnic groups, the celebration and vacation rest time is uniformly "
+"designated. "
+
+#: ../../root_界面介绍.md:827 54977779b71446b69442e328adffc141
+msgid "![alt text](_static/images/root/media/image84.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:831 751a6db15312492aa92078fb74dae32f
+msgid "![alt text](_static/images/root/media/image85.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:833 08aed518126c4eab811d71d0d645f5d3
+msgid "**假日名称**: 假日名称。"
+msgstr "**Holiday Name**: Holiday Name."
+
+#: ../../root_界面介绍.md:835 fef8197785c343d6be240b17b0c6de8b
+msgid "**国家**: 国家代码(ISO 3166-1 2位代码)。"
+msgstr "**Country**: Country code (ISO 3166-1 2-digit code)."
+
+#: ../../root_界面介绍.md:837 72848aecfd774d3e8ba9d385e10e8f2b
+msgid "**日期**: 日期。"
+msgstr "**Date**: Date."
+
+#: ../../root_界面介绍.md:839 f6be92301d034fb8b7751d36c5692c3e
+msgid "工具栏"
+msgstr "Toolbar"
+
+#: ../../root_界面介绍.md:841 180ecaef290b42aa8adb48e7de19d276
+msgid "**后台任务**:您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）"
+msgstr ""
+"**Backend Tasks**: You can view tasks in progress in the background here, as"
+" shown in the figure: If there are no tasks in progress, they will appear as"
+" zero. "
+
+#: ../../root_界面介绍.md:843 12a7f0028627414a9ea176914fa35f36
+msgid "![alt text](_static/images/root/media/image86.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:845 11c10389994142dbbed76cd774fbdbd7
+msgid "**通知**: 将显示一些新消息（如下所示）。"
+msgstr ""
+"**Notification**: Some new messages will be displayed (as shown below)."
+
+#: ../../root_界面介绍.md:847 623cb4deb9bc42c4a8e8d9df7f9fbe69
+msgid "![alt text](_static/images/root/media/image87.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:849 e5129c75b957464b84006e6cf407817e
+msgid "**语言**: Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）"
+msgstr ""
+"**Language**: Root users can select the common language type from this drop-"
+"down menu (as shown below)"
+
+#: ../../root_界面介绍.md:851 5ad65071f1e746e69b33a2560f77df1d
+msgid "![alt text](_static/images/root/media/image88.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:853 311cdb38c05e4fa0a7aaec9f815d8508
+msgid "**我的档案**"
+msgstr "**My Files**"
+
+#: ../../root_界面介绍.md:855 776af12105884261b4caeafcf59b30f0
+msgid "![alt text](_static/images/root/media/image89.png)"
+msgstr ""
+
+#: ../../root_界面介绍.md:857 22914f66a0d14165b12a05509ad90dfa
+msgid "**包括“我的档案”和“注销”**"
+msgstr "**Includes \"My Files\" and \"Logout\"**"
+
+#: ../../root_界面介绍.md:859 1927e1db7c054068aa3a0b8e3790bcbf
+msgid "**\\[我的个人资料\\] 允许编辑 root 用户个人资料**"
+msgstr "**\\[My Profile\\] Allows editing of root user profile**"
+
+#: ../../root_界面介绍.md:861 e3159429eac94bc2acfefafb3c3a9c90
+msgid "**\\[登录\\]退出当前登录页面**"
+msgstr "**\\[Login\\]Login Exit the current login page**"

@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 17:00+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../reseller_WCC登录.md:1 e76eb4de43dd448096c43fe7d3681a56
+msgid "1.1 WCC 登录"
+msgstr "1.1 WCC Login"
+
+#: ../../reseller_WCC登录.md:3 387f9aa0da0048489a199bd22e5fa42b
+msgid "在您正在使用的浏览器的地址栏中输入网站地址。 回车进入系统登录页面"
+msgstr ""
+"Enter the website address in the address bar of the browser you are using. "
+
+#: ../../reseller_WCC登录.md:5 82636d505c9942faa7eadcfed8ade6a7
+msgid "用户【账户】和【密码】由上级用户预先设置。"
+msgstr "Users [Account] and [Password] are pre-set by the superior user."
+
+#: ../../reseller_WCC登录.md:7 540d6140f3e84817a24b23777b13597c
+msgid "输入正确的账号和密码，点击【登录】，即可成功进入系统。"
+msgstr ""
+"Enter the correct account and password, click [Login], and you will "
+"successfully enter the system."
+
+#: ../../reseller_WCC登录.md:9 adce42c4c48048fb9a2cb950d7ad3ed8
+msgid "用户可以选择【记住密码】，浏览器会记住这次的账户密码，方便下次登录。"
+msgstr ""
+"Users can choose [Remember Password], and the browser will remember the "
+"account password this time, making it easier to log in next time."
+
+#: ../../reseller_WCC登录.md:11 2ad2dbe5fc5748cea8c31373c24d6b9e
+msgid "![alt text](_static/images/reseller/media/image1.png)"
+msgstr ""
+
+#: ../../reseller_WCC登录.md:11 ../../reseller_WCC登录.md:15
+#: ca2fc538911c4e74afd4c6965b99119b cd526f4b5bcc4ef486fd9f9d2d126c4f
+msgid "alt text"
+msgstr "alt text"
+
+#: ../../reseller_WCC登录.md:13 a04ab76ffbef431583342106b1de1898
+msgid "用户进入系统后，从状态栏的下拉菜单中选择【注销】，确认无误后，成功注销系统。页面返回到用户登录页面。"
+msgstr ""
+"After the user enters the system, select [Login] from the drop-down menu in "
+"the status bar. After confirming that the system is correct, the system will"
+" be successfully cancelled. "
+
+#: ../../reseller_WCC登录.md:15 5ecb5b3788ce47178108168b0c4dc4f4
+msgid "![alt text](_static/images/reseller/media/image2.png)"
+msgstr ""
