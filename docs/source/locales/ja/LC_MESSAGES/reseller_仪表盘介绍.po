@@ -12,25 +12,26 @@ msgstr ""
 "POT-Creation-Date: 2025-03-24 17:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../reseller_仪表盘介绍.md:1 dc68e7788b2d44e4bbffd92326aa232a
 msgid "1.2 仪表盘介绍"
-msgstr ""
+msgstr "1.2ダッシュボードの紹介"
 
 #: ../../reseller_仪表盘介绍.md:3 5660f6d06d0b4386b4495da3baad826e
 msgid "1.2.1 I仪表盘概述"
-msgstr ""
+msgstr "1.2.1 Iダッシュボードの概要"
 
 #: ../../reseller_仪表盘介绍.md:5 03e9b41ab369431487ba5b991b254f62
 msgid "WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2）上部状态栏和 （3） 中间工作区。"
 msgstr ""
+"WCCエージェントユーザーインターフェイスウィンドウは、3つの主要な領域で構成されています。（1）左メニューバー、（2）上部ステータスバー、（3）中央の作業領域。"
 
 #: ../../reseller_仪表盘介绍.md:7 6238b03b11a9429887acc5d687b40f45
 msgid "![alt text](_static/images/reseller/media/image3.png)"
@@ -79,39 +80,41 @@ msgstr ""
 #: d7f8858047b14db1924782b3bc7efffb debbe783286d4e62ab8d1e3a6a13fce5
 #: e621734b21e8454f9c188f47b6aeb3f0 f9acf06ee2784f61b778086928310513
 msgid "alt text"
-msgstr ""
+msgstr "altテキスト"
 
 #: ../../reseller_仪表盘介绍.md:9 df067d7cfaf244039d40607fd1b25e21
 msgid "1.2.2 工具栏"
-msgstr ""
+msgstr "1.2.2ツールバー"
 
 #: ../../reseller_仪表盘介绍.md:11 0cf7744f83a14c33b966991b74588142
 msgid "a. 搜索："
-msgstr ""
+msgstr "a。検索："
 
 #: ../../reseller_仪表盘介绍.md:13 0c04b374bc0849a4bb58c73cea7ad006
 msgid "在菜单栏中搜索所有菜单。"
-msgstr ""
+msgstr "メニューバーのすべてのメニューを検索します。"
 
 #: ../../reseller_仪表盘介绍.md:15 cd8d78c2c7744dcd8b7eb816f0be181e
 msgid "b. 仪表盘："
-msgstr ""
+msgstr "b。ダッシュボード："
 
 #: ../../reseller_仪表盘介绍.md:17 a5e64cef67da4de2becf4dd4344db308
 msgid "代理商级别的仪表盘可以了解到整个代理商的通话情况、活跃坐席、did呼入情况等。"
-msgstr ""
+msgstr "エージェントレベルのダッシュボードは、エージェント全体のコールステータス、アクティブシート、コールインなどを理解できます。"
 
 #: ../../reseller_仪表盘介绍.md:19 86cdafd454e5494cbc6a4f69db513c76
 msgid "c. 用户："
-msgstr ""
+msgstr "c。ユーザー："
 
 #: ../../reseller_仪表盘介绍.md:21 dd109b62994849438fc517b9d8d0666c
 msgid "Clients："
-msgstr ""
+msgstr "クライアント："
 
 #: ../../reseller_仪表盘介绍.md:23 0cba58bc1d4e4a7b8b1f19c89d903071
-msgid "由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。"
+msgid ""
+"由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。"
 msgstr ""
+"エージェントユーザーによって作成されました。エージェントユーザーは、「クライアント」ページでクライアントユーザーを削除/編集/編集/表示したり、特定のクライアントユーザーとしてログインできます。ディーラーユーザーは「クライアント」ページにあり、ページのリストには現在のディーラーが作成したクライアントユーザーが表示されます。"
 
 #: ../../reseller_仪表盘介绍.md:25 7b81d2f633d041e5a1d7333b1fc0647b
 msgid "![alt text](_static/images/reseller/media/image4.png)"
@@ -119,7 +122,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:27 a775e0ae6fc14058a4729d79d7c753e1
 msgid "**单击【添加】以执行常【规】设置**"
-msgstr ""
+msgstr "** [追加]をクリックして通常の設定を実行します**"
 
 #: ../../reseller_仪表盘介绍.md:29 49ee3e4c89254f9280672dc937dafbff
 msgid "![alt text](_static/images/reseller/media/image5.png)"
@@ -128,40 +131,43 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:31 31bf7554eaf445aeb729207a360ca623
 msgid "**域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
 msgstr ""
+"**ドメイン名**：各クライアントには、通常はSIP登録、Webログインなどに使用できるドメイン名を使用する一意のドメインが必要です。ドメインが設定されたら、再度変更できません。"
 
 #: ../../reseller_仪表盘介绍.md:33 1352339ae8ae496e9cc764a91a59ff45
 msgid "**客户名称**: 填写一个客户名称，该名称可以随时更改."
-msgstr ""
+msgstr "**顧客名**：顧客名を入力します。これはいつでも変更できます。"
 
 #: ../../reseller_仪表盘介绍.md:35 5bb005870bc5452f90f4ea7ef70a7eae
 msgid "**用户名**: 用户将使用此用户名登录系统，一旦设置，将不再修改，必填。"
-msgstr ""
+msgstr "**ユーザー名**：ユーザーはこのユーザー名を使用してシステムにログインします。設定されると、変更されなくなり、不要になります。"
 
 #: ../../reseller_仪表盘介绍.md:37 165f3dd633514b07b75d1d17a6684f58
 msgid "**密码**:用户将使用此密码登录，必填。"
-msgstr ""
+msgstr "**パスワード**：ユーザーはこのパスワードを使用してログインします。"
 
 #: ../../reseller_仪表盘介绍.md:39 0b98de0e6654435cafb4fc72d2c4721a
 msgid "**确认密码**: 再次确认您的密码，并确保两次密码相同，必填。"
-msgstr ""
+msgstr "**パスワードの確認**：パスワードをもう一度確認し、パスワードが2回同じであることを確認します。必要です。"
 
 #: ../../reseller_仪表盘介绍.md:41 8fe2e37afb0e472b8b9cbbc94d887e79
 msgid "**名**: 请填写此用户的名字。"
-msgstr ""
+msgstr "**名前**：このユーザーの名前に記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:43 f510c4b1cc0a46d2a0bc90179aeb105b
 msgid "**姓**: 请填写此用户的姓氏，必填。"
-msgstr ""
+msgstr "**短い名前**：必要なこのユーザーの姓を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:45 3fc6c16f8a9343bb9fe2996ff3e2cd3e
-msgid "**状态**:客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
+msgid ""
+"**状态**:客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
 msgstr ""
+"**ステータス**：クライアントユーザーのステータスは、通常、無効、および一時停止に分割できます。クライアントが無効になっている場合、ログインは「アカウントが存在しないか、パスワードが正しくない」とプロンプトします。アカウントが一時停止されると、ログインは「このアカウントが無効になっており、ログインできません。管理者に連絡してください」とプログインします。"
 
 #: ../../reseller_仪表盘介绍.md:49 ../../reseller_仪表盘介绍.md:228
 #: ../../reseller_仪表盘介绍.md:326 59c39a30c68549cb85b8494f4e738c72
 #: 6d4e921f427048f18702f4214dfcaf3b faab31e657b1457186b5891ab5b017f9
 msgid "**【高级】设置**:"
-msgstr ""
+msgstr "** Advanced】設定**："
 
 #: ../../reseller_仪表盘介绍.md:51 e321b800d8d24336bbae9222d90a5c49
 msgid "![alt text](_static/images/reseller/media/image6.png)"
@@ -169,63 +175,72 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:53 e1a70ae632434de58dab1da0c73f38d4
 msgid "**多客户包**: 允许client创建多个客户包。"
-msgstr ""
+msgstr "**複数の顧客パッケージ**：クライアントが複数の顧客パッケージを作成できるようにします。"
 
 #: ../../reseller_仪表盘介绍.md:55 a24f7baddb5e48a79390c691798ecf6d
 msgid "**时区**: 请选择此client的时区，一旦设置，将不会修改。"
-msgstr ""
+msgstr "**タイムゾーン**：このクライアントのタイムゾーンを選択してください。設定されたら変更されません。"
 
 #: ../../reseller_仪表盘介绍.md:59 77edd80834544522944aad26c60d97d9
 msgid "**事件类型**:系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时启用:"
 msgstr ""
+"**イベントタイプ**：システムは、3つのドッキング方法を提供できます。コールイベント、エージェントイベント、コールレコード、3つを同時に有効にすることができます。"
 
 #: ../../reseller_仪表盘介绍.md:61 ccbdd3ff200241b888ae64ac0ce7a835
 msgid "**呼叫事件**: 您可以获得简单的事件，例如通话的创建、回答、挂断。"
-msgstr ""
+msgstr "**コールイベント**：作成、応答、電話の切れるなどの簡単なイベントを取得できます。"
 
 #: ../../reseller_仪表盘介绍.md:63 2d9045037242431d81ffa6c92969d576
 msgid "**坐席事件**: 您可以接收到一路通话的所有事件，例如座席振铃、座席应答、被叫振铃、被叫方应答，挂断等。"
 msgstr ""
+"**エージェントイベント**：エージェントリンギング、エージェント応答、リンギングと呼ばれるエージェント、パーティーの応答、ハングアップなど、通話中のすべてのイベントを通話中に受け取ることができます。"
 
 #: ../../reseller_仪表盘介绍.md:65 ff50fc57af434d4c97191316133ffff3
 msgid "**通话记录**: 当通话结束后，系统会将通话记录推送到指定地址."
-msgstr ""
+msgstr "**コールレコード**：通話が終了した後、システムは指定されたアドレスに通話レコードをプッシュします。"
 
 #: ../../reseller_仪表盘介绍.md:67 e9160d376e9442cab3dbf213d16e435a
 msgid "**事件接收地址**: 如果你需要从系统接收事件，请提供一个可用的地址。"
-msgstr ""
+msgstr "**イベント受信アドレス**：システムからイベントを受信する必要がある場合は、利用可能なアドレスを提供してください。"
 
 #: ../../reseller_仪表盘介绍.md:69 d8beb9c37d6948c9bb5a58c889430a28
 msgid "**隐藏费率**: 您可以设置此client用户是否具有隐藏汇率。"
-msgstr ""
+msgstr "**隠されたレート**：このクライアントユーザーに非表示の為替レートがあるかどうかを設定できます。"
 
 #: ../../reseller_仪表盘介绍.md:71 631ad8cd8ad44badb8a8d25646c55ca5
 msgid "**录音设置**: 请选择哪类通话需要被录音。"
-msgstr ""
+msgstr "**記録設定**：記録する必要がある呼び出しの種類を選択してください。"
 
 #: ../../reseller_仪表盘介绍.md:73 bfe1cf43094b44e386f03754c226e375
 msgid "**录音格式**:请选择录音的格式有 MP3 and WAV 两种类型可供选择."
-msgstr ""
+msgstr "**録画形式**：録音形式：mp3とwavを選択してください。"
 
 #: ../../reseller_仪表盘介绍.md:75 c7eb18900db24a5fb033466b5bf48927
 msgid "**录音文件格式**: 你可以自定义录音文件的命名规则，可用的变量包括:"
-msgstr ""
+msgstr "**ファイル形式の録画**：ファイルを記録する命名ルールをカスタマイズできます。利用可能な変数には以下が含まれます。"
 
 #: ../../reseller_仪表盘介绍.md:87 2c282220ab8b4b32bb1508816ffc27ef
-msgid "**IP访问白名单**: 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
+msgid ""
+"**IP访问白名单**: 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
 msgstr ""
+"** "
+"IPアクセスホワイトリスト**：IPを別の場所に設定します。これは現在のIPと矛盾しています。この時点でこのクライアントにログインすることはできません。"
+" IPアドレスが現在の場所アドレスに変更されたら、ログインできます。"
 
 #: ../../reseller_仪表盘介绍.md:90 bdd97d1c8dc14ef8a19b95e4d262a95a
 msgid "**自动部署用户名**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的用户名。"
 msgstr ""
+"** Automatic Deployment Username "
+"**：電話展開テンプレートを使用して展開するエージェントを指します。展開が成功したら、構成に入力する必要があるユーザー名を確認します。"
 
 #: ../../reseller_仪表盘介绍.md:93 4034856a2acd458fbe2567d32a7bb142
 msgid "**自动部署密码**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
 msgstr ""
+"**自動展開パスワード**：展開用の電話展開テンプレートを使用してエージェントを指し、展開が成功した後に構成に入力する必要があるパスワードを確認します。"
 
 #: ../../reseller_仪表盘介绍.md:98 409d30e14cd14f8eb207b0d88693afcc
 msgid "**【呼叫设置】**:"
-msgstr ""
+msgstr "**【呼び出し設定】**："
 
 #: ../../reseller_仪表盘介绍.md:100 7a5099e2a3684531bd10a02fa3d48407
 msgid "![alt text](_static/images/reseller/media/image7.png)"
@@ -234,22 +249,27 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:102 68efdcb5a5db46fbac058e532eec42c9
 msgid "**外呼档案**: 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
 msgstr ""
+"**発信コールファイル**：お客様のニーズに応じて、このクライアントのユーザーの送信コールファイルを設定でき、複数の発信コールファイルを選択できます。"
 
 #: ../../reseller_仪表盘介绍.md:105 a29ec3a543be490b82d6268a9ef78afa
 msgid "**SRTP**: 启用加密语音流，如果client开启了加密，响应注册的话机也需要开启tls模式。"
 msgstr ""
+"** SRTP "
+"**：暗号化された音声ストリームを有効にします。クライアントが暗号化を有効にしている場合、登録に応じてTLSモードをオンにする必要があります。"
 
 #: ../../reseller_仪表盘介绍.md:108 2cc159a8388c41a5881b95f61d539a78
 msgid "**外显号码轮询**: 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多个主叫号码时生效。"
 msgstr ""
+"**外部番号ポーリング**：ユーザーは、クライアントの電話番号を呼び出すためのポーリングルールを設定できます。また、複数の呼び出し番号が設定されると、変更ルールが有効になります。"
 
 #: ../../reseller_仪表盘介绍.md:111 8bebf6a1349449319c3a7a654233a4a8
 msgid "**外显号码限制**: 请在这里输入改client可以使用的所有主叫号码，如果没有输入，则表示该客户可以选择使用任何主叫号码。"
 msgstr ""
+"**外部番号制限**：クライアントが使用できるすべての呼び出し番号を入力してください。入力がない場合、それは顧客が通話番号を使用することを選択できることを意味します。"
 
 #: ../../reseller_仪表盘介绍.md:116 ade89e85f72e49e4bfdfad143369be0f
 msgid "**【AI赋能】设置**:"
-msgstr ""
+msgstr "** aiエンパワーメント】設定**："
 
 #: ../../reseller_仪表盘介绍.md:118 2e909853f6374da2990de079f84e5bbf
 msgid "![alt text](_static/images/reseller/media/image8.png)"
@@ -257,11 +277,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:120 8208c59a67a34ee6b45c00fa1bbb34f9
 msgid "**AI 参数配置**: 联系管理管理员进行配置。"
-msgstr ""
+msgstr "** AIパラメーター構成**：管理者に連絡して構成します。"
 
 #: ../../reseller_仪表盘介绍.md:122 7eb3d176a22a4c50827c96ae3086d9c1
 msgid "**【API 限制】设置**:"
-msgstr ""
+msgstr "**【api制限】セット**："
 
 #: ../../reseller_仪表盘介绍.md:124 e86676a742dc43da837fe4d405d72edc
 msgid "![alt text](_static/images/reseller/media/image9.png)"
@@ -269,23 +289,23 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:126 9dac61ced9bb471882a80ddaa374e6eb
 msgid "**短信**:请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。"
-msgstr ""
+msgstr "** SMS **：SMSコールの最大制限数を設定してください。通話が制限番号を超えたら、コールを停止します。"
 
 #: ../../reseller_仪表盘介绍.md:128 5d0b70fbff08417ea0c42494916e900b
 msgid "**通知**:请设置通知调用的最大限制数量，当调用超过限制数，则停止调用。"
-msgstr ""
+msgstr "**通知**：通知通話の最大制限数を設定してください。通話が制限番号を超えたら、コールを停止します。"
 
 #: ../../reseller_仪表盘介绍.md:130 f5b53bd7a76e43a6a1858e5542fedf7b
 msgid "**广播**:请设置广播调用的最大限制数量，当调用超过限制数，则停止调用。"
-msgstr ""
+msgstr "**ブロードキャスト**：ブロードキャストコールの最大制限数を設定してください。通話が制限番号を超えたら、コールを停止します。"
 
 #: ../../reseller_仪表盘介绍.md:132 3757aef8c08a48adafff158cf0523d31
 msgid "**点击呼叫**:请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
-msgstr ""
+msgstr "**クリックしてコール**：クリックコールの最大制限数を設定してください。通話が制限番号を超えたら、コールを停止します。"
 
 #: ../../reseller_仪表盘介绍.md:134 331280f976bd4cc5a4e19a50336215d3
 msgid "**【客户信息】设置**:"
-msgstr ""
+msgstr "** customer顧客情報】設定**："
 
 #: ../../reseller_仪表盘介绍.md:136 903a93949e6c469cb82ebbaa3ac34276
 msgid "![alt text](_static/images/reseller/media/image10.png)"
@@ -293,47 +313,47 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:138 10e3e80e006f4814bea8b09c58ee8399
 msgid "**公司名称**: 请填写公司名称。"
-msgstr ""
+msgstr "**会社名**：会社名に記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:140 419496f177a54922bf0cefba3bba61d4
 msgid "**注册地址**: 请填写注册地址。"
-msgstr ""
+msgstr "**登録アドレス**：登録アドレスに記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:142 6bf5fcabbb514c69b0de9b5232759278
 msgid "**联系电话**: 请填写联系电话。"
-msgstr ""
+msgstr "**連絡先番号**：連絡先番号を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:144 214ec36c5198441f9ab9c9206adfb92d
 msgid "**公司网址**: 请填写公司网站。"
-msgstr ""
+msgstr "**会社のウェブサイト**：会社のウェブサイトに記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:146 411e382bee22456aa054199d8089f8d2
 msgid "**电子邮件**: 请填写电子邮件。"
-msgstr ""
+msgstr "**電子メール**：メールを入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:148 4da55f5c08c2445b8c64ceae99796f20
 msgid "**税号**: 请填写税号。"
-msgstr ""
+msgstr "**税数**：税番号を記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:150 b37cb3fdb4934a398ce9dd03a0c22dbd
 msgid "**开户银行**: 请填写开户银行。"
-msgstr ""
+msgstr "**アカウントの開設**：アカウント開店銀行に記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:152 8a2ab419bd904639af4fd5d1d8b0e619
 msgid "**账户名称**: 请填写账户名称。"
-msgstr ""
+msgstr "**アカウント名**：アカウント名に記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:154 e07a50f6e3134a81b26ddb63d745fcb5
 msgid "**账号**: 请填写账号。"
-msgstr ""
+msgstr "**アカウント**：アカウントに記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:156 fce738c6a21c4c40ac00938f7ef8cb9b
 msgid "**办公地址**: 请填写办公室地址。"
-msgstr ""
+msgstr "**オフィスアドレス**：オフィスの住所に記入してください。"
 
 #: ../../reseller_仪表盘介绍.md:158 657bd06d45cb407caa0292da318878e2
 msgid "**【信息】设置**:"
-msgstr ""
+msgstr "**【情報】設定**："
 
 #: ../../reseller_仪表盘介绍.md:160 32dd9393ceea4915a5754ea9c11cbc0f
 msgid "![alt text](_static/images/reseller/media/image11.png)"
@@ -342,46 +362,55 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:162 2220358e5421472e905c0346f41bbf8e
 msgid "**邮件服务器**: 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
 msgstr ""
+"**メールサーバー**：追加されたメールサーバーの名前に基づいて、メールサーバーとしてメールサーバーとして管理するメールサーバーを選択します。"
 
 #: ../../reseller_仪表盘介绍.md:165 a7ec632f2ba34427bc93e3e092c4e802
 msgid "**短信档案**: 请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
 msgstr ""
+"** SMSプロファイル**：追加されたSMSファイル名に従って顧客のSMSメッセージを構成するためのルートとしてSMSプロファイルを選択してください。"
 
 #: ../../reseller_仪表盘介绍.md:168 284bb796de87440080f118fa415668f0
 msgid "**【其他】设置**:"
-msgstr ""
+msgstr "**【その他】設定**："
 
 #: ../../reseller_仪表盘介绍.md:170 ef1ab149ac984306a04c723485ac29c1
 msgid "![alt text](_static/images/reseller/media/image12.png)"
 msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:172 2f2f7c9f15a74b9881c82a3c9e3d7e92
-msgid "**禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
+msgid ""
+"**禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
 msgstr ""
+"** "
+"Webログインを禁止**：エージェントがWebページからログインできるかどうかを設定できます。エージェントがWebでログインすることを禁止されている場合、エージェントはアカウントとパスワードで直接ログインできません。このページには、「管理者がWebからのログを禁止している」とプロンプトが表示されます。"
 
 #: ../../reseller_仪表盘介绍.md:174 7c8cc340fd88470f857c58c7ef7a5129
 msgid "**账号超时时间**: 登录账号超时时间。 (单位：分钟)"
-msgstr ""
+msgstr "**アカウントタイムアウト時間**：アカウントのタイムアウト時間をログインします。 （ユニット：議事録）"
 
 #: ../../reseller_仪表盘介绍.md:176 3d2924a0577b4298aea015d3bdb49d78
 msgid "**坐席超时时间**: 坐席登录超时时间。 (单位：分钟)"
-msgstr ""
+msgstr "**エージェントタイムアウト時間**：エージェントログインタイムアウト時間。 （ユニット：議事録）"
 
 #: ../../reseller_仪表盘介绍.md:178 c401d6d0150246ffa758f75069c24c29
-msgid "**坐席浏览器超时时间**:如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
+msgid ""
+"**坐席浏览器超时时间**:如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
 msgstr ""
+"**エージェントブラウザータイムアウト時間**：エージェントがブラウザで動作するように設定されている場合、ブラウザが閉じてこのタイムアウト時間に到達すると、システムはすべての動的チェックインエージェントグループ（ユニット：秒）をチェックアウトします。"
 
 #: ../../reseller_仪表盘介绍.md:180 bfa8d59f2ef24a0d9f11cbf8537a1d35
 msgid "**隐藏页面组件**: 隐藏的页面不会在client左侧菜单显示（左侧围默认显示，右侧围隐藏）。."
 msgstr ""
+"**ページコンポーネントを非表示**：非表示ページはクライアントの左メニューに表示されません（左側はデフォルトで表示され、右側は非表示です）。 。"
 
 #: ../../reseller_仪表盘介绍.md:182 8ed2b1656be447b496e0d59ff4a5739e
 msgid "账户："
-msgstr ""
+msgstr "アカウント："
 
 #: ../../reseller_仪表盘介绍.md:184 42f92926bddb421699b9026e94d0cb47
 msgid "账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限。"
 msgstr ""
+"アカウントは、エージェントの追加、レポートのクエリ、構成の更新など、システムのユーザーを管理するために使用されます。アカウントの異なる許可役割を構成することにより、異なるアカウントには異なる機能許可を持つことができます。"
 
 #: ../../reseller_仪表盘介绍.md:186 a4fee4f4dcab4fefb3eda2cb98e8b63b
 msgid "![alt text](_static/images/reseller/media/image13.png)"
@@ -389,7 +418,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:188 5de520dc99a04beeb3d3670546242ddb
 msgid "**点击\\[添加\\] 进入\\[常规\\] 设置**:"
-msgstr ""
+msgstr "** \\ [add \\]をクリックして\\ [general \\]設定**を入力します："
 
 #: ../../reseller_仪表盘介绍.md:190 e49a2e6379ce4a62b3a737bfec56214a
 msgid "![alt text](_static/images/reseller/media/image14.png)"
@@ -397,35 +426,35 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:192 980b2300a76d4c3c81cf916582b9eb28
 msgid "**用户名**: 用户将用此用户名进行系统登录。"
-msgstr ""
+msgstr "**ユーザー名**：ユーザーはこのユーザー名を使用してシステムにログインします。"
 
 #: ../../reseller_仪表盘介绍.md:194 75f4373398fa44849423274bcde61b44
 msgid "**状态**: 你可以将这个账户临时禁用。"
-msgstr ""
+msgstr "**ステータス**：このアカウントを一時的に無効にすることができます。"
 
 #: ../../reseller_仪表盘介绍.md:196 808bb10140844991967f8be9fe7db8c6
 msgid "**名**: 请输入用户的名字。"
-msgstr ""
+msgstr "**名前**：ユーザーの名前を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:198 51f79ea0fbfe436b83775ab828b52551
 msgid "**姓**:请输入用户的姓氏。"
-msgstr ""
+msgstr "**短い名前**：ユーザーの姓を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:200 ade68d033cba4b3dbc44da1f0b8e57b9
 msgid "**密码**: 用户将用词密码进行系统登录。"
-msgstr ""
+msgstr "**パスワード**：ユーザーはパスワードという単語を使用してシステムにログインします。"
 
 #: ../../reseller_仪表盘介绍.md:202 4baa8b35ff71440fa66ca560df3b75ae
 msgid "**确认密码**: 请再次输入密码，确保两次密码相同。"
-msgstr ""
+msgstr "**パスワードの確認**：パスワードが2回同じであることを確認するには、パスワードをもう一度入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:204 7085c96022ff4324a58a73dbea1d68cc
 msgid "**所属角色**:角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。"
-msgstr ""
+msgstr "**役割**：ロールは、このアカウントがアクセスできるページとそのページにあるアクセス許可を設定するために使用されます。"
 
 #: ../../reseller_仪表盘介绍.md:206 4e2b921235a7440fb8ea864bf56b2e3d
 msgid "**【高级 】设置**:"
-msgstr ""
+msgstr "** Advanced】設定**："
 
 #: ../../reseller_仪表盘介绍.md:208 6a9a0b0acc284183a445361b9a4652fd
 msgid "![alt text](_static/images/reseller/media/image15.png)"
@@ -433,15 +462,17 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:210 80246010ddbe48e6b8028870726e0f11
 msgid "**备注**: 您可以在此处设置有关此帐户的一些注释信息。"
-msgstr ""
+msgstr "**注**：このアカウントに関するコメント情報をこちらで設定できます。"
 
 #: ../../reseller_仪表盘介绍.md:212 1f87bdcc3278448bb768c23b794d15d3
 msgid "角色和权限："
-msgstr ""
+msgstr "役割と許可："
 
 #: ../../reseller_仪表盘介绍.md:214 8de5c9703002437595b4b9bd7948fc37
-msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
+msgid ""
+"角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
 msgstr ""
+"役割は、ユーザーが持つ権限を制御するために使用されます。たとえば、アカウントを設定してビュータスク権限を設定し、最初にビュータスク権限を使用して役割を追加し、次にこの許可ロールを特定のアカウントに割り当てます。このアカウントは、ビュータスク関数を持つことができ、タスクを表示できます。役割と許可ページのリストは、現在のユーザーとアカウントによって新たに作成された許可の役割を示しています。"
 
 #: ../../reseller_仪表盘介绍.md:216 aa041f90f7dd4edb855868a00c8c4765
 msgid "![alt text](_static/images/reseller/media/image16.png)"
@@ -449,7 +480,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:218 43af0b7e805c4061b6d1d676f0b53019
 msgid "**在 \\[添加/编辑\\] 角色权限中，可以设置 \\[常规\\] 设置来命名角色。**"
-msgstr ""
+msgstr "** \\ [add/edit \\]役割権限では、\\ [general \\]設定を設定して役割に名前を付けることができます。 **"
 
 #: ../../reseller_仪表盘介绍.md:220 30039b25a24a4c4f89ab5ebdb4800094
 msgid "![alt text](_static/images/reseller/media/image17.png)"
@@ -457,7 +488,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:222 56309016000e499589649d9a30a35cc8
 msgid "**【编辑】**:"
-msgstr ""
+msgstr "**【編集】**："
 
 #: ../../reseller_仪表盘介绍.md:224 5a3cf34612874832a7e28339defa65f7
 msgid "![alt text](_static/images/reseller/media/image18.png)"
@@ -465,11 +496,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:226 cb33fc01b1704937a0c9d100bd464c50
 msgid "**名称**: 请为这个权限角色命名。"
-msgstr ""
+msgstr "**名前**：この許可の役割に名前を付けてください。"
 
 #: ../../reseller_仪表盘介绍.md:230 93950f62bdb64b5e84fef97d74587afa
 msgid "控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。"
-msgstr ""
+msgstr "このロールに基づくユーザーページの高度な表示権限と、ユーザー自身がディスプレイが作成されるかどうかを制御します。"
 
 #: ../../reseller_仪表盘介绍.md:232 f60da62b342b4177b37e2595438f349f
 msgid "![alt text](_static/images/reseller/media/image19.png)"
@@ -477,11 +508,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:234 7c12df3cff684168a34c5c12f8d0946c
 msgid "**【权限】设置**:"
-msgstr ""
+msgstr "**【アクセス許可】セット**："
 
 #: ../../reseller_仪表盘介绍.md:236 b7dae13bbd87447e975fbedcce20d82a
 msgid "控制具有此角色的用户的页面显示权限。"
-msgstr ""
+msgstr "この役割を持つユーザーのページ表示権限を制御します。"
 
 #: ../../reseller_仪表盘介绍.md:238 c6cc6c8159e544fea447a84bbd0a2b0e
 msgid "![alt text](_static/images/reseller/media/image20.png)"
@@ -489,15 +520,17 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:240 d14950d99e2148dea3c179d2e09e9453
 msgid "d. 计费："
-msgstr ""
+msgstr "d。請求する："
 
 #: ../../reseller_仪表盘介绍.md:242 0a34ac5f01de496685c5ba01f84379b8
 msgid "客户计费："
-msgstr ""
+msgstr "顧客請求："
 
 #: ../../reseller_仪表盘介绍.md:244 861b8686afa64ed3bd8d0251b115d6b2
 msgid "它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。."
 msgstr ""
+"それはクライアントの請求です。クライアントを作成すると、対応する顧客請求書が自動的に生成されます。クライアントの削除も、対応する顧客請求書を削除します。"
+" 。"
 
 #: ../../reseller_仪表盘介绍.md:246 88d21ab732354dfb949775e33a35e6ba
 msgid "![alt text](_static/images/reseller/media/image21.png)"
@@ -505,7 +538,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:248 b479cb8500ad4afab7f97cf5811b471d
 msgid "**单击 \\[编辑\\] 执行 \\[常规\\] 设置。**"
-msgstr ""
+msgstr "** \\ [編集\\]をクリックして、\\ [general \\]設定を実行します。 **"
 
 #: ../../reseller_仪表盘介绍.md:250 9c4f660857114142aa5bf1267f3cce65
 msgid "![alt text](_static/images/reseller/media/image22.png)"
@@ -513,19 +546,19 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:252 21e0b5875dce4e21be9756ea283248f9
 msgid "**ID**: 数据的唯一 ID。"
-msgstr ""
+msgstr "** ID **：データの一意のID。"
 
 #: ../../reseller_仪表盘介绍.md:254 0585fe0de6ff40de9a84c055ab5db363
 msgid "**客户名称**: 客户名称是新经销商用户的名称，无法修改。"
-msgstr ""
+msgstr "**顧客名**：顧客名はニューディーラーユーザーの名前であり、変更できません。"
 
 #: ../../reseller_仪表盘介绍.md:256 f7f852fd73c04b8998b663c4e7ba9a29
 msgid "**域名**: 域名是已新增的代理商用户的域名，不可以再修改。"
-msgstr ""
+msgstr "**ドメイン名**：ドメイン名は、新しく追加されたエージェントユーザーのドメイン名であり、変更できません。"
 
 #: ../../reseller_仪表盘介绍.md:258 e4d164bfcaaa4557b955526ad1d1c0eb
 msgid "**【计费】设置**:"
-msgstr ""
+msgstr "** billing】設定**："
 
 #: ../../reseller_仪表盘介绍.md:260 6cbf9099d8854f039f71b591e58e23d9
 msgid "![alt text](_static/images/reseller/media/image23.png)"
@@ -533,43 +566,45 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:262 a78b4b1ff68d4b1eaf5e638fe1d860d2
 msgid "**应缴费用**: 应当缴纳的本期费用。"
-msgstr ""
+msgstr "**支払われる料金**：この期間に支払われる料金。"
 
 #: ../../reseller_仪表盘介绍.md:264 930aef984990472c9f1074adee038ddc
 msgid "**最大坐席数量**: 允许使用的最大坐席数量。"
-msgstr ""
+msgstr "**シートの最大数**：許可されているシートの最大数。"
 
 #: ../../reseller_仪表盘介绍.md:266 00c799114a3d499b8f512a90d75b680f
 msgid "**付款方式**: 选择付款方式预付款或后付款。"
-msgstr ""
+msgstr "**支払い方法**：前払いまたは延期に支払い方法を選択します。"
 
 #: ../../reseller_仪表盘介绍.md:268 d23f9860bc2246b28482ec770a6efb3b
 msgid "**信用额度**: 设置可使用的信用额度。"
-msgstr ""
+msgstr "**クレジット制限**：利用可能なクレジット制限を設定します。"
 
 #: ../../reseller_仪表盘介绍.md:270 a22f44dfc1bc42b3a07e3bdbbd302e18
 msgid "**月租**: 设置月租数额。"
-msgstr ""
+msgstr "**毎月のレンタル**：毎月の家賃を設定します。"
 
 #: ../../reseller_仪表盘介绍.md:272 db1fa37d291c4327ac0f9ecf94be41ce
 msgid "**短信**:能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
 msgstr ""
+"** SMS **：今月のSMSの消費、その月の残りの時間、手動で追加されたSMSの数、SMSレートを選択することについて詳しく知ることができます。"
 
 #: ../../reseller_仪表盘介绍.md:274 2540df371346430cbacb5d75a83905d9
 msgid "**呼出**:能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
 msgstr ""
+"**排気**：今月と今月の残りの部分が息を吐き出したお金の消費についてもっと知ることができます。パッケージの議事録と料金を手動で追加できます。"
 
 #: ../../reseller_仪表盘介绍.md:276 87d67b7165b74adca270a14ea4bdd98c
 msgid "**实际通话**:当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
-msgstr ""
+msgstr "**実際のコール**：システムがエージェントに電話をかけると、エージェントが顧客に電話をかけ、顧客が通話に応答するときに料金がかかります。"
 
 #: ../../reseller_仪表盘介绍.md:278 d7fd9c99d6be4533966c0a49914d3792
 msgid "**主叫通话**: 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
-msgstr ""
+msgstr "**コールコール**：システムのコールプロセス請求ステータスの設定エージェントバウンド電話へ。"
 
 #: ../../reseller_仪表盘介绍.md:280 6652fb051e5e4444b9870589084bc959
 msgid "**【账单和提醒】设置**:"
-msgstr ""
+msgstr "**【請求書とリマインダー】セット**："
 
 #: ../../reseller_仪表盘介绍.md:282 e802a7fb622e46b1adab6331bc372bef
 msgid "![alt text](_static/images/reseller/media/image24.png)"
@@ -577,21 +612,24 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:284 a0db0753193e474cb4be6b2193f34d3b
 msgid "**余额不足提醒**: 设置余额不足后的提醒次数。"
-msgstr ""
+msgstr "**バランスが不十分であるためのリマインダー**：バランスが不十分な後、リマインダーの数を設定します。"
 
 #: ../../reseller_仪表盘介绍.md:286 c1d3d7e6ad06424d9843fb69fc759e67
 msgid "**提醒方式**: 选择手机号码或者邮箱的提醒方式。"
-msgstr ""
+msgstr "**リマインダー方法**：携帯電話番号またはメールアドレスのリマインダーメソッドを選択します。"
 
 #: ../../reseller_仪表盘介绍.md:288 01b469e3f7054aa69726a0964638b0f2
 msgid "**账单电子邮件地址**: 填写收到账单的电子邮件地址。"
-msgstr ""
+msgstr "**請求メールアドレス**：請求書が受け取った場所でメールアドレスを入力します。"
 
 #: ../../reseller_仪表盘介绍.md:290 d446d974a17d49f1a36bc7fa9e31446d
 msgid ""
 "<span "
 "class=\"mark\">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户的充值金额及交易时间，如有需要，还可以填写备注信息。</span>"
 msgstr ""
+"<span class = \"mark\"> "
+"[顧客]ページのドロップダウンメニューをクリックし、[リチャージ]を選択して、顧客のリチャージ額とトランザクション時間を記録します。必要に応じて、メモ情報に記入することもできます。"
+" </span>"
 
 #: ../../reseller_仪表盘介绍.md:292 b9c8d57dc5e542658ad9bfbfe17fe2da
 msgid "![alt text](_static/images/reseller/media/image25.png)"
@@ -603,15 +641,17 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:296 60b59e7e3c1b4689bebf1deadcbee3fc
 msgid "e. 语音设置："
-msgstr ""
+msgstr "e。音声設定："
 
 #: ../../reseller_仪表盘介绍.md:298 f312dadbfc634a78a2dd2e2fd682774d
 msgid "DID号码："
-msgstr ""
+msgstr "番号："
 
 #: ../../reseller_仪表盘介绍.md:300 a264983a37974f959e502276caadcc48
-msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
+msgid ""
+"DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
 msgstr ""
+"DID番号は、システムに呼び出される可能性のある通信事業者が提供する電話番号を指します。外部呼び出しが入っている場合、つまり呼び出した番号がアクセス番号です。これは、会社が一般に発表した電話番号であり、顧客によってダイヤルされた番号としても理解できます。システムでDIDの主な機能は、did番号を識別することにより、拡張機能、リンギンググループを直接呼び出したり、IVRまたはキューを入力するなど、異なるダイヤルインルートを作成できることです。"
 
 #: ../../reseller_仪表盘介绍.md:302 617292faefae4a92931d9b2ba315f211
 msgid "![alt text](_static/images/reseller/media/image27.png)"
@@ -620,6 +660,9 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:304 96478833dc424d92bf5f8fffffefe7a3
 msgid "**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名称】和【客户端】。**"
 msgstr ""
+"** "
+"[編集]をクリックして[一般]設定を入力します：エージェントユーザー（ディーラーレベル）は[名前を付けた]および[クライアント]を編集/変更できます。 "
+"**"
 
 #: ../../reseller_仪表盘介绍.md:306 0c9e871ea9934b1ead315be7da832b9f
 msgid "![alt text](_static/images/reseller/media/image28.png)"
@@ -628,43 +671,45 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:308 ../../reseller_仪表盘介绍.md:342
 #: 2d761d0b72244f62a14d7711a3cc8a72 7078c7b695e54d0c833cea1d435c1493
 msgid "**ID**: 数据唯一ID。"
-msgstr ""
+msgstr "** ID **：データ一意のID。"
 
 #: ../../reseller_仪表盘介绍.md:310 acdc169d9baa4bbfa247ab9e55f6a944
 msgid "**DID 号码**: 请输入did号码。"
-msgstr ""
+msgstr "** did number **：DID番号を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:312 6068153098064a95a3d543a58e0b80a5
 msgid "**DID 名称**: DID 名称用于帮助您在系统中识别 这个号码，如果设置了DID名称，则在统计时使用。"
 msgstr ""
+"** did name **：did nameは、システム内のこの数値を識別するのに役立つために使用されます。 "
+"DID名が設定されている場合、統計中に使用されます。"
 
 #: ../../reseller_仪表盘介绍.md:314 aed4e5e00d004b94894024004a5e1f61
 msgid "**Client**: 将这个did分配给client。"
-msgstr ""
+msgstr "**クライアント**：これをクライアントに割り当てます。"
 
 #: ../../reseller_仪表盘介绍.md:316 0bc7ac70c4314ab18636f752b97a4d3b
 msgid "**状态**: 当 DID 号码被禁用时，来电将被拒绝。"
-msgstr ""
+msgstr "**ステータス**：DID番号が無効になっている場合、着信コールは拒否されます。"
 
 #: ../../reseller_仪表盘介绍.md:318 2b81ebefc0d84631a64bccf8cd357689
 msgid "**呼入次数**: 此did号码本月的呼入次数。"
-msgstr ""
+msgstr "**着信コールの数**：今月、これを着信する呼び出しの数は数字をしました。"
 
 #: ../../reseller_仪表盘介绍.md:320 9b5027e4aa8d48e3b451fce0665543db
 msgid "**呼入分钟数**:此DID号码本月呼入的分钟数。"
-msgstr ""
+msgstr "**入ってくる議事録**：これが今月電話をかけた議事録数。"
 
 #: ../../reseller_仪表盘介绍.md:322 1954e023102e402c8692838d7e95a082
 msgid "**属性**: 这里将显示 DID号码的归属地信息（在号码归属地菜单中配置）。"
-msgstr ""
+msgstr "**プロパティ**：DID番号のホーム情報（番号のホームページメニューで構成）がここに表示されます。"
 
 #: ../../reseller_仪表盘介绍.md:324 112514c0aaf1456f8f21061e2fccfd78
 msgid "**最后一次使用日期**: 该号码最后一次拨打时间。"
-msgstr ""
+msgstr "**最終使用日**：最後にこの番号が呼ばれます。"
 
 #: ../../reseller_仪表盘介绍.md:328 6fd2679745b048c8866ac60e8a7b6c36
 msgid "可以选择国家，填写备注，这些是上一级设置的，代理商级别是不能修改的。."
-msgstr ""
+msgstr "国を選択して、メモに記入できます。これらは前のレベルで設定されており、エージェントレベルを変更できません。 。"
 
 #: ../../reseller_仪表盘介绍.md:330 83aa9e5b9b874f77882a08eaf38b10ce
 msgid "![alt text](_static/images/reseller/media/image29.png)"
@@ -672,11 +717,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:332 3a9c4abd7a7947629f0007819d55e7fa
 msgid "外显号码："
-msgstr ""
+msgstr "表示番号："
 
 #: ../../reseller_仪表盘介绍.md:334 b1c7916ce8c945b3b6ccdcfb69ef18d8
 msgid "外显号码即主叫号码，是呼叫客户时的号码。"
-msgstr ""
+msgstr "表示された番号は呼び出し番号です。これは、顧客を呼び出すときの番号です。"
 
 #: ../../reseller_仪表盘介绍.md:336 bf4d4966da50468e9eb07b317ac8cb9f
 msgid "![alt text](_static/images/reseller/media/image30.png)"
@@ -684,7 +729,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:338 b24c76c8a58045ab9fae5099c6385854
 msgid "**单击【编辑】以编辑【外显号码】**"
-msgstr ""
+msgstr "** [編集]をクリックして[外部番号] **編集"
 
 #: ../../reseller_仪表盘介绍.md:340 022bb29fecd84bcbbd1f274011a0ff5f
 msgid "![alt text](_static/images/reseller/media/image31.png)"
@@ -692,27 +737,27 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:344 91c2c98f6ae54c4da5ed97ec2825141a
 msgid "**外显号码**: 请输入你要添加的外显号码。"
-msgstr ""
+msgstr "**外部番号**：追加するディスプレイ番号を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:346 7644e699c42548d9941215db9b207f39
 msgid "**供应商**: 你可以为这个外显号码选择一个供应商。"
-msgstr ""
+msgstr "**サプライヤー**：このディスプレイ番号のサプライヤーを選択できます。"
 
 #: ../../reseller_仪表盘介绍.md:348 8d533c2b819040859f2c99bce593ff1e
 msgid "**Client**: 你可以为这个外显号码选择一个client。"
-msgstr ""
+msgstr "**クライアント**：この表示番号のクライアントを選択できます。"
 
 #: ../../reseller_仪表盘介绍.md:350 645dc27d910d4e349164cad08e929865
 msgid "f. 呼叫设置："
-msgstr ""
+msgstr "f。呼び出し設定："
 
 #: ../../reseller_仪表盘介绍.md:352 48de593fd3c94f6a95c21ceb0aa31d33
 msgid "话机部署模版："
-msgstr ""
+msgstr "電話展開テンプレート："
 
 #: ../../reseller_仪表盘介绍.md:354 aa89a2dcc62f482da12f4513fa549332
 msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
-msgstr ""
+msgstr "電話の展開テンプレートは、電話設定で直接構成でき、テンプレートコンテンツはデフォルト構成のために個別に追加できます。"
 
 #: ../../reseller_仪表盘介绍.md:356 4fe0363ced9d4c22ad64a693b5e2c47e
 msgid "![alt text](_static/images/reseller/media/image32.png)"
@@ -720,7 +765,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:358 5846350bce9e435dac0c7331b71dce11
 msgid "**单击【添加】进入【常规】设置**:"
-msgstr ""
+msgstr "** [追加]をクリックして[一般]設定**を入力してください："
 
 #: ../../reseller_仪表盘介绍.md:360 e0373df2f4fc49c4b26cd83f153ec231
 msgid "![alt text](_static/images/reseller/media/image33.png)"
@@ -728,27 +773,28 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:362 4926b66b46a3414abcb4c081648261df
 msgid "**模版名称**: 请填入模版名称。"
-msgstr ""
+msgstr "**テンプレート名**：テンプレート名を入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:364 c4d460c521164b75ac97b52c2b81500d
 msgid "**话机品牌**: 请输入话机型号。"
-msgstr ""
+msgstr "**電話ブランド**：電話モデルを入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:366 e0fea55ece0643d68c704ae1d898c1f0
 msgid "**模版内容**: 请填入模版内容。"
-msgstr ""
+msgstr "**テンプレートコンテンツ**：テンプレートコンテンツを入力してください。"
 
 #: ../../reseller_仪表盘介绍.md:368 6756861393bf4bd5a748b5dd9d54df59
 msgid "g. 监控管理："
-msgstr ""
+msgstr "g。監視管理："
 
 #: ../../reseller_仪表盘介绍.md:370 0bf93495d0d64a1a92247fcbdce41bc6
 msgid "实时监控："
-msgstr ""
+msgstr "リアルタイム監視："
 
 #: ../../reseller_仪表盘介绍.md:372 cb5f4fffdeb64116baae1a4d3670d790
 msgid "**坐席组坐席**:选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能显示数据。"
 msgstr ""
+"**エージェントチームの座席**：クライアントの下で監視するシートグループを選択します。シートをチェックインして、データを表示するためにシートグループに呼び出される必要があります。"
 
 #: ../../reseller_仪表盘介绍.md:374 210b794ff17946a59010c8cfc2f77911
 msgid "![alt text](_static/images/reseller/media/image34.png)"
@@ -756,7 +802,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:376 88672913a32b413db716963e5093e305
 msgid "**坐席组**: 选择需要监控的座席组，即当天有来电且活跃的座席组。"
-msgstr ""
+msgstr "**エージェントグループ**：監視する必要があるエージェントグループ、つまり、同じ日に着信とアクティブのエージェントグループを選択します。"
 
 #: ../../reseller_仪表盘介绍.md:378 0938da10434c4ae280b0256a4b33cbf3
 msgid "![alt text](_static/images/reseller/media/image35.png)"
@@ -765,6 +811,7 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:380 996e38811d1c4c1680182ac0938e649f
 msgid "**坐席**:选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据"
 msgstr ""
+"**エージェント**：監視するクライアントを選択し、監視するシートを選択し続けます。シートをシートグループに確認してデータを表示する必要があります。"
 
 #: ../../reseller_仪表盘介绍.md:382 69e6546c6348455a851f1411a69d3c29
 msgid "![alt text](_static/images/reseller/media/image36.png)"
@@ -772,11 +819,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:384 fff6b9989ee74161ab82d5a2d44ec32a
 msgid "h. 日志记录："
-msgstr ""
+msgstr "h。ロギング："
 
 #: ../../reseller_仪表盘介绍.md:386 d3bb9d87d0204695a6f93c2292f341b9
 msgid "**日志记录**:记录系统用户行为为日志。"
-msgstr ""
+msgstr "**ログレコード**：システムユーザーの動作はログとして記録されます。"
 
 #: ../../reseller_仪表盘介绍.md:388 3ad00adb23be40a9869231b2e291322d
 msgid "![alt text](_static/images/reseller/media/image37.png)"
@@ -784,15 +831,16 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:390 524166ecb1fc4ad0b1ef18aa7033a7dc
 msgid "系统："
-msgstr ""
+msgstr "システム："
 
 #: ../../reseller_仪表盘介绍.md:392 382f9efcf44b42799f5630aa19a92979
 msgid "后台任务："
-msgstr ""
+msgstr "舞台裏のタスク："
 
 #: ../../reseller_仪表盘介绍.md:394 8162365ebe6f4c4fb9fd2a19390c5cfa
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
 msgstr ""
+"バックグラウンドタスクはシステム内のタスクをプログラムすることが許可されており、レポートのインポートやエクスポートなど、通常は時間がかかります。"
 
 #: ../../reseller_仪表盘介绍.md:396 ffb111d38f6f4398ab03f21394c07d5c
 msgid "![alt text](_static/images/reseller/media/image38.png)"
@@ -800,11 +848,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:398 8a3dfbd07e2943b983b8d98d01a12fdc
 msgid "公司信息："
-msgstr ""
+msgstr "会社の情報："
 
 #: ../../reseller_仪表盘介绍.md:400 0ae5eeaa126a4ccfb6c3db24f3385bd0
 msgid "在此页面您可以查看和编辑系统的公司信息。"
-msgstr ""
+msgstr "このページでは、システムの会社情報を表示および編集できます。"
 
 #: ../../reseller_仪表盘介绍.md:402 50cda31bcabc452691e2c8c00b2b7f2c
 msgid "![alt text](_static/images/reseller/media/image39.png)"
@@ -812,15 +860,15 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:404 74186d4f5ad74ff58ced3e41265a3abe
 msgid "1.2.3 工具栏"
-msgstr ""
+msgstr "1.2.3ツールバー"
 
 #: ../../reseller_仪表盘介绍.md:406 41a0d943afe04aa39f6fcc6bf4943cdb
 msgid "a. 后台任务"
-msgstr ""
+msgstr "a。舞台裏のタスク"
 
 #: ../../reseller_仪表盘介绍.md:408 97a6b4f849074f6081ded0d198406275
 msgid "可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。"
-msgstr ""
+msgstr "図に示すように、ここで進行中のタスクをバックグラウンドで表示できます。進行中のタスクがない場合、それらはゼロとして表示されます。"
 
 #: ../../reseller_仪表盘介绍.md:410 96447bc9c1d94d409a7bb7691d7c1141
 msgid "![alt text](_static/images/reseller/media/image40.png)"
@@ -828,11 +876,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:412 abb32744d8ed42b89d7c8db03d6d3983
 msgid "b. 通知"
-msgstr ""
+msgstr "b。通知"
 
 #: ../../reseller_仪表盘介绍.md:414 d8775e39fcb94b05bc19d87a424d7941
 msgid "将显示一些新消息。"
-msgstr ""
+msgstr "いくつかの新しいメッセージが表示されます。"
 
 #: ../../reseller_仪表盘介绍.md:416 1e7ad3a8004b4228b0524ee5334b9d8d
 msgid "![alt text](_static/images/reseller/media/image41.png)"
@@ -840,11 +888,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:418 9c21c4a7494542959385a0efcd40b579
 msgid "c. 语言"
-msgstr ""
+msgstr "c。言語"
 
 #: ../../reseller_仪表盘介绍.md:420 27441f3092fc4ff2a1a06bb1a430680c
 msgid "代理商用户可以从此下拉菜单中选择常见的语言类型。"
-msgstr ""
+msgstr "エージェントユーザーは、このドロップダウンメニューから共通言語タイプを選択できます。"
 
 #: ../../reseller_仪表盘介绍.md:422 d63e4d2b44c042f593766462289ce8d9
 msgid "![alt text](_static/images/reseller/media/image42.png)"
@@ -852,19 +900,19 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:424 fdc7548f527c4f1ca2a4df2f5acd0fc9
 msgid "d. 我的信息"
-msgstr ""
+msgstr "d。私の情報"
 
 #: ../../reseller_仪表盘介绍.md:426 fa27105cff364bf5ae9db0281e1663a8
 msgid "包括\\[我的档案\\]和\\[退出\\]"
-msgstr ""
+msgstr "\\ [my files \\]および\\ [exit \\]を含む"
 
 #: ../../reseller_仪表盘介绍.md:428 7b511389a77f45fb80d2286112b8b81a
 msgid "\\[我的档案\\]可编辑代理商用户的资料。"
-msgstr ""
+msgstr "\\ [私のプロフィール\\]は、エージェントユーザーの情報を編集できます。"
 
 #: ../../reseller_仪表盘介绍.md:430 04b0407821484a1996dd2c3ee7051b37
 msgid "\\[退出\\]退出当前登录页面。"
-msgstr ""
+msgstr "\\ [logout \\]現在のログインページからログアウトします。"
 
 #: ../../reseller_仪表盘介绍.md:432 35ea8cc8eccd415f96fd8d7916da00e1
 msgid "![alt text](_static/images/reseller/media/image43.png)"
@@ -873,4 +921,3 @@ msgstr ""
 #: ../../reseller_仪表盘介绍.md:434 2831a8476ffd497a86866590e3bd8918
 msgid "![alt text](_static/images/reseller/media/image44.png)"
 msgstr ""
-

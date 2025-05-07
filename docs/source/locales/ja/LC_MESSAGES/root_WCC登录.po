@@ -12,29 +12,31 @@ msgstr ""
 "POT-Creation-Date: 2025-03-24 17:00+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../root_WCC登录.md:1 b8002614149943d38ca25e05ff1ad2a9
 msgid "1.1WCC 登录"
-msgstr ""
+msgstr "1.1WCCログイン"
 
 #: ../../root_WCC登录.md:3 6b5f3abc93c240aaa514c8af1fefb424
 msgid "在您使用的浏览器地址栏中输入网站地址，回车进入系统登录页面。"
-msgstr ""
+msgstr "使用しているブラウザのアドレスバーにWebサイトアドレスを入力し、システムログインページを入力します。"
 
 #: ../../root_WCC登录.md:5 0973507723b54507a680f773075de29e
-msgid "用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
+msgid ""
+"用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
 msgstr ""
+"ユーザーアカウントとパスワードは事前に設定されています。正しいアカウントとパスワードを入力し、[ログイン]を選択すると、システムを正常に入力できます。ユーザーは[覚えておいてください]を選択できます。ブラウザは、次回ログインを容易にするためにこのアカウントパスワードを覚えています。"
 
 #: ../../root_WCC登录.md:7 529c58fa2ee54c24836a1c960e5d0ace
 msgid "（如下图所示）"
-msgstr ""
+msgstr "（下の図に示すように参照）"
 
 #: ../../root_WCC登录.md:9 9cfa78814b5b421088d4c0a7612d12fb
 msgid "![alt text](_static/images/root/media/image1.png)"
@@ -43,13 +45,13 @@ msgstr ""
 #: ../../root_WCC登录.md:9 ../../root_WCC登录.md:13
 #: 1d98fda513454d889b0b1eb3cd9b6de0 591855be050c4a81a07b03c7175e312c
 msgid "alt text"
-msgstr ""
+msgstr "altテキスト"
 
 #: ../../root_WCC登录.md:11 43aa67d82af84b899648a220140b500a
 msgid "用户进入系统后，在状态栏下拉菜单中选择【退出】，确认，成功退出系统。页面返回用户登录页面（如下图所示）。"
 msgstr ""
+"ユーザーがシステムに入力したら、[ステータスバードロップダウン]メニューで[終了]を選択して、システムを正常に確認して終了します。ページはユーザーログインページに戻ります（下の図に示すように）。"
 
 #: ../../root_WCC登录.md:13 76af856af63d49dca1989a124ffa7c5c
 msgid "![alt text](_static/images/root/media/image2.png)"
 msgstr ""
-
