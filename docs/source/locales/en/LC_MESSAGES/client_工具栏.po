@@ -379,7 +379,7 @@ msgstr ""
 #: ../../client_工具栏.md:139 869d18bcb24d4dd1b74a6ed93368dfa7
 msgid "2）**DID 转语音播报，再转给坐席**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
 msgstr ""
-"② **DID to voice broadcast, and then to the agent **: The call time will be"
+"② **DID to voice broadcast, and then to the agent**: The call time will be"
 " counted into the total call duration, regardless of whether the agent is "
 "connected or not, the total call duration will be counted."
 
@@ -440,7 +440,7 @@ msgstr ""
 #: ../../client_工具栏.md:161 861e5bcebff747a7b48602a5caf4f91d
 msgid "2）**DID 转到语音播报，然后转接给坐席**：呼入会 +1。"
 msgstr ""
-"② **DID Go to voice broadcast, and then transfer to the agent **: Calling "
+"② **DID Go to voice broadcast, and then transfer to the agent**: Calling "
 "+1."
 
 #: ../../client_工具栏.md:163 5760375f0af449f7bfb50ff677e30fc3
