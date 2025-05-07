@@ -372,51 +372,51 @@ msgstr ""
 #: ../../client_工具栏.md:137 6d7000f9d57845c69e156ce7642c5a4e
 msgid "1）**DID 转IVR，按钮转接给坐席**：呼入时间将计入总通话时长，无论是否点击按钮转接，也无论坐席是否接通。"
 msgstr ""
-"1) **DID to IVR, button transfer to agent**: The incoming call time will be "
+"① **DID to IVR, button transfer to agent**: The incoming call time will be "
 "counted into the total call time, regardless of whether the button is "
 "clicked or not, whether the agent is connected."
 
 #: ../../client_工具栏.md:139 869d18bcb24d4dd1b74a6ed93368dfa7
 msgid "2）**DID 转语音播报，再转给坐席**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
 msgstr ""
-"2) **DID to voice broadcast, and then to the agent **: The call time will be"
+"② **DID to voice broadcast, and then to the agent **: The call time will be"
 " counted into the total call duration, regardless of whether the agent is "
 "connected or not, the total call duration will be counted."
 
 #: ../../client_工具栏.md:141 2321c94aa3534c99aee0e922fa718a67
 msgid "3）**DID 转接坐席组**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
 msgstr ""
-"3) **DID transfer agent group**: The incoming call time will be counted into"
+"③ **DID transfer agent group**: The incoming call time will be counted into"
 " the total call time, regardless of whether the agent is connected or not, "
 "the total call time will be counted."
 
 #: ../../client_工具栏.md:143 7f5d64f8a3324bed8a598a0d29a1db97
 msgid "4）**DID 转振铃组**：只有坐席接通后，才会计算通话时长。"
 msgstr ""
-"4) **DID to ring group**: The call duration will be calculated only after "
+"④ **DID to ring group**: The call duration will be calculated only after "
 "the seat is connected."
 
 #: ../../client_工具栏.md:145 6be0fc7bb81c475bb6b1b5ea3e7cb1b4
 msgid "5）**DID 转条件，再转接给坐席**:只有坐席接通后，才会计算通话时长。"
 msgstr ""
-"5) **DID transfer conditions, and then transfer to the agent**: The call "
+"⑤ **DID transfer conditions, and then transfer to the agent**: The call "
 "duration will be calculated only after the agent is connected."
 
 #: ../../client_工具栏.md:147 adb6a52d90e3419b986de5ee3f266b9d
 msgid "6）**DID 转接坐席**:只有坐席接通后，才会计算通话时长。"
 msgstr ""
-"6) **DID transfer seat**: The call duration will be calculated only after "
+"⑥ **DID transfer seat**: The call duration will be calculated only after "
 "the seat is connected."
 
 #: ../../client_工具栏.md:149 f181f788a8ee4f238103a779ad5afb1f
 msgid "7）**DID 转外号码**：只有外线号码接通时，才会计算通话时长。"
 msgstr ""
-"7) **DID to nickname number**: The call duration will be calculated only "
+"⑦ **DID to nickname number**: The call duration will be calculated only "
 "when the external number is connected."
 
 #: ../../client_工具栏.md:151 79f2a37b9a0e4450a0f72ce76bdf47df
 msgid "8）**DID 转挂断**：不计算在内。"
-msgstr "8) **DID to hang up**: Not counted."
+msgstr "⑧ **DID to hang up**: Not counted."
 
 #: ../../client_工具栏.md:155 9cef4984abe3472f83d41ad0afa23af9
 msgid "![alt text](_static/images/client/media/image26.png)"
@@ -434,46 +434,46 @@ msgstr ""
 #: ../../client_工具栏.md:159 9741e7644af74ed98eff183a11870490
 msgid "1）**DID 转接 IVR，按键转接给坐席**：呼入会 +1。"
 msgstr ""
-"1) **DID transfer to IVR, press the button to transfer to the agent**: "
+"① **DID transfer to IVR, press the button to transfer to the agent**: "
 "Calling +1."
 
 #: ../../client_工具栏.md:161 861e5bcebff747a7b48602a5caf4f91d
 msgid "2）**DID 转到语音播报，然后转接给坐席**：呼入会 +1。"
 msgstr ""
-"2) **DID Go to voice broadcast, and then transfer to the agent **: Calling "
+"② **DID Go to voice broadcast, and then transfer to the agent **: Calling "
 "+1."
 
 #: ../../client_工具栏.md:163 5760375f0af449f7bfb50ff677e30fc3
 msgid "3）**DID 转接到坐席组**：呼入会 +1。"
-msgstr "3) **DID is transferred to the agent group**: Call +1."
+msgstr "③ **DID is transferred to the agent group**: Call +1."
 
 #: ../../client_工具栏.md:165 ab83ce43c0fb4d79bea504527960ad6f
 msgid "4）**DID转接到振铃组**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"4) **DID is transferred to ringing group**: The agent is connected +1, and "
+"④ **DID is transferred to ringing group**: The agent is connected +1, and "
 "it will not be calculated if it is not connected."
 
 #: ../../client_工具栏.md:167 ea9fb39c13f34d50aaf706d0532bded2
 msgid "5）**DID转条件后转给坐席**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"5) **DID transfer condition to the agent**: The agent is connected +1, and "
+"⑤ **DID transfer condition to the agent**: The agent is connected +1, and "
 "it will not be calculated if it is not connected."
 
 #: ../../client_工具栏.md:169 bf3ef0333e964e6d96659b2fad172db8
 msgid "6）**DID转坐席**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"6) **DID to seat**: The seat is connected +1, and it will not be calculated "
+"⑥ **DID to seat**: The seat is connected +1, and it will not be calculated "
 "if it is not connected."
 
 #: ../../client_工具栏.md:171 65292f1b0b47411ea684b8907013497d
 msgid "7）**DID转外线号码**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"7) **DID to external number**: The seat is connected +1, and it will not be "
+"⑦ **DID to external number**: The seat is connected +1, and it will not be "
 "calculated if it is not connected."
 
 #: ../../client_工具栏.md:173 f0043fedac284b45b047f89bc2bf2075
 msgid "8）**DID转向挂断**:不计算在内。"
-msgstr "8) **DID steering hang up**: Not counted."
+msgstr "⑧ **DID steering hang up**: Not counted."
 
 #: ../../client_工具栏.md:175 d0de51f2689f4d6eaad64a005b7e00a2
 msgid "![alt text](_static/images/client/media/image27.png)"
