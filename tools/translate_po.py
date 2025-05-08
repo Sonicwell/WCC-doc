@@ -7,6 +7,9 @@ import time
 import sys
 from datetime import datetime
 
+# 项目文档根目录
+PROJECT_ROOT = "/usr/src/WCC-doc/docs/source"
+
 USE_COLOR = sys.stdout.isatty()
 
 def log(msg, level="info"):
@@ -47,13 +50,15 @@ def translate_text(text, source_lang="zh-CN", target_lang="en"):
 
 
 # 正则匹配 <img> 标签
-img_pattern = re.compile(r'<img\s+[^>]*src=[\'"][^\'"]+[\'"][^>]*>', re.IGNORECASE)
+#img_pattern = re.compile(r'<img\s+[^>]*src=[\'"][^\'"]+[\'"][^>]*>', re.IGNORECASE)
+img_pattern = re.compile(r'<img\s+[^>]*src=[\'"]([^\'"]+)[\'"][^>]*>', re.IGNORECASE)
 
 # Markdown 格式图片 ![alt text](_static/images/root/media/image1.png)
-markdown_img_pattern = re.compile(r'!\[[^\]]*\]\([^\)]+\)', re.IGNORECASE)
+#markdown_img_pattern = re.compile(r'!\[[^\]]*\]\([^\)]+\)', re.IGNORECASE)
+markdown_img_pattern = re.compile(r'!\[[^\]]*\]\(([^)]+)\)', re.IGNORECASE)
 
 
-def process_po_file(input_file, source_lang, target_lang, output_file):
+def process_po_file(input_file, source_lang, target_lang, output_file, mode):
     if not os.path.exists(input_file):
         log(f"输入文件不存在: {input_file}")
         return
@@ -77,12 +82,30 @@ def process_po_file(input_file, source_lang, target_lang, output_file):
             line_number = "未知"
 
         if not entry.translated():  # 只处理未翻译的条目
-            if img_pattern.search(entry.msgid) or markdown_img_pattern.search(entry.msgid):  # 如果是图片，跳过翻译
-                entry.msgstr = ""  # 保持为空
-                #TODO: 扫描图片语言目录进行替换
-                log(f"[{index}/{total_entries}] 跳过图片条目: {entry.msgid} （位置: {line_number}）")
-                skip_img_count += 1
-            else:
+            if img_pattern.search(entry.msgid) or markdown_img_pattern.search(entry.msgid):  # 如果是图片
+                # 获取图片路径
+                match = img_pattern.search(entry.msgid) or markdown_img_pattern.search(entry.msgid)
+                img_path = match.group(1) if match else None
+
+                if img_path:
+                    # 插入语言目录到路径中
+                    target_img_path = img_path.replace("_static/images/", f"_static/images/{target_lang}/")
+                    
+                    # 绝对路径检查用来判断文件是否存在
+                    absolute_target_img_path = os.path.join(PROJECT_ROOT, target_img_path)
+                    if os.path.exists(absolute_target_img_path):
+                        entry.msgstr = f"![alt text]({target_img_path})"
+                        log(f"[{index}/{total_entries}] 更新图片条目: {entry.msgid} -> {entry.msgstr} （位置: {line_number}）")
+                        success_count += 1
+                    else:
+                        entry.msgstr = ""  # 如果不存在，保持为空
+                        log(f"[{index}/{total_entries}] 图片不存在，保持为空: {entry.msgid} （位置: {line_number}）")
+                        skip_img_count += 1
+                else:
+                    entry.msgstr = ""  # 如果没有匹配到图片路径，保持为空
+                    log(f"[{index}/{total_entries}] 无法解析图片路径，保持为空: {entry.msgid} （位置: {line_number}）")
+                    skip_img_count += 1
+            elif mode != 'image':
                 translated_text = translate_text(entry.msgid, source_lang, target_lang)
                 if translated_text:  # 只有成功翻译才填充
                     entry.msgstr = translated_text
@@ -113,11 +136,12 @@ if __name__ == "__main__":
     parser.add_argument('--source', default='zh-CN', help="源语言代码，默认 zh-CN，自动检测 auto")
     parser.add_argument('--target', required=True, help="目标语言代码，例如 zh-CN en ja")
     parser.add_argument('--output', required=True, help="输出翻译后 PO 文件路径")
+    parser.add_argument('--mode', choices=['default', 'image'], default='default', help="模式：default（翻译所有条目），image（只处理图片条目）")
 
     args = parser.parse_args()
 
     start_time = time.time()  # 记录开始时间
-    process_po_file(args.input, args.source, args.target, args.output)
+    process_po_file(args.input, args.source, args.target, args.output, args.mode)
     end_time = time.time()    # 记录结束时间
 
     total_seconds = int(end_time - start_time)
