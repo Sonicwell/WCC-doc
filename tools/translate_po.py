@@ -95,7 +95,7 @@ def process_po_file(input_file, source_lang, target_lang, output_file, mode):
                     absolute_target_img_path = os.path.join(PROJECT_ROOT, target_img_path)
                     if os.path.exists(absolute_target_img_path):
                         entry.msgstr = f"![alt text]({target_img_path})"
-                        log(f"[{index}/{total_entries}] 更新图片条目: {entry.msgid} -> {entry.msgstr} （位置: {line_number}）")
+                        log(f"[{index}/{total_entries}] 更新图片条目: {entry.msgid} -> {entry.msgstr} （位置: {line_number}）", level="success")
                         success_count += 1
                     else:
                         entry.msgstr = ""  # 如果不存在，保持为空
