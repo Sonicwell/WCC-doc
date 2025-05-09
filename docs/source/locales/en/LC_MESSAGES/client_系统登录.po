@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../client_系统登录.md:11 55f7a2610a0b4f5fbf4a42902fa220a5
 msgid "![alt text](_static/images/client/media/image1.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image1.png)"
 
 #: ../../client_系统登录.md:11 ../../client_系统登录.md:17
 #: 739ee441a7bb474380d1cf22f561fa93 c27d0fc005a24ebd8f0650b9e1cb56f2
@@ -64,4 +64,4 @@ msgstr ""
 
 #: ../../client_系统登录.md:17 4274346ba7564e6b897b0392dde0e549
 msgid "![alt text](_static/images/client/media/image2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image2.png)"

@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:7 6238b03b11a9429887acc5d687b40f45
 msgid "![alt text](_static/images/reseller/media/image3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image3.png)"
 
 #: ../../reseller_仪表盘介绍.md:7 ../../reseller_仪表盘介绍.md:25
 #: ../../reseller_仪表盘介绍.md:29 ../../reseller_仪表盘介绍.md:51
@@ -120,7 +120,7 @@ msgstr "Created by agent users. "
 
 #: ../../reseller_仪表盘介绍.md:25 7b81d2f633d041e5a1d7333b1fc0647b
 msgid "![alt text](_static/images/reseller/media/image4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image4.png)"
 
 #: ../../reseller_仪表盘介绍.md:27 a775e0ae6fc14058a4729d79d7c753e1
 msgid "**单击【添加】以执行常【规】设置**"
@@ -128,7 +128,7 @@ msgstr "**Click [Add] to perform the regular settings**"
 
 #: ../../reseller_仪表盘介绍.md:29 49ee3e4c89254f9280672dc937dafbff
 msgid "![alt text](_static/images/reseller/media/image5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image5.png)"
 
 #: ../../reseller_仪表盘介绍.md:31 31bf7554eaf445aeb729207a360ca623
 msgid "**域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
@@ -184,7 +184,7 @@ msgstr "**【Advanced】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:51 e321b800d8d24336bbae9222d90a5c49
 msgid "![alt text](_static/images/reseller/media/image6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image6.png)"
 
 #: ../../reseller_仪表盘介绍.md:53 e1a70ae632434de58dab1da0c73f38d4
 msgid "**多客户包**: 允许client创建多个客户包。"
@@ -280,7 +280,7 @@ msgstr "**【Call Settings】**:"
 
 #: ../../reseller_仪表盘介绍.md:100 7a5099e2a3684531bd10a02fa3d48407
 msgid "![alt text](_static/images/reseller/media/image7.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image7.png)"
 
 #: ../../reseller_仪表盘介绍.md:102 68efdcb5a5db46fbac058e532eec42c9
 msgid "**外呼档案**: 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
@@ -315,7 +315,7 @@ msgstr "**【AI Empowerment】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:118 2e909853f6374da2990de079f84e5bbf
 msgid "![alt text](_static/images/reseller/media/image8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image8.png)"
 
 #: ../../reseller_仪表盘介绍.md:120 8208c59a67a34ee6b45c00fa1bbb34f9
 msgid "**AI 参数配置**: 联系管理管理员进行配置。"
@@ -328,7 +328,7 @@ msgstr "**【API Restrictions】Set**:"
 
 #: ../../reseller_仪表盘介绍.md:124 e86676a742dc43da837fe4d405d72edc
 msgid "![alt text](_static/images/reseller/media/image9.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image9.png)"
 
 #: ../../reseller_仪表盘介绍.md:126 9dac61ced9bb471882a80ddaa374e6eb
 msgid "**短信**:请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。"
@@ -360,7 +360,7 @@ msgstr "**【Customer Information】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:136 903a93949e6c469cb82ebbaa3ac34276
 msgid "![alt text](_static/images/reseller/media/image10.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image10.png)"
 
 #: ../../reseller_仪表盘介绍.md:138 10e3e80e006f4814bea8b09c58ee8399
 msgid "**公司名称**: 请填写公司名称。"
@@ -408,7 +408,7 @@ msgstr "**【Information】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:160 32dd9393ceea4915a5754ea9c11cbc0f
 msgid "![alt text](_static/images/reseller/media/image11.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image11.png)"
 
 #: ../../reseller_仪表盘介绍.md:162 2220358e5421472e905c0346f41bbf8e
 msgid "**邮件服务器**: 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
@@ -428,7 +428,7 @@ msgstr "**【Other】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:170 ef1ab149ac984306a04c723485ac29c1
 msgid "![alt text](_static/images/reseller/media/image12.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image12.png)"
 
 #: ../../reseller_仪表盘介绍.md:172 2f2f7c9f15a74b9881c82a3c9e3d7e92
 msgid ""
@@ -477,7 +477,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:186 a4fee4f4dcab4fefb3eda2cb98e8b63b
 msgid "![alt text](_static/images/reseller/media/image13.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image13.png)"
 
 #: ../../reseller_仪表盘介绍.md:188 5de520dc99a04beeb3d3670546242ddb
 msgid "**点击\\[添加\\] 进入\\[常规\\] 设置**:"
@@ -485,7 +485,7 @@ msgstr "**Click \\[Add\\] to enter \\[General\\] Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:190 e49a2e6379ce4a62b3a737bfec56214a
 msgid "![alt text](_static/images/reseller/media/image14.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image14.png)"
 
 #: ../../reseller_仪表盘介绍.md:192 980b2300a76d4c3c81cf916582b9eb28
 msgid "**用户名**: 用户将用此用户名进行系统登录。"
@@ -527,7 +527,7 @@ msgstr "**【Advanced】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:208 6a9a0b0acc284183a445361b9a4652fd
 msgid "![alt text](_static/images/reseller/media/image15.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image15.png)"
 
 #: ../../reseller_仪表盘介绍.md:210 80246010ddbe48e6b8028870726e0f11
 msgid "**备注**: 您可以在此处设置有关此帐户的一些注释信息。"
@@ -545,7 +545,7 @@ msgstr "Roles are used to control the permissions that users have. "
 
 #: ../../reseller_仪表盘介绍.md:216 aa041f90f7dd4edb855868a00c8c4765
 msgid "![alt text](_static/images/reseller/media/image16.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image16.png)"
 
 #: ../../reseller_仪表盘介绍.md:218 43af0b7e805c4061b6d1d676f0b53019
 msgid "**在 \\[添加/编辑\\] 角色权限中，可以设置 \\[常规\\] 设置来命名角色。**"
@@ -555,7 +555,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:220 30039b25a24a4c4f89ab5ebdb4800094
 msgid "![alt text](_static/images/reseller/media/image17.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image17.png)"
 
 #: ../../reseller_仪表盘介绍.md:222 56309016000e499589649d9a30a35cc8
 msgid "**【编辑】**:"
@@ -563,7 +563,7 @@ msgstr "**【edit】**:"
 
 #: ../../reseller_仪表盘介绍.md:224 5a3cf34612874832a7e28339defa65f7
 msgid "![alt text](_static/images/reseller/media/image18.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image18.png)"
 
 #: ../../reseller_仪表盘介绍.md:226 cb33fc01b1704937a0c9d100bd464c50
 msgid "**名称**: 请为这个权限角色命名。"
@@ -577,7 +577,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:232 f60da62b342b4177b37e2595438f349f
 msgid "![alt text](_static/images/reseller/media/image19.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image19.png)"
 
 #: ../../reseller_仪表盘介绍.md:234 7c12df3cff684168a34c5c12f8d0946c
 msgid "**【权限】设置**:"
@@ -589,7 +589,7 @@ msgstr "Controls page display permissions for users with this role."
 
 #: ../../reseller_仪表盘介绍.md:238 c6cc6c8159e544fea447a84bbd0a2b0e
 msgid "![alt text](_static/images/reseller/media/image20.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image20.png)"
 
 #: ../../reseller_仪表盘介绍.md:240 d14950d99e2148dea3c179d2e09e9453
 msgid "d. 计费："
@@ -608,7 +608,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:246 88d21ab732354dfb949775e33a35e6ba
 msgid "![alt text](_static/images/reseller/media/image21.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image21.png)"
 
 #: ../../reseller_仪表盘介绍.md:248 b479cb8500ad4afab7f97cf5811b471d
 msgid "**单击 \\[编辑\\] 执行 \\[常规\\] 设置。**"
@@ -616,7 +616,7 @@ msgstr "**Click \\[Edit\\] to execute the \\[General\\] settings. "
 
 #: ../../reseller_仪表盘介绍.md:250 9c4f660857114142aa5bf1267f3cce65
 msgid "![alt text](_static/images/reseller/media/image22.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image22.png)"
 
 #: ../../reseller_仪表盘介绍.md:252 21e0b5875dce4e21be9756ea283248f9
 msgid "**ID**: 数据的唯一 ID。"
@@ -640,7 +640,7 @@ msgstr "**【Billing】Settings**:"
 
 #: ../../reseller_仪表盘介绍.md:260 6cbf9099d8854f039f71b591e58e23d9
 msgid "![alt text](_static/images/reseller/media/image23.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image23.png)"
 
 #: ../../reseller_仪表盘介绍.md:262 a78b4b1ff68d4b1eaf5e638fe1d860d2
 msgid "**应缴费用**: 应当缴纳的本期费用。"
@@ -694,7 +694,7 @@ msgstr "**【Bills and Reminders】Set**:"
 
 #: ../../reseller_仪表盘介绍.md:282 e802a7fb622e46b1adab6331bc372bef
 msgid "![alt text](_static/images/reseller/media/image24.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image24.png)"
 
 #: ../../reseller_仪表盘介绍.md:284 a0db0753193e474cb4be6b2193f34d3b
 msgid "**余额不足提醒**: 设置余额不足后的提醒次数。"
@@ -725,11 +725,11 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:292 b9c8d57dc5e542658ad9bfbfe17fe2da
 msgid "![alt text](_static/images/reseller/media/image25.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image25.png)"
 
 #: ../../reseller_仪表盘介绍.md:294 ab20bbfaaf1b47f19578124cb2f48f1f
 msgid "![alt text](_static/images/reseller/media/image26.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image26.png)"
 
 #: ../../reseller_仪表盘介绍.md:296 60b59e7e3c1b4689bebf1deadcbee3fc
 msgid "e. 语音设置："
@@ -751,7 +751,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:302 617292faefae4a92931d9b2ba315f211
 msgid "![alt text](_static/images/reseller/media/image27.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image27.png)"
 
 #: ../../reseller_仪表盘介绍.md:304 96478833dc424d92bf5f8fffffefe7a3
 msgid "**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名称】和【客户端】。**"
@@ -761,7 +761,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:306 0c9e871ea9934b1ead315be7da832b9f
 msgid "![alt text](_static/images/reseller/media/image28.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image28.png)"
 
 #: ../../reseller_仪表盘介绍.md:308 ../../reseller_仪表盘介绍.md:342
 #: 2d761d0b72244f62a14d7711a3cc8a72 7078c7b695e54d0c833cea1d435c1493
@@ -818,7 +818,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:330 83aa9e5b9b874f77882a08eaf38b10ce
 msgid "![alt text](_static/images/reseller/media/image29.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image29.png)"
 
 #: ../../reseller_仪表盘介绍.md:332 3a9c4abd7a7947629f0007819d55e7fa
 msgid "外显号码："
@@ -832,7 +832,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:336 bf4d4966da50468e9eb07b317ac8cb9f
 msgid "![alt text](_static/images/reseller/media/image30.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image30.png)"
 
 #: ../../reseller_仪表盘介绍.md:338 b24c76c8a58045ab9fae5099c6385854
 msgid "**单击【编辑】以编辑【外显号码】**"
@@ -840,7 +840,7 @@ msgstr "**Click [Edit] to edit [External Number]**"
 
 #: ../../reseller_仪表盘介绍.md:340 022bb29fecd84bcbbd1f274011a0ff5f
 msgid "![alt text](_static/images/reseller/media/image31.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image31.png)"
 
 #: ../../reseller_仪表盘介绍.md:344 91c2c98f6ae54c4da5ed97ec2825141a
 msgid "**外显号码**: 请输入你要添加的外显号码。"
@@ -871,7 +871,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:356 4fe0363ced9d4c22ad64a693b5e2c47e
 msgid "![alt text](_static/images/reseller/media/image32.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image32.png)"
 
 #: ../../reseller_仪表盘介绍.md:358 5846350bce9e435dac0c7331b71dce11
 msgid "**单击【添加】进入【常规】设置**:"
@@ -879,7 +879,7 @@ msgstr "**Click [Add] to enter [General] settings**:"
 
 #: ../../reseller_仪表盘介绍.md:360 e0373df2f4fc49c4b26cd83f153ec231
 msgid "![alt text](_static/images/reseller/media/image33.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image33.png)"
 
 #: ../../reseller_仪表盘介绍.md:362 4926b66b46a3414abcb4c081648261df
 msgid "**模版名称**: 请填入模版名称。"
@@ -910,7 +910,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:374 210b794ff17946a59010c8cfc2f77911
 msgid "![alt text](_static/images/reseller/media/image34.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image34.png)"
 
 #: ../../reseller_仪表盘介绍.md:376 88672913a32b413db716963e5093e305
 msgid "**坐席组**: 选择需要监控的座席组，即当天有来电且活跃的座席组。"
@@ -920,7 +920,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:378 0938da10434c4ae280b0256a4b33cbf3
 msgid "![alt text](_static/images/reseller/media/image35.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image35.png)"
 
 #: ../../reseller_仪表盘介绍.md:380 996e38811d1c4c1680182ac0938e649f
 msgid "**坐席**:选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据"
@@ -931,7 +931,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:382 69e6546c6348455a851f1411a69d3c29
 msgid "![alt text](_static/images/reseller/media/image36.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image36.png)"
 
 #: ../../reseller_仪表盘介绍.md:384 fff6b9989ee74161ab82d5a2d44ec32a
 msgid "h. 日志记录："
@@ -943,7 +943,7 @@ msgstr "**Log Record**: The system user behavior is recorded as a log."
 
 #: ../../reseller_仪表盘介绍.md:388 3ad00adb23be40a9869231b2e291322d
 msgid "![alt text](_static/images/reseller/media/image37.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image37.png)"
 
 #: ../../reseller_仪表盘介绍.md:390 524166ecb1fc4ad0b1ef18aa7033a7dc
 msgid "系统："
@@ -961,7 +961,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:396 ffb111d38f6f4398ab03f21394c07d5c
 msgid "![alt text](_static/images/reseller/media/image38.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image38.png)"
 
 #: ../../reseller_仪表盘介绍.md:398 8a3dfbd07e2943b983b8d98d01a12fdc
 msgid "公司信息："
@@ -973,7 +973,7 @@ msgstr "On this page you can view and edit the system's company information."
 
 #: ../../reseller_仪表盘介绍.md:402 50cda31bcabc452691e2c8c00b2b7f2c
 msgid "![alt text](_static/images/reseller/media/image39.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image39.png)"
 
 #: ../../reseller_仪表盘介绍.md:404 74186d4f5ad74ff58ced3e41265a3abe
 msgid "1.2.3 工具栏"
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:410 96447bc9c1d94d409a7bb7691d7c1141
 msgid "![alt text](_static/images/reseller/media/image40.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image40.png)"
 
 #: ../../reseller_仪表盘介绍.md:412 abb32744d8ed42b89d7c8db03d6d3983
 msgid "b. 通知"
@@ -1003,7 +1003,7 @@ msgstr "Some new messages will be displayed."
 
 #: ../../reseller_仪表盘介绍.md:416 1e7ad3a8004b4228b0524ee5334b9d8d
 msgid "![alt text](_static/images/reseller/media/image41.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image41.png)"
 
 #: ../../reseller_仪表盘介绍.md:418 9c21c4a7494542959385a0efcd40b579
 msgid "c. 语言"
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #: ../../reseller_仪表盘介绍.md:422 d63e4d2b44c042f593766462289ce8d9
 msgid "![alt text](_static/images/reseller/media/image42.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image42.png)"
 
 #: ../../reseller_仪表盘介绍.md:424 fdc7548f527c4f1ca2a4df2f5acd0fc9
 msgid "d. 我的信息"
@@ -1036,8 +1036,8 @@ msgstr "\\[Logout\\] Log out of the current login page."
 
 #: ../../reseller_仪表盘介绍.md:432 35ea8cc8eccd415f96fd8d7916da00e1
 msgid "![alt text](_static/images/reseller/media/image43.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image43.png)"
 
 #: ../../reseller_仪表盘介绍.md:434 2831a8476ffd497a86866590e3bd8918
 msgid "![alt text](_static/images/reseller/media/image44.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image44.png)"

@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:5 9013526541a741acb54e926004363f89
 msgid "![alt text](_static/images/client/media/image3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image3.png)"
 
 #: ../../client_工具栏.md:5 ../../client_工具栏.md:9 ../../client_工具栏.md:13
 #: ../../client_工具栏.md:17 ../../client_工具栏.md:21 ../../client_工具栏.md:27
@@ -67,7 +67,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:9 7a8345c7435440d581de9fadeeddd67a
 msgid "![alt text](_static/images/client/media/image4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image4.png)"
 
 #: ../../client_工具栏.md:11 7de23b5559b04ad0b9958ddfa50b51ee
 msgid "↓↓↓"
@@ -75,7 +75,7 @@ msgstr "↓↓↓"
 
 #: ../../client_工具栏.md:13 1d2e08d6c8a042f3b20eeeb7ff346f29
 msgid "![alt text](_static/images/client/media/image5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image5.png)"
 
 #: ../../client_工具栏.md:15 7a5449bac67b4411979014cc4a879d70
 msgid "在这里，您可以选择功能的快捷方式。选中后，将显示这些快捷方式↓↓↓"
@@ -83,7 +83,7 @@ msgstr "Here you can select shortcuts for the features. "
 
 #: ../../client_工具栏.md:17 9472e39b109f4825adee5af39cc23370
 msgid "![alt text](_static/images/client/media/image6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image6.png)"
 
 #: ../../client_工具栏.md:19 0e9ee4f018664c24aa2626ce3773ee14
 msgid "【快速搜索】按钮，可直接在知识库中搜索知识。"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:21 b3f4cba05f914ca8b8b444eebf41620e
 msgid "![alt text](_static/images/client/media/image7.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image7.png)"
 
 #: ../../client_工具栏.md:23 2a336dd3b555493bb333aedf7d0f28e2
 msgid "【呼叫】点击呼叫按钮，填写主叫号码和被叫号码，选择一个 外显号码 ，点击呼叫 ，即可在客户端级别进行指定呼叫。"
@@ -108,7 +108,7 @@ msgstr "Fill in the caller number and fill in the caller number."
 
 #: ../../client_工具栏.md:27 7948b463c9c64d45b75b5a9c0faa5220
 msgid "![alt text](_static/images/client/media/image8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image8.png)"
 
 #: ../../client_工具栏.md:29 cb3187a699aa4722af9e8154880e904e
 msgid "【任务】有导入或导出任务时，此处显示任务进度。"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:31 5b503b41c5744ffeb99b5e8b883d6381
 msgid "![alt text](_static/images/client/media/image9.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image9.png)"
 
 #: ../../client_工具栏.md:33 73df8bf67a92452391b342a3aadc3101
 msgid "【消息提示】如果有系统通知消息，如公告、审核等，会展示在这里，点击查看消息。"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:35 f0a007f7680f4573971f3a3c71f36014
 msgid "![alt text](_static/images/client/media/image10.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image10.png)"
 
 #: ../../client_工具栏.md:37 0379c108fd5b449297a3655c1c1e1883
 msgid "【语言】可以在这里切换系统语言，切换后刷新页面，当坐席在当前语言中登录时，坐席会遵循client的当前语言。"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:39 136c64150e59469b9ffb9d11bb4ee9dd
 msgid "![alt text](_static/images/client/media/image11.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image11.png)"
 
 #: ../../client_工具栏.md:41 7ffc83f0a5734f16a938a437c6ffe18b
 msgid "【client】单击此处查看客户的个人资料、公告和登录足迹（如果您是从高级登录者登录）"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:43 cb121e8eaab44b8599db84f6e62a5756
 msgid "![alt text](_static/images/client/media/image12.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image12.png)"
 
 #: ../../client_工具栏.md:45 0392f13da5b04e06ab96a9b9951aeeb3
 msgid "【我的档案】客户可以在此处修改他们的账户信息，包括用户名。"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:47 4f62b3369de34b449adbc023646606f1
 msgid "![alt text](_static/images/client/media/image13.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image13.png)"
 
 #: ../../client_工具栏.md:49 2ab6889a9f334bf49ec5a75f56d441d1
 msgid "【聊天页面】client可以搜索坐席并与坐席聊天，有聊天记录的坐席可以直接显示在对话框栏中。"
@@ -200,15 +200,15 @@ msgstr "Click [Return] to return to the conversation list."
 
 #: ../../client_工具栏.md:65 5d74382085b147c3bb28ab05481de77e
 msgid "![alt text](_static/images/client/media/image14.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image14.png)"
 
 #: ../../client_工具栏.md:67 8c382c7ebc08479db86004b3b1d158f5
 msgid "![alt text](_static/images/client/media/image15.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image15.png)"
 
 #: ../../client_工具栏.md:69 5f77468bea604b82a84d2e38aee8dbc1
 msgid "![alt text](_static/images/client/media/image16.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image16.png)"
 
 #: ../../client_工具栏.md:71 adfdd0dc7c7e407fb94b5f21fb1f737b
 msgid "【仪表盘】"
@@ -233,7 +233,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:79 73a512c397c94f4a92b6c12acb893a01
 msgid "![alt text](_static/images/client/media/image17.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image17.png)"
 
 #: ../../client_工具栏.md:81 08886ea85133454a8e29f8b820c4d2b1
 msgid "2.1 呼出 /接通/通话时长"
@@ -241,7 +241,7 @@ msgstr "2.1 Call time/reach/call duration"
 
 #: ../../client_工具栏.md:83 2349ce31d5b547a68c24fb46d90155c5
 msgid "![alt text](_static/images/client/media/image18.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image18.png)"
 
 #: ../../client_工具栏.md:85 13a5979fa83944d7a9780e758dd11c18
 msgid "**呼出**:该client当天呼出的电话总数。"
@@ -263,7 +263,7 @@ msgstr "2.2 Call in / missed / call duration"
 
 #: ../../client_工具栏.md:93 2695a7e0d31f4222b07f53c2f020b819
 msgid "![alt text](_static/images/client/media/image19.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image19.png)"
 
 #: ../../client_工具栏.md:95 59cc3df00a1f463bacf40c8545916ebb
 msgid "**呼入**:该client当日呼入通话的次数。"
@@ -287,7 +287,7 @@ msgstr "2.3 Connect the new number / Connect the old number"
 
 #: ../../client_工具栏.md:103 2a4543d15c20472997788816ae63f5db
 msgid "![alt text](_static/images/client/media/image20.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image20.png)"
 
 #: ../../client_工具栏.md:105 c7cdc50c2590446298972f43d7d4f361
 msgid "**接通新号码**:首次呼入该client并被接通的号码。"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:113 691eebbf92cf41eda8f760e481fcc402
 msgid "![alt text](_static/images/client/media/image21.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image21.png)"
 
 #: ../../client_工具栏.md:115 12586d2b1c9349d3abcec5993aa3716f
 msgid "2.5 公告"
@@ -327,7 +327,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:119 298837dac30944059daeb6e926948021
 msgid "![alt text](_static/images/client/media/image22.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image22.png)"
 
 #: ../../client_工具栏.md:121 196e09ec6005425cb493a4f99d3d61ea
 msgid "2.6 did 呼入"
@@ -339,7 +339,7 @@ msgstr "Pie chart of the percentage of did call in."
 
 #: ../../client_工具栏.md:125 6dc3a496f596461e80849568ce20f096
 msgid "![alt text](_static/images/client/media/image23.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image23.png)"
 
 #: ../../client_工具栏.md:127 964fd471520d44559f3084366071663c
 msgid "次数、时长、分钟数的饼状图会先显示 DID 名称，没有名字则显示数字。"
@@ -356,7 +356,7 @@ msgstr ""
 
 #: ../../client_工具栏.md:131 2c289bc64098459abebd1fb97d6b5c14
 msgid "![alt text](_static/images/client/media/image24.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image24.png)"
 
 #: ../../client_工具栏.md:133 ../../client_工具栏.md:153
 #: 5eb9a450bcae47e8b15bd3a63df86a5c d1512b10789b4857932a1d54ff9edf6f
@@ -366,8 +366,8 @@ msgstr ""
 #: ../../client_工具栏.md:135 566693d9967e43d5911a96f53b220489
 msgid "2.时长排名：计算 DID 号码来电的通话时长，以分钟为单位显示，计数范围如下："
 msgstr ""
-"2 Duration ranking: Calculate the call duration of the incoming call of the"
-" DID number, displayed in minutes, and the counting range is as follows:"
+"2 Duration ranking: Calculate the call duration of the incoming call of the "
+"DID number, displayed in minutes, and the counting range is as follows:"
 
 #: ../../client_工具栏.md:137 6d7000f9d57845c69e156ce7642c5a4e
 msgid "1）**DID 转IVR，按钮转接给坐席**：呼入时间将计入总通话时长，无论是否点击按钮转接，也无论坐席是否接通。"
@@ -379,22 +379,22 @@ msgstr ""
 #: ../../client_工具栏.md:139 869d18bcb24d4dd1b74a6ed93368dfa7
 msgid "2）**DID 转语音播报，再转给坐席**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
 msgstr ""
-"② **DID to voice broadcast, and then to the agent**: The call time will be"
-" counted into the total call duration, regardless of whether the agent is "
+"② **DID to voice broadcast, and then to the agent**: The call time will be "
+"counted into the total call duration, regardless of whether the agent is "
 "connected or not, the total call duration will be counted."
 
 #: ../../client_工具栏.md:141 2321c94aa3534c99aee0e922fa718a67
 msgid "3）**DID 转接坐席组**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长都计算在内。"
 msgstr ""
-"③ **DID transfer agent group**: The incoming call time will be counted into"
-" the total call time, regardless of whether the agent is connected or not, "
+"③ **DID transfer agent group**: The incoming call time will be counted into "
+"the total call time, regardless of whether the agent is connected or not, "
 "the total call time will be counted."
 
 #: ../../client_工具栏.md:143 7f5d64f8a3324bed8a598a0d29a1db97
 msgid "4）**DID 转振铃组**：只有坐席接通后，才会计算通话时长。"
 msgstr ""
-"④ **DID to ring group**: The call duration will be calculated only after "
-"the seat is connected."
+"④ **DID to ring group**: The call duration will be calculated only after the"
+" seat is connected."
 
 #: ../../client_工具栏.md:145 6be0fc7bb81c475bb6b1b5ea3e7cb1b4
 msgid "5）**DID 转条件，再转接给坐席**:只有坐席接通后，才会计算通话时长。"
@@ -405,14 +405,14 @@ msgstr ""
 #: ../../client_工具栏.md:147 adb6a52d90e3419b986de5ee3f266b9d
 msgid "6）**DID 转接坐席**:只有坐席接通后，才会计算通话时长。"
 msgstr ""
-"⑥ **DID transfer seat**: The call duration will be calculated only after "
-"the seat is connected."
+"⑥ **DID transfer seat**: The call duration will be calculated only after the"
+" seat is connected."
 
 #: ../../client_工具栏.md:149 f181f788a8ee4f238103a779ad5afb1f
 msgid "7）**DID 转外号码**：只有外线号码接通时，才会计算通话时长。"
 msgstr ""
-"⑦ **DID to nickname number**: The call duration will be calculated only "
-"when the external number is connected."
+"⑦ **DID to nickname number**: The call duration will be calculated only when"
+" the external number is connected."
 
 #: ../../client_工具栏.md:151 79f2a37b9a0e4450a0f72ce76bdf47df
 msgid "8）**DID 转挂断**：不计算在内。"
@@ -420,7 +420,7 @@ msgstr "⑧ **DID to hang up**: Not counted."
 
 #: ../../client_工具栏.md:155 9cef4984abe3472f83d41ad0afa23af9
 msgid "![alt text](_static/images/client/media/image26.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image26.png)"
 
 #: ../../client_工具栏.md:157 c0e4acede1bb49f88d91781a997ce89c
 msgid ""
@@ -440,8 +440,7 @@ msgstr ""
 #: ../../client_工具栏.md:161 861e5bcebff747a7b48602a5caf4f91d
 msgid "2）**DID 转到语音播报，然后转接给坐席**：呼入会 +1。"
 msgstr ""
-"② **DID Go to voice broadcast, and then transfer to the agent**: Calling "
-"+1."
+"② **DID Go to voice broadcast, and then transfer to the agent**: Calling +1."
 
 #: ../../client_工具栏.md:163 5760375f0af449f7bfb50ff677e30fc3
 msgid "3）**DID 转接到坐席组**：呼入会 +1。"
@@ -450,14 +449,14 @@ msgstr "③ **DID is transferred to the agent group**: Call +1."
 #: ../../client_工具栏.md:165 ab83ce43c0fb4d79bea504527960ad6f
 msgid "4）**DID转接到振铃组**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"④ **DID is transferred to ringing group**: The agent is connected +1, and "
-"it will not be calculated if it is not connected."
+"④ **DID is transferred to ringing group**: The agent is connected +1, and it"
+" will not be calculated if it is not connected."
 
 #: ../../client_工具栏.md:167 ea9fb39c13f34d50aaf706d0532bded2
 msgid "5）**DID转条件后转给坐席**：坐席接通+1，未接通不会计算。"
 msgstr ""
-"⑤ **DID transfer condition to the agent**: The agent is connected +1, and "
-"it will not be calculated if it is not connected."
+"⑤ **DID transfer condition to the agent**: The agent is connected +1, and it"
+" will not be calculated if it is not connected."
 
 #: ../../client_工具栏.md:169 bf3ef0333e964e6d96659b2fad172db8
 msgid "6）**DID转坐席**：坐席接通+1，未接通不会计算。"
@@ -477,4 +476,4 @@ msgstr "⑧ **DID steering hang up**: Not counted."
 
 #: ../../client_工具栏.md:175 d0de51f2689f4d6eaad64a005b7e00a2
 msgid "![alt text](_static/images/client/media/image27.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image27.png)"

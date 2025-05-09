@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:7 aa6129fd91ee4540827d935dfe8985c6
 msgid "![alt text](_static/images/root/media/image3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image3.png)"
 
 #: ../../root_界面介绍.md:7 ../../root_界面介绍.md:15 ../../root_界面介绍.md:25
 #: ../../root_界面介绍.md:45 ../../root_界面介绍.md:52 ../../root_界面介绍.md:78
@@ -131,7 +131,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:15 f655bf6c34f24885898538044695e8a7
 msgid "![alt text](_static/images/root/media/image4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image4.png)"
 
 #: ../../root_界面介绍.md:17 8a3b428fcf5b4dffb5e2c65f45909e59
 msgid "b. 用户:"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:25 8cab43bc111143e3b39662d11487a264
 msgid "![alt text](_static/images/root/media/image5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image5.png)"
 
 #: ../../root_界面介绍.md:27 3b65237929794bfcbdd20e6a8a9db9e4
 msgid "**域名**：每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字（0-9）、字符（.-）的组合。"
@@ -201,7 +201,7 @@ msgstr "**【Advanced】Settings:**"
 
 #: ../../root_界面介绍.md:45 18864985b36a4de9827fb0a389152c4f
 msgid "![alt text](_static/images/root/media/image6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image6.png)"
 
 #: ../../root_界面介绍.md:47 8efa82fa9c2c4e32a392143af6faa57f
 msgid "**时区**: 请为该代理用户设置时区。设置后不可修改。您可以直接搜索或向下滚动进行选择。"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:52 7d108ee637e74c94b46971b55a08af61
 msgid "![alt text](_static/images/root/media/image7.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image7.png)"
 
 #: ../../root_界面介绍.md:54 bfab2e50c324486d8b1376319d47edd6
 msgid "**公司名称**:请填写这个公司的名字。"
@@ -273,7 +273,7 @@ msgstr "clients The user is created by an agent user. "
 
 #: ../../root_界面介绍.md:78 75c05816931e49ef8cd8388b8ab561cb
 msgid "![alt text](_static/images/root/media/image8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image8.png)"
 
 #: ../../root_界面介绍.md:80 e956ea3c4df446d1af46e61cd118c38a
 msgid "账户:"
@@ -289,7 +289,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:84 cbd1615b3c6944a581a8466e1f5bc31b
 msgid "![alt text](_static/images/root/media/image9.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image9.png)"
 
 #: ../../root_界面介绍.md:86 8163613e5b19415c95e24f9d1554a0cd
 msgid "选择【添加】并输入【通用】设置：（如下图所示）"
@@ -298,7 +298,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:88 ec9e2686dba24d0fbfba3db04ce54e91
 msgid "![alt text](_static/images/root/media/image10.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image10.png)"
 
 #: ../../root_界面介绍.md:90 52cfc3941fad4da6b7f15c7b0b1e895b
 msgid "**用户名**: 用户将使用该用户名登录系统。>"
@@ -349,7 +349,7 @@ msgstr "Roles are used to control the permissions that users have. "
 
 #: ../../root_界面介绍.md:110 8a497edc6df04fd685cce509fe32e5bc
 msgid "![alt text](_static/images/root/media/image11.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image11.png)"
 
 #: ../../root_界面介绍.md:112 bd74b157127447c1bbb674debe39c9a0
 msgid "单击【编辑】/【添加】，然后输入【通用】来命名角色：（如下图所示）"
@@ -359,7 +359,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:114 f2525cd10ad444da882ab770d603f612
 msgid "![alt text](_static/images/root/media/image12.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image12.png)"
 
 #: ../../root_界面介绍.md:116 1ecbfa44174e46349a09fef1e34a02db
 msgid "【 高级 】设置:"
@@ -367,7 +367,7 @@ msgstr "【Advanced】Settings:"
 
 #: ../../root_界面介绍.md:118 3285d5a3fec542188779b321a999b690
 msgid "![alt text](_static/images/root/media/image13.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image13.png)"
 
 #: ../../root_界面介绍.md:120 3fe0d7568d4841e68889ab00320bcf0b
 msgid "【权限设置】:"
@@ -375,7 +375,7 @@ msgstr "【Permission Settings】:"
 
 #: ../../root_界面介绍.md:122 717682832f814b2782c2d877054b981c
 msgid "![alt text](_static/images/root/media/image14.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image14.png)"
 
 #: ../../root_界面介绍.md:124 afa1a7b32c3741f78a865e272cecb0fd
 msgid "c. 客户数据:"
@@ -394,7 +394,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:130 b9235fcddd0442b89f4e8c4a598efbe4
 msgid "![alt text](_static/images/root/media/image15.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image15.png)"
 
 #: ../../root_界面介绍.md:132 ../../root_界面介绍.md:146
 #: 93ed2068a6e042cbae482e4325aedfe1 f6405ec487244ac09571df0f94b65964
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:134 5fddf1531b11434e9438968d5893a15c
 msgid "![alt text](_static/images/root/media/image16.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image16.png)"
 
 #: ../../root_界面介绍.md:136 c7e2dcf7ce55417b838cf557b8e20f02
 msgid "**标签名称**：请输入客户标签的名称。"
@@ -412,7 +412,7 @@ msgstr "**Tag name**: Please enter the name of the customer tag."
 
 #: ../../root_界面介绍.md:138 876febbec0f5491f90e340627c1b5ecf
 msgid "![alt text](_static/images/root/media/image17.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image17.png)"
 
 #: ../../root_界面介绍.md:140 efd643173ab04a90b0f29dce948d5a84
 msgid "数据来源"
@@ -428,11 +428,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:144 d2607da97f5844b184e06e8f38e3fe82
 msgid "![alt text](_static/images/root/media/image18.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image18.png)"
 
 #: ../../root_界面介绍.md:148 4c8326b719714b5c97df82de69f26c91
 msgid "![alt text](_static/images/root/media/image19.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image19.png)"
 
 #: ../../root_界面介绍.md:150 826144440d3a4e9a8755dfeab833950f
 msgid "**来源名称**：请输入数据来源的名称。"
@@ -452,7 +452,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:156 23fed35f535746028983c7a13911f944
 msgid "![alt text](_static/images/root/media/image20.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image20.png)"
 
 #: ../../root_界面介绍.md:158 c2101dfb588d4f92aa0bc666e9341a88
 msgid "d.任务管理："
@@ -470,7 +470,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:164 ed670801809141f3a514e686db0066f4
 msgid "![alt text](_static/images/root/media/image21.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image21.png)"
 
 #: ../../root_界面介绍.md:166 ../../root_界面介绍.md:242
 #: 2bf763555b9d4a229459f4924c794db6 7b8413b74352437a900f8a84d5f588b8
@@ -479,7 +479,7 @@ msgstr "Select [Add] and enter [General] settings: (as shown below)"
 
 #: ../../root_界面介绍.md:168 46f451548d704cbba44013d98f87cef9
 msgid "![alt text](_static/images/root/media/image22.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image22.png)"
 
 #: ../../root_界面介绍.md:170 57105f4d357743b794df710a8a20ce35
 msgid "**呼叫结果名称**:您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。"
@@ -518,7 +518,7 @@ msgstr "Customer billing is billing to the agent."
 
 #: ../../root_界面介绍.md:184 f3329291089c4e52a52f766d40a5c5ac
 msgid "![alt text](_static/images/root/media/image23.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image23.png)"
 
 #: ../../root_界面介绍.md:186 569067c207784145930925e0251e2afc
 msgid "单击【编辑】进入【常规】设置：（如下图所示）"
@@ -527,7 +527,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:188 04862d18ffae419e992be6e34ba73bec
 msgid "![alt text](_static/images/root/media/image24.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image24.png)"
 
 #: ../../root_界面介绍.md:190 6333c065a19f4252884584d5e1ec8823
 msgid "**ID**： 唯一id。"
@@ -550,7 +550,7 @@ msgstr "[Bill] Settings: (as shown below)"
 
 #: ../../root_界面介绍.md:198 68a7d30aa5fd4bf98d078a0467d68502
 msgid "![alt text](_static/images/root/media/image25.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image25.png)"
 
 #: ../../root_界面介绍.md:200 7253fa569ffc4f6d87500c2b9fccebd7
 msgid "**应缴费用**： 应当缴纳的本期费用。"
@@ -604,7 +604,7 @@ msgstr "**【Bills and Reminders】Settings:**"
 
 #: ../../root_界面介绍.md:220 47347eb0f1614b218e5d44e3fcac6e0f
 msgid "![alt text](_static/images/root/media/image26.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image26.png)"
 
 #: ../../root_界面介绍.md:222 a8edee176909401688408360054b8175
 msgid "**余额不足提醒**： 设置余额不足后的提醒次数。"
@@ -636,15 +636,15 @@ msgstr ""
 
 #: ../../root_界面介绍.md:230 38b380c7753749be897b5faccec80631
 msgid "![alt text](_static/images/root/media/image27.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image27.png)"
 
 #: ../../root_界面介绍.md:232 1ec0bfaccaae47bb89f760ea6389fea7
 msgid "![alt text](_static/images/root/media/image28.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image28.png)"
 
 #: ../../root_界面介绍.md:234 8bd8aa20f17f4f0e8c699032c6dded20
 msgid "![alt text](_static/images/root/media/image29.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image29.png)"
 
 #: ../../root_界面介绍.md:236 74af168bc3544427a99c41349c90c9c3
 msgid "费率计划:"
@@ -659,11 +659,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:240 d620186887964dadb84e023bf1d60a01
 msgid "![alt text](_static/images/root/media/image30.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image30.png)"
 
 #: ../../root_界面介绍.md:244 832e04b2aa1b4a15b38f3c740ba926d8
 msgid "![alt text](_static/images/root/media/image31.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image31.png)"
 
 #: ../../root_界面介绍.md:246 9ae00e31672945f7be7163061560a12d
 msgid "**费率名称**： 请为这个费率命名。"
@@ -707,7 +707,7 @@ msgstr "**【Advanced】Settings:**"
 
 #: ../../root_界面介绍.md:262 e1f2ea07848947cbb94d5099f74f392a
 msgid "![alt text](_static/images/root/media/image32.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image32.png)"
 
 #: ../../root_界面介绍.md:264 5ad3bca8eaf74a51aa9d630eac20471a
 msgid "**时间**：请选择这个费率计划开始执行的时间。"
@@ -734,7 +734,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:274 fbdbb890ab0845e2ac02ba2f51994c14
 msgid "![alt text](_static/images/root/media/image33.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image33.png)"
 
 #: ../../root_界面介绍.md:276 a2e4a0ea6b174ed4a803ccb53f52ff06
 msgid "选择【添加】并输入【常规】设置："
@@ -742,7 +742,7 @@ msgstr "Select [Add] and enter [General] settings:"
 
 #: ../../root_界面介绍.md:278 2331ac2621f443cda16e2c10eb263776
 msgid "![alt text](_static/images/root/media/image34.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image34.png)"
 
 #: ../../root_界面介绍.md:280 347162556383467b9c7e7d791fff7131
 msgid "**名称**：给中继起个名字，你可以随时改变他。"
@@ -762,7 +762,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:287 072359d02f5e4b96b7f89164491da668
 msgid "![alt text](_static/images/root/media/image35.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image35.png)"
 
 #: ../../root_界面介绍.md:289 74dbbde10d79432c8ba2e1cb5ecd0a74
 msgid "**服务器地址**：请输入这个服务器的地址，它可能是一个域或者IP。"
@@ -794,7 +794,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:299 65140dc23c13497e828bf3ed608bf4d1
 msgid "![alt text](_static/images/root/media/image36.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image36.png)"
 
 #: ../../root_界面介绍.md:301 fd966c9aba06448886335ea26b46a182
 msgid "**注册服务器**： 请选择一个注册服务器。"
@@ -852,7 +852,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:326 d407f3c97bae4b98a8d618a7849284b2
 msgid "![alt text](_static/images/root/media/image37.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image37.png)"
 
 #: ../../root_界面介绍.md:328 bc112ba29877452a8169b86fdc913f90
 msgid "**验证域**： 需要验证的域。"
@@ -866,7 +866,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:334 e1d90db6403d4685ad279e10c2c36004
 msgid "![alt text](_static/images/root/media/image38.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image38.png)"
 
 #: ../../root_界面介绍.md:336 89442f7c88a948fabc08164a9417f92c
 msgid "**已拨**： 已拨打电话总数量。"
@@ -886,7 +886,7 @@ msgstr "【Advanced】Settings: (as shown in the figure below)"
 
 #: ../../root_界面介绍.md:344 785f0afb507d458cb96876559591a9ff
 msgid "![alt text](_static/images/root/media/image39.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image39.png)"
 
 #: ../../root_界面介绍.md:346 c3d36f9c70d64651b176064eae9b15bf
 msgid "**绑定呼入到 client**：您可以将此中继线绑定到某个Client，然后来自此中继线的所有呼叫都将发送到此Client。"
@@ -932,7 +932,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:362 418939acd1b04e7e8cad52854646d9cf
 msgid "![alt text](_static/images/root/media/image40.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image40.png)"
 
 #: ../../root_界面介绍.md:364 86baee4bb7eb45f98d71dc960d9b1616
 msgid "**名称**: 请为这个呼出规则命名。"
@@ -973,7 +973,7 @@ msgstr "[Incoming IP] Settings:"
 
 #: ../../root_界面介绍.md:378 30c86a68e88d4c5793c07d439560fc1b
 msgid "![alt text](_static/images/root/media/image41.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image41.png)"
 
 #: ../../root_界面介绍.md:380 e265456f705d4bc9b8667720efc5713e
 msgid "**呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。"
@@ -983,7 +983,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:382 9ea0043ffac244258cf3d6fd89706f3d
 msgid "![alt text](_static/images/root/media/image42.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image42.png)"
 
 #: ../../root_界面介绍.md:384 a26520ab17344fcdb59933e5573d1702
 msgid "**费率**: 缴纳费用的比率。"
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:394 67d346e49d0a48d48e3c662de3fd62b2
 msgid "![alt text](_static/images/root/media/image43.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image43.png)"
 
 #: ../../root_界面介绍.md:396 f401ae3cf7e24ede9a533413d2fdf317
 msgid "点击添加添加一个新的中继："
@@ -1023,7 +1023,7 @@ msgstr "Click Add to add a new relay:"
 
 #: ../../root_界面介绍.md:398 9371dc14f44544c6b328c5058f3e005d
 msgid "![alt text](_static/images/root/media/image44.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image44.png)"
 
 #: ../../root_界面介绍.md:400 9baddbdc3fad4881b4eb9cb0585dfc3c
 msgid "**DID号码**: Please enter a DID number, one per line."
@@ -1053,7 +1053,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:410 a8c2d5a132a8443fb1babdcd019a212b
 msgid "![alt text](_static/images/root/media/image45.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image45.png)"
 
 #: ../../root_界面介绍.md:412 b68761345a0247768eb331f6fd9008d7
 msgid "外显号码:"
@@ -1067,7 +1067,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:417 9b5bcfc6bf1647fb91cad01a5b69b663
 msgid "![alt text](_static/images/root/media/image46.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image46.png)"
 
 #: ../../root_界面介绍.md:419 a17e846f473c47b2b00af7db568db20a
 msgid "**选择【添加】，进入【常规】设置：（如下图）**"
@@ -1075,7 +1075,7 @@ msgstr "**Select [Add] and enter [General] settings: (as shown below) **"
 
 #: ../../root_界面介绍.md:421 897aab0ad62c48529ca673336be85f54
 msgid "![alt text](_static/images/root/media/image47.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image47.png)"
 
 #: ../../root_界面介绍.md:423 4af1d72ef5804f59adca8d9286839d77
 msgid "**外显号码**： 请输入您要添加的外显号码，每行一个。"
@@ -1109,7 +1109,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:435 3bf8edbfa0fe4648bb5f2b2bd0384561
 msgid "![alt text](_static/images/root/media/image48.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image48.png)"
 
 #: ../../root_界面介绍.md:437 54f87b9089e541f289fef73e47712f73
 msgid "**选择【添加】并输入【通用】设置：（如下图所示）**"
@@ -1119,7 +1119,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:439 56cdd0d72d274c3e8ab36229c798947b
 msgid "![alt text](_static/images/root/media/image49.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image49.png)"
 
 #: ../../root_界面介绍.md:441 dc461d2ff7d34a68966be54dd23f1148
 msgid "**操作**:"
@@ -1160,7 +1160,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:455 6029c800921948b69c17ba9de23afeaa
 msgid "![alt text](_static/images/root/media/image50.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image50.png)"
 
 #: ../../root_界面介绍.md:457 1413919e863244fe95723d60f525b73a
 msgid "**选择【添加】并输入【通用】设置:**"
@@ -1177,7 +1177,7 @@ msgstr "When the node type is normal: (as shown below)"
 
 #: ../../root_界面介绍.md:463 712bb0d1ca6b4db8932775792ebcd87f
 msgid "![alt text](_static/images/root/media/image51.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image51.png)"
 
 #: ../../root_界面介绍.md:465 715f1803b0d9491aa364a459eab999fa
 msgid "**节点名称**： 给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
@@ -1206,7 +1206,7 @@ msgstr "When the node type is opensips: (as shown below)"
 
 #: ../../root_界面介绍.md:478 496cfe5fb38b4940994b27ffc2b20f6d
 msgid "![alt text](_static/images/root/media/image52.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image52.png)"
 
 #: ../../root_界面介绍.md:480 25a24a22f19b4e7ab14f08de87927f6c
 msgid "**节点名称**：给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
@@ -1249,7 +1249,7 @@ msgstr "**Mysql database**: Fill in the MySQL database used by Opensips."
 
 #: ../../root_界面介绍.md:500 03e1c122fa774e21b96dccb68eb6c9e3
 msgid "![alt text](_static/images/root/media/image53.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image53.png)"
 
 #: ../../root_界面介绍.md:502 105bd1923d1e420cb6188e1ac49b6980
 msgid "**编辑节点**： 编辑这个节点。"
@@ -1282,7 +1282,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:515 7fee9ba8ded04a4c9618ff0eba6def88
 msgid "![alt text](_static/images/root/media/image54.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image54.png)"
 
 #: ../../root_界面介绍.md:517 ../../root_界面介绍.md:617 ../../root_界面介绍.md:633
 #: 7be9df6ab99b495d99fd5018777e5734 93f4b25887344222a80ef853564845bc
@@ -1292,7 +1292,7 @@ msgstr "**Select [Add] and enter [General] settings: (as shown below)**"
 
 #: ../../root_界面介绍.md:519 21ccfeaeabd5488387e10a6e15993c20
 msgid "![alt text](_static/images/root/media/image55.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image55.png)"
 
 #: ../../root_界面介绍.md:521 de2d34645a1b400da3ffe94d20d37ad0
 msgid "**规则**： 你可以在 M 天内呼叫 N 次超出设置次数通话会被限制。"
@@ -1315,7 +1315,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:527 08b8bf07dc0347c990f2d99bdaf517fc
 msgid "![alt text](_static/images/root/media/image56.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image56.png)"
 
 #: ../../root_界面介绍.md:529 ../../root_界面介绍.md:593
 #: 2313ba15ad734be58fa8426ae5232f2f 404b2cd8f5e24633845ec57b6c9a11a0
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:531 d45228e530394f4180faaa70419894ac
 msgid "![alt text](_static/images/root/media/image57.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image57.png)"
 
 #: ../../root_界面介绍.md:533 2567cdbed8d0435f9e19bc83890eefa4
 msgid "**档案名称**：请为该外呼档案命名。"
@@ -1339,7 +1339,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:537 a56537cdfc644f4484f39c195def6f71
 msgid "![alt text](_static/images/root/media/image58.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image58.png)"
 
 #: ../../root_界面介绍.md:539 a1bd4b12fd704936a77a04ebc3bca3f8
 msgid "**路由名称**： 请为该路由命名。"
@@ -1402,7 +1402,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:561 e60afdcc788d47ccb27c03913e7b2bdb
 msgid "![alt text](_static/images/root/media/image59.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image59.png)"
 
 #: ../../root_界面介绍.md:563 ../../root_界面介绍.md:575 ../../root_界面介绍.md:829
 #: 57d1c6e5e74e40ba9c410f55eb5bd05b 6cbf928a005d47b08d0b445444fa0695
@@ -1412,7 +1412,7 @@ msgstr "**Click [Add] to enter [General] settings: (as shown below)**"
 
 #: ../../root_界面介绍.md:565 77343765afd44832a7cc76cd1651ed9a
 msgid "![alt text](_static/images/root/media/image60.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image60.png)"
 
 #: ../../root_界面介绍.md:567 d4954cb432e14cd2a76c7ea4644b8a2c
 msgid "**暂停原因名称**： 设置暂停原因为其命名。"
@@ -1431,11 +1431,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:573 090fa6c502524bf2a575ddaefae8f0e1
 msgid "![alt text](_static/images/root/media/image61.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image61.png)"
 
 #: ../../root_界面介绍.md:577 074be63363614763968eb3656515fcaa
 msgid "![alt text](_static/images/root/media/image62.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image62.png)"
 
 #: ../../root_界面介绍.md:579 0ae11f8ff2da43e183393561cc1472f7
 msgid "**模版名称**：请填入模版名称。"
@@ -1470,11 +1470,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:591 05bfef0f238244fc821f7d5f83f1234b
 msgid "![alt text](_static/images/root/media/image63.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image63.png)"
 
 #: ../../root_界面介绍.md:595 2106f4b1c5e04573a12699b7c3b30ea2
 msgid "![alt text](_static/images/root/media/image64.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image64.png)"
 
 #: ../../root_界面介绍.md:597 9abcd0a88233479ea2f6710dbb14f7ab
 msgid "**短信档案名称**： 请给短信档案命名。"
@@ -1488,7 +1488,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:601 3b95bb11387b4e3ca92d80a0b3c54584
 msgid "![alt text](_static/images/root/media/image65.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image65.png)"
 
 #: ../../root_界面介绍.md:603 193a34b2805f44bd994ebd9bb27f4e6c
 msgid "**匹配标识串**： 客户请求中用于选择要发送短信的供应商的标识字符串。"
@@ -1508,7 +1508,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:609 272ba6bb501e4400a1a90f088bf63954
 msgid "![alt text](_static/images/root/media/image66.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image66.png)"
 
 #: ../../root_界面介绍.md:611 82b78fe4d7d640399ebdbe97eb0d07e4
 msgid "短信供应商:"
@@ -1523,11 +1523,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:615 f5299d3b5b1e43dfba98275cf41705a6
 msgid "![alt text](_static/images/root/media/image67.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image67.png)"
 
 #: ../../root_界面介绍.md:619 d8c03673fa014a20b975ebb9d0e45975
 msgid "![alt text](_static/images/root/media/image68.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image68.png)"
 
 #: ../../root_界面介绍.md:621 581be7be0d4944e7b6e967631012cc03
 msgid "**供应商名称**： 请输入短信供应商名称。"
@@ -1557,11 +1557,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:631 7cbda46af21a429db16d7388090c96d8
 msgid "![alt text](_static/images/root/media/image69.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image69.png)"
 
 #: ../../root_界面介绍.md:635 d1dcb256a5284e479d65e2461a3cc3d3
 msgid "![alt text](_static/images/root/media/image70.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image70.png)"
 
 #: ../../root_界面介绍.md:637 5cc7ba9c3dc943e88cf5578f33b8d5a4
 msgid "**服务器名称**： 请为这个服务器命名。"
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:659 85c35b32492048d6a8333dfc9f0fcc69
 msgid "![alt text](_static/images/root/media/image71.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image71.png)"
 
 #: ../../root_界面介绍.md:661 b83e776abcfc40498d76cea497f5fa70
 msgid "j. 监控管理:"
@@ -1631,7 +1631,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:665 b2c5130530cf4e868d2ac127e0101588
 msgid "![alt text](_static/images/root/media/image72.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image72.png)"
 
 #: ../../root_界面介绍.md:667 c9a8805920bb4ce1acf8c6db4ac10a45
 msgid "k. 日志记录:"
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:671 3262191aac674c5480dbc3307a596a5f
 msgid "![alt text](_static/images/root/media/image73.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image73.png)"
 
 #: ../../root_界面介绍.md:673 362eca6518a34bed89eb238387d87962
 msgid "l. 系统:"
@@ -1665,7 +1665,7 @@ msgstr "【General】Setting page: (as shown below)"
 
 #: ../../root_界面介绍.md:681 978d36efb6124fd4a1b05919a78c3805
 msgid "![alt text](_static/images/root/media/image74.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image74.png)"
 
 #: ../../root_界面介绍.md:683 4c00e992cd6e45c185892814c54d1938
 msgid "**时区**： 当前使用的时区，默认为东京且无法修改。"
@@ -1734,7 +1734,7 @@ msgstr "[Currency] Setting Page: (As shown below)"
 
 #: ../../root_界面介绍.md:711 18777a636bc2415097541c173237fe09
 msgid "![alt text](_static/images/root/media/image75.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image75.png)"
 
 #: ../../root_界面介绍.md:713 2a3ff4cbe9de49fc9b01f9d88bd434d8
 msgid "**货币**： 设置货币。."
@@ -1762,7 +1762,7 @@ msgstr "【Data】Setting page: (as shown below)"
 
 #: ../../root_界面介绍.md:725 f83c6350c8ba46c0b80c198671de03d6
 msgid "![alt text](_static/images/root/media/image76.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image76.png)"
 
 #: ../../root_界面介绍.md:727 3f9e8e4726fa4f6cb56eef469e14d169
 msgid "**导出文件编**： 设置导出文件编码。"
@@ -1780,7 +1780,7 @@ msgstr "[Dial] Setting page: (as shown below)"
 
 #: ../../root_界面介绍.md:733 430f66fb226e4f8aa63ef5ff4e0ebeb0
 msgid "![alt text](_static/images/root/media/image77.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image77.png)"
 
 #: ../../root_界面介绍.md:735 81612f8e5cd6426db01f5e19e834d213
 msgid "**拨打外线超时**： 外呼振铃时长。"
@@ -1810,7 +1810,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:745 73fee14f96b2472aa463944d6dc69adb
 msgid "![alt text](_static/images/root/media/image78.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image78.png)"
 
 #: ../../root_界面介绍.md:747 7c37deff110a4fdc92349f3d6ff381d0
 msgid "**选择【添加】并进入【常规】设置：（如下图）**"
@@ -1818,7 +1818,7 @@ msgstr "**Select [Add] and enter [General] settings: (as shown below)**"
 
 #: ../../root_界面介绍.md:749 361b0b87f09c4cf991141aa1f40d2b73
 msgid "![alt text](_static/images/root/media/image79.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image79.png)"
 
 #: ../../root_界面介绍.md:751 2a57a6ee864145d59d7665e7bc4e2d35
 msgid "**名称**：为此销售漏斗命名。"
@@ -1858,7 +1858,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:767 c1e7ac51beb2494c94e29c55f0f4bc41
 msgid "![alt text](_static/images/root/media/image80.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image80.png)"
 
 #: ../../root_界面介绍.md:769 1945be0c32fb45c0aad3b8ec818cba03
 msgid "高级:"
@@ -1874,7 +1874,7 @@ msgstr "**\\[Basic\\] Settings: (as shown below) **"
 
 #: ../../root_界面介绍.md:775 9e90dab554744b4fbf8453e0f72d64fc
 msgid "![alt text](_static/images/root/media/image81.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image81.png)"
 
 #: ../../root_界面介绍.md:777 2b0cc6bd7278428fa8d2c6227fb7044a
 msgid "**事件类型**;"
@@ -1934,7 +1934,7 @@ msgstr "**\\[Record Transfer\\] Settings: (as shown below) **"
 
 #: ../../root_界面介绍.md:811 ad9efa749b8e4ac8ac21efbb8d747117
 msgid "![alt text](_static/images/root/media/image82.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image82.png)"
 
 #: ../../root_界面介绍.md:813 28ca1048b4de4281819d9f8efe9a2ad0
 msgid "**转移路径**: 录音合成后，系统会将文件发送到该地址。"
@@ -1957,7 +1957,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:821 0215e2e33d2e4e869994e869fb22ecc2
 msgid "![alt text](_static/images/root/media/image83.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image83.png)"
 
 #: ../../root_界面介绍.md:823 3758ed93982d447e94ced9ca8107875f
 msgid "假期设置 :"
@@ -1972,11 +1972,11 @@ msgstr ""
 
 #: ../../root_界面介绍.md:827 54977779b71446b69442e328adffc141
 msgid "![alt text](_static/images/root/media/image84.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image84.png)"
 
 #: ../../root_界面介绍.md:831 751a6db15312492aa92078fb74dae32f
 msgid "![alt text](_static/images/root/media/image85.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image85.png)"
 
 #: ../../root_界面介绍.md:833 08aed518126c4eab811d71d0d645f5d3
 msgid "**假日名称**: 假日名称。"
@@ -2003,7 +2003,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:843 12a7f0028627414a9ea176914fa35f36
 msgid "![alt text](_static/images/root/media/image86.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image86.png)"
 
 #: ../../root_界面介绍.md:845 11c10389994142dbbed76cd774fbdbd7
 msgid "**通知**: 将显示一些新消息（如下所示）。"
@@ -2012,7 +2012,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:847 623cb4deb9bc42c4a8e8d9df7f9fbe69
 msgid "![alt text](_static/images/root/media/image87.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image87.png)"
 
 #: ../../root_界面介绍.md:849 e5129c75b957464b84006e6cf407817e
 msgid "**语言**: Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）"
@@ -2022,7 +2022,7 @@ msgstr ""
 
 #: ../../root_界面介绍.md:851 5ad65071f1e746e69b33a2560f77df1d
 msgid "![alt text](_static/images/root/media/image88.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image88.png)"
 
 #: ../../root_界面介绍.md:853 311cdb38c05e4fa0a7aaec9f815d8508
 msgid "**我的档案**"
@@ -2030,7 +2030,7 @@ msgstr "**My Files**"
 
 #: ../../root_界面介绍.md:855 776af12105884261b4caeafcf59b30f0
 msgid "![alt text](_static/images/root/media/image89.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image89.png)"
 
 #: ../../root_界面介绍.md:857 22914f66a0d14165b12a05509ad90dfa
 msgid "**包括“我的档案”和“注销”**"

@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:11 f416209fd8da4a5ea0eb07270a685085
 msgid "![alt text](_static/images/client/media/image28.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image28.png)"
 
 #: ../../client_菜单功能.md:11 ../../client_菜单功能.md:25 ../../client_菜单功能.md:47
 #: ../../client_菜单功能.md:61 ../../client_菜单功能.md:69 ../../client_菜单功能.md:75
@@ -236,7 +236,7 @@ msgstr "[Drop-down menu] Log in with this account or delete the account."
 
 #: ../../client_菜单功能.md:25 8cf87affae1045389e98e0ec8b2b1813
 msgid "![alt text](_static/images/client/media/image29.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image29.png)"
 
 #: ../../client_菜单功能.md:27 ../../client_菜单功能.md:218 ../../client_菜单功能.md:378
 #: ../../client_菜单功能.md:432 ../../client_菜单功能.md:508 ../../client_菜单功能.md:602
@@ -284,7 +284,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:47 6fcc375edd44490987130440232f9eb1
 msgid "![alt text](_static/images/client/media/image30.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image30.png)"
 
 #: ../../client_菜单功能.md:49 74253af695d34aff9674acd367715f0d
 msgid "**用户名**：用户将用此用户名进行系统登录。"
@@ -312,7 +312,7 @@ msgstr "**Password**: Enter a password or, automatically generate a password."
 
 #: ../../client_菜单功能.md:61 157ca6ea5dec4139b940bb7dddc6ea7f
 msgid "![alt text](_static/images/client/media/image31.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image31.png)"
 
 #: ../../client_菜单功能.md:63 d5ecc0f5aaee4226a010a3ee895700db
 msgid "**确认密码**:请再次输入密码，确保两次密码相同。"
@@ -332,7 +332,7 @@ msgstr "②Click [Advanced] to set up the notes for this account:"
 
 #: ../../client_菜单功能.md:69 8e9de9d29993471bb6ddab13eb17f59e
 msgid "![alt text](_static/images/client/media/image32.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image32.png)"
 
 #: ../../client_菜单功能.md:71 4d9d2cf581634cd1a312f43aebd5ecbc
 msgid "③保存后，账户创建成功。"
@@ -347,7 +347,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:75 8f82e9eab45542c6b816bd8911d6edf5
 msgid "![alt text](_static/images/client/media/image33.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image33.png)"
 
 #: ../../client_菜单功能.md:77 405f8adbf70f49528e042e48da731f1e
 msgid "⑤点击下拉菜单，即可以该用户登录或删除该用户"
@@ -355,7 +355,7 @@ msgstr "⑤Click the drop-down menu to log in or delete the user"
 
 #: ../../client_菜单功能.md:79 4e8c6c380f4e4724b917367da6c4566c
 msgid "![alt text](_static/images/client/media/image34.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image34.png)"
 
 #: ../../client_菜单功能.md:81 c644aee693cd4209923c6475329a56b4
 msgid "3.1.2坐席"
@@ -384,7 +384,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:89 bc44346d7a744334987646a0b933fbf0
 msgid "![alt text](_static/images/client/media/image35.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image35.png)"
 
 #: ../../client_菜单功能.md:91 ddc3c7d2e1604190893df518cd3a89d2
 msgid "【搜索】全局搜索仅支持坐席工号搜索。"
@@ -466,7 +466,7 @@ msgstr "① Click Add to enter the general page of adding/editing agents:"
 
 #: ../../client_菜单功能.md:129 cd327062a7904512aa10ece3537b192d
 msgid "![alt text](_static/images/client/media/image36.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image36.png)"
 
 #: ../../client_菜单功能.md:131 6a6a1702deff487faa6e0ac99b82fefb
 msgid ""
@@ -530,7 +530,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:154 3b34227d19f54b24b81e15f9578c2002
 msgid "![alt text](_static/images/client/media/image37.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image37.png)"
 
 #: ../../client_菜单功能.md:158 95d5b8d8d0f54d16b0583c0e005ae118
 msgid ""
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:172 9faba133e0a34b3d905b1333a72a224c
 msgid "![alt text](_static/images/client/media/image38.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image38.png)"
 
 #: ../../client_菜单功能.md:174 0d81d494c02c48b598768a69fd5fc306
 msgid "**起始坐席工号**：添加坐席的首个开头工号。"
@@ -638,7 +638,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:192 0dfa8d9d5b4c40519cff757baca1b07b
 msgid "![alt text](_static/images/client/media/image39.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image39.png)"
 
 #: ../../client_菜单功能.md:194 1584f5fdeab442c6a79df0db56dddf1f
 msgid "③对已经建立好的坐席，用户也可以选择需要的坐席，点击工具中的【批量编辑】，对坐席进行批量的快速编辑:"
@@ -649,7 +649,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:196 2a2ce756de7b4f57bdcd825bc328ba80
 msgid "![alt text](_static/images/client/media/image40.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image40.png)"
 
 #: ../../client_菜单功能.md:198 566093d1bcb942af85487b9dd6c43a8d
 msgid "3.1.3坐席组"
@@ -669,7 +669,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:204 bb9e617e79814aa39d3a68c9f4950058
 msgid "![alt text](_static/images/client/media/image41.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image41.png)"
 
 #: ../../client_菜单功能.md:206 caae341d85d247c3bb12d04b5363f2b0
 msgid "【搜索】全局搜索仅支持坐席组名称搜索。"
@@ -795,7 +795,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:256 4a266828349a4b49862dd5add73da596
 msgid "![alt text](_static/images/client/media/image42.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image42.png)"
 
 #: ../../client_菜单功能.md:258 11e5ef4084354f7aae287d057eebe94d
 msgid "**自动退出话后**：设置坐席进入话后状态，多少秒之后自动结束话后。（当设置选择零时，即为不退出话后状态）"
@@ -814,7 +814,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:262 77c4675568924f7290149490f0fe4ee8
 msgid "![alt text](_static/images/client/media/image43.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image43.png)"
 
 #: ../../client_菜单功能.md:264 b2c64fe2eaa54a249a3de9af0591df4d
 msgid "**SIP自动应答**：大部分的IP话机支持一个特殊的SIP头消息，当呼叫请求中包含此消息时，话机会自动应答，例如点击拨号和预拨号。"
@@ -852,7 +852,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:276 ebd16df8e3624540a6874c52bdb5066b
 msgid "![alt text](_static/images/client/media/image44.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image44.png)"
 
 #: ../../client_菜单功能.md:278 da5a0200daad441b98e8c4624ba25467
 msgid "**呼入队列**：如果你想使用该坐席组处理呼入通话或者预拨号，你需要开启并配置队列功能。"
@@ -866,7 +866,7 @@ msgstr "**Ringing Strategy**:"
 
 #: ../../client_菜单功能.md:282 9679ee16760a4521bb7cbbaf8148e910
 msgid "![alt text](_static/images/client/media/image45.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image45.png)"
 
 #: ../../client_菜单功能.md:284 a094317e3a384e80b62b7692f795e3fc
 msgid ""
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:350 9a08d3222a8048229d09303fed5a063a
 msgid "![alt text](_static/images/client/media/image46.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image46.png)"
 
 #: ../../client_菜单功能.md:352 e473cf5280314ac9a33a9a1aa9f531f9
 msgid "**技能别名**：坐席组能够被分配到在线咨询服务中。技能别名是这个坐席组能够对外提供的服务名称，用于展示给客户。"
@@ -1127,7 +1127,7 @@ msgstr "**Role** Used to control user permissions. "
 
 #: ../../client_菜单功能.md:364 bcb297aa24fa42589852987e3d6e41e1
 msgid "![alt text](_static/images/client/media/image47.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image47.png)"
 
 #: ../../client_菜单功能.md:366 fce0e87e9a744808ada652af2d328dc5
 msgid "【搜索】仅支持以角色名称进行全域搜索。"
@@ -1168,7 +1168,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:390 a2ad52f2d83944618f681490c8b60775
 msgid "![alt text](_static/images/client/media/image48.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image48.png)"
 
 #: ../../client_菜单功能.md:392 685cb75a8e674e0d914908373ac2d91b
 msgid "【名称】请为这个权限的角色命名。"
@@ -1182,7 +1182,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:396 2c60ab42f5d849d3a162defb369aa583
 msgid "![alt text](_static/images/client/media/image49.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image49.png)"
 
 #: ../../client_菜单功能.md:398 ffdb10b0586b47749e685c34d0657c38
 msgid ""
@@ -1196,7 +1196,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:400 602138a953044363a16f94ffb3f862a1
 msgid "![alt text](_static/images/client/media/image50.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image50.png)"
 
 #: ../../client_菜单功能.md:402 9a59b19d215544009997a9ff2e5d9d21
 msgid ""
@@ -1217,7 +1217,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:406 a8fbc6f69ccd4b5a8f7e50db1074d35e
 msgid "![alt text](_static/images/client/media/image51.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image51.png)"
 
 #: ../../client_菜单功能.md:408 d7ce869b3ebc4f42b0b1666c40e15552
 msgid ""
@@ -1253,7 +1253,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:418 01d48116a3154060b80e6fc954282e4c
 msgid "![alt text](_static/images/client/media/image52.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image52.png)"
 
 #: ../../client_菜单功能.md:420 fd7ae54067474a47a01b81e40e87edac
 msgid "【搜索】全局搜索仅支持部门名称搜索。"
@@ -1266,7 +1266,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:424 629f0450b30a4f2ca52705c579da1384
 msgid "![alt text](_static/images/client/media/image53.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image53.png)"
 
 #: ../../client_菜单功能.md:426 59be58155e43429daa1f6a5811a5f80e
 msgid "【添加】添加一个新的部门"
@@ -1304,7 +1304,7 @@ msgstr "① Click Add to enter the general page of the Add/Editor Department:"
 
 #: ../../client_菜单功能.md:444 59cb9a4b919e4a53baf04a1ba3a7a7b2
 msgid "![alt text](_static/images/client/media/image54.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image54.png)"
 
 #: ../../client_菜单功能.md:446 c8668e8c215341848e00e3249ecb8375
 msgid "**部门名称**：请填写这个部门名称。"
@@ -1357,7 +1357,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:466 0350b2f63365475499dbb9eab22ad081
 msgid "![alt text](_static/images/client/media/image55.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image55.png)"
 
 #: ../../client_菜单功能.md:468 10d29d3bf52249d5a56bcf543dc1fe9f
 msgid ""
@@ -1392,7 +1392,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:480 033da91dadb342a2a078120375b6cce5
 msgid "![alt text](_static/images/client/media/image56.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image56.png)"
 
 #: ../../client_菜单功能.md:482 c366b415154a4784bc0b079ebb8672c3
 msgid "***字段修复***-在自定义字段不显示或显示不完全有错误时可以进行字段修复。"
@@ -1402,7 +1402,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:484 679a58f42738466e935e6b918c983e04
 msgid "![alt text](_static/images/client/media/image57.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image57.png)"
 
 #: ../../client_菜单功能.md:486 59606c6343f3492f9b1c725fd29c8510
 msgid "**指定修复键**:客户数据页面缺失自定义字段的功能，缺失附件上传功能，包括客户弹屏界面，附件上传流程异常。"
@@ -1434,11 +1434,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:494 e3a39cb684de46ce8401231cd2794439
 msgid "![alt text](_static/images/client/media/image58.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image58.png)"
 
 #: ../../client_菜单功能.md:496 7967228c9cfb4895a091b04412272163
 msgid "![alt text](_static/images/client/media/image59.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image59.png)"
 
 #: ../../client_菜单功能.md:498 b17b72ed290d4ebdb424bb38ce320865
 msgid ""
@@ -1451,11 +1451,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:500 4a56e591976347299d2754d5d921fd25
 msgid "![alt text](_static/images/client/media/image60.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image60.png)"
 
 #: ../../client_菜单功能.md:502 e59757a29a864138a6f3e53d6207087c
 msgid "![alt text](_static/images/client/media/image61.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image61.png)"
 
 #: ../../client_菜单功能.md:504 eb30aa0c58a34765904a5b615d9e1d98
 msgid "如果标签设置为 B，坐席登录后，客户数据弹出屏幕将在显示为高亮。"
@@ -1465,7 +1465,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:506 c8f318272f38417ca6ba6dcf9a103acd
 msgid "![alt text](_static/images/client/media/image62.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image62.png)"
 
 #: ../../client_菜单功能.md:510 e2f784efe8414f2ea6d14eae2178422a
 msgid "字段名：数据库里的字段名。"
@@ -1565,7 +1565,7 @@ msgstr "① Click Add to enter the Add/Edit Custom Field General Page:"
 
 #: ../../client_菜单功能.md:550 eb7d6f8bc8d241a89f74e5d8adc7deb5
 msgid "![alt text](_static/images/client/media/image63.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image63.png)"
 
 #: ../../client_菜单功能.md:552 c3aebb6f2f604b1c90dc93377fa6c311
 msgid "**所属客户包**:设置的字段所在的客户包，仅在该客户包下的客户能够查看这个自定义字段。"
@@ -1667,7 +1667,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:592 d88ebe4ca5b442f797fac6f8b1cc3808
 msgid "![alt text](_static/images/client/media/image64.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image64.png)"
 
 #: ../../client_菜单功能.md:594 2182f2a6ed2146a987b95c68461d9cad
 msgid "【全局搜索】该页面支持使用客户包的显示名称进行搜索。"
@@ -1725,7 +1725,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:618 fb52f6f2c1a14b6cb3fbe3f55ae66a54
 msgid "![alt text](_static/images/client/media/image65.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image65.png)"
 
 #: ../../client_菜单功能.md:620 34884fb9857346588f03f987d46277c4
 msgid "**显示名称**：该客户包所显示的客户包名称。"
@@ -1788,7 +1788,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:640 b4452592e75c40648366a645928012be
 msgid "![alt text](_static/images/client/media/image66.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image66.png)"
 
 #: ../../client_菜单功能.md:642 301451b9d1db4e9eb7ace91ace2c9f30
 msgid "**以下的默认、全局搜索、销售漏斗、所属任务、呼叫结果、客户标签都为搜索条件。**"
@@ -1819,7 +1819,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:650 679ee7826d1c4b4b9666c6cac0fd3760
 msgid "![alt text](_static/images/client/media/image67.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image67.png)"
 
 #: ../../client_菜单功能.md:652 f278e56733504e9990d2e0dc93a345c5
 msgid "【所属任务】】用户可以根据所属任务搜索客户数据，分配了任务的客户数据可以被分配到指定坐席。"
@@ -1836,7 +1836,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:656 e24ebfded3194b8ab08cf5e6c745794d
 msgid "![alt text](_static/images/client/media/image68.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image68.png)"
 
 #: ../../client_菜单功能.md:658 1d6e75f44455400cb409db1c883afbe9
 msgid "【客户标签】根据用户设置的客户标签搜索客户数据。"
@@ -1879,7 +1879,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:671 4f0dbb44714e46a1babe4d7e184a2d9e
 msgid "![alt text](_static/images/client/media/image69.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image69.png)"
 
 #: ../../client_菜单功能.md:673 4030af4686524de8a59b1be8f8777b0c
 msgid "↓↓↓直接分配给坐席"
@@ -1887,7 +1887,7 @@ msgstr "↓↓↓ Directly assigned to the seat"
 
 #: ../../client_菜单功能.md:675 f8f74b167ed34517b841a3b4e9a76de3
 msgid "![alt text](_static/images/client/media/image70.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image70.png)"
 
 #: ../../client_菜单功能.md:679 c22644e4f86f4ea5be09bca69917b484
 msgid "***导出CSV文件***-将数据以CSV格式导出;"
@@ -1895,7 +1895,7 @@ msgstr "***Export CSV file***-Export data in CSV format;"
 
 #: ../../client_菜单功能.md:681 c40a783e43d3449281d7c17197a49ba3
 msgid "![alt text](_static/images/client/media/image71.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image71.png)"
 
 #: ../../client_菜单功能.md:683 7e9de1e108cc461fbcf9e98204b2c2c3
 msgid ""
@@ -1920,7 +1920,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:691 efa95db8df02497386b9177bf52af49f
 msgid "![alt text](_static/images/client/media/image72.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image72.png)"
 
 #: ../../client_菜单功能.md:695 270cbddfc0ed4235a93970009a64f92d
 msgid "姓名：客户的姓名。"
@@ -2001,7 +2001,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:731 43bcb0c6d5874a759e994a4f06f415d3
 msgid "![alt text](_static/images/client/media/image73.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image73.png)"
 
 #: ../../client_菜单功能.md:733 e54b1de8a95b4373a7d206d2e86aba2c
 msgid "**姓名**：客户名称。当客户来电时弹出屏幕时，当客户弹出时显示的名称。"
@@ -2038,7 +2038,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:747 3a477c3db19b4c8daa7f612c16e88904
 msgid "![alt text](_static/images/client/media/image.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image.png)"
 
 #: ../../client_菜单功能.md:749 3103b2ce0b204c859c62f2362d1603be
 msgid "②点击数据进入添加/编辑客户数据的数据页面:"
@@ -2047,7 +2047,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:751 5ed2305f9153409f8c630497cbcc3049
 msgid "![alt text](_static/images/client/media/image75.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image75.png)"
 
 #: ../../client_菜单功能.md:753 5ec546f4fb9c434891cafb6b8a18d982
 msgid "**数据来源**：用户在数据来源页面可以对数据来源进行编辑，主要用于对客户数据进行分组。"
@@ -2097,7 +2097,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:769 701961283a594c3da755fd78c0876972
 msgid "![alt text](_static/images/client/media/image76.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image76.png)"
 
 #: ../../client_菜单功能.md:771 590a037ae2eb427a923314b540da9d82
 msgid "导入数据后，系统会自动匹配和数据相同的字段，系统没有的字段需要用户点击请选择的下拉菜单进行新建：请选择——新建字段——输入框（输入新字段）。"
@@ -2109,7 +2109,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:773 06e3c1d5de0142369c85e684d4f92370
 msgid "![alt text](_static/images/client/media/image77.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image77.png)"
 
 #: ../../client_菜单功能.md:775 13b7e653504a4492a144694a50a36d63
 msgid "【导入首行】选择是否导入数据中的第一行数据。"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:803 572a45e320df43c7b5db41e9efa758e1
 msgid "![alt text](_static/images/client/media/image78.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image78.png)"
 
 #: ../../client_菜单功能.md:805 78442f9b133b415399a27bde4465936b
 msgid "3.3添加至禁呼列表"
@@ -2227,11 +2227,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:813 5288026e402e4400b78a444e0dcb4da7
 msgid "![alt text](_static/images/client/media/image79.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image79.png)"
 
 #: ../../client_菜单功能.md:815 5c9fed533b614d01ae31578dd6215d53
 msgid "![alt text](_static/images/client/media/image80.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image80.png)"
 
 #: ../../client_菜单功能.md:817 95bf736688974cb1ac5401008de910a6
 msgid "坐席登录后可以看到这个客户的弹屏被标记为高亮，且高亮客户不能拨打电话。"
@@ -2241,7 +2241,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:819 a36937080571416d994d511ea00d860c
 msgid "![alt text](_static/images/client/media/image81.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image81.png)"
 
 #: ../../client_菜单功能.md:821 8edc3998e844425493a34718cc86d6c4
 msgid "3.4从禁呼列表移除"
@@ -2274,7 +2274,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:831 034b82ca8f524696bdd05d4bf3df0b75
 msgid "![alt text](_static/images/client/media/image82.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image82.png)"
 
 #: ../../client_菜单功能.md:833 fc1cabb88e244032924653ce51a5a298
 msgid "3.3.4通话记录"
@@ -2298,7 +2298,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:839 be33a02c944c4656b57731def4a7a0f6
 msgid "![alt text](_static/images/client/media/image83.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image83.png)"
 
 #: ../../client_菜单功能.md:841 a4d90983c08e47f585437300392e8e5f
 msgid "上图中的【全部】可将通话记录按照全部、默认客户包和客户包进行筛选。"
@@ -2336,7 +2336,7 @@ msgstr "【Tools】The user can choose to export the CSV file by calling history
 
 #: ../../client_菜单功能.md:853 231673155f6d43ad8b18283f2f81718e
 msgid "![alt text](_static/images/client/media/image84.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image84.png)"
 
 #: ../../client_菜单功能.md:855 ca334820b81547b685c0aa63989b0500
 msgid "【试听】点击试听在通话记录上方会有该录音的播放器显示，用户可以选择跨进或减慢该录音的播放速度。"
@@ -2347,7 +2347,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:857 a5402f10d3f6405c93457fca60eb6847
 msgid "![alt text](_static/images/client/media/image85.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image85.png)"
 
 #: ../../client_菜单功能.md:859 99a2b59aee4a4a7db812396fd99f593d
 msgid "【下拉菜单】点击下载录音。"
@@ -2355,7 +2355,7 @@ msgstr "[Drop-down menu] Click to download the recording."
 
 #: ../../client_菜单功能.md:861 67d75b1a61414b49bd0fdea60a62fa51
 msgid "![alt text](_static/images/client/media/image86.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image86.png)"
 
 #: ../../client_菜单功能.md:863 ../../client_菜单功能.md:2285
 #: ../../client_菜单功能.md:4176 dcf81f4a6e4d4ea6b7973e03ded3595d
@@ -2820,7 +2820,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1045 73f920a153a14cf399317cda5476ab2e
 msgid "![alt text](_static/images/client/media/image87.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image87.png)"
 
 #: ../../client_菜单功能.md:1047 0c8c620046734be98c61989aa83832df
 msgid "上图中的【默认】可将联络记录按照默认和客户包进行筛选。"
@@ -2839,7 +2839,7 @@ msgstr "【Tools】Export files in CSV format. "
 
 #: ../../client_菜单功能.md:1053 33986ae09be748f0910e2821288d9656
 msgid "![alt text](_static/images/client/media/image88.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image88.png)"
 
 #: ../../client_菜单功能.md:1055 ../../client_菜单功能.md:3417
 #: c33c7481dd4f466da9cf440568add1f3
@@ -2947,7 +2947,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1099 6553cb899cf04f6288500692568abfe9
 msgid "![alt text](_static/images/client/media/image89.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image89.png)"
 
 #: ../../client_菜单功能.md:1101 b18df7c175774e5185fc04d172959f81
 msgid "【搜索】全局搜索仅支持使用标签名称进行搜索。"
@@ -2985,7 +2985,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1117 ceedeb7ff0fa4d3a82706be1cccb8129
 msgid "![alt text](_static/images/client/media/image90.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image90.png)"
 
 #: ../../client_菜单功能.md:1119 45d424c561ea4495b54895bc205a83c1
 msgid "②点击高级进入添加新客户标签高级界面："
@@ -2994,7 +2994,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1121 78216e7b58ab45a78506a0dba120396d
 msgid "![alt text](_static/images/client/media/image91.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image91.png)"
 
 #: ../../client_菜单功能.md:1123 ddda22a661b042eeb7a94559f94e97ac
 msgid "③保存新的客户标签后，可以在客户数据的【添加/编辑客户数据】的数据页面中选择客户标签。"
@@ -3004,7 +3004,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1125 fe66a5544f6c466aa334bf9a04c4d983
 msgid "![alt text](_static/images/client/media/image92.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image92.png)"
 
 #: ../../client_菜单功能.md:1127 efe358bab6df4c6b94acffae475e647f
 msgid "3.3.7 数据来源"
@@ -3032,7 +3032,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1135 fe250727215e45ee82f168389e0a10f6
 msgid "![alt text](_static/images/client/media/image93.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image93.png)"
 
 #: ../../client_菜单功能.md:1137 2754a647f2c34f92a808165ec66f7c3c
 msgid "【搜索】全局搜索仅支持来源名称搜索。"
@@ -3069,7 +3069,7 @@ msgstr "① Click Add to enter the general page of adding/editing data source:"
 
 #: ../../client_菜单功能.md:1153 725c29d9c2c140249f90c6f3d53e789a
 msgid "![alt text](_static/images/client/media/image94.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image94.png)"
 
 #: ../../client_菜单功能.md:1155 646c92cb51bc46ca90ef86ff76b93d3a
 msgid "**来源名称**:请输入数据来源的名称。"
@@ -3088,7 +3088,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1161 17c3d8b73d734a0eb89ed59c5344d57c
 msgid "![alt text](_static/images/client/media/image95.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image95.png)"
 
 #: ../../client_菜单功能.md:1163 7357f1d9f7754bcca9ace5fe9b1ad033
 msgid "③点击保存即可保存新的数据来源"
@@ -3109,7 +3109,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1171 37300eb1eb40426fb24659df15e040bf
 msgid "![alt text](_static/images/client/media/image96.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image96.png)"
 
 #: ../../client_菜单功能.md:1173 c4521a32107f4ed2ae1da595f74fdb7e
 msgid "上图中【全部】可点击选择默认和客户包的弹屏警告。"
@@ -3155,7 +3155,7 @@ msgstr "① Click Add to enter the Add/Edit pop-up warning general page:"
 
 #: ../../client_菜单功能.md:1193 867da6cb91534005b2482e8010e7e600
 msgid "![alt text](_static/images/client/media/image97.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image97.png)"
 
 #: ../../client_菜单功能.md:1195 f2b7f991e67c4d09bcdfc53a167f44e8
 msgid "**所属客户包**：当前所属客户包。"
@@ -3181,7 +3181,7 @@ msgstr "② Click Save to add a new pop-up warning."
 
 #: ../../client_菜单功能.md:1205 ae0fb3551b4342e4a8575464acac44a7
 msgid "![alt text](_static/images/client/media/image98.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image98.png)"
 
 #: ../../client_菜单功能.md:1207 93c3c65014664bfe894ab0367ff9bd42
 msgid "2.2 坐席添加一个新的弹屏警告"
@@ -3204,7 +3204,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1213 471392682f1844f7a7760eab79b47df0
 msgid "![alt text](_static/images/client/media/image99.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image99.png)"
 
 #: ../../client_菜单功能.md:1215 9847172849c54070bf9795ceb688b1ae
 msgid "②坐席在客户备注页面会查看到自己设置的备注弹屏警告，此时弹屏警告未生效。"
@@ -3214,7 +3214,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1217 683734c3d9554724b238dff90cbd387b
 msgid "![alt text](_static/images/client/media/image100.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image100.png)"
 
 #: ../../client_菜单功能.md:1219 ee7ef73f0bcf40d28bca2324e0884768
 msgid "③client用户收到坐席的弹屏警告审核通知。"
@@ -3223,7 +3223,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1221 453a0da9b2e44578836433f3e6c0ded7
 msgid "![alt text](_static/images/client/media/image101.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image101.png)"
 
 #: ../../client_菜单功能.md:1223 f4e62025bf664117bf8b30c1c7455b86
 msgid ""
@@ -3237,7 +3237,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1225 0d2e45acb09c4f7596a0d00ed7e6e905
 msgid "![alt text](_static/images/client/media/image102.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image102.png)"
 
 #: ../../client_菜单功能.md:1227 5489ed08d6364bf1b2d960690116c6b2
 msgid "⑤弹屏警告设置成功后，坐席查看该客户资料，拨打该客户电话或者接听该客户电话时就会收到该条弹屏警告。"
@@ -3248,7 +3248,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1229 aa7e0e1fad08430b935b7fdf6891ec18
 msgid "![alt text](_static/images/client/media/image103.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image103.png)"
 
 #: ../../client_菜单功能.md:1231 153906a373624cf483129016aa766c50
 msgid "2. 显示/隐藏字段"
@@ -3290,7 +3290,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1247 bc7debc55aa14b98a36779a4bbc8eb46
 msgid "![alt text](_static/images/client/media/image104.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image104.png)"
 
 #: ../../client_菜单功能.md:1249 83f8cbdc418a426ca237765a22968a9c
 msgid "【搜索】全局搜搜仅支持搜索字典名称。"
@@ -3314,7 +3314,7 @@ msgstr "[Edit] or [Drop-down menu] edit or delete the current dictionary."
 
 #: ../../client_菜单功能.md:1261 814b058c87224da6a731be43a09b5d17
 msgid "![alt text](_static/images/client/media/image105.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image105.png)"
 
 #: ../../client_菜单功能.md:1263 21929462705042cd8a13b73ca9c503fa
 msgid "2 .显示/隐藏字段"
@@ -3352,7 +3352,7 @@ msgstr "For example dictionary example:"
 
 #: ../../client_菜单功能.md:1277 77735f3e6e194325a0e1ad448753e8c4
 msgid "![alt text](_static/images/client/media/image106.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image106.png)"
 
 #: ../../client_菜单功能.md:1279 230e9f7086de4887a203b2c6c02172f6
 msgid "Example of Original Imported Customer Data："
@@ -3360,7 +3360,7 @@ msgstr "Example of Original Imported Customer Data:"
 
 #: ../../client_菜单功能.md:1281 f181e71944b44b548268627feb36aea6
 msgid "![alt text](_static/images/client/media/image107.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image107.png)"
 
 #: ../../client_菜单功能.md:1283 faa117181cbc4c568a357275d153e9a0
 msgid "最终导入数据："
@@ -3368,7 +3368,7 @@ msgstr "Final import data:"
 
 #: ../../client_菜单功能.md:1285 55226360db214749ab4edc7f93eb1a74
 msgid "![alt text](_static/images/client/media/image108.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image108.png)"
 
 #: ../../client_菜单功能.md:1287 337141e61e234168878c13d6c5fe4d35
 msgid "4.字典使用的流程"
@@ -3382,7 +3382,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1291 f16d045aaca24340a33c407a835f29ad
 msgid "![alt text](_static/images/client/media/image109.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image109.png)"
 
 #: ../../client_菜单功能.md:1293 8e5dc8386cb64fbfbd9c1de5d7c203aa
 msgid "②在字典管理页面选择工具——导入字典："
@@ -3390,7 +3390,7 @@ msgstr "② Select tool on the dictionary management page - import dictionary:"
 
 #: ../../client_菜单功能.md:1295 65a6574c3f03410c845674036f77e0bc
 msgid "![alt text](_static/images/client/media/image110.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image110.png)"
 
 #: ../../client_菜单功能.md:1297 e55cbf1b213147be934e5439c0025781
 msgid "**字典名称**：选择需要导入数据的字典。"
@@ -3412,7 +3412,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1304 9f8b79bcfea0429e90902411a34278aa
 msgid "![alt text](_static/images/client/media/image111.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image111.png)"
 
 #: ../../client_菜单功能.md:1306 da3eadc3ff384ac38881b0e2bd6c9ede
 msgid "③字典建立完成在批量导入数据时，选择需要的字典内容，即可完成需要的数据填充。"
@@ -3422,7 +3422,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1308 e8ce90d805624d28a73d8a41526c9e3f
 msgid "![alt text](_static/images/client/media/image112.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image112.png)"
 
 #: ../../client_菜单功能.md:1310 168771e18cfb44baa8c9f5e0bc506261
 msgid "3.3任务管理"
@@ -3459,7 +3459,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1318 fa6eff6c7f1f45789952a4ed402acea6
 msgid "![alt text](_static/images/client/media/image113.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image113.png)"
 
 #: ../../client_菜单功能.md:1320 3679a2f314d24b128e440e87f5ab2252
 msgid "【搜索】全局搜索仅支持对任务名称进行搜索。"
@@ -3492,7 +3492,7 @@ msgstr "[Drop-down menu] In the edit drop-down menu of tasks:"
 
 #: ../../client_菜单功能.md:1332 4281136a6cf748d1a8cba835051c45c1
 msgid "![alt text](_static/images/client/media/image114.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image114.png)"
 
 #: ../../client_菜单功能.md:1334 8600f6f78ac34467b6e9cfd29e9c83a2
 msgid "**导入**：客户数据的导入，用户可以直接将客户数据导入到这个任务中或是下载该任务的客户数据模版。具体导入方法详见客户数据的导入"
@@ -3502,7 +3502,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1336 6c2876e47ec44e3888fed51a9aa2bd65
 msgid "![alt text](_static/images/client/media/image115.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image115.png)"
 
 #: ../../client_菜单功能.md:1338 0499a960e664484f865e6178c29a599b
 msgid "**下载导入模版**：下载 CSV 格式模板，以便在此推广活动下上传客户数据。"
@@ -3512,7 +3512,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1340 d35fdf0c64d645b2b43a312d5093e01d
 msgid "![alt text](_static/images/client/media/image116.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image116.png)"
 
 #: ../../client_菜单功能.md:1342 4bbd67e78e47434c8672753036a2936a
 msgid "**克隆**：点击克隆，用户可以复制一个相同设置的任务，并对复制任务进行命名，但复制内容不包括被复制任务中的客户数据。"
@@ -3523,7 +3523,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1344 2616df9d526a472393c2b231f218bb27
 msgid "![alt text](_static/images/client/media/image117.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image117.png)"
 
 #: ../../client_菜单功能.md:1346 748f25cae6c744af85186dc2cae97d6c
 msgid "**信息群发**：对该任务中的客户进行信息群发。"
@@ -3533,7 +3533,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1348 d5d7b913eda345f1a1eb2874b20d3468
 msgid "![alt text](_static/images/client/media/image118.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image118.png)"
 
 #: ../../client_菜单功能.md:1350 4f415dc0e5514337b4486bada37dd027
 msgid "**呼叫结果设置**：用户可以选择该任务中需要设置的呼叫结果。"
@@ -3543,7 +3543,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1352 88e4884d22124706a555a728eefdbed0
 msgid "![alt text](_static/images/client/media/image119.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image119.png)"
 
 #: ../../client_菜单功能.md:1354 ../../client_菜单功能.md:1551
 #: ../../client_菜单功能.md:1719 ../../client_菜单功能.md:1771
@@ -3657,7 +3657,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1391 11406eef90c64d2f82512b5aa3120d8d
 msgid "![alt text](_static/images/client/media/image120.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image120.png)"
 
 #: ../../client_菜单功能.md:1393 1bfe9a20a3c84813ad268edc58e3dd4d
 msgid "**任务名称**：请为这个任务命名。"
@@ -3706,7 +3706,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1409 d5b1ea5d62d049d0adc82cc154614b1a
 msgid "![alt text](_static/images/client/media/image121.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image121.png)"
 
 #: ../../client_菜单功能.md:1411 1e81e4bfe7ab4d389c7281f47ff99659
 msgid ""
@@ -3726,7 +3726,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1415 4830e910a7fa4263b28b5f956a8bbd8f
 msgid "![alt text](_static/images/client/media/image122.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image122.png)"
 
 #: ../../client_菜单功能.md:1417 47d689a9ce5546819d5b0140f72e9784
 msgid "**状态**：用户可以选择该任务的状态，包括：启动、待审核、关闭、结算中、暂停。"
@@ -3749,11 +3749,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1423 500202ad50a44b5d8d1830ea17031eb2
 msgid "![alt text](_static/images/client/media/image123.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image123.png)"
 
 #: ../../client_菜单功能.md:1425 204430ff0c7143be8a5931aca4cb6e7d
 msgid "![alt text](_static/images/client/media/image124.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image124.png)"
 
 #: ../../client_菜单功能.md:1427 21acce71fe2e4c649dc6a7e0eb93d8dc
 msgid "***添加客户***-是否允许坐席向该任务中添加新的客户。"
@@ -3763,11 +3763,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1429 9207c961d4c24914b8b63385c47191c9
 msgid "![alt text](_static/images/client/media/image125.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image125.png)"
 
 #: ../../client_菜单功能.md:1431 d4fd93fdd6664124b65b1193673d2077
 msgid "![alt text](_static/images/client/media/image126.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image126.png)"
 
 #: ../../client_菜单功能.md:1433 85ef865ca97d43e4aebe106da99afe5c
 msgid "**提交后动作**：在坐席保存与客户的联络记录时："
@@ -3857,7 +3857,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1461 d8338d8147c749a59a03953a0a2240df
 msgid "![alt text](_static/images/client/media/image127.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image127.png)"
 
 #: ../../client_菜单功能.md:1463 46606a6e715d408db728d017d32c7013
 msgid "**最大客户样本数量**：坐席单次从项目客户池中获取客户的数量。"
@@ -3889,7 +3889,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1473 d92b38ac43a44b5c9893da08593d798b
 msgid "![alt text](_static/images/client/media/image128.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image128.png)"
 
 #: ../../client_菜单功能.md:1475 5400e906358447fab8372ca3e6d224ac
 msgid ""
@@ -3945,7 +3945,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1491 5173d2672e6c408c877ca5bf84301aa8
 msgid "![alt text](_static/images/client/media/image129.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image129.png)"
 
 #: ../../client_菜单功能.md:1493 da91faf02d334fd5bf3292468011efc1
 msgid "**重播次数**-开启预拨号后，当客户接听电话时，会播放语音列表。客户根据语音列表中的内容输入一串数字，输入的信息可以在通话记录中查看。"
@@ -3962,7 +3962,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1497 f93a7596ed0e43bb95fdf5b91005df1c
 msgid "![alt text](_static/images/client/media/image130.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image130.png)"
 
 #: ../../client_菜单功能.md:1499 3db17afcfe5741fb9ae71440b5fc2b81
 msgid "<span class=\"mark\">④点击话术进入添加/编辑任务管理的话术页面</span>:"
@@ -3972,7 +3972,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1501 b66f3a6e8cd541d1bfcc803b2b2dcfbc
 msgid "![alt text](_static/images/client/media/image131.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image131.png)"
 
 #: ../../client_菜单功能.md:1503 79cf77ec815d4cd4aaec8f6c4266c554
 msgid "**问卷**：<span class=\"mark\">在【问卷】中设置问卷，用于坐席根据问卷问题对客户进行问卷调查。</span>"
@@ -3989,7 +3989,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1507 c820bab648214c2c91ca2c27c9b403a1
 msgid "![alt text](_static/images/client/media/image132.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image132.png)"
 
 #: ../../client_菜单功能.md:1509 fdec30983bfd49b28b0145b050b07e45
 msgid "<span class=\"mark\">⑤点击质检进入添加/编辑任务管理的质检页面：</span>"
@@ -3999,7 +3999,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1511 1210ab91a9af4726b833c04a4829a044
 msgid "![alt text](_static/images/client/media/image133.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image133.png)"
 
 #: ../../client_菜单功能.md:1513 3c29bd8205da4f3bb0b485da9a0ad25c
 msgid "**质检比**：用于提示告知质检人员此任务的质检比例。"
@@ -4016,7 +4016,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1517 f9f07546b93e4aa5860709398ae3c1ae
 msgid "![alt text](_static/images/client/media/image134.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image134.png)"
 
 #: ../../client_菜单功能.md:1519 54c6b869384949b5aed3da538d1c2dfc
 msgid "<span class=\"mark\">⑥点击设置进入添加/编辑任务管理的设置页面</span>:"
@@ -4051,7 +4051,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1531 caae3dc4f5ad4cb5aa6a93370b07e230
 msgid "![alt text](_static/images/client/media/image135.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image135.png)"
 
 #: ../../client_菜单功能.md:1533 63c88ebbfa744e2cb3c32df34bf11b0c
 msgid "上图中的【默认】用户可以选择默认客户包或客户包查看成功提交客户数据。"
@@ -4196,7 +4196,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1591 0de9cbd7aca84cf0a0f51c1494ba5d7d
 msgid "![alt text](_static/images/client/media/image136.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image136.png)"
 
 #: ../../client_菜单功能.md:1593 7a3e57e0e7754a4ea8347e6be1f9bccb
 msgid "选择按最大并发，设置高级选项启用，此时预拨号会按照高级选项中的拨号间隔设置的秒数还有每次拨号最大并发进行拨号。"
@@ -4223,7 +4223,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1599 feb031fb46324173a464c6122248dd2b
 msgid "![alt text](_static/images/client/media/image137.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image137.png)"
 
 #: ../../client_菜单功能.md:1601 b40ddc02125a4b98973254beb72dacec
 msgid "启用：启动这个预拨号的高级设置。"
@@ -4382,7 +4382,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1663 052b0785ed23431291407383a804068c
 msgid "![alt text](_static/images/client/media/image140.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image140.png)"
 
 #: ../../client_菜单功能.md:1665 80a53b785f1a4320898c24269468f049
 msgid "**优先级**：在预拨号拨号时被分配数值越小的客户数据，拨打顺序越靠前，优先级可以从1-9数字中选择。"
@@ -4417,7 +4417,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1675 981e54fa090d44ae9f124baf04163f22
 msgid "![alt text](_static/images/client/media/image141.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image141.png)"
 
 #: ../../client_菜单功能.md:1677 e157f42525f642f5a8d873f4b71569c4
 msgid "在预拨号期间你可以点击查看【预拨号列表】，列表中显示了当前正在被预拨号的号码。"
@@ -4427,7 +4427,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1679 18691f5aebe94fdf90bb6fd4df573a74
 msgid "![alt text](_static/images/client/media/image142.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image142.png)"
 
 #: ../../client_菜单功能.md:1681 c3271bf899ca47708808648e7026f52d
 msgid "【搜索】全局搜索 ( 姓名,  電話番号,  Eメール,  住所,  地域,  メモ ) ..."
@@ -4462,7 +4462,7 @@ msgstr "**Show status during pre-dial**:"
 
 #: ../../client_菜单功能.md:1693 15657b0a26a64dfdb411037513010858
 msgid "![alt text](_static/images/client/media/image143.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image143.png)"
 
 #: ../../client_菜单功能.md:1695 f9872912730c42a5803af39b74e3bb1d
 msgid "**客户电话**：振铃客户的电话号码。"
@@ -4479,7 +4479,7 @@ msgstr "**Ringing duration**: The time the customer rings."
 
 #: ../../client_菜单功能.md:1701 b61a960ed7264643a13489379792d031
 msgid "![alt text](_static/images/client/media/image144.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image144.png)"
 
 #: ../../client_菜单功能.md:1703 2782f83d28ac4725a689ae5187bfd0a6
 msgid "**客户电话**：接通客户的电话号码。"
@@ -4498,7 +4498,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1711 e459829fc29b4b739e2cb5a54bec8b98
 msgid "![alt text](_static/images/client/media/image145.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image145.png)"
 
 #: ../../client_菜单功能.md:1713 3d767d11c57646b7b0039b08d0b320cc
 msgid "**客户电话**：坐席应答这个客户的电话号码。"
@@ -4594,7 +4594,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1757 4339b78689864e97b3461ec7486d86f9
 msgid "![alt text](_static/images/client/media/image146.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image146.png)"
 
 #: ../../client_菜单功能.md:1759 426c4a7fa76b48339d665c4cf2dbfe49
 msgid "【搜索】全局搜索仅可以使用呼叫结果名称来搜索。"
@@ -4653,7 +4653,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1787 b7554058c57a42758df736b1e0358414
 msgid "![alt text](_static/images/client/media/image147.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image147.png)"
 
 #: ../../client_菜单功能.md:1789 409ef5139736445495fba5a33dc5bbcd
 msgid "**呼叫结果名称**：用户可以自定义一个呼叫结果，当坐席完成通话后，坐席可以选择一个呼叫结果记录此次通话结束。"
@@ -4719,7 +4719,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1809 916b176e55df4133acb4dc6e4a82e821
 msgid "![alt text](_static/images/client/media/image148.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image148.png)"
 
 #: ../../client_菜单功能.md:1811 d6a6f6d513c64dec94d0ce1fdfc6683a
 msgid "【默认】选择需要质检的客户包。"
@@ -4760,7 +4760,7 @@ msgstr "【Preview】"
 
 #: ../../client_菜单功能.md:1829 4aa3b243e2cd4e9ba5cb27756ac5c102
 msgid "![alt text](_static/images/client/media/image149.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image149.png)"
 
 #: ../../client_菜单功能.md:1831 ae529b10dd5d46a9a1f21a9185b7e2f4
 msgid "【质检】点击质检进入质检页面。"
@@ -4770,7 +4770,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1833 0476b439e94f4f4496da87acfadbeb47
 msgid "![alt text](_static/images/client/media/image150.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image150.png)"
 
 #: ../../client_菜单功能.md:1835 e6638fa4cc7a4eb0b8827461dff0e4c8
 msgid "【下拉菜单】选择质量检查的结果可以对成功提交的数据进行快速质量检查。"
@@ -4780,7 +4780,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1837 08f559cda6bc49a2af38a07e913b80af
 msgid "![alt text](_static/images/client/media/image151.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image151.png)"
 
 #: ../../client_菜单功能.md:1841 0c78da17ed2742e2b87b9060221d312f
 msgid "外呼任务：组要质检呼叫的所属任务。"
@@ -4851,7 +4851,7 @@ msgstr "Click on Quality Inspection to enter the quality inspection process:"
 
 #: ../../client_菜单功能.md:1869 1bd6668240a44876815cd047a15033cd
 msgid "![alt text](_static/images/client/media/image152.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image152.png)"
 
 #: ../../client_菜单功能.md:1871 88b4acc50e3a4c9baf86ecf695c544fc
 msgid "在质检页面有4个功能块，包括质检、联络记录以及客户资料功能和上次质检结果。"
@@ -4881,11 +4881,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1879 e458a588a46449198b1b16093243e4ad
 msgid "![alt text](_static/images/client/media/image153.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image153.png)"
 
 #: ../../client_菜单功能.md:1881 8e765b4626bc4ad682780b80b0ad777a
 msgid "![alt text](_static/images/client/media/image154.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image154.png)"
 
 #: ../../client_菜单功能.md:1883 3a901189cac14694ad85b1f1ddaf38f3
 msgid "如果质检结果不规范、失败或可调用，质检员除了需要填写质检备注（质检备注的快速选择入口可在质检词条中设置）。"
@@ -4897,7 +4897,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1885 8f724f1434604eb498d896efbe3047f8
 msgid "![alt text](_static/images/client/media/image155.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image155.png)"
 
 #: ../../client_菜单功能.md:1887 e15e1f98afe4489ba7d5b675bb8747ca
 msgid "【相关记录】"
@@ -4912,7 +4912,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1891 367cb9a7276b4c869a3fb495509d3fcb
 msgid "![alt text](_static/images/client/media/image156.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image156.png)"
 
 #: ../../client_菜单功能.md:1893 7e2e9686007448e18c3b34c46d5057b6
 msgid "【客户资料】"
@@ -4924,7 +4924,7 @@ msgstr "Inspectors can view customer information during quality inspection."
 
 #: ../../client_菜单功能.md:1897 9b25f249a13948f480d49a2cd19243b6
 msgid "![alt text](_static/images/client/media/image157.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image157.png)"
 
 #: ../../client_菜单功能.md:1899 ac76aa1295a646be972b84414c92c2e8
 msgid "【上次质检结果】"
@@ -4943,7 +4943,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1903 9342e80cdb204bc996db13f8366416f6
 msgid "![alt text](_static/images/client/media/image158.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image158.png)"
 
 #: ../../client_菜单功能.md:1905 a2d9fafc5b1144ceacd96f4cdb959894
 msgid "联络记录：显示的是上次成功提交时所写的备注。"
@@ -4989,11 +4989,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1921 3413928e79f14a0487ce1da47eec2265
 msgid "![alt text](_static/images/client/media/image159.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image159.png)"
 
 #: ../../client_菜单功能.md:1923 d3f5f2ecc9074125bc1e2b38c11f5c73
 msgid "![alt text](_static/images/client/media/image160.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image160.png)"
 
 #: ../../client_菜单功能.md:1925 d0019b96d9b14e00895c3ca8c10a98f1
 msgid "【搜索】全局搜索仅可以使用质检词条名称来搜索。"
@@ -5038,7 +5038,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1945 6250dfcf31494066b382dbcaff2f0ffb
 msgid "![alt text](_static/images/client/media/image161.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image161.png)"
 
 #: ../../client_菜单功能.md:1947 0103a6a4e4f64cc8817ef1077a7f8bcb
 msgid "【搜索】全局搜索支持did号码、client以及域名进行搜索。"
@@ -5124,7 +5124,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1983 e6878b31cfc44e388bc8cd6437bb8c44
 msgid "![alt text](_static/images/client/media/image162.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image162.png)"
 
 #: ../../client_菜单功能.md:1985 5cae988873a54056be31d35765895703
 msgid "**ID**：每个DID号码都有一个唯一的ID。"
@@ -5168,7 +5168,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:1997 71fb27564d0543e6a727b3ec915a87df
 msgid "![alt text](_static/images/client/media/image163.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image163.png)"
 
 #: ../../client_菜单功能.md:1999 ad800f691788405d995a95927ef283ff
 msgid ""
@@ -5188,7 +5188,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2003 cf5e86aeaab6431ab53e24158212cbe7
 msgid "![alt text](_static/images/client/media/image164.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image164.png)"
 
 #: ../../client_菜单功能.md:2005 bbdc7d03885c4b7bb9dcd83e7ffd698c
 msgid "设置后如下图所示↓↓↓"
@@ -5196,11 +5196,11 @@ msgstr "After setting, it is shown in the following figure ↓↓↓"
 
 #: ../../client_菜单功能.md:2007 ae76e06cf8d74bf5a8c140445455795e
 msgid "![alt text](_static/images/client/media/image165.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image165.png)"
 
 #: ../../client_菜单功能.md:2009 b846a7b99402438ab8e75a7788cf3f44
 msgid "![alt text](_static/images/client/media/image166.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image166.png)"
 
 #: ../../client_菜单功能.md:2011 1183fa87cfd6492a8b273767b9627381
 msgid "**状态**：当DID号码被禁用时拨打该号码会直接拒绝该通话。"
@@ -5237,7 +5237,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2023 22896b1863324afc9cb2ef739debd808
 msgid "![alt text](_static/images/client/media/image167.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image167.png)"
 
 #: ../../client_菜单功能.md:2025 af9730f49d7c4864be193ef65bd208bc
 msgid "**国家**：在代理商或运营商级别设置的国家，client级别不可更改。"
@@ -5259,7 +5259,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2031 aa2f9a27c8574926acbbb49a659768ef
 msgid "![alt text](_static/images/client/media/image168.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image168.png)"
 
 #: ../../client_菜单功能.md:2033 900e7d360328487f8e479c91ad8eee85
 msgid "3.5.2 外显号码"
@@ -5299,7 +5299,7 @@ msgstr "2 Introduction to the function of the display number page"
 
 #: ../../client_菜单功能.md:2049 97c1afd7180346ac8c392c077cde3aa2
 msgid "![alt text](_static/images/client/media/image169.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image169.png)"
 
 #: ../../client_菜单功能.md:2051 9edf41950acb43a4b2e26c3d3ae812d8
 msgid "【搜索】全局搜索仅支持对外显号码进行搜索。"
@@ -5339,7 +5339,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2067 a2441b0a64c24409945fe91e872e532e
 msgid "![alt text](_static/images/client/media/image170.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image170.png)"
 
 #: ../../client_菜单功能.md:2069 bff1e9a23ef04f25a6c6a592f959171c
 msgid "**ID**：每个外显号码都有一个独立ID。"
@@ -5368,7 +5368,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2081 8947c584a4724d32a38347b38f6492ca
 msgid "![alt text](_static/images/client/media/image171.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image171.png)"
 
 #: ../../client_菜单功能.md:2083 f1b28086d63548b086189d7e1bbf3399
 msgid "【搜索】全局搜索支持媒体文件名称以及媒体文件描述搜索。"
@@ -5407,7 +5407,7 @@ msgstr "Media File Preview"
 
 #: ../../client_菜单功能.md:2097 2f8a55b66dae42f69f7802f7a59d8e74
 msgid "![alt text](_static/images/client/media/image172.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image172.png)"
 
 #: ../../client_菜单功能.md:2099 ac7fe1bdbf3c4ac791b6d9f3137c2e8b
 msgid "下载媒体文件的保存格式是wav"
@@ -5415,7 +5415,7 @@ msgstr "The saving format of the download media file is wav"
 
 #: ../../client_菜单功能.md:2101 72ddd31f31834adb91b4727332d21a53
 msgid "![alt text](_static/images/client/media/image173.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image173.png)"
 
 #: ../../client_菜单功能.md:2105 ae8c01a22f434311bf35a5a9e64ba27a
 msgid "媒体文件名称：媒体文件名。"
@@ -5467,7 +5467,7 @@ msgstr "① Click Add to enter the regular page of adding/editing media files:"
 
 #: ../../client_菜单功能.md:2129 84522d75bf8e4ff1ba23e1dcd84726eb
 msgid "![alt text](_static/images/client/media/image174.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image174.png)"
 
 #: ../../client_菜单功能.md:2131 9af1afc9739b4577ad9c9d4369a37926
 msgid "**媒体文件名称**：请为这个媒体文件命名。"
@@ -5531,7 +5531,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2157 5bd416aab09745faac307bcbd8e21289
 msgid "![alt text](_static/images/client/media/image175.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image175.png)"
 
 #: ../../client_菜单功能.md:2159 c7cfc68f48a44b5e8be6f52953b04cf2
 msgid "【默认路由】如果DID中无转向设置，且未新建路由设置转向，呼入将最后选择该默认路由进行转向。"
@@ -5564,7 +5564,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2171 b0bd492592ed430698dea608900c9bba
 msgid "![alt text](_static/images/client/media/image176.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image176.png)"
 
 #: ../../client_菜单功能.md:2173 e7cc6d9916df412bbdb09dc703b9f0d6
 msgid "**路由名称**：为这个呼入路由命名。"
@@ -5671,7 +5671,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2221 6b3d9fa7a8bb43dab606a3b2bdb8f3f0
 msgid "![alt text](_static/images/client/media/image177.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image177.png)"
 
 #: ../../client_菜单功能.md:2223 3e58345cd42d4885a9ae6f1cf43d6e04
 msgid "【搜索】全局搜索支持对菜单名称进行搜索。"
@@ -5699,7 +5699,7 @@ msgstr "① Click to add/edit the regular page of the IVR voice menu:"
 
 #: ../../client_菜单功能.md:2239 36dc39ef2c1d4be88da50c3244075858
 msgid "![alt text](_static/images/client/media/image178.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image178.png)"
 
 #: ../../client_菜单功能.md:2241 bbe0ec5b8f7543f9b584939a90613b4c
 msgid "**菜单名称**：为这个IVR命名。"
@@ -5756,7 +5756,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2257 b47b9d02455f450b85c412bb085169ba
 msgid "![alt text](_static/images/client/media/image179.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image179.png)"
 
 #: ../../client_菜单功能.md:2259 cc0b798c319544ac8c3dad81b9d1ca37
 msgid "**延迟播报**：用户初次到达IVR时，系统在播放语音前的等待时间。延迟播报用于避免IVR中的语音丢失（单位为秒）。"
@@ -5824,7 +5824,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2277 2b25aed34770404d8fe00aa994f286b0
 msgid "![alt text](_static/images/client/media/image180.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image180.png)"
 
 #: ../../client_菜单功能.md:2279 3b64b42390c4464286805ee25f6b8ddf
 msgid "**输入**:定义IVR所能接受的客户输入，内容包括数字0-9键，\\*键和#键。"
@@ -5921,7 +5921,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2321 b3912d403da14b988fa11b59368a508d
 msgid "![alt text](_static/images/client/media/image181.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image181.png)"
 
 #: ../../client_菜单功能.md:2323 b32c1d73b55648af83147baf78bfe5a9
 msgid "【搜索】全局搜索允许用户以语音名称进行搜索。"
@@ -5970,7 +5970,7 @@ msgstr "① Click Add to enter the general page of adding/editing playlist:"
 
 #: ../../client_菜单功能.md:2349 c5794a43d8104501ba2ff1088d0fd005
 msgid "![alt text](_static/images/client/media/image182.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image182.png)"
 
 #: ../../client_菜单功能.md:2351 7b35601e8a154294953394cbcdac31d5
 msgid "**语音名称**：为这个语音播报命名。"
@@ -6014,7 +6014,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2369 beafcf832e1d477fb39b26f4c9b92b30
 msgid "![alt text](_static/images/client/media/image183.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image183.png)"
 
 #: ../../client_菜单功能.md:2371 ee9f0d3f371f4c0d97a9415ea7b59641
 msgid "【搜索】全局搜索支持以振铃组名称进行搜索。"
@@ -6083,7 +6083,7 @@ msgstr "Click Add to enter the Add Ring Group page:"
 
 #: ../../client_菜单功能.md:2407 6a6c18bfafc2441a8671b2e994bc0eac
 msgid "![alt text](_static/images/client/media/image184.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image184.png)"
 
 #: ../../client_菜单功能.md:2409 3e9b0a83f1e749a5bf9e533b8de66be8
 msgid "**振铃组名称**：为这个振铃组命名。"
@@ -6183,7 +6183,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2443 89ee4634bf364abf87cba31fa1067533
 msgid "![alt text](_static/images/client/media/image185.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image185.png)"
 
 #: ../../client_菜单功能.md:2445 d051393e8d7c4226a10f238a074b9cbc
 msgid "【搜索】全局搜索仅支持对黑名单号码进行搜索。"
@@ -6213,7 +6213,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2459 c088a334851b469f98a992031239f882
 msgid "![alt text](_static/images/client/media/image186.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image186.png)"
 
 #: ../../client_菜单功能.md:2463 de8e7d288e554328beba375d7f2c2fe7
 msgid "黑名单号码：被加入黑名单的号码。"
@@ -6241,7 +6241,7 @@ msgstr "① Click Add to enter the general page of the Add/Edit Blacklist:"
 
 #: ../../client_菜单功能.md:2475 0c18764b0989487c9bc380cab21aca43
 msgid "![alt text](_static/images/client/media/image187.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image187.png)"
 
 #: ../../client_菜单功能.md:2477 c74ea3fecd6547dcae60bfc89714eafd
 msgid "**黑名单号码**：输入黑名单号码，批量输入时请用英文逗号或回车分隔。"
@@ -6271,7 +6271,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2487 d5e4941974e849dbae22c804ec507551
 msgid "![alt text](_static/images/client/media/image188.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image188.png)"
 
 #: ../../client_菜单功能.md:2489 87ce03f811444b9d8ee8e0cd2ce92c32
 msgid "点击添加黑名单后，坐席需要输入将这个电话添加到黑名单的原因。"
@@ -6281,7 +6281,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2491 13a008ee168342b2bb2ad5e7fb4fc1fa
 msgid "![alt text](_static/images/client/media/image189.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image189.png)"
 
 #: ../../client_菜单功能.md:2493 28fb9bd2cc9f44eb9e163fa9381d484d
 msgid ""
@@ -6294,7 +6294,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2495 d34ef2b1e68646fe8647ab7f8923d042
 msgid "![alt text](_static/images/client/media/image190.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image190.png)"
 
 #: ../../client_菜单功能.md:2497 5db7c02c0be64aca989324a54a1f2b6f
 msgid ""
@@ -6305,7 +6305,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2499 7e8a67452ee04ef183e59dd75c68d859
 msgid "![alt text](_static/images/client/media/image191.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image191.png)"
 
 #: ../../client_菜单功能.md:2501 0ee62fef5b37488e87e61421fc039405
 msgid "②点击编辑，进入黑名单审核页面："
@@ -6313,7 +6313,7 @@ msgstr "②Click Edit to enter the blacklist review page:"
 
 #: ../../client_菜单功能.md:2503 207abd81cf594fd48f8d45072c1c89e1
 msgid "![alt text](_static/images/client/media/image192.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image192.png)"
 
 #: ../../client_菜单功能.md:2505 2ebde05351b949a892171627dcf29dea
 msgid "**ID**：数据唯一ID。"
@@ -6345,7 +6345,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2517 18538be5052f4ecc9890e67ae2ac85c6
 msgid "![alt text](_static/images/client/media/image193.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image193.png)"
 
 #: ../../client_菜单功能.md:2519 03101a1da59a45b1b1667cfeac8309a3
 msgid "3.7.6 DNCs"
@@ -6366,7 +6366,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2525 c2a12cc9e0ec4660ac9c5258fdd6f60a
 msgid "![alt text](_static/images/client/media/image194.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image194.png)"
 
 #: ../../client_菜单功能.md:2527 ff306046fbf645e4b07fc4cb4083e430
 msgid "【全部】可按客户包搜索禁呼列表。"
@@ -6433,7 +6433,7 @@ msgstr "① Click Add to enter the regular page of the Add/Edit No Call List"
 
 #: ../../client_菜单功能.md:2559 78975146aea446028b9fee0a7c95a1a7
 msgid "![alt text](_static/images/client/media/image195.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image195.png)"
 
 #: ../../client_菜单功能.md:2561 fd19afcbfc044db1833bec22e0d44515
 msgid "**所属客户包**：选择禁呼号码所在的客户包，不同客户包内相同号码不会被影响。"
@@ -6465,7 +6465,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2571 68620e4a01df4dd9b7215ed7ef1dcf07
 msgid "![alt text](_static/images/client/media/image196.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image196.png)"
 
 #: ../../client_菜单功能.md:2573 53395ce869b0479b9988e5b947318d40
 msgid "3.2 坐席添加禁呼"
@@ -6480,7 +6480,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2577 870b7ddd03a445f8a2d480bab002de74
 msgid "![alt text](_static/images/client/media/image197.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image197.png)"
 
 #: ../../client_菜单功能.md:2579 efacf001dd3442bdbd8e89868787fd43
 msgid ""
@@ -6491,11 +6491,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2581 8432324dfca842d58811a2c8a6957487
 msgid "![alt text](_static/images/client/media/image198.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image198.png)"
 
 #: ../../client_菜单功能.md:2583 b06837a5d81942e3b974fa0f0cb0e32f
 msgid "![alt text](_static/images/client/media/image199.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image199.png)"
 
 #: ../../client_菜单功能.md:2585 38e12c65596043f6995eb43e39ced5d2
 msgid "②点击编辑即可进入添加/编辑禁呼列表常规页面："
@@ -6503,7 +6503,7 @@ msgstr "②Click Edit to enter the general page of the Add/Edit No Call List:"
 
 #: ../../client_菜单功能.md:2587 8d007c23703c44f189751cc25c73f205
 msgid "![alt text](_static/images/client/media/image200.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image200.png)"
 
 #: ../../client_菜单功能.md:2589 d5b1bc41c7674e4c9e1c04bd4138d4a4
 msgid "**ID**：创建禁呼号码后自动生成的表示身份的唯一ID。"
@@ -6547,7 +6547,7 @@ msgstr "③Select Enable Click Add to add the banned call list."
 
 #: ../../client_菜单功能.md:2605 692d2819a35f40589d943a648d9af0d8
 msgid "![alt text](_static/images/client/media/image201.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image201.png)"
 
 #: ../../client_菜单功能.md:2607 5d7305d7700847a5b19a60be2056da0b
 msgid "3.7.7 功能键"
@@ -6561,7 +6561,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2611 a8fdb025ee79461ca504ac7b9b3c16eb
 msgid "![alt text](_static/images/client/media/image202.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image202.png)"
 
 #: ../../client_菜单功能.md:2613 9074ffd48d054a808dcfa9132eb570d6
 msgid ""
@@ -6678,7 +6678,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2647 715eda49c7c24cc9a3df3c1565bb4718
 msgid "![alt text](_static/images/client/media/image203.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image203.png)"
 
 #: ../../client_菜单功能.md:2649 dc0f7221a3254dd9b979b3dfe9a06d85
 msgid "【添加】添加一个新的条件。"
@@ -6737,7 +6737,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2679 c13e45cf6fe84409bc5bb6fa09b66c97
 msgid "![alt text](_static/images/client/media/image204.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image204.png)"
 
 #: ../../client_菜单功能.md:2681 84cf1713747c4c8fbccd51f27db1c71f
 msgid "**名称**：为这个条件命名。"
@@ -6780,7 +6780,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2693 6fb8b49a1bf64e0187588af4e2dbd421
 msgid "![alt text](_static/images/client/media/image205.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image205.png)"
 
 #: ../../client_菜单功能.md:2695 5801e9961a534149ba6f9ce1bd641ea9
 msgid "**符合转向**：选择符合该时间条件的转向。"
@@ -6806,11 +6806,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2703 66bdea987f9c4f9f8e7226a4212f2d04
 msgid "![alt text](_static/images/client/media/image206.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image206.png)"
 
 #: ../../client_菜单功能.md:2705 3f6c70aaf4bf44e4a0a627afdc78b28f
 msgid "![alt text](_static/images/client/media/image207.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image207.png)"
 
 #: ../../client_菜单功能.md:2707 277af1e84d5b4fababaffe2884648112
 msgid "**②指定时间**：选择指定时间的范围，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个指定时间。"
@@ -6821,7 +6821,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2709 6954129b8ea24401a2f3c76fd65b1ba2
 msgid "![alt text](_static/images/client/media/image208.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image208.png)"
 
 #: ../../client_菜单功能.md:2711 12c5db041ea24b3196fb282dbde9df87
 msgid "**③指定日期**：选择指定日期，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个指定日期。"
@@ -6832,7 +6832,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2713 e05e929b6a40477e8a656ce8732d48f1
 msgid "![alt text](_static/images/client/media/image209.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image209.png)"
 
 #: ../../client_菜单功能.md:2715 7024bab6ffcf4e49838b542ddf8fb3d1
 msgid "**④日期范围**：选择一个条件生成的日期范围，然后选择符合该条件的转向和不符合该时间条件的转向保存即可，可添加多个日期范围。"
@@ -6843,7 +6843,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2717 d517ad304d6c4ac2b462793422850ecb
 msgid "![alt text](_static/images/client/media/image210.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image210.png)"
 
 #: ../../client_菜单功能.md:2719 b5cdf77cd8594ac19f4d0bfb0011f6f4
 msgid "②点击使用情况进入添加/编辑条件的使用情况页面："
@@ -6855,7 +6855,7 @@ msgstr "You can see all tasks using this condition on the Usage page. "
 
 #: ../../client_菜单功能.md:2723 c279195f50b3417197d1a4bada240c2d
 msgid "![alt text](_static/images/client/media/image211.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image211.png)"
 
 #: ../../client_菜单功能.md:2725 15c120f19a9b4c13b31d1a723ff70256
 msgid "③点击保存即可添加成功新的条件。"
@@ -6874,7 +6874,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2733 9869170397714846aad4153eb2acaa7a
 msgid "![alt text](_static/images/client/media/image212.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image212.png)"
 
 #: ../../client_菜单功能.md:2735 52bd13bbd209496c975d5d7a3a6f9965
 msgid "【搜索】仅支持以暂停原因名称进行全局搜索。"
@@ -6906,7 +6906,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2751 c6d74b7f1ab744a0a2674b9c5d4836a4
 msgid "![alt text](_static/images/client/media/image213.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image213.png)"
 
 #: ../../client_菜单功能.md:2753 54461d8c888c42fe9fd88fbd0265a833
 msgid "②点击保存即可添加成功新的暂停原因。"
@@ -6922,7 +6922,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2757 b465d185813940c09a9ee13c01cc95ca
 msgid "![alt text](_static/images/client/media/image214.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image214.png)"
 
 #: ../../client_菜单功能.md:2759 7e660c20ce9e481a87b6eaabbfa84d21
 msgid "2.7.10 话机部署模板"
@@ -6944,7 +6944,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2767 df7e2bd79d724ea9be696990251e7e9f
 msgid "![alt text](_static/images/client/media/image215.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image215.png)"
 
 #: ../../client_菜单功能.md:2769 f1710abc305c41cb82385a1092cb358b
 msgid "【搜索】全局搜索支持以话机部署模板的名称进行搜索。"
@@ -7002,7 +7002,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2799 062c6b48795e4eb0a0e8fcf11b504f40
 msgid "![alt text](_static/images/client/media/image216.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image216.png)"
 
 #: ../../client_菜单功能.md:2801 670a3dd74a5840008a9f052c2b5eb4d1
 msgid "**模板名称**：请写出模板的名称。"
@@ -7032,7 +7032,7 @@ msgstr "3.7.1 Knowledge Base"
 
 #: ../../client_菜单功能.md:2815 3f435c2e285545e2850fae04391800ac
 msgid "![alt text](_static/images/client/media/image217.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image217.png)"
 
 #: ../../client_菜单功能.md:2817 ce5d483182d04daa8a74506f5e129102
 msgid "【搜索】搜索知识库里的文件。"
@@ -7045,7 +7045,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2821 5270ad0a59f149798029f6a27fac3b65
 msgid "![alt text](_static/images/client/media/image218.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image218.png)"
 
 #: ../../client_菜单功能.md:2823 70084afdc67e4a63bb1656334f4aad64
 msgid "**知识库名称**：为这个知识库命名。"
@@ -7066,7 +7066,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2829 8060e525e91c4599b1ee1157ae7899d3
 msgid "![alt text](_static/images/client/media/image219.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image219.png)"
 
 #: ../../client_菜单功能.md:2831 0f08adf625de4c8aa044ed5d6b17d66d
 msgid "添加完成后，点击折叠标志即可查看添加的知识库分支，也可进行添加删除编辑，对已经有知识库分支的知识库不能删除，需要先删除知识库分支后才可删除。"
@@ -7078,7 +7078,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2833 66963a828269489f9a146d5018901d59
 msgid "![alt text](_static/images/client/media/image220.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image220.png)"
 
 #: ../../client_菜单功能.md:2835 c2702138ca494741a895f00e762acabe
 msgid "2 添加知识"
@@ -7092,11 +7092,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2839 5202c2cdb92841d4967df54effd7f2ba
 msgid "![alt text](_static/images/client/media/image221.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image221.png)"
 
 #: ../../client_菜单功能.md:2841 848f5e285b8b4c67a22092a70fb87b44
 msgid "![alt text](_static/images/client/media/image222.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image222.png)"
 
 #: ../../client_菜单功能.md:2843 f25dc3348e1845e397cb52f2ccb1fc8c
 msgid "**问题**：输入需要解答的问题内容。"
@@ -7141,7 +7141,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2859 4da8c8ba57c54878a03f395c77ff214c
 msgid "![alt text](_static/images/client/media/image223.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image223.png)"
 
 #: ../../client_菜单功能.md:2861 af9d06911d934bb0889a15a0fca7565d
 msgid "【有效期】用户可以选择查看有关有效期限的知识库知识。"
@@ -7151,7 +7151,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2863 1dfbe2a57347412aa3c6ce5fea59a545
 msgid "![alt text](_static/images/client/media/image224.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image224.png)"
 
 #: ../../client_菜单功能.md:2865 de29988ae5be43eba88ee8c45548c1b3
 msgid "【最新】"
@@ -7164,7 +7164,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2869 a093fbb6d2b241fba579c00bf9f712de
 msgid "![alt text](_static/images/client/media/image225.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image225.png)"
 
 #: ../../client_菜单功能.md:2871 c5af2c6dd5c4481d98f90f5566959404
 msgid "【状态】"
@@ -7176,7 +7176,7 @@ msgstr "Users can view knowledge based on the review status of knowledge."
 
 #: ../../client_菜单功能.md:2875 adc28f6ea83a4841a4fd61cffe76b043
 msgid "![alt text](_static/images/client/media/image226.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image226.png)"
 
 #: ../../client_菜单功能.md:2877 8c3547b99f7c46ad818d44ae70170fe8
 msgid "【坐席知识】"
@@ -7190,7 +7190,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2881 38ff3d1ce46c4a6caf53fcb938206944
 msgid "![alt text](_static/images/client/media/image227.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image227.png)"
 
 #: ../../client_菜单功能.md:2883 def90a11e78f4101bba258e52b7cafbd
 msgid "点击【我的提交】进入坐席添加知识库页面，点击【添加知识】添加新知识"
@@ -7200,7 +7200,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2885 0f3a12674c0c411e90a2791a01147af4
 msgid "![alt text](_static/images/client/media/image228.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image228.png)"
 
 #: ../../client_菜单功能.md:2887 3e43080bc8ed411c886e686ac48e4a9c
 msgid "点击【知识列表】可查看已审核并提交但未审核的知识。可以直接点击大字体标签，显示该标签下的知识。"
@@ -7210,7 +7210,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2889 7f243bdf04a3485093ec784bc4f3743c
 msgid "![alt text](_static/images/client/media/image229.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image229.png)"
 
 #: ../../client_菜单功能.md:2891 3af700820bce46eeab24f045204ba63c
 msgid "点击【我的提交】，查看坐席自己提交的知识."
@@ -7219,7 +7219,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2893 56ee66de148d4050833bd4d2095e4cbf
 msgid "![alt text](_static/images/client/media/image230.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image230.png)"
 
 #: ../../client_菜单功能.md:2895 aac9d76b9ae94c2685986729a2090642
 msgid "坐席提交知识后client知识库页面上将出现提示。单击此提示，带有问号的知识将是需要审核的知识。点击这个黄色问号进入审核页面."
@@ -7229,7 +7229,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2897 ebc23d70bea34709bad4cb2d91355a38
 msgid "![alt text](_static/images/client/media/image231.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image231.png)"
 
 #: ../../client_菜单功能.md:2899 213e18a9c3ef42cf83264e84808512cd
 msgid "在页面上可以审核查看知识。"
@@ -7237,7 +7237,7 @@ msgstr "You can review the knowledge on the page."
 
 #: ../../client_菜单功能.md:2901 4a04f41fc6394f258eada911782aa332
 msgid "![alt text](_static/images/client/media/image232.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image232.png)"
 
 #: ../../client_菜单功能.md:2903 ff8046eb2bf14a4980c21c2e901fa1a1
 msgid "3.8 问卷"
@@ -7261,7 +7261,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2911 502c5a83d5d04a9a9c849989dd00cdbd
 msgid "![alt text](_static/images/client/media/image233.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image233.png)"
 
 #: ../../client_菜单功能.md:2913 6142948a314e4776a750c2b816bc181d
 msgid "【搜索】全局搜索支持以问卷名称搜索。"
@@ -7287,7 +7287,7 @@ msgstr "【Drop-down menu】"
 
 #: ../../client_菜单功能.md:2925 a3b066d0f2ca4fe6b7d122c68ade4164
 msgid "![alt text](_static/images/client/media/image234.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image234.png)"
 
 #: ../../client_菜单功能.md:2927 059b5d139ed440cda563b810576a6d01
 msgid "***删除***-删除这个问卷。"
@@ -7303,7 +7303,7 @@ msgstr "*** Questionnaire Preview***-Preview this questionnaire."
 
 #: ../../client_菜单功能.md:2933 3045f03e976643a7bdd4a3b55ee88820
 msgid "![alt text](_static/images/client/media/image235.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image235.png)"
 
 #: ../../client_菜单功能.md:2937 25d41e58341b4c95bf05f8de788648d4
 msgid "问卷名称：问卷的名称。"
@@ -7331,7 +7331,7 @@ msgstr "①C Click Add to enter the general page of the Add/Edit Questionnaire:"
 
 #: ../../client_菜单功能.md:2949 f0cb3a7b389f477aba03866f7cf790ec
 msgid "![alt text](_static/images/client/media/image236.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image236.png)"
 
 #: ../../client_菜单功能.md:2951 a91cd559eb554bfda69df784a214cd3e
 msgid "**问题名称**: 为问卷命名。"
@@ -7361,7 +7361,7 @@ msgstr "②Click Advanced to enter the Advanced Page of Add/Edit Questionnaire:"
 
 #: ../../client_菜单功能.md:2961 d52e6341bc114685a36b0b2f33a69b1f
 msgid "![alt text](_static/images/client/media/image237.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image237.png)"
 
 #: ../../client_菜单功能.md:2963 43c064d006c6423cb240767807e4f97f
 msgid "**欢迎语**：问卷首页的欢迎语。"
@@ -7383,7 +7383,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2971 f9cc849a920042d3a7ce774148e42e04
 msgid "![alt text](_static/images/client/media/image238.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image238.png)"
 
 #: ../../client_菜单功能.md:2973 463fb402da4748459df317a589e47ed5
 msgid "**问题名称**：一个问卷是由多个问题组成的，在在这里用户可以为其中一个问题命名。"
@@ -7429,7 +7429,7 @@ msgstr "***Multiple Choice-*** This question can have multiple options."
 
 #: ../../client_菜单功能.md:2989 fd57fe4bf3d945d4b4df93cf5c0e74b9
 msgid "![alt text](_static/images/client/media/image239.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image239.png)"
 
 #: ../../client_菜单功能.md:2991 73b5692fe137403aa3bcda9cc80c2c26
 msgid "***文本-*** 该问题没有选项，需要直接输入文字回答。"
@@ -7439,7 +7439,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:2993 2bdae59c29894ad6a0fa8e534904f4b8
 msgid "![alt text](_static/images/client/media/image240.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image240.png)"
 
 #: ../../client_菜单功能.md:2995 d82ebe4b04864cc0b7d8ec2eb5be03cb
 msgid "**可输入**：是否启用可输入，若启用可以在选择答案之后进行备注说明。"
@@ -7461,7 +7461,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3001 a0bc82b57249429eb60fa64762b9b5df
 msgid "![alt text](_static/images/client/media/image241.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image241.png)"
 
 #: ../../client_菜单功能.md:3003 2bd704746379429ba3b9915495f6aef3
 msgid "**问题**：根据只选择问卷的必选问题，进行逻辑问题的问答。"
@@ -7517,7 +7517,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3023 fba0109162ba4945bbb724ad0b55d48b
 msgid "![alt text](_static/images/client/media/image242.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image242.png)"
 
 #: ../../client_菜单功能.md:3025 19abbf7326024552a4bd3091117baaa3
 msgid "【搜索】全局搜索支持以模板名称进行搜索。"
@@ -7567,7 +7567,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3053 d6929cb061c847e8abcbc7d7528b818f
 msgid "![alt text](_static/images/client/media/image243.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image243.png)"
 
 #: ../../client_菜单功能.md:3055 79aeeb8cd4964b96b0e64a1e122f03f5
 msgid "**模板名称**：为这个模板命名。"
@@ -7581,7 +7581,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3059 4cfd9d6c68594694974bfd4b79688551
 msgid "![alt text](_static/images/client/media/image244.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image244.png)"
 
 #: ../../client_菜单功能.md:3061 3ceb569b46744d2fba233bffffb84fb1
 msgid "**单选**-此问题只能选择一个选项。"
@@ -7605,7 +7605,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3069 34d48391dd1a408eab12f24539f8df79
 msgid "![alt text](_static/images/client/media/image245.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image245.png)"
 
 #: ../../client_菜单功能.md:3071 c20631ad48ad43f18fed5ba73a6cdc67
 msgid "**选项**：常用的选项作为此模板的选项，输入选项，enter键添加可以添加多个。"
@@ -7631,7 +7631,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3081 7a6aabe7e0474ad6b153a66ba4626993
 msgid "![alt text](_static/images/client/media/image246.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image246.png)"
 
 #: ../../client_菜单功能.md:3083 1bf5e0d314df45f4bf46db60f9250e13
 msgid "上图中的【默认】为可根据客户包查看问卷答案。"
@@ -7661,7 +7661,7 @@ msgstr "【Tools】Export CSV file. "
 
 #: ../../client_菜单功能.md:3093 f4e761cd61634177b2de052505b3c7ed
 msgid "![alt text](_static/images/client/media/image247.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image247.png)"
 
 #: ../../client_菜单功能.md:3097 cf91563caf874bf9b90eadaec8c831c0
 msgid "问卷名称：这个问卷的名称。"
@@ -7740,7 +7740,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3129 1955589f3ecf466e99c3756567a656c3
 msgid "![alt text](_static/images/client/media/image248.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image248.png)"
 
 #: ../../client_菜单功能.md:3131 0e16e96a268a459baec65e3d2ed71422
 msgid "【搜索】仅支持以邮件模板名称进行全局搜索。"
@@ -7801,7 +7801,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3163 11cb4b5837704a7e8fffc1735f03bba8
 msgid "![alt text](_static/images/client/media/image249.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image249.png)"
 
 #: ../../client_菜单功能.md:3165 62b9044fd22b4d08b4a5bc1175e975ad
 msgid "**模板名称**：请为这个邮件模板命名。"
@@ -7852,7 +7852,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3179 b8ddc107787246bd8ba83449fe2bbb9c
 msgid "![alt text](_static/images/client/media/image250.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image250.png)"
 
 #: ../../client_菜单功能.md:3181 0d0b2d19d2cb429fb13411e972efb304
 msgid "模板注释：你可以填写邮件模板的注释说明。"
@@ -7870,7 +7870,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3185 cc24a28b3b1b4e05a2a86351f55bd60f
 msgid "![alt text](_static/images/client/media/image251.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image251.png)"
 
 #: ../../client_菜单功能.md:3187 859c5a2f6b844d3793eac1cf5f5c87e2
 msgid "3.9.2 短信模版"
@@ -7884,7 +7884,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3193 a76f3b09a162498785247e72e7cc3dd1
 msgid "![alt text](_static/images/client/media/image252.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image252.png)"
 
 #: ../../client_菜单功能.md:3195 917c4d20837f4f01b52ecece36c11b35
 msgid "【搜索】仅支持以短信模板名称进行全局搜索。"
@@ -7934,7 +7934,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3223 c3a7d15f442649cfb85204fdd261f8c4
 msgid "![alt text](_static/images/client/media/image253.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image253.png)"
 
 #: ../../client_菜单功能.md:3225 39e93d39034e4ebb8d23eeacae77e1d2
 msgid "**模板名称**：请为这个短信模板命名。"
@@ -7973,7 +7973,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3237 2d28b38f999043d7a0bb7d2fe1c1192a
 msgid "![alt text](_static/images/client/media/image254.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image254.png)"
 
 #: ../../client_菜单功能.md:3239 ca709dc801524765ba3e93870d3d427e
 msgid "**允许修改**：你可以设置此短信模板是否允许修改。"
@@ -7997,11 +7997,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3245 798377f1f06c4689826dfc1433c7f57c
 msgid "![alt text](_static/images/client/media/image255.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image255.png)"
 
 #: ../../client_菜单功能.md:3247 753f9b0583e04ea38a37f0ea195fe9a9
 msgid "![alt text](_static/images/client/media/image256.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image256.png)"
 
 #: ../../client_菜单功能.md:3249 bb413b8bda814136bf9498cea79a3d07
 msgid "3.9.3 群发信息"
@@ -8019,7 +8019,7 @@ msgstr "①Step 1: Select the information type and target"
 
 #: ../../client_菜单功能.md:3255 279bdf2f7d65489b8b6653384e54741a
 msgid "![alt text](_static/images/client/media/image257.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image257.png)"
 
 #: ../../client_菜单功能.md:3257 ccebc5fdca0f43558f47049d5d673ad6
 msgid "**信息类型**：用户可以选择群发信息的类型，可以选择邮件、闪信、短信。"
@@ -8049,7 +8049,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3265 b5f0933aae5a43338ac2bf0029ef2c85
 msgid "![alt text](_static/images/client/media/image258.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image258.png)"
 
 #: ../../client_菜单功能.md:3267 b9969a3ea6c14eadb4c843bfbe925ccc
 msgid "②<span class=\"mark\">步骤2：根据步骤1中的设定客户数据条件后点击【继续】选择模板，进行更加个性化的设置</span>"
@@ -8060,7 +8060,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3269 5984e23745ad4891959fc85202be5550
 msgid "![alt text](_static/images/client/media/image259.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image259.png)"
 
 #: ../../client_菜单功能.md:3271 b225a289e9a040b2bcf3be84308ae75a
 msgid ""
@@ -8075,7 +8075,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3273 d27ca4b2c6af41eca13f4bca9f9320a8
 msgid "![alt text](_static/images/client/media/image260.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image260.png)"
 
 #: ../../client_菜单功能.md:3275 43391bf79b5c48cca7476998ebab272e
 msgid "④步骤4：对邮件群发内容进行预览和确认，请确认步骤3中设置的匹配变量是否正确，如检查无误，点击提交即可。"
@@ -8086,7 +8086,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3277 9cc9b06b92ef472e9af5a52d475b5f9c
 msgid "![alt text](_static/images/client/media/image261.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image261.png)"
 
 #: ../../client_菜单功能.md:3279 35385d08f09445fd9256da39fc5ad888
 msgid "特别提醒，提交成功并不意味着发送成功。这里，它只表示进入发送队列。发送状态可以在短信发送记录或邮件发送记录中查看。."
@@ -8105,7 +8105,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3285 5523a0cfd36748218e0bc4da451e3cec
 msgid "![alt text](_static/images/client/media/image262.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image262.png)"
 
 #: ../../client_菜单功能.md:3287 ../../client_菜单功能.md:3303
 #: eb43e4c72cda439188fb31117f229d61
@@ -8137,11 +8137,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3301 d5f3ddfa039045d7997c84f4b124ac95
 msgid "![alt text](_static/images/client/media/image263.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image263.png)"
 
 #: ../../client_菜单功能.md:3313 791317c6d9904b83a1562315725511ec
 msgid "![alt text](_static/images/client/media/image264.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image264.png)"
 
 #: ../../client_菜单功能.md:3315 a84b37cc423b44a0ada1090ae8bb5a72
 msgid "3.9.6 公告管理"
@@ -8156,7 +8156,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3321 8b855dde14984f529d6b3dd3001d032c
 msgid "![alt text](_static/images/client/media/image265.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image265.png)"
 
 #: ../../client_菜单功能.md:3323 ac264ef1889a46659b6a187e3122acd7
 msgid "【发送公告】发送一个新的公告。"
@@ -8168,7 +8168,7 @@ msgstr "【View】View this announcement."
 
 #: ../../client_菜单功能.md:3329 8e22975d38764e518d6bd61f5cf1d8d3
 msgid "![alt text](_static/images/client/media/image266.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image266.png)"
 
 #: ../../client_菜单功能.md:3331 40cfb88bdde24e0b9570437ddade65fb
 msgid "在坐席组中添加或移除坐席时，系统会发送默认公告，如下图所示"
@@ -8178,7 +8178,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3333 49f25d8458404ba3a96f5b2d2c50f6f8
 msgid "![alt text](_static/images/client/media/image267.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image267.png)"
 
 #: ../../client_菜单功能.md:3335 739c7f4234004882bc4ea511725bcdc3
 msgid "2 发送一个新的公告"
@@ -8192,7 +8192,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3339 655ed74dff57498492cc2c7c9dcb859c
 msgid "![alt text](_static/images/client/media/image268.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image268.png)"
 
 #: ../../client_菜单功能.md:3341 61deb58229c84ea5a2431f63d99a0e68
 msgid "**接收人**：公告的接收人。"
@@ -8214,7 +8214,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3347 30522ee56de640f0bd98da2009d4a7bc
 msgid "![alt text](_static/images/client/media/image269.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image269.png)"
 
 #: ../../client_菜单功能.md:3351 689057087ac04d4e964cfebc43082db7
 msgid "**弹屏显示**：选择弹屏显示时，接收人在登录该账号时该公告会自动弹出。"
@@ -8225,7 +8225,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3353 eae57eba1a514b64a9e78e0e3226677a
 msgid "![alt text](_static/images/client/media/image270.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image270.png)"
 
 #: ../../client_菜单功能.md:3357 37b7eb97a27d4ab0984ca629a0d14ec9
 msgid "**有效期**：选择这个公告的有效期限，超过该期限公告不再显示，有限期为0.表示一直有效。"
@@ -8253,7 +8253,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3367 f7f689db0e054db8893073e021137e75
 msgid "![alt text](_static/images/client/media/image271.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image271.png)"
 
 #: ../../client_菜单功能.md:3369 fb004025f1ce4022b400490141bd8b54
 msgid "【搜索】全局搜索支持以发送者名字以及内容进行搜索。"
@@ -8328,7 +8328,7 @@ msgstr "Complete status of the work order. "
 
 #: ../../client_菜单功能.md:3403 bbf8747cefdf4dedb5fd9694b8d1795f
 msgid "![alt text](_static/images/client/media/image272.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image272.png)"
 
 #: ../../client_菜单功能.md:3405 3f9adfc2693249f497c577eb66547d22
 msgid "【搜索】全局搜索支持以工单状态进行搜索。"
@@ -8369,7 +8369,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3429 40ecb13b065e4219ad66a6df56564bc5
 msgid "![alt text](_static/images/client/media/image273.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image273.png)"
 
 #: ../../client_菜单功能.md:3431 268eb708283c4426a85e3b3d0092da8c
 msgid "**状态**:工单状态的名称。"
@@ -8409,7 +8409,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3445 a4736b3b5107403e98c4ce3fcaf0bcdc
 msgid "![alt text](_static/images/client/media/image274.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image274.png)"
 
 #: ../../client_菜单功能.md:3447 3c48ed6332c44343b95e5b755e017930
 msgid "【搜索】全局搜索支持以工单类别进行搜索。"
@@ -8425,7 +8425,7 @@ msgstr "【Edit】The user can edit the established work order category."
 
 #: ../../client_菜单功能.md:3459 7ee26517ae124d4386800b1bdeb5474c
 msgid "![alt text](_static/images/client/media/image275.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image275.png)"
 
 #: ../../client_菜单功能.md:3461 eba2666be39f4907b415f64907fb2b3d
 msgid "***删除***-删除该条工单类别。"
@@ -8441,7 +8441,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3465 e9d14ef0ecd64773a807bacddee448b5
 msgid "![alt text](_static/images/client/media/image276.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image276.png)"
 
 #: ../../client_菜单功能.md:3467 dc2bc2eb0b7249c4b3ad81b37a92532a
 msgid "自定义字段在坐席页面显示。"
@@ -8449,7 +8449,7 @@ msgstr "Custom fields are displayed on the agent page."
 
 #: ../../client_菜单功能.md:3469 05f1eb9fc89945129f778546edcbb378
 msgid "![alt text](_static/images/client/media/image277.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image277.png)"
 
 #: ../../client_菜单功能.md:3473 12721a051528427fa1171636f053eade
 msgid "工单类别：该工单类别的名称。"
@@ -8473,7 +8473,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3481 1bc58baa139a4adb8a3eae34f300f76d
 msgid "![alt text](_static/images/client/media/image278.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image278.png)"
 
 #: ../../client_菜单功能.md:3483 9b362bf6a0a64a92b9a30be8b3a1f2a9
 msgid "**工单类别**：为这个工单的类别命名。"
@@ -8531,7 +8531,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3505 705cdbb08b4c4f918cd610212076b181
 msgid "![alt text](_static/images/client/media/image279.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image279.png)"
 
 #: ../../client_菜单功能.md:3507 f58c7bfe09c54160868cc3d1e2b51583
 msgid "【搜索】全局搜索支持以结果命名进行搜索。"
@@ -8569,7 +8569,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3529 3a2228617bfd44129f054bfeb8a20df2
 msgid "![alt text](_static/images/client/media/image280.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image280.png)"
 
 #: ../../client_菜单功能.md:3531 0d7fbb11095642d7bf9c9c70286762ee
 msgid "结果：处理结果的名称。"
@@ -8591,7 +8591,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3541 eb24eb989dc34479838240cd264a9c93
 msgid "![alt text](_static/images/client/media/image281.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image281.png)"
 
 #: ../../client_菜单功能.md:3543 56ef285e23b548d7aaa7ee6f1a413ae9
 msgid "【搜索】全局搜索支持以工单标题、指定坐席、指定坐席组进行搜索。"
@@ -8655,7 +8655,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3577 76ad0661ec5b46a792d966d22826d203
 msgid "![alt text](_static/images/client/media/image282.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image282.png)"
 
 #: ../../client_菜单功能.md:3579 31845b604f5c469e85eb7fc9d6f2cd31
 msgid "**工单标题**：为这个工单添加一个标题。"
@@ -8692,7 +8692,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3591 7069c2f246cb41f09443cdb002673cef
 msgid "![alt text](_static/images/client/media/image283.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image283.png)"
 
 #: ../../client_菜单功能.md:3593 e9bf816c8a29493594bce746afc7117f
 msgid "**ID**：数据唯一ID。所有建立的数据均有一个唯一ID。"
@@ -8739,7 +8739,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3609 df4ac0840aa74dec99e2c6d3064e7da6
 msgid "![alt text](_static/images/client/media/image284.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image284.png)"
 
 #: ../../client_菜单功能.md:3611 3a0e9fde39a648c0905ffd3d520126e6
 msgid "坐席可以查看分配给他们的未完成工单、不同状态的工单，如果他们是坐席组长，他们还可以看到组内的工单."
@@ -8750,7 +8750,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3613 f49a2312bbb148569837a326f5b539d6
 msgid "![alt text](_static/images/client/media/image285.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image285.png)"
 
 #: ../../client_菜单功能.md:3615 22e2d9e5ca84400e96b7deaf967e776d
 msgid "当工单状态和工单类别同时开启自动分配功能时，"
@@ -8779,7 +8779,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3623 25615f17c28246a98b687a859e715da1
 msgid "![alt text](_static/images/client/media/image286.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image286.png)"
 
 #: ../../client_菜单功能.md:3625 5242f2b094b347cfa9d1b21e5a0a0fce
 msgid "3.11 待办事项"
@@ -8801,7 +8801,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3633 c590591dd4d04efd8dc8e59340b80a7c
 msgid "![alt text](_static/images/client/media/image287.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image287.png)"
 
 #: ../../client_菜单功能.md:3635 7376c4b3fee541e6b6705928e96cee70
 msgid "【搜索】全局搜索支持以坐席待办的标题来搜索。"
@@ -8850,7 +8850,7 @@ msgstr "① Click Add to enter the regular page of adding/editing agent to do:"
 
 #: ../../client_菜单功能.md:3661 a22b3e2ffb89423286c30d2c298bf3ed
 msgid "![alt text](_static/images/client/media/image288.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image288.png)"
 
 #: ../../client_菜单功能.md:3663 1ae58cdecd8546499bdd989ee29e4f1d
 msgid "**标题**:坐席待办事项标题。"
@@ -8898,7 +8898,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3679 9e2b720f7c1849179adc239892ab3b4a
 msgid "![alt text](_static/images/client/media/image289.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image289.png)"
 
 #: ../../client_菜单功能.md:3681 c6553e6d106143eeae4b2cbe029b8d2e
 msgid "3.12.1 统计报表"
@@ -8926,7 +8926,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3689 aa34e2df1cd84461ad36ead319ffbfba
 msgid "![alt text](_static/images/client/media/image290.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image290.png)"
 
 #: ../../client_菜单功能.md:3691 de0f2a6b8d4d48a3ab25a7b0f92dc795
 msgid "【选择坐席】选择查看的坐席。"
@@ -8946,11 +8946,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3697 d091536c825544f6a5a00268103280e6
 msgid "![alt text](_static/images/client/media/image291.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image291.png)"
 
 #: ../../client_菜单功能.md:3699 1bf5708362cd4135b16bf29860f52b92
 msgid "![alt text](_static/images/client/media/image292.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image292.png)"
 
 #: ../../client_菜单功能.md:3701 c9f0cce7db3b40ea9ab972e9f284ac67
 msgid "【查看字段】选择查询显示的字段数据。"
@@ -8958,7 +8958,7 @@ msgstr "[View Field] Select the field data displayed by query."
 
 #: ../../client_菜单功能.md:3703 293bcd395ff14b8daaaf6ea18770ce71
 msgid "![alt text](_static/images/client/media/image293.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image293.png)"
 
 #: ../../client_菜单功能.md:3705 a8654206a20a4798b677dac0c100e0c8
 msgid "统计日期：该统计数据的所属日期。"
@@ -9061,7 +9061,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3745 df398ee57a604ec58796ef514f7c11ef
 msgid "![alt text](_static/images/client/media/image294.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image294.png)"
 
 #: ../../client_菜单功能.md:3747 b64e72f53e524da7bdc6ac1aeaed2043
 msgid "【日期】选择查看坐席汇总的日期或时间范围。"
@@ -9088,7 +9088,7 @@ msgstr "[View Field] Select the field displayed by the query."
 
 #: ../../client_菜单功能.md:3757 c920da3fd587484985b0f949dcb40a3b
 msgid "![alt text](_static/images/client/media/image295.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image295.png)"
 
 #: ../../client_菜单功能.md:3759 f0c558a631e84f869287dddf17e618b6
 msgid "统计日期：坐席的统计日期。"
@@ -9239,7 +9239,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3819 cb3b7cb50a1f401f9f816d4120ec0d31
 msgid "![alt text](_static/images/client/media/image296.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image296.png)"
 
 #: ../../client_菜单功能.md:3821 ../../client_菜单功能.md:3877
 #: f9767cfd8e074183a65ebf4d73ea3f09
@@ -9262,7 +9262,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3829 e782901225664fd4bc97b19f5f88812f
 msgid "![alt text](_static/images/client/media/image297.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image297.png)"
 
 #: ../../client_菜单功能.md:3831 01b3fbbca4c84bf1b16efca570feab07
 msgid "统计日期：用户需要查看的统计日期。"
@@ -9382,11 +9382,11 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3875 b1e51535b6ef46d1a81bf2b1964fdf4f
 msgid "![alt text](_static/images/client/media/image298.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image298.png)"
 
 #: ../../client_菜单功能.md:3883 4635785c840e45368bd56860b6c48769
 msgid "![alt text](_static/images/client/media/image299.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image299.png)"
 
 #: ../../client_菜单功能.md:3885 94e12c0f224141b88ff394530e67c20f
 msgid "统计日期：该坐席组数据的统计日期。"
@@ -9572,7 +9572,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3953 ad99458c8746483c8c45f88085230de4
 msgid "![alt text](_static/images/client/media/image300.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image300.png)"
 
 #: ../../client_菜单功能.md:3955 b417601a41f04c7e8ccdd825305326a3
 msgid "【日期】选择查看部门报表的日期或时间范围。"
@@ -9594,7 +9594,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:3965 093e09604a59455eb2d9e7838c3ccd25
 msgid "![alt text](_static/images/client/media/image301.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image301.png)"
 
 #: ../../client_菜单功能.md:3967 e3599847991a4348b572bbc492308c88
 msgid "统计日期：该部门报表的统计日期。"
@@ -9698,7 +9698,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4003 39e080af5f764a58bdaa334c86eb05a4
 msgid "![alt text](_static/images/client/media/image302.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image302.png)"
 
 #: ../../client_菜单功能.md:4005 9925a16fe82a4f909b67ca91ae6cddb9
 msgid "红框中显示这个组中所有坐席的状态情况。"
@@ -9706,7 +9706,7 @@ msgstr "The status of all seats in this group is displayed in the red box."
 
 #: ../../client_菜单功能.md:4007 21f1cade812241fabd26b7abab61c96c
 msgid "![alt text](_static/images/client/media/image303.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image303.png)"
 
 #: ../../client_菜单功能.md:4009 4bcdb552a0e0452d9f2ef716c09d52d0
 msgid "**签入**：显示在这个坐席组中签入的坐席数。"
@@ -9761,7 +9761,7 @@ msgstr "**Asseat sort**"
 
 #: ../../client_菜单功能.md:4028 96dc169411f84cfa9c248d24d7811aed
 msgid "![alt text](_static/images/client/media/image304.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image304.png)"
 
 #: ../../client_菜单功能.md:4030 d9eb5f6301fd4edbb8b7e4964095e955
 msgid "坐席状态正序：话后状态&gt;通话状态&gt;保持状态&gt;暂停&gt;空闲&gt;振铃"
@@ -9802,7 +9802,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4044 081e1df6a6304f49bc0955d4e0a95637
 msgid "![alt text](_static/images/client/media/image305.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image305.png)"
 
 #: ../../client_菜单功能.md:4046 b8415297cbff4cbca073cb3c2596bc5a
 msgid "*以此坐席身份登录* -登录到此坐席。"
@@ -9882,7 +9882,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4080 a2d5b7351890485ab79d6065b448d4d8
 msgid "![alt text](_static/images/client/media/image306.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image306.png)"
 
 #: ../../client_菜单功能.md:4082 095e7f8626114289b7bc26f20bb56739
 msgid "如果有来电但没有坐席应答，页面会弹出绿色的呼叫队列提示消息框."
@@ -9892,7 +9892,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4084 0fcaf15c607541079d7f742a154d1350
 msgid "![alt text](_static/images/client/media/image307.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image307.png)"
 
 #: ../../client_菜单功能.md:4086 6f1d67ff1a1340af9ba6bb61b51a7ad3
 msgid "2 坐席组"
@@ -9905,7 +9905,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4090 b28ac4b203d24377bde1bc7bc72e0ab9
 msgid "![alt text](_static/images/client/media/image308.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image308.png)"
 
 #: ../../client_菜单功能.md:4092 ad03cfb659364ddabf8c85ffa32c15e7
 msgid "呼入"
@@ -9991,7 +9991,7 @@ msgstr "Users can also switch views"
 
 #: ../../client_菜单功能.md:4128 885551efe6564b7a999b322d46f2d513
 msgid "![alt text](_static/images/client/media/image309.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image309.png)"
 
 #: ../../client_菜单功能.md:4130 ddbeb6e6f932461b83ebde5aa58e9022
 msgid "3 坐席"
@@ -10003,7 +10003,7 @@ msgstr "Click the seat page to see the real-time information of the seat."
 
 #: ../../client_菜单功能.md:4134 d3059b1a9ba241c0acf5958bef0ca212
 msgid "![alt text](_static/images/client/media/image310.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image310.png)"
 
 #: ../../client_菜单功能.md:4136 42eb384a8cee45eba853802ef133a235
 msgid "4 百分比"
@@ -10017,7 +10017,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4140 23efc92f0dda4b2d8344717864cc71cc
 msgid "![alt text](_static/images/client/media/image311.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image311.png)"
 
 #: ../../client_菜单功能.md:4142 a8dae2e221a4425abefca7d596c087df
 msgid "3.13.2 大屏监控"
@@ -10032,7 +10032,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4146 ab9e9455c04d4b0b831091478468e9b2
 msgid "![alt text](_static/images/client/media/image312.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image312.png)"
 
 #: ../../client_菜单功能.md:4148 994a2c2db0d44e4baa69cfb3b50d8605
 msgid "全屏:"
@@ -10040,7 +10040,7 @@ msgstr "full screen:"
 
 #: ../../client_菜单功能.md:4150 ab06212fc06e4c5bacfd7ec43bc9a418
 msgid "![alt text](_static/images/client/media/image313.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image313.png)"
 
 #: ../../client_菜单功能.md:4152 90c129c0274e46348f53027b72a34bca
 msgid "简洁:"
@@ -10048,7 +10048,7 @@ msgstr "concise:"
 
 #: ../../client_菜单功能.md:4154 77d67b4c95504e3398ae9e646494922a
 msgid "![alt text](_static/images/client/media/image314.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image314.png)"
 
 #: ../../client_菜单功能.md:4156 0e4bd106d59549bba236069d05aad3b0
 msgid "点击空闲，对坐席可以进行操作"
@@ -10056,7 +10056,7 @@ msgstr "Click Idle to operate on the seat"
 
 #: ../../client_菜单功能.md:4158 c5991f0da54949dabb79b17e75b60c5e
 msgid "![alt text](_static/images/client/media/image315.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image315.png)"
 
 #: ../../client_菜单功能.md:4160 f27b8893cf8b45e0b6d0a64913f25b35
 msgid "3.14 日志记录"
@@ -10074,7 +10074,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4168 c0bd4096ccfd48c4a956142117606cf6
 msgid "![alt text](_static/images/client/media/image316.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image316.png)"
 
 #: ../../client_菜单功能.md:4170 38f0359bb5284e1c92883bd35a49ff64
 msgid "【搜索】日志记录支持以用户名、IP地址、请求地址作为搜索对象。"
@@ -10125,7 +10125,7 @@ msgstr "Used to query the agent event log."
 
 #: ../../client_菜单功能.md:4198 4d969cd7ffb64f9db779d96325100573
 msgid "![alt text](_static/images/client/media/image317.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image317.png)"
 
 #: ../../client_菜单功能.md:4200 f432644952e5484dada99b2f2bc71d87
 msgid "【搜索】支持以坐席工号、事件为搜索对象。"
@@ -10170,7 +10170,7 @@ msgstr "1 General"
 
 #: ../../client_菜单功能.md:4224 c7a81d7b0daf4d7a8f089434fd199257
 msgid "![alt text](_static/images/client/media/image318.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image318.png)"
 
 #: ../../client_菜单功能.md:4226 3e995cd0216f4a5a949ca0b500dd364a
 msgid "**时区**:该系统的时区。"
@@ -10237,7 +10237,7 @@ msgstr "2 Currency"
 
 #: ../../client_菜单功能.md:4252 aceff980f8e946a4a7c73855eb81c58d
 msgid "![alt text](_static/images/client/media/image319.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image319.png)"
 
 #: ../../client_菜单功能.md:4254 720982f31fea4249a66e88a06ec43181
 msgid "**货币**：使货币种类。"
@@ -10265,7 +10265,7 @@ msgstr "3 Data"
 
 #: ../../client_菜单功能.md:4266 d9adfa7448894201a4a4a348d02deb03
 msgid "![alt text](_static/images/client/media/image320.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image320.png)"
 
 #: ../../client_菜单功能.md:4268 1bd47423359f4e23a79e6c7f49f358dd
 msgid "**默认客户包:**系统默认呼入呼出时，使用的客户包。当前使用的具体客户包别设定不可见后，默认客户包将自动恢复为默认。"
@@ -10289,7 +10289,7 @@ msgstr "4 Dial"
 
 #: ../../client_菜单功能.md:4276 6022b499de6244839cff9a350b1e32ac
 msgid "![alt text](_static/images/client/media/image321.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image321.png)"
 
 #: ../../client_菜单功能.md:4278 c90abc0222ab4caeb0e5b66664ef7f5f
 msgid "**拨打外线超时（秒）**：外呼振铃的超时时长。"
@@ -10343,7 +10343,7 @@ msgstr "5 Call Settings"
 
 #: ../../client_菜单功能.md:4295 7e15b995b06744b68a668bf2cbfebd61
 msgid "![alt text](_static/images/client/media/image322.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image322.png)"
 
 #: ../../client_菜单功能.md:4297 de9427df36fa48838329023639aed65d
 msgid ""
@@ -10373,7 +10373,7 @@ msgstr "Used to record the client call status of the agent record. "
 
 #: ../../client_菜单功能.md:4309 50edea1b4b1747e589941c0fc2cdd5c8
 msgid "![alt text](_static/images/client/media/image323.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image323.png)"
 
 #: ../../client_菜单功能.md:4311 46bedab9b9fb4cd994207efb24cb01d8
 msgid "上图【默认】是可选择的客户包。"
@@ -10415,7 +10415,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4333 7d5858e4469c4259b50b28b06e63d4e9
 msgid "![alt text](_static/images/client/media/image324.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image324.png)"
 
 #: ../../client_菜单功能.md:4335 61436f1ae83d4fb5a479133d9c60d3af
 msgid "**名称**：为这个销售漏斗命名。"
@@ -10462,7 +10462,7 @@ msgstr ""
 
 #: ../../client_菜单功能.md:4357 893cb390dfe14740b38a4cba4118f25c
 msgid "![alt text](_static/images/client/media/image325.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image325.png)"
 
 #: ../../client_菜单功能.md:4359 256ff5be379445e28d02ed27c52d6e81
 msgid "【搜索】在全局搜索中支持以任务编号、文件名称为关键词搜索。"
@@ -10563,7 +10563,7 @@ msgstr "1 api verification string"
 
 #: ../../client_菜单功能.md:4409 67da4c8957e542df96242f1f731a0260
 msgid "![alt text](_static/images/client/media/image326.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image326.png)"
 
 #: ../../client_菜单功能.md:4411 9aa7862a00df4b8987473960002f705e
 msgid "**api验证串**：填写api验证串。"
@@ -10583,7 +10583,7 @@ msgstr "2 API restrictions"
 
 #: ../../client_菜单功能.md:4419 c7b6f800bb884ffa99e309903afd760d
 msgid "![alt text](_static/images/client/media/image327.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image327.png)"
 
 #: ../../client_菜单功能.md:4421 885191032bc34124b2c1b94bb866a036
 msgid "**短信**：设置短信的限制数量。"
@@ -10611,4 +10611,4 @@ msgstr "Users can fill in their own company and financial information."
 
 #: ../../client_菜单功能.md:4433 bef31fc78d21414b8ae24938d4cd08a1
 msgid "![alt text](_static/images/client/media/image328.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/client/media/image328.png)"

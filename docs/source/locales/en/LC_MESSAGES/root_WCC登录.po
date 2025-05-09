@@ -43,7 +43,7 @@ msgstr "(See as shown in the figure below)"
 
 #: ../../root_WCC登录.md:9 9cfa78814b5b421088d4c0a7612d12fb
 msgid "![alt text](_static/images/root/media/image1.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image1.png)"
 
 #: ../../root_WCC登录.md:9 ../../root_WCC登录.md:13
 #: 1d98fda513454d889b0b1eb3cd9b6de0 591855be050c4a81a07b03c7175e312c
@@ -58,4 +58,4 @@ msgstr ""
 
 #: ../../root_WCC登录.md:13 76af856af63d49dca1989a124ffa7c5c
 msgid "![alt text](_static/images/root/media/image2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/root/media/image2.png)"

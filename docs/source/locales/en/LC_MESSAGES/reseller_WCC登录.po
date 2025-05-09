@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../reseller_WCC登录.md:11 2ad2dbe5fc5748cea8c31373c24d6b9e
 msgid "![alt text](_static/images/reseller/media/image1.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image1.png)"
 
 #: ../../reseller_WCC登录.md:11 ../../reseller_WCC登录.md:15
 #: ca2fc538911c4e74afd4c6965b99119b cd526f4b5bcc4ef486fd9f9d2d126c4f
@@ -63,4 +63,4 @@ msgstr ""
 
 #: ../../reseller_WCC登录.md:15 5ecb5b3788ce47178108168b0c4dc4f4
 msgid "![alt text](_static/images/reseller/media/image2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/reseller/media/image2.png)"

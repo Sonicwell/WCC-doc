@@ -916,8 +916,8 @@ msgstr "Exit IVR"
 #: ../../常见问题回答.md:116 777c821d630c4312bd88aa1c4e885d5c
 msgid "5 统计报表中，各项数据的计算公式和统计范围"
 msgstr ""
-"5 Calculation formulas and statistical scope of each data in the "
-"statistical report"
+"5 Calculation formulas and statistical scope of each data in the statistical"
+" report"
 
 #: ../../常见问题回答.md 387f54972cd94c799f450163b669b028
 msgid "统计项目"
@@ -1122,7 +1122,7 @@ msgstr "Advanced settings are shown in the figure"
 
 #: ../../常见问题回答.md:142 e8521d99812e4c96a7a7035d23cb41f1
 msgid "![alt text](_static/images/QA/image.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image.png)"
 
 #: ../../常见问题回答.md:142 ../../常见问题回答.md:200 ../../常见问题回答.md:204
 #: ../../常见问题回答.md:208 ../../常见问题回答.md:210 ../../常见问题回答.md:214
@@ -1283,7 +1283,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:200 5dab37fdd86541778fb4f39621234f59
 msgid "![alt text](_static/images/QA/image-1.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-1.png)"
 
 #: ../../常见问题回答.md:202 a7b3e52cba8440d6b8aee0a47156881c
 msgid "先将外显号码分配给所属代理商，由代理商分配给client进行使用"
@@ -1293,7 +1293,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:204 555c0778ccbc475ab1cb911fc2a00cfa
 msgid "![alt text](_static/images/QA/image-2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-2.png)"
 
 #: ../../常见问题回答.md:206 00e166e2da054031b4e753b1b8000815
 msgid "建立外呼档案，把外呼档案分到client"
@@ -1301,11 +1301,11 @@ msgstr "Create outbound call files and assign outbound call files to client"
 
 #: ../../常见问题回答.md:208 ac1e4d5d75cc46f0ac7449c38fa2f299
 msgid "![alt text](_static/images/QA/image-3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-3.png)"
 
 #: ../../常见问题回答.md:210 b226ce16fda14c7c82785b2d44c2487d
 msgid "![alt text](_static/images/QA/image-4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-4.png)"
 
 #: ../../常见问题回答.md:212 d94f3b7706774bef8bba16a70b68e448
 msgid "在client级别--->系统偏好--->拨号--->默认外呼档案中选择相应的外呼档案"
@@ -1315,7 +1315,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:214 52ae109333a842218caa0b1b0bc9e720
 msgid "![alt text](_static/images/QA/image-5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-5.png)"
 
 #: ../../常见问题回答.md:216 6c32df5882964c1d8f2ab96128464347
 msgid "在client级别--->系统偏好--->呼叫设置--->外显号码中选择相应的外显号码"
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:218 7e3dc5a48b7e4c29a047b41954e2ca48
 msgid "![alt text](_static/images/QA/image-6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-6.png)"
 
 #: ../../常见问题回答.md:220 dd631795f5ac488aa027034423280a9e
 msgid "如外呼档案中相应配置正常，登录坐席后，坐席开启电话就可以进行外呼了。"
@@ -1351,7 +1351,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:229 4d8cfd363ae94c7c823a9f080e6d2d08
 msgid "![alt text](_static/images/QA/image-8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-8.png)"
 
 #: ../../常见问题回答.md:231 c5569d1bdce745a0a6fac9caa097ec89
 msgid "在【联系客户】页面选择想要添加客户的任务，点击【我的客户】后面的“+”添加客户"
@@ -1361,7 +1361,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:233 57d153b67a724ab48b495394199a06fc
 msgid "![alt text](_static/images/QA/image-9.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-9.png)"
 
 #: ../../常见问题回答.md:235 140fa2a529bc437b88ff971b5f297437
 msgid "对客户资料进行编辑，并保存。保存后在电话号码处用户可以拨打电话。"
@@ -1369,7 +1369,7 @@ msgstr "Edit and save customer information. "
 
 #: ../../常见问题回答.md:237 f9093b907cec4e4a96207533559dc63e
 msgid "![alt text](_static/images/QA/image-10.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-10.png)"
 
 #: ../../常见问题回答.md:239 9750d71f5fe3409eb8108639d5b8e093
 msgid "保存客户资料后还可以对该客户进行问卷调查，或是建立、处理工单等。"
@@ -1379,7 +1379,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:241 86c2c2378be9403f801503b22447e994
 msgid "![alt text](_static/images/QA/image-11.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-11.png)"
 
 #: ../../常见问题回答.md:243 460bce482e3241ac88faca74a170b437
 msgid ""
@@ -1401,7 +1401,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:249 dd0f1ae6da9e4494b69057cbdb90473b
 msgid "![alt text](_static/images/QA/image-12.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-12.png)"
 
 #: ../../常见问题回答.md:251 1d6bc25726db4c5899d716f51009f73c
 msgid "点击自动拨号会显示坐席需要自动拨号的客户所满足的条件："
@@ -1423,7 +1423,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:257 f2679a67547842b98a1cd2ee8c8c4a1b
 msgid "![alt text](_static/images/QA/image-13.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-13.png)"
 
 #: ../../常见问题回答.md:259 8304affedc90492b8f4e48bb67fd5204
 msgid "拨号次数：自动拨号设定的条件。"
@@ -1481,7 +1481,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:275 50e762312b9e4e0c9717d8a0c1c2fa6b
 msgid "![alt text](_static/images/QA/image-14.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-14.png)"
 
 #: ../../常见问题回答.md:277 7dbb050380c84cf3a60f7004db3049a4
 msgid "设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表。"
@@ -1601,7 +1601,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:313 af837980fbe84863a4fdb008f54cd1cf
 msgid "![alt text](_static/images/QA/image-15.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-15.png)"
 
 #: ../../常见问题回答.md:315 73ac7ee053eb491884f6b796fb13d4e7
 msgid "在坐席--高级页面选择话机部署模版--填写话机的MAC地址"
@@ -1611,7 +1611,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:317 58a39c80d173449dae44afdd51403513
 msgid "![alt text](_static/images/QA/image-16.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-16.png)"
 
 #: ../../常见问题回答.md:319 b0aaa73c81294276834e9989db0eef4a
 msgid "保存后再点击该坐席编辑--预览话机部署模版，填写用户名跟密码进行预览"
@@ -1627,7 +1627,7 @@ msgstr ""
 
 #: ../../常见问题回答.md:323 10dc4d8aa7a64574aa2df62619d7079a
 msgid "![alt text](_static/images/QA/image-17.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/QA/image-17.png)"
 
 #: ../../常见问题回答.md:325 be4083c70b584cab9a9d740c17e3e5ae
 msgid "话机的自动部署就会成功。"
