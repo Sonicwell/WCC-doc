@@ -12,8 +12,8 @@ Welcome to WCC documentation!
    :maxdepth: 2
    :caption: Root
 
-   root_login <root_WCC登录>
-   root_interface <root_界面介绍>
+   root_login
+   root_interface
 
 
 .. toctree::
