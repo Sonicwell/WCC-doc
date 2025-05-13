@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: ja <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../client_login.md:1 6da767ccc30c4a8ebefbca7811b0dd1a
+msgid "1 系统登录"
+msgstr "1システムログイン"
+
+#: ../../client_login.md:3 8567a3bc2bba49efafc6c06debe11af2
+msgid "1.1登录"
+msgstr "1.1ログイン"
+
+#: ../../client_login.md:5 9f8305febcc9442c8ae742617552ba23
+msgid "在您正在使用的浏览器的地址栏中输入 URL。按 Enter 键进入系统登录页面。"
+msgstr ""
+"使用しているブラウザのアドレスバーにURLを入力します。 Enterを押して、システム"
+"ログインページを入力します。"
+
+#: ../../client_login.md:7 e9ab419ffbc44c3da125a1dfcab8e3b4
+msgid ""
+"用户帐户是客户端名称。密码可在【代理商】--&gt;【通用】--&gt;【密码】中更改，"
+"输入正确的账号和密码即可成功进入系统。"
+msgstr ""
+"ユーザーアカウントはクライアント名です。 [エージェント]  - > [一般]  - > [パ"
+"スワード]でパスワードを変更できます。正しいアカウントとパスワードを入力して、"
+"システムを正常に入力します。"
+
+#: ../../client_login.md:9 ff02411a5d1c4e59997b1d5e16a70061
+msgid "用户可以选择【记住密码】，浏览器此时会记住账号密码，以方便下次登录。"
+msgstr ""
+"ユーザーは[パスワードを覚えておく]を選択できます。ブラウザは、次のログインを"
+"容易にするために、この時点でアカウントパスワードを覚えています。"
+
+#: ../../client_login.md:11 17ff94ce4ba247caab63273f6812b19c
+msgid "![alt text](_static/images/client/media/image1.png)"
+msgstr ""
+
+#: ../../client_login.md:11 ../../client_login.md:17
+#: ba5a17e3012a43ef960060d4b374b133 3c4d4e8a91714fc1b9e35a30af12101d
+msgid "alt text"
+msgstr "altテキスト"
+
+#: ../../client_login.md:13 bab4c930b83e4e7b8d38c6e33e837d2b
+msgid "1.2登出"
+msgstr "1.2ログアウト"
+
+#: ../../client_login.md:15 afa805d190524d0c8d3f7ef1be9483c1
+msgid ""
+"当用户进入系统时，选择右上角的下拉选项【登出】，确认后将退出系统，页面将返回"
+"用户登录页面。"
+msgstr ""
+"ユーザーがシステムに入るときは、右上隅のドロップダウンオプション[ログイン]を"
+"選択します。確認後、システムが終了し、ページがユーザーログインページに戻りま"
+"す。"
+
+#: ../../client_login.md:17 1bb3f6bb7f424c13b2b99735c45389dd
+msgid "![alt text](_static/images/client/media/image2.png)"
+msgstr ""

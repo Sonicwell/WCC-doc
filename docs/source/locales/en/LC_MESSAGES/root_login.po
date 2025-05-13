@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../root_login.md:1 50a26b92f508413788c01dfafdf8eaf5
+msgid "1.1WCC 登录"
+msgstr "1.1WCC Login"
+
+#: ../../root_login.md:3 7a8ca5da206a43f28ad6ff396cb3df11
+msgid "在您使用的浏览器地址栏中输入网站地址，回车进入系统登录页面。"
+msgstr ""
+"Enter the website address in the address bar of the browser you are using "
+"and enter the system login page."
+
+#: ../../root_login.md:5 0c003d049b224c608c5439f3efcad09f
+msgid ""
+"用户账号和密码是预先设定好的，输入正确的账号和密码，选择【登录】，即可成功进"
+"入系统。用户可选择【记住】，浏览器会记住本次的账号密码，方便下次登录。"
+msgstr ""
+"The user account and password are pre-set. Enter the correct account and "
+"password, select [Login] and you can successfully enter the system. "
+
+#: ../../root_login.md:7 79ba2e889b8e4c70945b65e179437c29
+msgid "（如下图所示）"
+msgstr "(See as shown in the figure below)"
+
+#: ../../root_login.md:9 2963af636a36429cba1df0c9115e7cc4
+msgid "![alt text](_static/images/root/media/image1.png)"
+msgstr "![alt text](_static/images/en/root/media/image1.png)"
+
+#: ../../root_login.md:9 ../../root_login.md:13
+#: b9d77840898841508d4b921974d497ca 19e188fd177a47389f8bcf0d2c3c7483
+msgid "alt text"
+msgstr "alt text"
+
+#: ../../root_login.md:11 c8741727ce5a4a58891516e3f4ce7278
+msgid ""
+"用户进入系统后，在状态栏下拉菜单中选择【退出】，确认，成功退出系统。页面返回"
+"用户登录页面（如下图所示）。"
+msgstr ""
+"After the user enters the system, select [Exit] in the status bar drop-down "
+"menu to confirm and exit the system successfully. "
+
+#: ../../root_login.md:13 c5b0a8bfda4e40b5ba52dd437f79886a
+msgid "![alt text](_static/images/root/media/image2.png)"
+msgstr "![alt text](_static/images/en/root/media/image2.png)"

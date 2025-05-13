@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../reseller_login.md:1 2064bd972172455d9a01432ed8fc6899
+msgid "1.1 WCC 登录"
+msgstr "1.1 WCC Login"
+
+#: ../../reseller_login.md:3 62363a6b9cd243219f938e4a342acc87
+msgid "在您正在使用的浏览器的地址栏中输入网站地址。 回车进入系统登录页面"
+msgstr ""
+"Enter the website address in the address bar of the browser you are using. "
+
+#: ../../reseller_login.md:5 36a172136bc144b6a500d9eb976de478
+msgid "用户【账户】和【密码】由上级用户预先设置。"
+msgstr "Users [Account] and [Password] are pre-set by the superior user."
+
+#: ../../reseller_login.md:7 a28bcf70886e49db82e5d4e5fe18f237
+msgid "输入正确的账号和密码，点击【登录】，即可成功进入系统。"
+msgstr ""
+"Enter the correct account and password, click [Login], and you will "
+"successfully enter the system."
+
+#: ../../reseller_login.md:9 49ff8ee5973d478095a905379b2a0466
+msgid "用户可以选择【记住密码】，浏览器会记住这次的账户密码，方便下次登录。"
+msgstr ""
+"Users can choose [Remember Password], and the browser will remember the "
+"account password this time, making it easier to log in next time."
+
+#: ../../reseller_login.md:11 856b358bd13a4634ac7c847b48f50f36
+msgid "![alt text](_static/images/reseller/media/image1.png)"
+msgstr "![alt text](_static/images/en/reseller/media/image1.png)"
+
+#: ../../reseller_login.md:11 ../../reseller_login.md:15
+#: afecb65db1df46ca91a3f9bcd2e9d065 c0633071df714743a2299a028e2c191b
+msgid "alt text"
+msgstr "alt text"
+
+#: ../../reseller_login.md:13 fc62cbadff5c48dbbb4caa621b02f728
+msgid ""
+"用户进入系统后，从状态栏的下拉菜单中选择【注销】，确认无误后，成功注销系统。"
+"页面返回到用户登录页面。"
+msgstr ""
+"After the user enters the system, select [Login] from the drop-down menu in "
+"the status bar. After confirming that the system is correct, the system will "
+"be successfully cancelled. "
+
+#: ../../reseller_login.md:15 d6a2b4bd5b824363971aee1f0d796f7b
+msgid "![alt text](_static/images/reseller/media/image2.png)"
+msgstr "![alt text](_static/images/en/reseller/media/image2.png)"

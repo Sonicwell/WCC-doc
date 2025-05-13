@@ -1,0 +1,509 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../client_toolbar.md:1 20d1164ab160477a99527df7383efbea
+msgid "2 工具栏"
+msgstr "2 Toolbar"
+
+#: ../../client_toolbar.md:3 5dba7186a261445aa483adc355475821
+msgid "登录Client页面后，您可以在顶部的快捷菜单栏中使用一些快捷功能。"
+msgstr ""
+"After logging into the Client page, you can use some shortcuts in the "
+"shortcut menu bar at the top."
+
+#: ../../client_toolbar.md:5 efcc741c88da46e3bf01fa9250add71b
+msgid "![alt text](_static/images/client/media/image3.png)"
+msgstr "![alt text](_static/images/en/client/media/image3.png)"
+
+#: ../../client_toolbar.md:5 ../../client_toolbar.md:9
+#: ../../client_toolbar.md:13 ../../client_toolbar.md:17
+#: ../../client_toolbar.md:21 ../../client_toolbar.md:27
+#: ../../client_toolbar.md:31 ../../client_toolbar.md:35
+#: ../../client_toolbar.md:39 ../../client_toolbar.md:43
+#: ../../client_toolbar.md:47 ../../client_toolbar.md:65
+#: ../../client_toolbar.md:67 ../../client_toolbar.md:69
+#: ../../client_toolbar.md:79 ../../client_toolbar.md:83
+#: ../../client_toolbar.md:93 ../../client_toolbar.md:103
+#: ../../client_toolbar.md:113 ../../client_toolbar.md:119
+#: ../../client_toolbar.md:125 ../../client_toolbar.md:131
+#: ../../client_toolbar.md:133 ../../client_toolbar.md:153
+#: ../../client_toolbar.md:155 ../../client_toolbar.md:175
+#: 46e9bf01540942048951223f86476713 b35cbb589996487f8d0576daf6fe55a4
+#: ae82d00f28304ef9a7789be4b560ed4f b8ce12f25d9845838d5d747b26c19149
+#: dd438a896ddb4a2c997964c0f7884991 7f902cda963449bea28a407a908a7ccc
+#: 639dedbea7864371a17e6f5e5a23aaa2 c0ebe3ddd7274cf49de89eeea45eb1a0
+#: 043ef75b800847f2bd0625bd30af683e 4f7f4bd38d1f49d38e5954c81406cc3e
+#: bebec8d916514fdca3f37502429ce2d9 e084947a181c40c4bb54e70186921148
+#: fa79b9eb8ab540419e6ccdee562e1cbf ad2a630b860a4285ad9643b137253aea
+#: 37250643fece4ee086f45e4954f5dcae c122e380efea44aa929b704aaacd66a1
+#: 0b58d1e6b4d743d2bc384ad95f9617b5 bbddd86cc80d4437a9acf6489073c114
+#: 2fa85cfbe39c46bb871ba181623c05a1 b4b1ebdb116349d49e830bbc71a6b2a3
+#: 35a1edf8595c438bb525d5ba80513bd8 bb6d020c1b2b4bd7a6b5d2170b14fe35
+#: 2b80de8eddb749509ce6d151802f223b cc15bd6bec2c4cca9eecaba19fdf987a
+#: 06c95de653834e798071b4e73306117e e0c99376087f48a9af18e3df6ba4e831
+msgid "alt text"
+msgstr "alt text"
+
+#: ../../client_toolbar.md:7 e8324ab1f9f54cda9224269b7074dd44
+msgid "【折叠菜单】当您单击此按钮时，页面菜单不显示文本，仅显示图标。"
+msgstr ""
+"【Fold Menu】When you click this button, the page menu does not display "
+"text, only icons are displayed."
+
+#: ../../client_toolbar.md:9 776561a954394711916cc8099b3acb41
+msgid "![alt text](_static/images/client/media/image4.png)"
+msgstr "![alt text](_static/images/en/client/media/image4.png)"
+
+#: ../../client_toolbar.md:11 d5902f76f987481e9feeeaeedf4f70a0
+msgid "↓↓↓"
+msgstr "↓↓↓"
+
+#: ../../client_toolbar.md:13 67eda7c8ef3d45b693a9bc436b0bc674
+msgid "![alt text](_static/images/client/media/image5.png)"
+msgstr "![alt text](_static/images/en/client/media/image5.png)"
+
+#: ../../client_toolbar.md:15 16c1c59f454f4136a2020f6d5acac297
+msgid "在这里，您可以选择功能的快捷方式。选中后，将显示这些快捷方式↓↓↓"
+msgstr "Here you can select shortcuts for the features. "
+
+#: ../../client_toolbar.md:17 acfa915cf90346729868caaa5c7606b8
+msgid "![alt text](_static/images/client/media/image6.png)"
+msgstr "![alt text](_static/images/en/client/media/image6.png)"
+
+#: ../../client_toolbar.md:19 a5f826ae47594cca906d02f38b9576f9
+msgid "【快速搜索】按钮，可直接在知识库中搜索知识。"
+msgstr ""
+"[Quick Search] button, you can search for knowledge directly in the "
+"knowledge base."
+
+#: ../../client_toolbar.md:21 ac8110fd117b4903a8c12d92e7871a11
+msgid "![alt text](_static/images/client/media/image7.png)"
+msgstr "![alt text](_static/images/en/client/media/image7.png)"
+
+#: ../../client_toolbar.md:23 bbcf1efa96114bc98f07469e4a79109a
+msgid ""
+"【呼叫】点击呼叫按钮，填写主叫号码和被叫号码，选择一个 外显号码 ，点击呼叫 ，"
+"即可在客户端级别进行指定呼叫。"
+msgstr ""
+"[Call] Click the call button, fill in the calling number and called number, "
+"select an external number, click Call, and you can make a specified call at "
+"the client level."
+
+#: ../../client_toolbar.md:25 cc4a3f6f78bc443998f57ba80699ac91
+msgid "主叫号码填写坐席号码，被叫号码填写外呼号码。"
+msgstr "Fill in the caller number and fill in the caller number."
+
+#: ../../client_toolbar.md:27 ebe8cb885613482f8323aa0428a4d27e
+msgid "![alt text](_static/images/client/media/image8.png)"
+msgstr "![alt text](_static/images/en/client/media/image8.png)"
+
+#: ../../client_toolbar.md:29 6b519fffe2364f588668a8e2ca1d995b
+msgid "【任务】有导入或导出任务时，此处显示任务进度。"
+msgstr ""
+"【Task】When there is a task import or export, the task progress is "
+"displayed here."
+
+#: ../../client_toolbar.md:31 c4ec9f22ab0441249b9e179e48bc98fc
+msgid "![alt text](_static/images/client/media/image9.png)"
+msgstr "![alt text](_static/images/en/client/media/image9.png)"
+
+#: ../../client_toolbar.md:33 39b5c0fd5ef1474c8aa1132d2615aaaa
+msgid ""
+"【消息提示】如果有系统通知消息，如公告、审核等，会展示在这里，点击查看消息。"
+msgstr ""
+"[Message Tips] If there are system notification messages, such as "
+"announcements, reviews, etc., it will be displayed here, click to view the "
+"message."
+
+#: ../../client_toolbar.md:35 74494fbf3d8749aaa814315931f43320
+msgid "![alt text](_static/images/client/media/image10.png)"
+msgstr "![alt text](_static/images/en/client/media/image10.png)"
+
+#: ../../client_toolbar.md:37 2092459c9cc8471ea4a3b24f11acddb5
+msgid ""
+"【语言】可以在这里切换系统语言，切换后刷新页面，当坐席在当前语言中登录时，坐"
+"席会遵循client的当前语言。"
+msgstr ""
+"[Language] You can switch the system language here, and refresh the page "
+"after switching. When the agent logs in in the current language, the agent "
+"will follow the client's current language."
+
+#: ../../client_toolbar.md:39 b25b50f78da54e7ba4c811ba283eb250
+msgid "![alt text](_static/images/client/media/image11.png)"
+msgstr "![alt text](_static/images/en/client/media/image11.png)"
+
+#: ../../client_toolbar.md:41 dc614c3f4a474282a67360d9ac7dbe13
+msgid ""
+"【client】单击此处查看客户的个人资料、公告和登录足迹（如果您是从高级登录者登"
+"录）"
+msgstr ""
+"【client】Click here to view customer profile, announcements and login "
+"footprints (if you are logged in from a premium loginer)"
+
+#: ../../client_toolbar.md:43 125f1d29561746d78d030824f557389d
+msgid "![alt text](_static/images/client/media/image12.png)"
+msgstr "![alt text](_static/images/en/client/media/image12.png)"
+
+#: ../../client_toolbar.md:45 2682bc97943f41bf9007642545de90fc
+msgid "【我的档案】客户可以在此处修改他们的账户信息，包括用户名。"
+msgstr ""
+"【My Profile】Customers can modify their account information, including "
+"usernames here."
+
+#: ../../client_toolbar.md:47 92e2974bd5c642f6a9dbb14d7abed699
+msgid "![alt text](_static/images/client/media/image13.png)"
+msgstr "![alt text](_static/images/en/client/media/image13.png)"
+
+#: ../../client_toolbar.md:49 0a1e22e6185f482c8080da47675ad30f
+msgid ""
+"【聊天页面】client可以搜索坐席并与坐席聊天，有聊天记录的坐席可以直接显示在对"
+"话框栏中。"
+msgstr ""
+"[Chat Page] Client can search for seats and chat with seats. Seats with chat "
+"records can be displayed directly in the dialog box bar."
+
+#: ../../client_toolbar.md:51 4b9719d68130411dbe41705436143c21
+msgid "【用户】"
+msgstr "【user】"
+
+#: ../../client_toolbar.md:53 264eaa60146746cfa0d4a34ca800e90e
+msgid "显示最近的联系人的姓名。"
+msgstr "Shows the name of the most recent contact."
+
+#: ../../client_toolbar.md:55 0839f26d19e24bec84bf3b30b69fadde
+msgid "Client在输入框中输入要发送的文本消息。"
+msgstr "Client enters the text message to send in the input box."
+
+#: ../../client_toolbar.md:57 1ce5f99c39824718a98e2aeed431071a
+msgid "单击获取消息历史记录 以查看以前与坐席的聊天。"
+msgstr "Click Get Message History to view previous chats with the agent."
+
+#: ../../client_toolbar.md:59 5d93c27a812940008fc8e7fb7071d576
+msgid "Client在输入框中输入短信发送。"
+msgstr "Client enters the SMS in the input box to send."
+
+#: ../../client_toolbar.md:61 427138031e984ad2a73877e3d58692e1
+msgid ""
+"点击图【片发送】发送图片，图片格式目前支持JPG、PNG、JPEG。图片大小不得超过 "
+"2MB。"
+msgstr ""
+"Click on the picture [Picture Send] to send the picture. The picture format "
+"currently supports JPG, PNG, and JPEG. "
+
+#: ../../client_toolbar.md:63 b606c46906ef4a55a822735fb70672c6
+msgid "点击【返回】，返回对话列表。"
+msgstr "Click [Return] to return to the conversation list."
+
+#: ../../client_toolbar.md:65 9acfa384bda34a9c947f4f5bdac9957e
+msgid "![alt text](_static/images/client/media/image14.png)"
+msgstr "![alt text](_static/images/en/client/media/image14.png)"
+
+#: ../../client_toolbar.md:67 acf074feb9f64d8894ca72d933d8560d
+msgid "![alt text](_static/images/client/media/image15.png)"
+msgstr "![alt text](_static/images/en/client/media/image15.png)"
+
+#: ../../client_toolbar.md:69 ee64b355268d482b9f706003580b84d4
+msgid "![alt text](_static/images/client/media/image16.png)"
+msgstr "![alt text](_static/images/en/client/media/image16.png)"
+
+#: ../../client_toolbar.md:71 175ddc8407fd40a48b2dcd543dff7ae3
+msgid "【仪表盘】"
+msgstr "【Dashboard】"
+
+#: ../../client_toolbar.md:73 d4a0d67b8e0640e2948f3eb42a04ed28
+msgid "仪表板显示代理呼叫的传入和传出统计信息。"
+msgstr ""
+"The dashboard displays incoming and outgoing statistics for proxy calls."
+
+#: ../../client_toolbar.md:75 6107d0be6b9e45098c5ea426f762db74
+msgid ""
+"Client用户可以在控制面板上查看统计信息; 呼出 / 接通 / 通话时长; 呼入 / 漏"
+"话 / 通话时长;"
+msgstr ""
+"Client users can view statistics on the control panel; outgoing call/on/call "
+"duration; incoming call/missing call/call duration;"
+
+#: ../../client_toolbar.md:77 859c6dd1d7ea47f384603fb42431c2f5
+msgid ""
+"接通新号码 /接通旧号码; 新建工单; 公告; DID 呼入; 主叫地区; 被叫地区; 设置参"
+"数 。"
+msgstr ""
+"Connect the new number / connect the old number; create a new work order; "
+"announcement; DID call in; call area; called area; set parameters."
+
+#: ../../client_toolbar.md:79 f4666800a2984e95a1bb09d82e45d947
+msgid "![alt text](_static/images/client/media/image17.png)"
+msgstr "![alt text](_static/images/en/client/media/image17.png)"
+
+#: ../../client_toolbar.md:81 8bd9eb3212a34bc3b848e38fccd5de53
+msgid "2.1 呼出 /接通/通话时长"
+msgstr "2.1 Call time/reach/call duration"
+
+#: ../../client_toolbar.md:83 4df1c60dc7d14e63b596e57af9bc5050
+msgid "![alt text](_static/images/client/media/image18.png)"
+msgstr "![alt text](_static/images/en/client/media/image18.png)"
+
+#: ../../client_toolbar.md:85 4c473aec87d24cf08f1a772f16bce420
+msgid "**呼出**:该client当天呼出的电话总数。"
+msgstr "**Call out**: The total number of calls issued by the client that day."
+
+#: ../../client_toolbar.md:87 1ed67a2244da4192ab32ee77ecb8d62f
+msgid "**接通**:此client当天呼出通话的接通次数。"
+msgstr "**Connect**: The number of times this client calls out on the day."
+
+#: ../../client_toolbar.md:89 38ffe2f16a0247fca575040ae051cb9c
+msgid "**通话时长:** client当天呼出接通的时间长度。"
+msgstr ""
+"** Call duration:** The length of time the client calls out on that day."
+
+#: ../../client_toolbar.md:91 569f035769984a6d845ee0baff00b919
+msgid "2.2呼入/ 漏话 /通话时长"
+msgstr "2.2 Call in / missed / call duration"
+
+#: ../../client_toolbar.md:93 390d7a44997d40e5b3bd3213f684c4b3
+msgid "![alt text](_static/images/client/media/image19.png)"
+msgstr "![alt text](_static/images/en/client/media/image19.png)"
+
+#: ../../client_toolbar.md:95 3afe9b744ef94aecb84f6a4b8db03a5b
+msgid "**呼入**:该client当日呼入通话的次数。"
+msgstr "**Incoming**: The number of calls made by the client on that day."
+
+#: ../../client_toolbar.md:97 fe0c946cc0c74f84b934651fde205114
+msgid "**漏话**:当日呼入到该client的通话，但是没有被接通。"
+msgstr ""
+"**Leaked call**: The call to the client on that day was called, but it was "
+"not answered."
+
+#: ../../client_toolbar.md:99 0e5b1330f2be4ca0bedcefcf7a1637da
+msgid "**通话时长**: 当日呼入到该client的接通通话时长。"
+msgstr ""
+"**Call duration**: The call duration that calls to the client on the same "
+"day."
+
+#: ../../client_toolbar.md:101 83b1d81783a443988415dadaeae45c21
+msgid "2.3接通新号码/ 接通旧号码"
+msgstr "2.3 Connect the new number / Connect the old number"
+
+#: ../../client_toolbar.md:103 56e157981c5c4f09ab16a586e1093f2a
+msgid "![alt text](_static/images/client/media/image20.png)"
+msgstr "![alt text](_static/images/en/client/media/image20.png)"
+
+#: ../../client_toolbar.md:105 634c48bc9fb14948bc013e9df3540074
+msgid "**接通新号码**:首次呼入该client并被接通的号码。"
+msgstr ""
+"**New number connected**: The number that was called in the client for the "
+"first time and was connected."
+
+#: ../../client_toolbar.md:107 7205fa50693d456699e2064c1d35b7de
+msgid "**接通旧号码**:系统已保存或删除的号码将在拨打并接通后显示为旧号码。"
+msgstr ""
+"**Connect the old number**: The saved or deleted number of the system will "
+"be displayed as the old number after dialing and reconnecting."
+
+#: ../../client_toolbar.md:109 ce53e3d0e200416fae897329381b1753
+msgid "2.4 新建工单"
+msgstr "2.4 New work order"
+
+#: ../../client_toolbar.md:111 e568025bfbc34575850344581a9f9953
+msgid ""
+"同一天创建的所有工单，包括在客户端级工单页面上创建的工单和在客户配置文件页面"
+"上创建的工单。只有当天的记录将在第二天重置。"
+msgstr ""
+"All tickets created on the same day, including tickets created on the client-"
+"level ticket page and tickets created on the client profile page. "
+
+#: ../../client_toolbar.md:113 98d822325e9e4dc5953a80e78429c4f0
+msgid "![alt text](_static/images/client/media/image21.png)"
+msgstr "![alt text](_static/images/en/client/media/image21.png)"
+
+#: ../../client_toolbar.md:115 6cce2609986d495daa66e155e6b580b8
+msgid "2.5 公告"
+msgstr "2.5 Announcement"
+
+#: ../../client_toolbar.md:117 c6cb489a60584c308ef458d4859cbdff
+msgid "Client及其坐席创建的所有公告将累积显示。"
+msgstr ""
+"All announcements created by the Client and its agents will be displayed "
+"cumulatively."
+
+#: ../../client_toolbar.md:119 8d2d4b857f464c81bdc6861552306332
+msgid "![alt text](_static/images/client/media/image22.png)"
+msgstr "![alt text](_static/images/en/client/media/image22.png)"
+
+#: ../../client_toolbar.md:121 5be03a27cda24ea0a8a9bdd6a2d6c4c9
+msgid "2.6 did 呼入"
+msgstr "2.6 did call in"
+
+#: ../../client_toolbar.md:123 764e5bf0aa614332b7ff3aa29b5796b8
+msgid "did呼入次数所占百分比的饼状图。"
+msgstr "Pie chart of the percentage of did call in."
+
+#: ../../client_toolbar.md:125 1170582051174f8dbe5d4886b1fbbae2
+msgid "![alt text](_static/images/client/media/image23.png)"
+msgstr "![alt text](_static/images/en/client/media/image23.png)"
+
+#: ../../client_toolbar.md:127 c186c7a8fe644b8181498916ec68dd8a
+msgid "次数、时长、分钟数的饼状图会先显示 DID 名称，没有名字则显示数字。"
+msgstr ""
+"The pie chart of times, duration, and minutes will first display the DID "
+"name, and if there is no name, the number will be displayed."
+
+#: ../../client_toolbar.md:129 89f58b4a56aa405c87521b018d445252
+msgid ""
+"1.频率排名：统计 DID 号码的来电次数，所有打到 DID 的号码都会被统计（来电接通/"
+"未接通），每个来电在 DID 号码后 +1。"
+msgstr ""
+"1 Frequency ranking: count the number of calls to the DID number. All "
+"numbers that call to the DID will be counted (incoming call is on/not "
+"connected), and each incoming call is +1 after the DID number."
+
+#: ../../client_toolbar.md:131 62b710e24ad14de291a657f25dad4bf9
+msgid "![alt text](_static/images/client/media/image24.png)"
+msgstr "![alt text](_static/images/en/client/media/image24.png)"
+
+#: ../../client_toolbar.md:133 ../../client_toolbar.md:153
+#: 1debcc79b0e94cffb2e92d2be7731815 01d626214b79412fb5b95cd36d8f3097
+msgid "![alt text](_static/images/client/media/image25.png)"
+msgstr ""
+
+#: ../../client_toolbar.md:135 11ab9a3e436d48f5af0f7650b8dd3b4b
+msgid ""
+"2.时长排名：计算 DID 号码来电的通话时长，以分钟为单位显示，计数范围如下："
+msgstr ""
+"2 Duration ranking: Calculate the call duration of the incoming call of the "
+"DID number, displayed in minutes, and the counting range is as follows:"
+
+#: ../../client_toolbar.md:137 7ee85c3702e84650b96fa10417614772
+msgid ""
+"1）**DID 转IVR，按钮转接给坐席**：呼入时间将计入总通话时长，无论是否点击按钮"
+"转接，也无论坐席是否接通。"
+msgstr ""
+"① **DID to IVR, button transfer to agent**: The incoming call time will be "
+"counted into the total call time, regardless of whether the button is "
+"clicked or not, whether the agent is connected."
+
+#: ../../client_toolbar.md:139 68419d79d7d3453d904ffcb34df38d52
+msgid ""
+"2）**DID 转语音播报，再转给坐席**：呼入时间将计入总通话时长，无论坐席是否接"
+"通，总通话时长都计算在内。"
+msgstr ""
+"② **DID to voice broadcast, and then to the agent**: The call time will be "
+"counted into the total call duration, regardless of whether the agent is "
+"connected or not, the total call duration will be counted."
+
+#: ../../client_toolbar.md:141 a1a13acb1e9049748ad447d2f86aa784
+msgid ""
+"3）**DID 转接坐席组**：呼入时间将计入总通话时长，无论坐席是否接通，总通话时长"
+"都计算在内。"
+msgstr ""
+"③ **DID transfer agent group**: The incoming call time will be counted into "
+"the total call time, regardless of whether the agent is connected or not, "
+"the total call time will be counted."
+
+#: ../../client_toolbar.md:143 a56e2f7b06e746c387464ce2eb4dc9b1
+msgid "4）**DID 转振铃组**：只有坐席接通后，才会计算通话时长。"
+msgstr ""
+"④ **DID to ring group**: The call duration will be calculated only after the "
+"seat is connected."
+
+#: ../../client_toolbar.md:145 8382ea2659264316ad909945785d0ee7
+msgid "5）**DID 转条件，再转接给坐席**:只有坐席接通后，才会计算通话时长。"
+msgstr ""
+"⑤ **DID transfer conditions, and then transfer to the agent**: The call "
+"duration will be calculated only after the agent is connected."
+
+#: ../../client_toolbar.md:147 afd3c9f49feb487dbe5f252d4f9d81a5
+msgid "6）**DID 转接坐席**:只有坐席接通后，才会计算通话时长。"
+msgstr ""
+"⑥ **DID transfer seat**: The call duration will be calculated only after the "
+"seat is connected."
+
+#: ../../client_toolbar.md:149 79bb07d40e374342a34abff7ee021270
+msgid "7）**DID 转外号码**：只有外线号码接通时，才会计算通话时长。"
+msgstr ""
+"⑦ **DID to nickname number**: The call duration will be calculated only when "
+"the external number is connected."
+
+#: ../../client_toolbar.md:151 47c923ed5000482b837d2cc67e30f211
+msgid "8）**DID 转挂断**：不计算在内。"
+msgstr "⑧ **DID to hang up**: Not counted."
+
+#: ../../client_toolbar.md:155 44f300a2bce243c0a017578236958e5d
+msgid "![alt text](_static/images/client/media/image26.png)"
+msgstr "![alt text](_static/images/en/client/media/image26.png)"
+
+#: ../../client_toolbar.md:157 66c5df3ff2e641caabc1e1b5ec19dbf2
+msgid ""
+"3.分钟数排名：计算呼入到该did号码下的呼入应答数，每呼入并接通一通电话就会在该"
+"did号码后+1，呼入到坐席组、语音播报和ivr语音菜单，呼入不接通也会计数。"
+msgstr ""
+"3 Minute ranking: Calculate the number of incoming calls under the did "
+"number. Every time the call is incoming and connected, it will +1 after the "
+"did number. The call will be incoming to the seat group, voice broadcast and "
+"ivr voice menus. If the incoming call is not connected, it will also count."
+
+#: ../../client_toolbar.md:159 6fb58ec08b144d17a00f052f077ce97b
+msgid "1）**DID 转接 IVR，按键转接给坐席**：呼入会 +1。"
+msgstr ""
+"① **DID transfer to IVR, press the button to transfer to the agent**: "
+"Calling +1."
+
+#: ../../client_toolbar.md:161 8c304e013e3d4c28975a07859ff4598f
+msgid "2）**DID 转到语音播报，然后转接给坐席**：呼入会 +1。"
+msgstr ""
+"② **DID Go to voice broadcast, and then transfer to the agent**: Calling +1."
+
+#: ../../client_toolbar.md:163 c4d68fae804146e4aa6811c47b679bd5
+msgid "3）**DID 转接到坐席组**：呼入会 +1。"
+msgstr "③ **DID is transferred to the agent group**: Call +1."
+
+#: ../../client_toolbar.md:165 2208405378074fc48b3b068f30a26808
+msgid "4）**DID转接到振铃组**：坐席接通+1，未接通不会计算。"
+msgstr ""
+"④ **DID is transferred to ringing group**: The agent is connected +1, and it "
+"will not be calculated if it is not connected."
+
+#: ../../client_toolbar.md:167 c3007a3bce9b49fe979bf2e323bd7e2e
+msgid "5）**DID转条件后转给坐席**：坐席接通+1，未接通不会计算。"
+msgstr ""
+"⑤ **DID transfer condition to the agent**: The agent is connected +1, and it "
+"will not be calculated if it is not connected."
+
+#: ../../client_toolbar.md:169 9e1eb42b042241efa9163a10e0d410fa
+msgid "6）**DID转坐席**：坐席接通+1，未接通不会计算。"
+msgstr ""
+"⑥ **DID to seat**: The seat is connected +1, and it will not be calculated "
+"if it is not connected."
+
+#: ../../client_toolbar.md:171 127882c463e94cbab3f5cc5237676c25
+msgid "7）**DID转外线号码**：坐席接通+1，未接通不会计算。"
+msgstr ""
+"⑦ **DID to external number**: The seat is connected +1, and it will not be "
+"calculated if it is not connected."
+
+#: ../../client_toolbar.md:173 f255374f48384b3ebff5bfdbb56f8704
+msgid "8）**DID转向挂断**:不计算在内。"
+msgstr "⑧ **DID steering hang up**: Not counted."
+
+#: ../../client_toolbar.md:175 14fec2276de04f8980d5249969a70b51
+msgid "![alt text](_static/images/client/media/image27.png)"
+msgstr "![alt text](_static/images/en/client/media/image27.png)"
