@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-14 02:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../agent_login.md:1 ca8cea58a025408b9a40a149e1673f37
+msgid "1 系统登录"
+msgstr ""
+
+#: ../../agent_login.md:3 8551ac6967d8480f92c476f00e96df1c
+msgid "在您正在使用的浏览器的地址栏中输入 URL。按 Enter 键进入系统登录页面。"
+msgstr ""
+
+#: ../../agent_login.md:5 e851baf5eda04ea3b37146f60a3575fd
+msgid ""
+"用户账号为工号+@client名 ，密码为client提前预设的，输入正确账号和密码，勾选"
+"【进行人机身份验证】，验证后选择【登录】，可以成功进入系统。"
+msgstr ""
+
+#: ../../agent_login.md:7 d2612953217546d18a27d12f29d40be1
+msgid ""
+"用户可以通过选择【记住密码】，浏览器会记住此次的帐号密码，方便下次登陆。"
+msgstr ""
+
+#: ../../agent_login.md:9 4ec65a14631d49a28b273244f0b11059
+msgid "![alt text](_static/images/agent/image-a1.jpg)"
+msgstr ""
+
+#: ../../agent_login.md:9 ../../agent_login.md:13 ../../agent_login.md:19
+#: ../../agent_login.md:25 ../../agent_login.md:29 ../../agent_login.md:33
+#: ../../agent_login.md:37 ../../agent_login.md:43
+#: 84c567372b8147eebe99cf8509dfc281 76711bba2e3042adbeba740503c7c6df
+#: 09b73b242a33446cad6e5845d34badfc 1add65769b714275bbc1666fb7f6cb68
+#: 0d60e9ccb0ee4afc86a53cf4c8f0ebbf f42dd5e5311d489982bb074f2e6efc89
+#: 11af902c340549ee9afa4d77453b0b44 32068358ce824b5bb8ff6511469cbe9a
+msgid "alt text"
+msgstr ""
+
+#: ../../agent_login.md:11 5e53f3881c804fd8b3980b3b26e0c479
+msgid ""
+"当用户进入系统时，选择左边的下拉选项【登出】，确认后，您将从系统中注销，页面"
+"将返回到用户登录页面。"
+msgstr ""
+
+#: ../../agent_login.md:13 cbe820c1737d49e78eb883b6a1519be4
+msgid "![alt text](_static/images/agent/image-a2.png)"
+msgstr ""
+
+#: ../../agent_login.md:15 be8190b6650f4960916cdedca21a7452
+msgid "2 界面介绍"
+msgstr ""
+
+#: ../../agent_login.md:17 9380e48c496f4b5ebefa3619780969bd
+msgid ""
+"WCC坐席界面窗口由3个主区域组成，他们分别是：①左侧菜单栏、②上方状态栏、③中间工"
+"作区"
+msgstr ""
+
+#: ../../agent_login.md:19 042fe903d7ba4d03824809dea90f86ee
+msgid "![alt text](_static/images/agent/image-a3.png)"
+msgstr ""
+
+#: ../../agent_login.md:21 e942966f21f8416298531c9ef20fb46a
+msgid "2.1 菜单栏"
+msgstr ""
+
+#: ../../agent_login.md:23 b35712b8070c40f68bc12a52abb47169
+msgid "没有分配角色且没有坐席组长的坐席只有个人统计页面可以查看。"
+msgstr ""
+
+#: ../../agent_login.md:25 19d33ab7dfea40c6837039e317c92c4a
+msgid "![alt text](_static/images/agent/image-a4.png)"
+msgstr ""
+
+#: ../../agent_login.md:27 f856a5cd467d4578be82f5c059e4ecd0
+msgid "有坐席组长权限的坐席，可以登录所任组长组中的坐席。"
+msgstr ""
+
+#: ../../agent_login.md:29 265cfc485fe44831bcf46188b931644b
+msgid "![alt text](_static/images/agent/image-a5.png)"
+msgstr ""
+
+#: ../../agent_login.md:31 4045009d88044bec9f4d1dd525ec5ea1
+msgid "查看所任坐组长组内坐席汇总的统计报告"
+msgstr ""
+
+#: ../../agent_login.md:33 fc773c2040a64e5a8fec7def9f8f7ee7
+msgid "![alt text](_static/images/agent/image-a6.png)"
+msgstr ""
+
+#: ../../agent_login.md:35 e813d80354394cb5a57635a112e98186
+msgid "查看所有坐席的实时监控页面"
+msgstr ""
+
+#: ../../agent_login.md:37 95b759e19e954b19b93065ec669f285c
+msgid "![alt text](_static/images/agent/image-a7.png)"
+msgstr ""
+
+#: ../../agent_login.md:39 affb63ebe5cf47b6ada1c533f091fb23
+msgid "2.2 我的档案"
+msgstr ""
+
+#: ../../agent_login.md:41 e7268c60ce944195a0f0899fe8dd9a82
+msgid "用于平时仪表盘及联系客户。坐席登陆后默认显示内容。"
+msgstr ""
+
+#: ../../agent_login.md:43 41af5403ab664059acb94d8512552c99
+msgid "![alt text](_static/images/agent/image-a8.png)"
+msgstr ""
+
+#: ../../agent_login.md:45 92d13963356849f19c2c16a06695e7ad
+msgid "2.2.1 仪表盘"
+msgstr ""
+
+#: ../../agent_login.md:47 0eaecd0bd0db4ab293b2bfa1cb579152
+msgid "仪表盘中分为坐席数据页面和个人信息页面。"
+msgstr ""
+
+#: ../../agent_login.md:49 74fcafa731734e469a05f184325ce193
+msgid "坐席数据："
+msgstr ""
+
+#: ../../agent_login.md:51 f2173d54609b4099835400ff534e9e57
+msgid ""
+"主要包括对通话及工单等的数据概览，客户预约，工单预约，TODO，当前任务以及坐席"
+"排行榜。"
+msgstr ""
+
+#: ../../agent_login.md:53 d23c0306464541dda497298f8322e819
+msgid "概览："
+msgstr ""
+
+#: ../../agent_login.md:55 528211d219bc461795e7d1626cca9b81
+msgid "可以直观的显示当前坐席的呼叫排队，工单数和呼入数"
+msgstr ""
