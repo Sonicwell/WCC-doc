@@ -32,6 +32,10 @@ msgmerge locales/ja/LC_MESSAGES/常见问题回答.po _build/gettext/faq.pot -o 
 # 步骤 3：可选，删除旧的翻译文件（防止干扰）
 
 rm locales/*/LC_MESSAGES/常见问题回答.po
+
+rm _build/gettext/常见问题回答.pot
+
+rm _build/gettext/.doctrees/常见问题回答.doctree
 ```
 
 ## 使用脚本进行PO文件自动翻译

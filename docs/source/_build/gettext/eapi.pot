@@ -1,0 +1,282 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025 Sonicwell Technology Ltd
+# This file is distributed under the same license as the WCC Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WCC Documentation 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-24 12:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../eapi.md:1
+#: 74ed2879d7bf4ce68c890c267a65975c
+msgid "EAPI鉴权机制开发说明"
+msgstr ""
+
+#: ../../eapi.md:4
+#: 1c1be0eecbfa4322a853202d96778b53
+msgid "OAuth 2.0 和 JWT（JSON Web Token） 的结合是目前最常用的授权和认证方案之一，广泛应用于分布式系统、API接口和微服务架构中。这两者的组合可以提供安全、无状态、可扩展的身份验证与授权机制。"
+msgstr ""
+
+#: ../../eapi.md:6
+#: a978d05d7e7940d1a478580bcdecfc32
+msgid "1 关于密钥对"
+msgstr ""
+
+#: ../../eapi.md:8
+#: 155afa809856473081f9a41681fdf50e
+msgid "client添加/编辑时，增加一个选项卡，EAPI, 设置如下："
+msgstr ""
+
+#: ../../eapi.md:10
+#: 9d2c09f58efc419c8d630f5a8f023662
+msgid "**IP白名单**，如果设置，则只允许白名单请求接口.包括access_token获取时的接口，需要检查是否符合该client白名单。"
+msgstr ""
+
+#: ../../eapi.md:12
+#: 9b06ee77b0ae4705aaf3d1f800a6a482
+msgid "**如果客户未设置证书**："
+msgstr ""
+
+#: ../../eapi.md:19
+#: 412c2e713259402ab13a01d7d9f5d2f4
+msgid "**如果客户已设置证书**："
+msgstr ""
+
+#: ../../eapi.md:28
+#: d978316a14864e1ab485e8f8f28931c5
+msgid "**密钥标准**: RSA AES-256 2048位 pem格式, openssl生成示例"
+msgstr ""
+
+#: ../../eapi.md:41
+#: e03969975edf49158216cffec0c7aa9d
+msgid "**我们服务器使用NodeJS生成密钥对及签名验证的示例代码**："
+msgstr ""
+
+#: ../../eapi.md:72
+#: b32d870d5f77437a99b06770508d350c
+msgid "2 JWT的构造规则"
+msgstr ""
+
+#: ../../eapi.md:74
+#: f1147fda4e0a4635a2c6e6f0e266b4af
+msgid "JWT由三个部分组成：标头、负载和签名。标头和负载是 JSON 对象。这些 JSON 对象会序列化为 UTF-8 字节，然后使用 Base64url 编码进行编码。这种编码可抵御因重复编码操作而导致的编码更改。标头、负载和签名会使用句点 (.) 字符串联在一起。"
+msgstr ""
+
+#: ../../eapi.md:76
+#: 2d865a6131be45b9a1d8035ee84c4026
+msgid "**JWT的构成如下**："
+msgstr ""
+
+#: ../../eapi.md:81
+#: 94dd83d2b85e4cd38e96ea15c840b1fa
+msgid "**签名的字符串基础如下所示**："
+msgstr ""
+
+#: ../../eapi.md:86
+#: 11833f7f75114c29bff89f285c1afbd9
+msgid "**构成JWT标头(header)**, 服务依赖于 RSA SHA-256 算法和 JWT 令牌格式。因此，标头的 JSON 表示法如下所示："
+msgstr ""
+
+#: ../../eapi.md:91
+#: 4d3f6dcbc22e4dc0a7b0314b7f0022e7
+msgid "**构成JWT负载(payload)**,"
+msgstr ""
+
+#: ../../eapi.md:100
+#: 070d206d9c9d4fbba249fa9bc4feedaf
+msgid "**使用私钥**通过 SHA256withRSA（也称为 RSASSA-PKCS1-V1_5-SIGN，使用 SHA-256 哈希函数）对输入内容的 UTF-8 表示法**进行签名**："
+msgstr ""
+
+#: ../../eapi.md:108
+#: 7a01fb01a3ba42bfb9ac3f4eb05ef3bf
+msgid "**最终拼接出JWT**"
+msgstr ""
+
+#: ../../eapi.md:113
+#: fc2d8dc9d6e142d98a3e5129d7c3e970
+msgid "3.1 客户端如何使用JWT换取access_token?"
+msgstr ""
+
+#: ../../eapi.md:115
+#: b40a096e6d99492384b0856ebb6990a8
+msgid "**请求速率限制**: 5次/每小时, 超出提示 429 Too Many Requests."
+msgstr ""
+
+#: ../../eapi.md:117
+#: 00b26039fc474b7889c011ca1b52bfee
+msgid "access_token**时效性1小时**, 以最后一次请求为准。"
+msgstr ""
+
+#: ../../eapi.md:119
+#: 32be0af45f914cc18fe2c72d07393807
+msgid "**请求示例**："
+msgstr ""
+
+#: ../../eapi.md:130
+#: 4cc91c8c4dab480ab899bda298ce51eb
+msgid "3.2 服务端受理JWT，通过校验后，生成access_token"
+msgstr ""
+
+#: ../../eapi.md:132
+#: 403acaae187b41b79e650ba60d9579de
+msgid "**1.路由地址**：/eapi/token, POST请求。参数说明："
+msgstr ""
+
+#: ../../eapi.md:140
+#: 85767cd4f9ac4e2094e5b21f74b31c6d
+msgid "**2.请求速率检查**(rate-limit-redis): 5次/每小时, 超出提示 429 Too Many Requests。这是access_token接口的固有限制，适用于所有client。"
+msgstr ""
+
+#: ../../eapi.md:142
+#: 4d6d9f396e024a6ba177459a73492946
+msgid "**3.重复请求检查**: redis分布式锁, md5(url path + 参数正序)，每5秒不得重复。"
+msgstr ""
+
+#: ../../eapi.md:176
+#: 516e24a7ad24499b85b0d6e2fd14d904
+msgid "**4.一致性检查**通过，得到client公钥、IP白名单信息:"
+msgstr ""
+
+#: ../../eapi.md:183
+#: 40d35be5003a4270a06dded120c02d74
+msgid "**5.如果client配置了IP白名单**，需要验证请求源IP是否符合。"
+msgstr ""
+
+#: ../../eapi.md:185
+#: 0baff9c0bf4c4d9ca10ce08b33a91bc4
+msgid "**6.验证JWT payload中时间戳**:"
+msgstr ""
+
+#: ../../eapi.md:192
+#: 4277ac3129254cbfa9fafa6d8cd1901d
+msgid "**7.服务端用公钥publicKey验证assertion参数提供的JWT签名**"
+msgstr ""
+
+#: ../../eapi.md:200
+#: 48340453abad47cea6f8c95afc8fc781
+msgid "**8.生成access_token**"
+msgstr ""
+
+#: ../../eapi.md:211
+#: 6d5eba614e6642dfaecfe9907c8ef3f7
+msgid "**9.输出结果**"
+msgstr ""
+
+#: ../../eapi.md:220
+#: 069f1d87230d4a4f844a538c448ea9f6
+msgid "**10.响应结果说明**"
+msgstr ""
+
+#: ../../eapi.md:225
+#: b9126dd9069e4834890b95519f7878e1
+msgid "4.1 客户端如何使用access_token进行EAPI接口请求？"
+msgstr ""
+
+#: ../../eapi.md:227
+#: 17d4c6655a06460eb8c27286717e47cf
+msgid "**curl示例**"
+msgstr ""
+
+#: ../../eapi.md:229
+#: faf2620f1a6a4b39861e075ea4bb5217
+msgid "您可以使用 curl 命令行应用测试这些命令。下面是一个使用 HTTP 标头选项（首选）的示例："
+msgstr ""
+
+#: ../../eapi.md:234
+#: 9e72c31c1e9c4982aa6b3beb6e6109ee
+msgid "或者，您也可以使用查询字符串参数选项："
+msgstr ""
+
+#: ../../eapi.md:239
+#: 9fd5f2bf69624c078ae1f816b56e0b1c
+msgid "**访问令牌的过期时间**:"
+msgstr ""
+
+#: ../../eapi.md:241
+#: e758c22ffa354f43b0bb27b2ec8a6c4f
+msgid "WCC OAuth 2.0 授权服务器签发的访问令牌会在 expires_in 值提供的有效期过后过期。在访问令牌过期后，应用应生成另一个JWT，对其进行签名，然后请求另一个访问令牌。"
+msgstr ""
+
+#: ../../eapi.md:244
+#: eb46786919ba4d72a65ad3a7f5cc8c0c
+msgid "4.2 服务端如何对EAPI access_token进行校验？"
+msgstr ""
+
+#: ../../eapi.md:246
+#: 2e6ebb339e4c48e5a2d2e8c41bcc02b3
+msgid "1.请求中必须有access_token携带。"
+msgstr ""
+
+#: ../../eapi.md:248
+#: fb31650dd913425dae93038795630125
+msgid "2.redis keys中应存在`EAPI:TOKEN:client_realm:token_string`。"
+msgstr ""
+
+#: ../../eapi.md:250
+#: 78b7d999145b46b69b5163938f97d569
+msgid "3.重复请求检查: redis分布式锁, md5(url path + 参数正序),参照3.2中关于“重复请求检查”介绍。"
+msgstr ""
+
+#: ../../eapi.md:252
+#: 87511c166ccd460d9ee1a0b4e5402378
+msgid "4.获取client参数，如ip白名单、api限制。"
+msgstr ""
+
+#: ../../eapi.md:254
+#: d7bec10244804fb0969562191ed368dc
+msgid "5.验证ip白名单。"
+msgstr ""
+
+#: ../../eapi.md:256
+#: 0372d151e1734e90bbb53495650aaf76
+msgid "6.请求速率检查(rate-limit-redis): 按client API限制中的配置进行检查, 超出提示 429 Too Many Requests。"
+msgstr ""
+
+#: ../../eapi.md:258
+#: 512d42be3aca4a62bbfa46961e91812e
+msgid "7.接口业务处理。"
+msgstr ""
+
+#: ../../eapi.md:260
+#: 1b1f24e06b4d4c0b9ca525dc955e7a0a
+msgid "8.返回结果。"
+msgstr ""
+
+#: ../../eapi.md:262
+#: 33501b4f220041d39260995a1a134f93
+msgid "9.响应结果说明"
+msgstr ""
+
+#: ../../eapi.md:267
+#: 2fe01003db6542a7bc0d83c9ae44fb31
+msgid "5 sapi与eapi的共用与管控"
+msgstr ""
+
+#: ../../eapi.md:269
+#: 764b7ca6c6f449b2ac1dcaf7b9de1c66
+msgid "1.sapi路由关于token的验证，应改造为前置，不应参混在接口业务函数中。"
+msgstr ""
+
+#: ../../eapi.md:271
+#: e82ea5a2f7b84c6e874d5c063a2485d4
+msgid "2.sapi和eapi都是前置鉴权，通过后进行路由匹配。"
+msgstr ""
+
+#: ../../eapi.md:273
+#: b795aa1eafef43198d7d8e73924b7d49
+msgid "3.sapi与eapi只是两套路由表述，均共同指向现有的接口函数中。"
+msgstr ""
+
+#: ../../eapi.md:275
+#: 35eb23ce1867474e8ba9536de93aa465
+msgid "4.sapi和eapi可在系统中设置接口服务开关，前置检查，控制服务是否启用，未启用时，一律响应404。"
+msgstr ""
