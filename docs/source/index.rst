@@ -20,21 +20,21 @@ Welcome to WCC documentation!
    :maxdepth: 2
    :caption: Reseller
 
-   reseller_login <reseller_WCC登录>
-   reseller_interface <reseller_仪表盘介绍>
+   reseller_login
+   reseller_interface
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Client
 
-   client_login <client_系统登录>
-   client_toolbar <client_工具栏>
-   client_menus <client_菜单功能>
+   client_login
+   client_toolbar
+   client_menus
 
 .. toctree::
    :maxdepth: 2
    :caption: 常见问题
 
-   FAQ <常见问题回答>
+   faq
    
