@@ -8,6 +8,32 @@ sphinx-build -b gettext . _build/gettext
 sphinx-intl update -p _build/gettext -l en -l ja -l zh_CN
 ```
 
+## 文档文件名称修改后，如何进行多语言迁移？
+
+```
+# 以为例，修改文档文件名称
+
+mv 常见问题回答.md faq.md
+
+# 步骤 1：重新生成 .pot 文件
+
+cd docs/source
+
+sphinx-build -b gettext . _build/gettext
+
+# 步骤 2：用 msgmerge 把旧翻译合并到新文件
+
+msgmerge locales/zh_CN/LC_MESSAGES/常见问题回答.po _build/gettext/faq.pot -o locales/zh_CN/LC_MESSAGES/faq.po
+
+msgmerge locales/en/LC_MESSAGES/常见问题回答.po _build/gettext/faq.pot -o locales/en/LC_MESSAGES/faq.po
+
+msgmerge locales/ja/LC_MESSAGES/常见问题回答.po _build/gettext/faq.pot -o locales/ja/LC_MESSAGES/faq.po
+
+# 步骤 3：可选，删除旧的翻译文件（防止干扰）
+
+rm locales/*/LC_MESSAGES/常见问题回答.po
+```
+
 ## 使用脚本进行PO文件自动翻译
 
 ```
