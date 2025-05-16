@@ -1229,9 +1229,9 @@
 
 -   **状态**：选择弹屏警告的使用状态。
 
-    ②点击保存即可添加一个新的弹屏警告。
+②点击保存即可添加一个新的弹屏警告。
 
-    ![alt text](_static/images/client/media/image98.png)
+![alt text](_static/images/client/media/image98.png)
 
 ###### 2.2 坐席添加一个新的弹屏警告
 
@@ -1305,7 +1305,7 @@
 
 ![alt text](_static/images/client/media/image106.png)
 
-Example of Original Imported Customer Data：
+原始导入客户数据示例：
 
 ![alt text](_static/images/client/media/image107.png)
 
@@ -1352,7 +1352,7 @@ Example of Original Imported Customer Data：
 
 【显示/隐藏字段】选择该页面的任务需要显示或隐藏的字段。
 
-【启用】为用户可以选择任务的状态，例如启用、隐藏、关闭来查看任务。
+【状态】为用户可以选择任务的状态，例如启用、隐藏、关闭来查看任务。
 
 【坐席组】根据坐席组选择需要查看的任务。
 
@@ -1400,16 +1400,13 @@ Example of Original Imported Customer Data：
 
 -   配额：配额即限制成功提交客户的数量，如果配额是100，那么该任务的成功提交客户数量达到100，则不会此任务无需坐席再访问，防止资源浪费。在已建立的任务编辑汇总可设置配额。
 
--   溢出配额：若设置配额上限，则配额达到的要求是配上限的配额数。
-
 -   质检比：用于提示告知质检人员此任务的质检比例。
 
 -   最大客户样本数量：坐席单次从客户池中获取客户数量。
 
 -   发送统计的CSV到指定地址：预拨号拨号完成后，发送预拨号的客户统计CSV到指定地址，关于地址详情请联系供应商或管理员。
 
--   发送统计的CSV到指定地址：预拨号完成后，将预拨号客户统计信息 CSV
-    发送到指定地址。有关地址的详细信息，请联系供应商或管理员。
+
 
 ##### 3 添加一个新的任务
 
