@@ -1686,13 +1686,13 @@
 
 *可用坐席都是指坐席的数量，高级里的设置，是作为下一次预拨号判断的依据*。
 
-    ②设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表：
+②设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表：
 
-    ![alt text](_static/images/client/media/image138.png)
+![alt text](_static/images/client/media/image138.png)
 
-    ③点击【回收】，对任务中的客户数据进行回收。在【请选择】中有两种回收的方式：
+③点击【回收】，对任务中的客户数据进行回收。在【请选择】中有两种回收的方式：
 
-    ![alt text](_static/images/client/media/image139.png)
+![alt text](_static/images/client/media/image139.png)
 
 -   **按选中回收**：选中需要回收的客户数据，点击确定即可进行回收。
 
@@ -1734,7 +1734,7 @@
 
 **开始时间**：客户开始振铃的时间。
 
-**振铃时长**：客户振铃的时间。
+**振铃时长**：客户振铃的时长。
 
 ![alt text](_static/images/client/media/image144.png)
 
