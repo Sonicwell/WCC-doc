@@ -9,15 +9,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"POT-Creation-Date: 2025-05-29 10:51+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: zh_CN <LL@li.org>\n"
 "Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: zh_CN <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../reseller_interface.md:1 23660969dffc4a50a1fdabc3b0070dac
@@ -29,9 +29,7 @@ msgid "1.2.1 I仪表盘概述"
 msgstr ""
 
 #: ../../reseller_interface.md:5 36989e662c2a4e3ca514347c6a5f3981
-msgid ""
-"WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2）上部状态栏"
-"和 （3） 中间工作区。"
+msgid "WCC 代理商用户界面窗口由三个主要区域组成：（1） 左侧菜单栏、（2）上部状态栏和 （3） 中间工作区。"
 msgstr ""
 
 #: ../../reseller_interface.md:7 0d54f418413f4ee89a41b238326186d4
@@ -40,51 +38,33 @@ msgstr ""
 
 #: ../../reseller_interface.md:7 ../../reseller_interface.md:25
 #: ../../reseller_interface.md:29 ../../reseller_interface.md:51
-#: ../../reseller_interface.md:100 ../../reseller_interface.md:118
-#: ../../reseller_interface.md:124 ../../reseller_interface.md:136
-#: ../../reseller_interface.md:160 ../../reseller_interface.md:170
-#: ../../reseller_interface.md:186 ../../reseller_interface.md:190
-#: ../../reseller_interface.md:208 ../../reseller_interface.md:216
-#: ../../reseller_interface.md:220 ../../reseller_interface.md:224
-#: ../../reseller_interface.md:232 ../../reseller_interface.md:238
-#: ../../reseller_interface.md:246 ../../reseller_interface.md:250
-#: ../../reseller_interface.md:260 ../../reseller_interface.md:282
-#: ../../reseller_interface.md:292 ../../reseller_interface.md:294
-#: ../../reseller_interface.md:302 ../../reseller_interface.md:306
-#: ../../reseller_interface.md:330 ../../reseller_interface.md:336
-#: ../../reseller_interface.md:340 ../../reseller_interface.md:356
-#: ../../reseller_interface.md:360 ../../reseller_interface.md:374
-#: ../../reseller_interface.md:378 ../../reseller_interface.md:382
-#: ../../reseller_interface.md:388 ../../reseller_interface.md:396
-#: ../../reseller_interface.md:402 ../../reseller_interface.md:410
-#: ../../reseller_interface.md:416 ../../reseller_interface.md:422
-#: ../../reseller_interface.md:432 ../../reseller_interface.md:434
-#: 50cbc1a4fb974e89ae8be00812ea66b5 738fc6d9f69347e79d1ab829797115da
-#: d98d8c651e5b465d90b5d2b9660fce6d b72fd680ce3449e0a24c14773d54a1e5
-#: 5354f74c22984e32a597a44fa0eacb38 043eb5aca8074c3f90c9e96fb401729d
-#: 63e094c54b0b4a00ab96852b408f5f97 a8e6ce0144e94a51920add2629dfdd4f
-#: c21cf046433e454eaac6ea3cfdbc91a8 16b79caecfed4732aaab6a9ef1e52dc4
-#: 9b7220da6aeb403889017e9e281f1cd9 fae3b3ae25c74617b5779b3e39f701c9
-#: 0e0a1aca621244629cf7263a1e3cd385 690b8249e94c4566b478db65da5e4e66
-#: ad87b92ef9bd4282ab142243c26a8987 3e620be7b4104dbcb1145f40e9e54882
-#: 3cd3ade9d8aa440da2e98caf9fcf3de5 f06863c3c95441a285640ff25ccd4008
-#: 44d02e188c054bcf8d770fb9ba2251b4 6363b382ce0c492ea2d83dfc867b842b
-#: ed774049912940218720d9f69b768f24 b36e3d06ca804565abbdb3b12457d9f8
-#: 51eb81feac3a476fbb8234268b2415aa d62c101393514b5fa813bdfba6a6c797
-#: 45002fc1d0314910a579ad015d2c0b1c dcd5e3f816db463eb5049e2c090926fe
-#: f232f382f01e40fcaf5af6fc7fb2dfc6 cb5794ec560642c6b28401f39964eb6b
-#: 2b086c7e7ddd4e85b4ff603807771fb0 87bdcb1311de47998f0388223f66ac2c
-#: 490305ee562c469a92accee00fadf5dd b9091b0e48a24bf1849662e096194c0d
-#: 80fd1837e2464f5d9ab3ba57c2c39948 084e637e739245e98ba51bebcc0cac2e
-#: b809b7499ff046ecaa36b35a8063e607 892f8433532e48e0bbee4efed2a187d9
-#: 459c5e3a98f34701b1671f71d982e1dc e5f87d77e88e439891610dc4191a4b20
-#: 2b847933fd3741149b7134405d907805 031d8dade2fc4f23838f2403e4bea35f
-#: 3741b1a5b92245ee8aaa5657bcad6590 f3afe4ca88064d289c3e5d666c5b0d14
+#: ../../reseller_interface.md:97 ../../reseller_interface.md:111
+#: ../../reseller_interface.md:117 ../../reseller_interface.md:129
+#: ../../reseller_interface.md:153 ../../reseller_interface.md:161
+#: ../../reseller_interface.md:177 ../../reseller_interface.md:181
+#: ../../reseller_interface.md:199 ../../reseller_interface.md:207
+#: ../../reseller_interface.md:211 ../../reseller_interface.md:215
+#: ../../reseller_interface.md:223 ../../reseller_interface.md:229
+#: ../../reseller_interface.md:237 ../../reseller_interface.md:241
+#: ../../reseller_interface.md:251 ../../reseller_interface.md:273
+#: ../../reseller_interface.md:283 ../../reseller_interface.md:285
+#: ../../reseller_interface.md:293 ../../reseller_interface.md:297
+#: ../../reseller_interface.md:321 ../../reseller_interface.md:327
+#: ../../reseller_interface.md:331 ../../reseller_interface.md:347
+#: ../../reseller_interface.md:351 ../../reseller_interface.md:365
+#: ../../reseller_interface.md:369 ../../reseller_interface.md:373
+#: ../../reseller_interface.md:379 ../../reseller_interface.md:387
+#: ../../reseller_interface.md:393 ../../reseller_interface.md:401
+#: ../../reseller_interface.md:407 ../../reseller_interface.md:413
+#: ../../reseller_interface.md:423 ../../reseller_interface.md:425
+#: 50cbc1a4fb974e89ae8be00812ea66b5 5354f74c22984e32a597a44fa0eacb38
+#: 738fc6d9f69347e79d1ab829797115da b72fd680ce3449e0a24c14773d54a1e5
+#: d98d8c651e5b465d90b5d2b9660fce6d
 msgid "alt text"
 msgstr ""
 
 #: ../../reseller_interface.md:9 3032aa58f10e4273875a1bc958d9a1d4
-msgid "1.2.2 工具栏"
+msgid "2### 1.2.2 工具栏"
 msgstr ""
 
 #: ../../reseller_interface.md:11 cdabf9f8ce9547c5a454bfa524b2e3c2
@@ -100,8 +80,7 @@ msgid "b. 仪表盘："
 msgstr ""
 
 #: ../../reseller_interface.md:17 40107ed5081b42cd81b4e803a85d5ac5
-msgid ""
-"代理商级别的仪表盘可以了解到整个代理商的通话情况、活跃坐席、did呼入情况等。"
+msgid "代理商级别的仪表盘可以了解到整个代理商的通话情况、活跃坐席、did呼入情况等。"
 msgstr ""
 
 #: ../../reseller_interface.md:19 1120a2288c854988921223cfcbaf8ae3
@@ -113,18 +92,15 @@ msgid "Clients："
 msgstr ""
 
 #: ../../reseller_interface.md:23 2bed3297326d4b88ac80105b354e0ae4
-msgid ""
-"由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或"
-"以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当"
-"前经销商创建的client用户。"
+msgid "由代理商用户创建。代理商用户可以在“client”页面上删除/编辑/查看client用户，或以特定client用户的身份登录。经销商用户位于“client”页面上，页面上的列表显示当前经销商创建的client用户。"
 msgstr ""
 
 #: ../../reseller_interface.md:25 57c381fea28145d9a3b6b877e2ce4e3f
 msgid "![alt text](_static/images/reseller/media/image4.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:27 5b5c94d05d4c426699c63bc72b1dfbb0
-msgid "**单击【添加】以执行常【规】设置**"
+#: ../../reseller_interface.md:27 3a1f9b9a55a545638264f29b46d64ebb
+msgid "**单击【添加】进入【常规】设置页面**"
 msgstr ""
 
 #: ../../reseller_interface.md:29 fef75f04264747e18b1aae7a8fb24f0e
@@ -132,21 +108,19 @@ msgid "![alt text](_static/images/reseller/media/image5.png)"
 msgstr ""
 
 #: ../../reseller_interface.md:31 c76a620d78664b059db0833ca52a33a1
-msgid ""
-"**域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、"
-"web 登录等，一旦设置了域，就无法再次修改。"
+msgid "**域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
 msgstr ""
 
 #: ../../reseller_interface.md:33 3ad1443aebcf47de90914543f8caa851
 msgid "**客户名称**: 填写一个客户名称，该名称可以随时更改."
 msgstr ""
 
-#: ../../reseller_interface.md:35 54f215746c624eecb0ba9c0189f98429
-msgid "**用户名**: 用户将使用此用户名登录系统，一旦设置，将不再修改，必填。"
+#: ../../reseller_interface.md:35 16adb28235014faabcb0b84b890c563a
+msgid "**用户名**: 请填写这个Client的用户名，Client用户将使用此用户名登陆系统，一旦设定，将不能再修改。"
 msgstr ""
 
-#: ../../reseller_interface.md:37 801f9d16800843debe6a7d726de9c5b5
-msgid "**密码**:用户将使用此密码登录，必填。"
+#: ../../reseller_interface.md:37 1b562bc05bec478c83a438969678bbf4
+msgid "**密码**:Client管理员将使用该密码进行系统登录。"
 msgstr ""
 
 #: ../../reseller_interface.md:39 17b6db55ded946e1a9140e0fd62a87ee
@@ -162,15 +136,12 @@ msgid "**姓**: 请填写此用户的姓氏，必填。"
 msgstr ""
 
 #: ../../reseller_interface.md:45 39c636d336c74eebb088319243f88c27
-msgid ""
-"**状态**:客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提"
-"示“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登"
-"录。请联系管理员”。"
+msgid "**状态**:客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
 msgstr ""
 
-#: ../../reseller_interface.md:49 ../../reseller_interface.md:228
-#: ../../reseller_interface.md:326 e1ce1d003ee94f05aa9ac6767619dc8b
-#: 958e7285fa654f55925c85a88ff29acc 9427c1cfea384dbe94cd1ded38060e3b
+#: ../../reseller_interface.md:49 ../../reseller_interface.md:219
+#: ../../reseller_interface.md:317 958e7285fa654f55925c85a88ff29acc
+#: e1ce1d003ee94f05aa9ac6767619dc8b
 msgid "**【高级】设置**:"
 msgstr ""
 
@@ -178,8 +149,8 @@ msgstr ""
 msgid "![alt text](_static/images/reseller/media/image6.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:53 eae509b7cfed423f83a64ed22fcb17ba
-msgid "**多客户包**: 允许client创建多个客户包。"
+#: ../../reseller_interface.md:53 d7b91e3c62814e9cbb2da9ee6dfd71dc
+msgid "**多客户包**: 允许client创建多个客户包，开启该功能时，client页面会出现客户包功能。"
 msgstr ""
 
 #: ../../reseller_interface.md:55 b2ed77f3f7c146448d5ca1cad02a8f09
@@ -187,9 +158,7 @@ msgid "**时区**: 请选择此client的时区，一旦设置，将不会修改�
 msgstr ""
 
 #: ../../reseller_interface.md:59 0cbcad9e5c14483db5e22823bc9e417c
-msgid ""
-"**事件类型**:系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时"
-"启用:"
+msgid "**事件类型**:系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时启用:"
 msgstr ""
 
 #: ../../reseller_interface.md:61 530c062a48b04125a2d1f8afc868f45d
@@ -197,9 +166,7 @@ msgid "**呼叫事件**: 您可以获得简单的事件，例如通话的创建�
 msgstr ""
 
 #: ../../reseller_interface.md:63 6a2a851cf0d042f08a7554e4d114ee3e
-msgid ""
-"**坐席事件**: 您可以接收到一路通话的所有事件，例如座席振铃、座席应答、被叫振"
-"铃、被叫方应答，挂断等。"
+msgid "**坐席事件**: 您可以接收到一路通话的所有事件，例如座席振铃、座席应答、被叫振铃、被叫方应答，挂断等。"
 msgstr ""
 
 #: ../../reseller_interface.md:65 b34c5e58daa4469fb949b569a0c6cb02
@@ -219,725 +186,730 @@ msgid "**录音设置**: 请选择哪类通话需要被录音。"
 msgstr ""
 
 #: ../../reseller_interface.md:73 acdc4b80cf91421abd6eebcacf5c2979
-msgid "**录音格式**:请选择录音的格式有 MP3 and WAV 两种类型可供选择."
+msgid "**录音格式**:请选择录音的格式有 MP3 和 WAV 两种类型可供选择."
 msgstr ""
 
 #: ../../reseller_interface.md:75 8481052a0c8b441298d69014b5d318db
-msgid "**录音文件格式**: 你可以自定义录音文件的命名规则，可用的变量包括:"
+msgid "**录音文件格式**:你可以自定义录音文件的命名规则，可用的变量包括:"
 msgstr ""
 
-#: ../../reseller_interface.md:87 20eabb046c1c4908a2c072fda4138da6
+#: ../../reseller_interface.md:86 20eabb046c1c4908a2c072fda4138da6
+msgid "**IP访问白名单**: 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
+msgstr ""
+
+#: ../../reseller_interface.md:88 df94855e1edc4b34991cca3bba0ae5e9
+msgid "**自动部署用户名**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的用户名。"
+msgstr ""
+
+#: ../../reseller_interface.md:90 0556b13908ad421c87a34c2c93c53866
+msgid "**自动部署密码**:指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
+msgstr ""
+
+#: ../../reseller_interface.md:92 e66a86d1f3a94835b15fc818597cb05e
 msgid ""
-"**IP访问白名单**: 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client"
-"是不能登录的。当IP地址换成当前位置地址时，可登录。"
+"**无可用坐席溢出**：根据组所属的内部线路的状态来确定是否可以来电。如果没有可接受的用户，则不进入此组并转发。 转发目的地设置为'队列设置为 0"
+" 且无可用座席时的转发地'。"
 msgstr ""
 
-#: ../../reseller_interface.md:90 df94855e1edc4b34991cca3bba0ae5e9
-msgid ""
-"**自动部署用户名**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要"
-"输入的用户名。"
-msgstr ""
-
-#: ../../reseller_interface.md:93 0556b13908ad421c87a34c2c93c53866
-msgid ""
-"**自动部署密码**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输"
-"入的密码。"
-msgstr ""
-
-#: ../../reseller_interface.md:98 318e0e91511b4e1087d459ac8b08bb93
+#: ../../reseller_interface.md:95 318e0e91511b4e1087d459ac8b08bb93
 msgid "**【呼叫设置】**:"
 msgstr ""
 
-#: ../../reseller_interface.md:100 53db1f7e39494ccf9d9f689b23e0a8d1
+#: ../../reseller_interface.md:97 53db1f7e39494ccf9d9f689b23e0a8d1
 msgid "![alt text](_static/images/reseller/media/image7.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:102 8f125d095d4d47e3a1595b0c2e69d461
-msgid ""
-"**外呼档案**: 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选"
-"择多个。"
+#: ../../reseller_interface.md:99 8f125d095d4d47e3a1595b0c2e69d461
+msgid "**外呼档案**: 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
 msgstr ""
 
-#: ../../reseller_interface.md:105 66e85b172877438c9ed833f53d8f9d52
-msgid ""
-"**SRTP**: 启用加密语音流，如果client开启了加密，响应注册的话机也需要开启tls模"
-"式。"
+#: ../../reseller_interface.md:101 66e85b172877438c9ed833f53d8f9d52
+msgid "**SRTP**: 启用加密语音流，如果client开启了加密，响应注册的话机也需要开启tls模式。"
 msgstr ""
 
-#: ../../reseller_interface.md:108 13fa3d53079a4a569de6ee9cb7ee9241
-msgid ""
-"**外显号码轮询**: 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多"
-"个主叫号码时生效。"
+#: ../../reseller_interface.md:103 13fa3d53079a4a569de6ee9cb7ee9241
+msgid "**外显号码轮询**: 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多个主叫号码时生效。"
 msgstr ""
 
-#: ../../reseller_interface.md:111 b07df4d61c0e45cba16d5359f963dac4
-msgid ""
-"**外显号码限制**: 请在这里输入改client可以使用的所有主叫号码，如果没有输入，"
-"则表示该客户可以选择使用任何主叫号码。"
+#: ../../reseller_interface.md:105 b07df4d61c0e45cba16d5359f963dac4
+msgid "**外显号码限制**: 请在这里输入改client可以使用的所有主叫号码，如果没有输入，则表示该客户可以选择使用任何主叫号码。"
 msgstr ""
 
-#: ../../reseller_interface.md:116 9ee5eaaa74db40aebc94b785c2bcde17
+#: ../../reseller_interface.md:109 9ee5eaaa74db40aebc94b785c2bcde17
 msgid "**【AI赋能】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:118 6461e9150d2344afb5dc5b4adf4df694
+#: ../../reseller_interface.md:111 6461e9150d2344afb5dc5b4adf4df694
 msgid "![alt text](_static/images/reseller/media/image8.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:120 ae3706d6d61c4a01b084c4e68f606c6a
+#: ../../reseller_interface.md:113 ae3706d6d61c4a01b084c4e68f606c6a
 msgid "**AI 参数配置**: 联系管理管理员进行配置。"
 msgstr ""
 
-#: ../../reseller_interface.md:122 3740c51f046040139e4bd839dceaf7ff
+#: ../../reseller_interface.md:115 3740c51f046040139e4bd839dceaf7ff
 msgid "**【API 限制】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:124 5d5118665d254dd7b30b59b42c024053
+#: ../../reseller_interface.md:117 5d5118665d254dd7b30b59b42c024053
 msgid "![alt text](_static/images/reseller/media/image9.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:126 ea00862889644d06b87c361638f3ba20
+#: ../../reseller_interface.md:119 ea00862889644d06b87c361638f3ba20
 msgid "**短信**:请设置短信调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
 
-#: ../../reseller_interface.md:128 6ba0493c90d04c1eac7e743d1f975761
+#: ../../reseller_interface.md:121 6ba0493c90d04c1eac7e743d1f975761
 msgid "**通知**:请设置通知调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
 
-#: ../../reseller_interface.md:130 2ce3492831094fc8b6541e1f9e346b47
+#: ../../reseller_interface.md:123 2ce3492831094fc8b6541e1f9e346b47
 msgid "**广播**:请设置广播调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
 
-#: ../../reseller_interface.md:132 536df8a686184bc6a2eea2d72ee20a15
-msgid ""
-"**点击呼叫**:请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
+#: ../../reseller_interface.md:125 536df8a686184bc6a2eea2d72ee20a15
+msgid "**点击呼叫**:请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
 
-#: ../../reseller_interface.md:134 0c77479c98a64537bf3c3f4a895ad09d
+#: ../../reseller_interface.md:127 0c77479c98a64537bf3c3f4a895ad09d
 msgid "**【客户信息】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:136 de0bdeec02784705890d8cd0a55bea19
+#: ../../reseller_interface.md:129 de0bdeec02784705890d8cd0a55bea19
 msgid "![alt text](_static/images/reseller/media/image10.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:138 e8d3c43d08484e58933baac783fb1205
+#: ../../reseller_interface.md:131 e8d3c43d08484e58933baac783fb1205
 msgid "**公司名称**: 请填写公司名称。"
 msgstr ""
 
-#: ../../reseller_interface.md:140 4a32221fa7d14c90b5ef654043e51c7e
+#: ../../reseller_interface.md:133 4a32221fa7d14c90b5ef654043e51c7e
 msgid "**注册地址**: 请填写注册地址。"
 msgstr ""
 
-#: ../../reseller_interface.md:142 248dd853cb444d0ba3cbe6cdca8fa35a
+#: ../../reseller_interface.md:135 248dd853cb444d0ba3cbe6cdca8fa35a
 msgid "**联系电话**: 请填写联系电话。"
 msgstr ""
 
-#: ../../reseller_interface.md:144 58df0f082b784ae488a37165fb62b9d1
+#: ../../reseller_interface.md:137 58df0f082b784ae488a37165fb62b9d1
 msgid "**公司网址**: 请填写公司网站。"
 msgstr ""
 
-#: ../../reseller_interface.md:146 365e88ceb24a4f04a521ff54b89c2231
+#: ../../reseller_interface.md:139 365e88ceb24a4f04a521ff54b89c2231
 msgid "**电子邮件**: 请填写电子邮件。"
 msgstr ""
 
-#: ../../reseller_interface.md:148 f741fda6b86a4079851d0c2ebaff1e78
+#: ../../reseller_interface.md:141 f741fda6b86a4079851d0c2ebaff1e78
 msgid "**税号**: 请填写税号。"
 msgstr ""
 
-#: ../../reseller_interface.md:150 a0eaab75c6da473bb3fe391d77a61826
+#: ../../reseller_interface.md:143 a0eaab75c6da473bb3fe391d77a61826
 msgid "**开户银行**: 请填写开户银行。"
 msgstr ""
 
-#: ../../reseller_interface.md:152 afc9079d75e84a6990490d431c2d6649
+#: ../../reseller_interface.md:145 afc9079d75e84a6990490d431c2d6649
 msgid "**账户名称**: 请填写账户名称。"
 msgstr ""
 
-#: ../../reseller_interface.md:154 223243b3dd294ecc996cc98253e80999
+#: ../../reseller_interface.md:147 223243b3dd294ecc996cc98253e80999
 msgid "**账号**: 请填写账号。"
 msgstr ""
 
-#: ../../reseller_interface.md:156 c88ad146e9d9495c862f5dd872091f1a
+#: ../../reseller_interface.md:149 c88ad146e9d9495c862f5dd872091f1a
 msgid "**办公地址**: 请填写办公室地址。"
 msgstr ""
 
-#: ../../reseller_interface.md:158 48454860542d44bca8bd70b916556e4d
+#: ../../reseller_interface.md:151 48454860542d44bca8bd70b916556e4d
 msgid "**【信息】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:160 101ba1458e0d4a3da3f7608df8074ef7
+#: ../../reseller_interface.md:153 101ba1458e0d4a3da3f7608df8074ef7
 msgid "![alt text](_static/images/reseller/media/image11.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:162 7e330297c3384db495644eb07a1138b9
-msgid ""
-"**邮件服务器**: 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件"
-"服务器。"
+#: ../../reseller_interface.md:155 7e330297c3384db495644eb07a1138b9
+msgid "**邮件服务器**:根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
 msgstr ""
 
-#: ../../reseller_interface.md:165 346660201c054e93ba46a3b0bb524768
-msgid ""
-"**短信档案**: 请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短"
-"信时的路由。"
+#: ../../reseller_interface.md:157 346660201c054e93ba46a3b0bb524768
+msgid "**短信档案**:请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
 msgstr ""
 
-#: ../../reseller_interface.md:168 d394f30528c9417b8dc5966a3dc3a214
+#: ../../reseller_interface.md:159 d394f30528c9417b8dc5966a3dc3a214
 msgid "**【其他】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:170 2f943b54ff15432eb2c61f75e41fa655
+#: ../../reseller_interface.md:161 2f943b54ff15432eb2c61f75e41fa655
 msgid "![alt text](_static/images/reseller/media/image12.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:172 771c17145da14ee081ecf5ca0d22758e
-msgid ""
-"**禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登"
-"录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
+#: ../../reseller_interface.md:163 771c17145da14ee081ecf5ca0d22758e
+msgid "**禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
 msgstr ""
 
-#: ../../reseller_interface.md:174 af9a549c8c044fa69067cd58b9f97470
+#: ../../reseller_interface.md:165 af9a549c8c044fa69067cd58b9f97470
 msgid "**账号超时时间**: 登录账号超时时间。 (单位：分钟)"
 msgstr ""
 
-#: ../../reseller_interface.md:176 dba6d4d548904a9fb839cdce86265ae5
+#: ../../reseller_interface.md:167 dba6d4d548904a9fb839cdce86265ae5
 msgid "**坐席超时时间**: 坐席登录超时时间。 (单位：分钟)"
 msgstr ""
 
-#: ../../reseller_interface.md:178 7981a6c2bfa04280a7fd26d0d2c2b110
-msgid ""
-"**坐席浏览器超时时间**:如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超"
-"时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
+#: ../../reseller_interface.md:169 7981a6c2bfa04280a7fd26d0d2c2b110
+msgid "**坐席浏览器超时时间**:如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
 msgstr ""
 
-#: ../../reseller_interface.md:180 3c9ae52e5e5a492e98c997830e57dee6
-msgid ""
-"**隐藏页面组件**: 隐藏的页面不会在client左侧菜单显示（左侧围默认显示，右侧围"
-"隐藏）。."
+#: ../../reseller_interface.md:171 3c9ae52e5e5a492e98c997830e57dee6
+msgid "**隐藏页面组件**: 隐藏的页面不会在client左侧菜单显示（左侧默认显示，右侧隐藏）。."
 msgstr ""
 
-#: ../../reseller_interface.md:182 8a50d7034b10483a89f62bb57737ce66
+#: ../../reseller_interface.md:173 8a50d7034b10483a89f62bb57737ce66
 msgid "账户："
 msgstr ""
 
-#: ../../reseller_interface.md:184 a1fff1c0c50d4f0e91c1701f152ecee1
-msgid ""
-"账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同"
-"的权限角色,可以实现不同的账户拥有不同的功能权限。"
+#: ../../reseller_interface.md:175 a1fff1c0c50d4f0e91c1701f152ecee1
+msgid "账户是用于管理系统的用户，例如添加坐席,查询报表,更新配置等通过为账户配置不同的权限角色,可以实现不同的账户拥有不同的功能权限。"
 msgstr ""
 
-#: ../../reseller_interface.md:186 d909578c51464c05a8b42deb980bb543
+#: ../../reseller_interface.md:177 d909578c51464c05a8b42deb980bb543
 msgid "![alt text](_static/images/reseller/media/image13.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:188 31a3a87cc249406e99f4101527da2111
+#: ../../reseller_interface.md:179 31a3a87cc249406e99f4101527da2111
 msgid "**点击\\[添加\\] 进入\\[常规\\] 设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:190 7e281fb27d504a0db2ebe72f20405b68
+#: ../../reseller_interface.md:181 7e281fb27d504a0db2ebe72f20405b68
 msgid "![alt text](_static/images/reseller/media/image14.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:192 9305d84478234d368e3dbbddf851c550
+#: ../../reseller_interface.md:183 9305d84478234d368e3dbbddf851c550
 msgid "**用户名**: 用户将用此用户名进行系统登录。"
 msgstr ""
 
-#: ../../reseller_interface.md:194 bcc5ef62e173443c96389275974621c5
+#: ../../reseller_interface.md:185 bcc5ef62e173443c96389275974621c5
 msgid "**状态**: 你可以将这个账户临时禁用。"
 msgstr ""
 
-#: ../../reseller_interface.md:196 74f30b39cc484123ac0339a57ec0080d
+#: ../../reseller_interface.md:187 74f30b39cc484123ac0339a57ec0080d
 msgid "**名**: 请输入用户的名字。"
 msgstr ""
 
-#: ../../reseller_interface.md:198 93d9c732d34044719b26030dfbf44850
+#: ../../reseller_interface.md:189 93d9c732d34044719b26030dfbf44850
 msgid "**姓**:请输入用户的姓氏。"
 msgstr ""
 
-#: ../../reseller_interface.md:200 1b562bc05bec478c83a438969678bbf4
+#: ../../reseller_interface.md:191 1b562bc05bec478c83a438969678bbf4
 msgid "**密码**: 用户将用词密码进行系统登录。"
 msgstr ""
 
-#: ../../reseller_interface.md:202 fe77e148ea214c4dbd785898b26e4d30
+#: ../../reseller_interface.md:193 fe77e148ea214c4dbd785898b26e4d30
 msgid "**确认密码**: 请再次输入密码，确保两次密码相同。"
 msgstr ""
 
-#: ../../reseller_interface.md:204 0395bb373451467cb032cc61809247a8
+#: ../../reseller_interface.md:195 0395bb373451467cb032cc61809247a8
 msgid "**所属角色**:角色用于设置此账户可以访问的页面以及在该页面上拥有的权限。"
 msgstr ""
 
-#: ../../reseller_interface.md:206 c1a93c0d32c648d895f0020dce31844e
+#: ../../reseller_interface.md:197 c1a93c0d32c648d895f0020dce31844e
 msgid "**【高级 】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:208 2346378d2b38478e9f5a81c95290ee6a
+#: ../../reseller_interface.md:199 2346378d2b38478e9f5a81c95290ee6a
 msgid "![alt text](_static/images/reseller/media/image15.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:210 3d4ec91ee56b4cb2b43b63c8d5c501c7
+#: ../../reseller_interface.md:201 3d4ec91ee56b4cb2b43b63c8d5c501c7
 msgid "**备注**: 您可以在此处设置有关此帐户的一些注释信息。"
 msgstr ""
 
-#: ../../reseller_interface.md:212 9e3306199667438d8773a244e576a62c
+#: ../../reseller_interface.md:203 9e3306199667438d8773a244e576a62c
 msgid "角色和权限："
 msgstr ""
 
-#: ../../reseller_interface.md:214 84729c463adb4dd38f24b948a3db305a
-msgid ""
-"角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查"
-"看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，"
-"可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
+#: ../../reseller_interface.md:205 84729c463adb4dd38f24b948a3db305a
+msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
 msgstr ""
 
-#: ../../reseller_interface.md:216 b76d85d980234a2badb80424c9212cb0
+#: ../../reseller_interface.md:207 b76d85d980234a2badb80424c9212cb0
 msgid "![alt text](_static/images/reseller/media/image16.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:218 2a6e9bc776a34a10b04fa7c2da495276
+#: ../../reseller_interface.md:209 2a6e9bc776a34a10b04fa7c2da495276
 msgid "**在 \\[添加/编辑\\] 角色权限中，可以设置 \\[常规\\] 设置来命名角色。**"
 msgstr ""
 
-#: ../../reseller_interface.md:220 e2a9e0f1de1b465997e82125e43a663c
+#: ../../reseller_interface.md:211 e2a9e0f1de1b465997e82125e43a663c
 msgid "![alt text](_static/images/reseller/media/image17.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:222 b1235ff03cc3467e94b15bba06e25f77
+#: ../../reseller_interface.md:213 b1235ff03cc3467e94b15bba06e25f77
 msgid "**【编辑】**:"
 msgstr ""
 
-#: ../../reseller_interface.md:224 8cd0987dda1c482998fb5c3ae566c747
+#: ../../reseller_interface.md:215 8cd0987dda1c482998fb5c3ae566c747
 msgid "![alt text](_static/images/reseller/media/image18.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:226 9b57574dfe774e45aa951b70e7dd8cd5
+#: ../../reseller_interface.md:217 9b57574dfe774e45aa951b70e7dd8cd5
 msgid "**名称**: 请为这个权限角色命名。"
 msgstr ""
 
-#: ../../reseller_interface.md:230 ae24ac3b9b7049f9a56c5831ba4ee78c
+#: ../../reseller_interface.md:221 ae24ac3b9b7049f9a56c5831ba4ee78c
 msgid "控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。"
 msgstr ""
 
-#: ../../reseller_interface.md:232 8ca010ccd89e4dc9a11ffa7be43c39a2
+#: ../../reseller_interface.md:223 8ca010ccd89e4dc9a11ffa7be43c39a2
 msgid "![alt text](_static/images/reseller/media/image19.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:234 e020b585097f46ac8a472b22625fd54f
+#: ../../reseller_interface.md:225 e020b585097f46ac8a472b22625fd54f
 msgid "**【权限】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:236 fe7ce1b1d3654147af8ecf9f058d37fc
+#: ../../reseller_interface.md:227 fe7ce1b1d3654147af8ecf9f058d37fc
 msgid "控制具有此角色的用户的页面显示权限。"
 msgstr ""
 
-#: ../../reseller_interface.md:238 4db07323a62f48e99f88c30330ca8914
+#: ../../reseller_interface.md:229 4db07323a62f48e99f88c30330ca8914
 msgid "![alt text](_static/images/reseller/media/image20.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:240 c9aaab29577045c38184b8e7460e3a83
+#: ../../reseller_interface.md:231 c9aaab29577045c38184b8e7460e3a83
 msgid "d. 计费："
 msgstr ""
 
-#: ../../reseller_interface.md:242 35d30ca08135427d88db331189ae2c17
+#: ../../reseller_interface.md:233 35d30ca08135427d88db331189ae2c17
 msgid "客户计费："
 msgstr ""
 
-#: ../../reseller_interface.md:244 cd6f92e0d96f45a6b4191ca6d315a146
-msgid ""
-"它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应"
-"的客户账单。."
+#: ../../reseller_interface.md:235 cd6f92e0d96f45a6b4191ca6d315a146
+msgid "它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。."
 msgstr ""
 
-#: ../../reseller_interface.md:246 90e4231633bd4b02833eee974cd59f9c
+#: ../../reseller_interface.md:237 90e4231633bd4b02833eee974cd59f9c
 msgid "![alt text](_static/images/reseller/media/image21.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:248 917d97724b9941309a2a38c2c324b451
+#: ../../reseller_interface.md:239 917d97724b9941309a2a38c2c324b451
 msgid "**单击 \\[编辑\\] 执行 \\[常规\\] 设置。**"
 msgstr ""
 
-#: ../../reseller_interface.md:250 0806e55f54dc495c864aab529166cd58
+#: ../../reseller_interface.md:241 0806e55f54dc495c864aab529166cd58
 msgid "![alt text](_static/images/reseller/media/image22.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:252 e05a3abcee3343d79ff8652878a4e1ed
+#: ../../reseller_interface.md:243 e05a3abcee3343d79ff8652878a4e1ed
 msgid "**ID**: 数据的唯一 ID。"
 msgstr ""
 
-#: ../../reseller_interface.md:254 5f4b3e77119b45399ceb30c278b8bb6c
+#: ../../reseller_interface.md:245 5f4b3e77119b45399ceb30c278b8bb6c
 msgid "**客户名称**: 客户名称是新经销商用户的名称，无法修改。"
 msgstr ""
 
-#: ../../reseller_interface.md:256 5933fc81e7244699a2d42d8a13261784
+#: ../../reseller_interface.md:247 5933fc81e7244699a2d42d8a13261784
 msgid "**域名**: 域名是已新增的代理商用户的域名，不可以再修改。"
 msgstr ""
 
-#: ../../reseller_interface.md:258 d9a70cf2f93d4c3f935820ae8b925cc0
+#: ../../reseller_interface.md:249 d9a70cf2f93d4c3f935820ae8b925cc0
 msgid "**【计费】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:260 46adf06b9dbb438d9d2be16683d7c0a7
+#: ../../reseller_interface.md:251 46adf06b9dbb438d9d2be16683d7c0a7
 msgid "![alt text](_static/images/reseller/media/image23.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:262 f0e4848e010d41be85c8ec568a04a780
+#: ../../reseller_interface.md:253 f0e4848e010d41be85c8ec568a04a780
 msgid "**应缴费用**: 应当缴纳的本期费用。"
 msgstr ""
 
-#: ../../reseller_interface.md:264 bbea89e7162748a69828d3cfce545727
+#: ../../reseller_interface.md:255 bbea89e7162748a69828d3cfce545727
 msgid "**最大坐席数量**: 允许使用的最大坐席数量。"
 msgstr ""
 
-#: ../../reseller_interface.md:266 2f4be1002663408d9ad8f5b9891947a2
+#: ../../reseller_interface.md:257 2f4be1002663408d9ad8f5b9891947a2
 msgid "**付款方式**: 选择付款方式预付款或后付款。"
 msgstr ""
 
-#: ../../reseller_interface.md:268 dac260eb859544769b8418ff10efae6c
+#: ../../reseller_interface.md:259 dac260eb859544769b8418ff10efae6c
 msgid "**信用额度**: 设置可使用的信用额度。"
 msgstr ""
 
-#: ../../reseller_interface.md:270 62bf615810ed4be09bc1e5ac1d993aea
+#: ../../reseller_interface.md:261 62bf615810ed4be09bc1e5ac1d993aea
 msgid "**月租**: 设置月租数额。"
 msgstr ""
 
-#: ../../reseller_interface.md:272 642261bb7e45416ebe2b110ea7e90812
-msgid ""
-"**短信**:能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数"
-"量，并选择SMS 费率。"
+#: ../../reseller_interface.md:263 642261bb7e45416ebe2b110ea7e90812
+msgid "**短信**:能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
 msgstr ""
 
-#: ../../reseller_interface.md:274 d2e3f9c085584a539fe9260fb78d600d
-msgid ""
-"**呼出**:能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加"
-"套餐分钟数和费率。"
+#: ../../reseller_interface.md:265 d2e3f9c085584a539fe9260fb78d600d
+msgid "**呼出**:能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
 msgstr ""
 
-#: ../../reseller_interface.md:276 eab8461574854bbda437cf68a0493fb1
-msgid ""
-"**实际通话**:当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费"
-"用。"
+#: ../../reseller_interface.md:267 eab8461574854bbda437cf68a0493fb1
+msgid "**实际通话**:当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
 msgstr ""
 
-#: ../../reseller_interface.md:278 8c999509b28f4eff934e2f4fd0e165bc
+#: ../../reseller_interface.md:269 8c999509b28f4eff934e2f4fd0e165bc
 msgid "**主叫通话**: 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
 msgstr ""
 
-#: ../../reseller_interface.md:280 2d77e077099b44e0a5d688fabf55d62e
+#: ../../reseller_interface.md:271 2d77e077099b44e0a5d688fabf55d62e
 msgid "**【账单和提醒】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:282 305900362e454ec48df632c8ed311ed8
+#: ../../reseller_interface.md:273 305900362e454ec48df632c8ed311ed8
 msgid "![alt text](_static/images/reseller/media/image24.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:284 628ef587b87f46a8aac3087d55cf7d57
+#: ../../reseller_interface.md:275 628ef587b87f46a8aac3087d55cf7d57
 msgid "**余额不足提醒**: 设置余额不足后的提醒次数。"
 msgstr ""
 
-#: ../../reseller_interface.md:286 82aa9289f93f40a6babff62dc6e39f6f
+#: ../../reseller_interface.md:277 82aa9289f93f40a6babff62dc6e39f6f
 msgid "**提醒方式**: 选择手机号码或者邮箱的提醒方式。"
 msgstr ""
 
-#: ../../reseller_interface.md:288 3c5722a0febd4e4095440030bcc6fe99
+#: ../../reseller_interface.md:279 3c5722a0febd4e4095440030bcc6fe99
 msgid "**账单电子邮件地址**: 填写收到账单的电子邮件地址。"
 msgstr ""
 
-#: ../../reseller_interface.md:290 6e5fb2c5a48e4e2c9f72b2274ab6291f
-msgid ""
-"<span class=\"mark\">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户"
-"的充值金额及交易时间，如有需要，还可以填写备注信息。</span>"
+#: ../../reseller_interface.md:281 6e5fb2c5a48e4e2c9f72b2274ab6291f
+msgid "在设置的客户页面点击下拉菜单，选择【充值】或是【扣费】，可以记录客户的充值或是扣费金额及交易时间，如有需要，还可以填写备注信息。"
 msgstr ""
 
-#: ../../reseller_interface.md:292 a98ba65497d44de5876b7c7d20121d1f
+#: ../../reseller_interface.md:283 a98ba65497d44de5876b7c7d20121d1f
 msgid "![alt text](_static/images/reseller/media/image25.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:294 9cc3689a61824068ae7466ec0f0fb8bd
+#: ../../reseller_interface.md:285 9cc3689a61824068ae7466ec0f0fb8bd
 msgid "![alt text](_static/images/reseller/media/image26.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:296 c8c7ce9833d14162b4e3f0d6a6830851
+#: ../../reseller_interface.md:287 c8c7ce9833d14162b4e3f0d6a6830851
 msgid "e. 语音设置："
 msgstr ""
 
-#: ../../reseller_interface.md:298 3eae7c9c57ed4e04af4f0248fc150f53
+#: ../../reseller_interface.md:289 3eae7c9c57ed4e04af4f0248fc150f53
 msgid "DID号码："
 msgstr ""
 
-#: ../../reseller_interface.md:300 223f200993e74bde8d77883f09df2dbb
-msgid ""
-"DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被"
-"叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主"
-"要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分"
-"机，一个振铃组，进入一个IVR或者一个队列。"
+#: ../../reseller_interface.md:291 223f200993e74bde8d77883f09df2dbb
+msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
 msgstr ""
 
-#: ../../reseller_interface.md:302 ddaeecadc9e34dbf820faa7b7c189163
+#: ../../reseller_interface.md:293 ddaeecadc9e34dbf820faa7b7c189163
 msgid "![alt text](_static/images/reseller/media/image27.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:304 592a2a8492ed41a1931b775e8735b4fd
-msgid ""
-"**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名"
-"称】和【客户端】。**"
+#: ../../reseller_interface.md:295 592a2a8492ed41a1931b775e8735b4fd
+msgid "**点击【编辑】进入【常规】设置：代理用户（经销商等级）可以编辑/修改【DID名称】和【客户端】。**"
 msgstr ""
 
-#: ../../reseller_interface.md:306 c8ebcfb6c45a45e0ae49296000491e03
+#: ../../reseller_interface.md:297 c8ebcfb6c45a45e0ae49296000491e03
 msgid "![alt text](_static/images/reseller/media/image28.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:308 ../../reseller_interface.md:342
-#: 34f66dfb97624de6b2fc2c2aaeeccc4c 8c7fb5289d004013bb5c6c9b951d3bc1
+#: ../../reseller_interface.md:299 ../../reseller_interface.md:333
+#: 34f66dfb97624de6b2fc2c2aaeeccc4c
 msgid "**ID**: 数据唯一ID。"
 msgstr ""
 
-#: ../../reseller_interface.md:310 a952ba2921e94fc0b1cadf0b070593ac
-msgid "**DID 号码**: 请输入did号码。"
+#: ../../reseller_interface.md:301 42f292bb5d6e4db9be1ec4270e8676ed
+msgid "**DID 号码**: root级别分配的did号码一经分配给代理商，代理商不能更改号码。"
 msgstr ""
 
-#: ../../reseller_interface.md:312 17373902dc9a4bcfb67339e26cdb08bc
-msgid ""
-"**DID 名称**: DID 名称用于帮助您在系统中识别 这个号码，如果设置了DID名称，则"
-"在统计时使用。"
+#: ../../reseller_interface.md:303 17373902dc9a4bcfb67339e26cdb08bc
+msgid "**DID 名称**: DID 名称用于帮助您在系统中识别 这个号码，如果设置了DID名称，则在统计时使用。"
 msgstr ""
 
-#: ../../reseller_interface.md:314 915d672b8ff8420999916eaf691fb2ce
+#: ../../reseller_interface.md:305 915d672b8ff8420999916eaf691fb2ce
 msgid "**Client**: 将这个did分配给client。"
 msgstr ""
 
-#: ../../reseller_interface.md:316 006d7af18f5a4384be3d12e1637b3cc5
+#: ../../reseller_interface.md:307 006d7af18f5a4384be3d12e1637b3cc5
 msgid "**状态**: 当 DID 号码被禁用时，来电将被拒绝。"
 msgstr ""
 
-#: ../../reseller_interface.md:318 702bd7e0977845f784f1db30809890d4
+#: ../../reseller_interface.md:309 702bd7e0977845f784f1db30809890d4
 msgid "**呼入次数**: 此did号码本月的呼入次数。"
 msgstr ""
 
-#: ../../reseller_interface.md:320 d998970bef6e4fbca45b8d622e751a80
+#: ../../reseller_interface.md:311 d998970bef6e4fbca45b8d622e751a80
 msgid "**呼入分钟数**:此DID号码本月呼入的分钟数。"
 msgstr ""
 
-#: ../../reseller_interface.md:322 aaa316a80c354d14b12720e457f101ae
+#: ../../reseller_interface.md:313 aaa316a80c354d14b12720e457f101ae
 msgid "**属性**: 这里将显示 DID号码的归属地信息（在号码归属地菜单中配置）。"
 msgstr ""
 
-#: ../../reseller_interface.md:324 6cd97bac6cc84f08a92c05c5453ac3ba
+#: ../../reseller_interface.md:315 6cd97bac6cc84f08a92c05c5453ac3ba
 msgid "**最后一次使用日期**: 该号码最后一次拨打时间。"
 msgstr ""
 
-#: ../../reseller_interface.md:328 7b504c809beb4e268d80ac7f534792f4
+#: ../../reseller_interface.md:319 7b504c809beb4e268d80ac7f534792f4
 msgid "可以选择国家，填写备注，这些是上一级设置的，代理商级别是不能修改的。."
 msgstr ""
 
-#: ../../reseller_interface.md:330 9df83d902ead4a6f906c42c10c819254
+#: ../../reseller_interface.md:321 9df83d902ead4a6f906c42c10c819254
 msgid "![alt text](_static/images/reseller/media/image29.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:332 d67711c49aa04e0ba4979adfb93e76a3
+#: ../../reseller_interface.md:323 d67711c49aa04e0ba4979adfb93e76a3
 msgid "外显号码："
 msgstr ""
 
-#: ../../reseller_interface.md:334 ee5f7160a9644bb683ce7acdbe5a5253
-msgid "外显号码即主叫号码，是呼叫客户时的号码。"
+#: ../../reseller_interface.md:325 ee5f7160a9644bb683ce7acdbe5a5253
+msgid "外显号码即主叫号码，是坐席呼叫客户时对外显示的号码。"
 msgstr ""
 
-#: ../../reseller_interface.md:336 6f1b3b64d8f04c8b92b6e73b479a0384
+#: ../../reseller_interface.md:327 6f1b3b64d8f04c8b92b6e73b479a0384
 msgid "![alt text](_static/images/reseller/media/image30.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:338 d6f2692491244ae28e90c1abf401f189
+#: ../../reseller_interface.md:329 d6f2692491244ae28e90c1abf401f189
 msgid "**单击【编辑】以编辑【外显号码】**"
 msgstr ""
 
-#: ../../reseller_interface.md:340 8da81e8da6ff40759083612613417f5a
+#: ../../reseller_interface.md:331 8da81e8da6ff40759083612613417f5a
 msgid "![alt text](_static/images/reseller/media/image31.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:344 edb9e8b1daa14fdca3b0653ba1f7ec87
-msgid "**外显号码**: 请输入你要添加的外显号码。"
+#: ../../reseller_interface.md:335 9698880d5989405383d751d98fc1de57
+msgid "**外显号码**: 代理商级别只能查看，不能添加或是更改外显号码。"
 msgstr ""
 
-#: ../../reseller_interface.md:346 0bfdcc43504f4c9994676c72c045a22b
-msgid "**供应商**: 你可以为这个外显号码选择一个供应商。"
+#: ../../reseller_interface.md:337 0bfdcc43504f4c9994676c72c045a22b
+msgid "**供应商**:代理商级别只能查看，不能更改编辑供应商。"
 msgstr ""
 
-#: ../../reseller_interface.md:348 eb0af2b399e94182acf0affb3bd66e65
-msgid "**Client**: 你可以为这个外显号码选择一个client。"
+#: ../../reseller_interface.md:339 4f6bcb1581664c10bd844c5fe944e101
+msgid "**Client**: 选择一个client，指定的client可以使用这个外显号码。"
 msgstr ""
 
-#: ../../reseller_interface.md:350 54c59c78c3d44e5c8a9627e1ee09f75a
+#: ../../reseller_interface.md:341 54c59c78c3d44e5c8a9627e1ee09f75a
 msgid "f. 呼叫设置："
 msgstr ""
 
-#: ../../reseller_interface.md:352 cfbe9d0b552e4472b4beaa47c6d4620f
+#: ../../reseller_interface.md:343 cfbe9d0b552e4472b4beaa47c6d4620f
 msgid "话机部署模版："
 msgstr ""
 
-#: ../../reseller_interface.md:354 46a243cb2d4c4909a39e34aab43b1e92
-msgid ""
-"话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在"
-"多台话机运用时能够节省更多的时间一键进行部署。"
+#: ../../reseller_interface.md:345 46a243cb2d4c4909a39e34aab43b1e92
+msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
 msgstr ""
 
-#: ../../reseller_interface.md:356 0bfd669ed444420ba5e3335f76938044
+#: ../../reseller_interface.md:347 0bfd669ed444420ba5e3335f76938044
 msgid "![alt text](_static/images/reseller/media/image32.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:358 3a1f9b9a55a545638264f29b46d64ebb
+#: ../../reseller_interface.md:349 3a1f9b9a55a545638264f29b46d64ebb
 msgid "**单击【添加】进入【常规】设置**:"
 msgstr ""
 
-#: ../../reseller_interface.md:360 e8e350d62030473d9a60bdcdc9b58f0d
+#: ../../reseller_interface.md:351 e8e350d62030473d9a60bdcdc9b58f0d
 msgid "![alt text](_static/images/reseller/media/image33.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:362 1fb186cf558f4c8aae683ec373cd50ee
+#: ../../reseller_interface.md:353 1fb186cf558f4c8aae683ec373cd50ee
 msgid "**模版名称**: 请填入模版名称。"
 msgstr ""
 
-#: ../../reseller_interface.md:364 20907fff3c5d4cc1bbaf6881ad9c0e93
+#: ../../reseller_interface.md:355 20907fff3c5d4cc1bbaf6881ad9c0e93
 msgid "**话机品牌**: 请输入话机型号。"
 msgstr ""
 
-#: ../../reseller_interface.md:366 d6e1dad18ff84c43a4ebc1e33680f10a
+#: ../../reseller_interface.md:357 d6e1dad18ff84c43a4ebc1e33680f10a
 msgid "**模版内容**: 请填入模版内容。"
 msgstr ""
 
-#: ../../reseller_interface.md:368 8e62008ffc434f5ababe5a4690122ef4
+#: ../../reseller_interface.md:359 8e62008ffc434f5ababe5a4690122ef4
 msgid "g. 监控管理："
 msgstr ""
 
-#: ../../reseller_interface.md:370 9990bdc03e4d405a9abd7fe0a9fc1241
+#: ../../reseller_interface.md:361 9990bdc03e4d405a9abd7fe0a9fc1241
 msgid "实时监控："
 msgstr ""
 
-#: ../../reseller_interface.md:372 0ca1db19da364081a41cbbad24f44590
-msgid ""
-"**坐席组坐席**:选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能"
-"显示数据。"
+#: ../../reseller_interface.md:363 0ca1db19da364081a41cbbad24f44590
+msgid "**坐席组坐席**:选择客户端下要监控的坐席组，坐席需要签到坐席组，呼入坐席组才能显示数据。"
 msgstr ""
 
-#: ../../reseller_interface.md:374 3c69a66bfe7d4eb6822005e47dfdc8de
+#: ../../reseller_interface.md:365 3c69a66bfe7d4eb6822005e47dfdc8de
 msgid "![alt text](_static/images/reseller/media/image34.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:376 e6d07684938843ffb403067b6b84b99a
+#: ../../reseller_interface.md:367 e6d07684938843ffb403067b6b84b99a
 msgid "**坐席组**: 选择需要监控的座席组，即当天有来电且活跃的座席组。"
 msgstr ""
 
-#: ../../reseller_interface.md:378 9e1e1046d0d74a28804d6aa785306347
+#: ../../reseller_interface.md:369 9e1e1046d0d74a28804d6aa785306347
 msgid "![alt text](_static/images/reseller/media/image35.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:380 e711862b5cd74d418be9843c654d75c9
-msgid ""
-"**坐席**:选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显"
-"示数据"
+#: ../../reseller_interface.md:371 e711862b5cd74d418be9843c654d75c9
+msgid "**坐席**:选择要监控的client，并继续选择要监控的坐席，坐席需要签到坐席组才能显示数据"
 msgstr ""
 
-#: ../../reseller_interface.md:382 091236c9809547008817bf9949029fae
+#: ../../reseller_interface.md:373 091236c9809547008817bf9949029fae
 msgid "![alt text](_static/images/reseller/media/image36.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:384 08983e0157da453fab2546cdb26bccee
+#: ../../reseller_interface.md:375 08983e0157da453fab2546cdb26bccee
 msgid "h. 日志记录："
 msgstr ""
 
-#: ../../reseller_interface.md:386 52e869b943e94258bf36c77e88483866
+#: ../../reseller_interface.md:377 52e869b943e94258bf36c77e88483866
 msgid "**日志记录**:记录系统用户行为为日志。"
 msgstr ""
 
-#: ../../reseller_interface.md:388 20e44fdb577248b9b1e249958c075fc3
+#: ../../reseller_interface.md:379 20e44fdb577248b9b1e249958c075fc3
 msgid "![alt text](_static/images/reseller/media/image37.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:390 6db0f6bea1134725a0679d86b9de7583
+#: ../../reseller_interface.md:381 6db0f6bea1134725a0679d86b9de7583
 msgid "系统："
 msgstr ""
 
-#: ../../reseller_interface.md:392 065d2c9fac43446e891d91015402e666
+#: ../../reseller_interface.md:383 065d2c9fac43446e891d91015402e666
 msgid "后台任务："
 msgstr ""
 
-#: ../../reseller_interface.md:394 c24d16ab851f408fbc96ea7135a456d8
+#: ../../reseller_interface.md:385 c24d16ab851f408fbc96ea7135a456d8
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
 msgstr ""
 
-#: ../../reseller_interface.md:396 e96b18e14df843f79f8cead0ecb0818b
+#: ../../reseller_interface.md:387 e96b18e14df843f79f8cead0ecb0818b
 msgid "![alt text](_static/images/reseller/media/image38.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:398 47baa013d58b46de91e20eae70174545
+#: ../../reseller_interface.md:389 47baa013d58b46de91e20eae70174545
 msgid "公司信息："
 msgstr ""
 
-#: ../../reseller_interface.md:400 65195eec654a4382aa24fb0245b6781d
+#: ../../reseller_interface.md:391 65195eec654a4382aa24fb0245b6781d
 msgid "在此页面您可以查看和编辑系统的公司信息。"
 msgstr ""
 
-#: ../../reseller_interface.md:402 d0d3786a28054b8db21b90db7a267d37
+#: ../../reseller_interface.md:393 d0d3786a28054b8db21b90db7a267d37
 msgid "![alt text](_static/images/reseller/media/image39.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:404 615db5f308994ea0890a49e46b9e99aa
+#: ../../reseller_interface.md:395 615db5f308994ea0890a49e46b9e99aa
 msgid "1.2.3 工具栏"
 msgstr ""
 
-#: ../../reseller_interface.md:406 fc3d630a47904f858842b23262b63e3b
+#: ../../reseller_interface.md:397 fc3d630a47904f858842b23262b63e3b
 msgid "a. 后台任务"
 msgstr ""
 
-#: ../../reseller_interface.md:408 c81cb683f14e4af8b524f7a302bf681e
-msgid ""
-"可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。"
+#: ../../reseller_interface.md:399 c81cb683f14e4af8b524f7a302bf681e
+msgid "可以在这里查看后台正在进行的任务，如图：若没有正在进行的任务则显示为零。"
 msgstr ""
 
-#: ../../reseller_interface.md:410 c853235291644c8393e52aaee8fae6c1
+#: ../../reseller_interface.md:401 c853235291644c8393e52aaee8fae6c1
 msgid "![alt text](_static/images/reseller/media/image40.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:412 45aaa90e1c414b43879bd1c7f161eb73
+#: ../../reseller_interface.md:403 45aaa90e1c414b43879bd1c7f161eb73
 msgid "b. 通知"
 msgstr ""
 
-#: ../../reseller_interface.md:414 0964a49133254e119b997018d9ba7a1c
+#: ../../reseller_interface.md:405 0964a49133254e119b997018d9ba7a1c
 msgid "将显示一些新消息。"
 msgstr ""
 
-#: ../../reseller_interface.md:416 6fd6a79047aa4a7e950096231e845964
+#: ../../reseller_interface.md:407 6fd6a79047aa4a7e950096231e845964
 msgid "![alt text](_static/images/reseller/media/image41.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:418 87e98393169444eda96d4df0f0729bf5
+#: ../../reseller_interface.md:409 87e98393169444eda96d4df0f0729bf5
 msgid "c. 语言"
 msgstr ""
 
-#: ../../reseller_interface.md:420 cc840fd8314a433cba9da57aacf80864
+#: ../../reseller_interface.md:411 cc840fd8314a433cba9da57aacf80864
 msgid "代理商用户可以从此下拉菜单中选择常见的语言类型。"
 msgstr ""
 
-#: ../../reseller_interface.md:422 709befd078694bd988a2e03e57c31c1b
+#: ../../reseller_interface.md:413 709befd078694bd988a2e03e57c31c1b
 msgid "![alt text](_static/images/reseller/media/image42.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:424 262fad99f7c9499f96a91bb29bc93534
+#: ../../reseller_interface.md:415 262fad99f7c9499f96a91bb29bc93534
 msgid "d. 我的信息"
 msgstr ""
 
-#: ../../reseller_interface.md:426 fb4e69a8240e4ee89b347998d86fb1b7
+#: ../../reseller_interface.md:417 fb4e69a8240e4ee89b347998d86fb1b7
 msgid "包括\\[我的档案\\]和\\[退出\\]"
 msgstr ""
 
-#: ../../reseller_interface.md:428 6840903b7e9e497195fad0eca645785e
+#: ../../reseller_interface.md:419 6840903b7e9e497195fad0eca645785e
 msgid "\\[我的档案\\]可编辑代理商用户的资料。"
 msgstr ""
 
-#: ../../reseller_interface.md:430 af2a36105d544df9a5197ec46c796ee2
+#: ../../reseller_interface.md:421 af2a36105d544df9a5197ec46c796ee2
 msgid "\\[退出\\]退出当前登录页面。"
 msgstr ""
 
-#: ../../reseller_interface.md:432 8fa6c638d3ee4af39904809d2e06d734
+#: ../../reseller_interface.md:423 8fa6c638d3ee4af39904809d2e06d734
 msgid "![alt text](_static/images/reseller/media/image43.png)"
 msgstr ""
 
-#: ../../reseller_interface.md:434 a0406dab4d1248f5aa6fb5285833704d
+#: ../../reseller_interface.md:425 a0406dab4d1248f5aa6fb5285833704d
 msgid "![alt text](_static/images/reseller/media/image44.png)"
 msgstr ""
+
+#~ msgid "1.2.2 工具栏"
+#~ msgstr ""
+
+#~ msgid "**单击【添加】以执行常【规】设置**"
+#~ msgstr ""
+
+#~ msgid "**用户名**: 用户将使用此用户名登录系统，一旦设置，将不再修改，必填。"
+#~ msgstr ""
+
+#~ msgid "**密码**:用户将使用此密码登录，必填。"
+#~ msgstr ""
+
+#~ msgid "**多客户包**: 允许client创建多个客户包。"
+#~ msgstr ""
+
+#~ msgid "**录音格式**:请选择录音的格式有 MP3 and WAV 两种类型可供选择."
+#~ msgstr ""
+
+#~ msgid "**录音文件格式**: 你可以自定义录音文件的命名规则，可用的变量包括:"
+#~ msgstr ""
+
+#~ msgid "**自动部署密码**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
+#~ msgstr ""
+
+#~ msgid "**邮件服务器**: 根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
+#~ msgstr ""
+
+#~ msgid "**短信档案**: 请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
+#~ msgstr ""
+
+#~ msgid "**隐藏页面组件**: 隐藏的页面不会在client左侧菜单显示（左侧围默认显示，右侧围隐藏）。."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<span "
+#~ "class=\"mark\">在设置的客户页面点击下拉菜单，选择【充值】，可以记录客户的充值金额及交易时间，如有需要，还可以填写备注信息。</span>"
+#~ msgstr ""
+
+#~ msgid "**DID 号码**: 请输入did号码。"
+#~ msgstr ""
+
+#~ msgid "外显号码即主叫号码，是呼叫客户时的号码。"
+#~ msgstr ""
+
+#~ msgid "**外显号码**: 请输入你要添加的外显号码。"
+#~ msgstr ""
+
+#~ msgid "**供应商**: 你可以为这个外显号码选择一个供应商。"
+#~ msgstr ""
+
+#~ msgid "**Client**: 你可以为这个外显号码选择一个client。"
+#~ msgstr ""
+

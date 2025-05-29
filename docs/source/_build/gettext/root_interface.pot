@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"POT-Creation-Date: 2025-05-29 10:51+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,59 +70,60 @@ msgstr ""
 #: ../../root_interface.md:278
 #: ../../root_interface.md:287
 #: ../../root_interface.md:299
-#: ../../root_interface.md:326
-#: ../../root_interface.md:334
-#: ../../root_interface.md:344
-#: ../../root_interface.md:362
-#: ../../root_interface.md:378
-#: ../../root_interface.md:382
-#: ../../root_interface.md:394
-#: ../../root_interface.md:398
-#: ../../root_interface.md:410
-#: ../../root_interface.md:417
-#: ../../root_interface.md:421
-#: ../../root_interface.md:435
-#: ../../root_interface.md:439
-#: ../../root_interface.md:455
-#: ../../root_interface.md:463
-#: ../../root_interface.md:478
-#: ../../root_interface.md:500
+#: ../../root_interface.md:323
+#: ../../root_interface.md:331
+#: ../../root_interface.md:341
+#: ../../root_interface.md:359
+#: ../../root_interface.md:375
+#: ../../root_interface.md:379
+#: ../../root_interface.md:391
+#: ../../root_interface.md:395
+#: ../../root_interface.md:407
+#: ../../root_interface.md:414
+#: ../../root_interface.md:418
+#: ../../root_interface.md:432
+#: ../../root_interface.md:436
+#: ../../root_interface.md:452
+#: ../../root_interface.md:460
+#: ../../root_interface.md:474
+#: ../../root_interface.md:496
+#: ../../root_interface.md:511
 #: ../../root_interface.md:515
-#: ../../root_interface.md:519
+#: ../../root_interface.md:523
 #: ../../root_interface.md:527
-#: ../../root_interface.md:531
-#: ../../root_interface.md:537
+#: ../../root_interface.md:533
+#: ../../root_interface.md:557
 #: ../../root_interface.md:561
-#: ../../root_interface.md:565
+#: ../../root_interface.md:569
 #: ../../root_interface.md:573
-#: ../../root_interface.md:577
+#: ../../root_interface.md:587
 #: ../../root_interface.md:591
-#: ../../root_interface.md:595
-#: ../../root_interface.md:601
-#: ../../root_interface.md:609
+#: ../../root_interface.md:597
+#: ../../root_interface.md:605
+#: ../../root_interface.md:611
 #: ../../root_interface.md:615
-#: ../../root_interface.md:619
+#: ../../root_interface.md:627
 #: ../../root_interface.md:631
-#: ../../root_interface.md:635
-#: ../../root_interface.md:659
-#: ../../root_interface.md:665
+#: ../../root_interface.md:655
+#: ../../root_interface.md:661
+#: ../../root_interface.md:667
 #: ../../root_interface.md:671
-#: ../../root_interface.md:681
-#: ../../root_interface.md:711
-#: ../../root_interface.md:725
-#: ../../root_interface.md:733
-#: ../../root_interface.md:745
-#: ../../root_interface.md:749
-#: ../../root_interface.md:767
-#: ../../root_interface.md:775
-#: ../../root_interface.md:811
-#: ../../root_interface.md:821
-#: ../../root_interface.md:827
-#: ../../root_interface.md:831
-#: ../../root_interface.md:843
-#: ../../root_interface.md:847
-#: ../../root_interface.md:851
-#: ../../root_interface.md:855
+#: ../../root_interface.md:682
+#: ../../root_interface.md:712
+#: ../../root_interface.md:726
+#: ../../root_interface.md:734
+#: ../../root_interface.md:746
+#: ../../root_interface.md:750
+#: ../../root_interface.md:768
+#: ../../root_interface.md:776
+#: ../../root_interface.md:812
+#: ../../root_interface.md:822
+#: ../../root_interface.md:828
+#: ../../root_interface.md:832
+#: ../../root_interface.md:844
+#: ../../root_interface.md:848
+#: ../../root_interface.md:852
+#: ../../root_interface.md:856
 #: eaf94e42e543492cb81c046cff01225b
 #: a458b0dca13248f7a101faf5d224482b
 #: 87330b1ddbaa4087bf2a788d65226efa
@@ -195,21 +196,22 @@ msgstr ""
 #: 6a3e6148e77c4100a7e9977495833484
 #: d7674f2d93a24909af3138806e169949
 #: 31973685a89b43d3b2bda7704e3980cd
-#: 86d77436671b4118a7d47707c1bfe386
-#: 2a861c6d6b8748078c9a418f402108b7
-#: e6f0d411672047109b94f99b7abb4964
-#: 5d8a562e429746e0b174e76f007b336d
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
 #: 5b1459595d7e4b1981fab7875205873c
-#: fc05dda999024f9f88ebc85304dfe707
-#: 1085589a821d4718b77809a4c5c9a29d
-#: f722499ab0a94a6483c8133879fdaac8
-#: 719248ec4d064576af14ddefc847a8bd
-#: 13a219fc31cf4173949272da10f21399
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
+#: 31973685a89b43d3b2bda7704e3980cd
 #: 82cb5a0838d44c9eb60aca7a7ff85ef3
-#: bb86dd45587a4112a6d54d663977d7b7
+#: 31973685a89b43d3b2bda7704e3980cd
 #: e7137c376c7042e088a9e9a5cf539423
 #: 23f00833c6c24614962f0160d115a530
 #: 885c72395ae34a5d93168366efca7fbb
+#: 31973685a89b43d3b2bda7704e3980cd
 msgid "alt text"
 msgstr ""
 
@@ -225,7 +227,7 @@ msgstr ""
 
 #: ../../root_interface.md:13
 #: 53e434d1048742fa83b5d1650427659e
-msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：外拨/已应答、在线代理、DID入站、入站区域和出站区域。"
+msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：呼出/应答、登录坐席总数、DID呼入、主叫地区和被叫地区。"
 msgstr ""
 
 #: ../../root_interface.md:15
@@ -250,7 +252,7 @@ msgstr ""
 
 #: ../../root_interface.md:23
 #: 23e1dfd7f40b4ecb8815af0553485f8d
-msgid "选择【添加】，进入【常规】添加代理的设置：（如下图）"
+msgid "选择【添加】，进入【常规】添加代理商的设置：（如下图）"
 msgstr ""
 
 #: ../../root_interface.md:25
@@ -274,7 +276,9 @@ msgid "**费率**：为代理商设定适用的费率范围。"
 msgstr ""
 
 #: ../../root_interface.md:33
+#: ../../root_interface.md:90
 #: ac2a88f05d6646f896d92e353e35d591
+#: d3fc43992bc44e2d91a0efd21ce78ca5
 msgid "**用户名**: 用户将使用该用户名登录系统。"
 msgstr ""
 
@@ -299,7 +303,9 @@ msgid "**确认密码**：再次确认密码，确保两次密码相同。"
 msgstr ""
 
 #: ../../root_interface.md:43
+#: ../../root_interface.md:260
 #: c2423871187e4be9a8fc04ebdc036852
+#: c53f4777c0204eaaa59e22836b362777
 msgid "**【 高级 】 设置:**"
 msgstr ""
 
@@ -315,7 +321,7 @@ msgstr ""
 
 #: ../../root_interface.md:49
 #: d20807f53c1844d3851a92f7caa841dc
-msgid "**\\[公司信息\\]:** 公司信息基本编辑（如下图）"
+msgid "**【 公司信息 】:** 公司信息基本编辑（如下图）"
 msgstr ""
 
 #: ../../root_interface.md:52
@@ -411,11 +417,6 @@ msgstr ""
 #: ../../root_interface.md:88
 #: d57e429a9cc34d9594cb994ea550208b
 msgid "![alt text](_static/images/root/media/image10.png)"
-msgstr ""
-
-#: ../../root_interface.md:90
-#: d3fc43992bc44e2d91a0efd21ce78ca5
-msgid "**用户名**: 用户将使用该用户名登录系统。>"
 msgstr ""
 
 #: ../../root_interface.md:92
@@ -679,7 +680,7 @@ msgstr ""
 
 #: ../../root_interface.md:196
 #: 6aad84832dae4184bea585ba6536e9f8
-msgid "【账单】设置：（如下图）"
+msgid "【计费】设置：（如下图）"
 msgstr ""
 
 #: ../../root_interface.md:198
@@ -832,11 +833,6 @@ msgstr ""
 msgid "**费率数目**：编辑所要选择的费率数目。"
 msgstr ""
 
-#: ../../root_interface.md:260
-#: c53f4777c0204eaaa59e22836b362777
-msgid "**【高级 】 设置:**"
-msgstr ""
-
 #: ../../root_interface.md:262
 #: 9ca9f60fb0a14d94876796f26e9a118e
 msgid "![alt text](_static/images/root/media/image32.png)"
@@ -913,7 +909,7 @@ msgid "**端口**：请输入这个中继的端口号，默认是5060。"
 msgstr ""
 
 #: ../../root_interface.md:293
-#: ../../root_interface.md:320
+#: ../../root_interface.md:317
 #: 46191f3a7f7b42fe98e97d318aa378bf
 #: 1cd053dda5884568864494360d271ce6
 msgid "**通道限制**：通道限制数表示最多有多少外拨电话数，0表示无限制。"
@@ -944,1326 +940,1333 @@ msgstr ""
 msgid "**启用注册**： 当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。"
 msgstr ""
 
-#: ../../root_interface.md:306
+#: ../../root_interface.md:305
 #: f457d6b525f94a40ae7b1e1ca28f9f97
 msgid "**语音编码**： 当验证方式是用户名/密码验证时，请选择这个中继的语音编码。"
 msgstr ""
 
-#: ../../root_interface.md:309
+#: ../../root_interface.md:307
 #: 097263c05c444e8d8206a05f5369e674
-msgid "**服务器地址**： 请输入这个服务器的地址，它可能是一个域或者IP 。"
+msgid "**服务器地址**： 请输入这个服务器的地址，它可能是一个域或者IP。"
 msgstr ""
 
-#: ../../root_interface.md:312
+#: ../../root_interface.md:309
 #: 0f661bd120aa4a058592775044a780d6
 msgid "**端口**： 请输入这个中继的端口号。"
 msgstr ""
 
-#: ../../root_interface.md:314
+#: ../../root_interface.md:311
 #: 75bc98b8934545a8be69b4350ed68be2
 msgid "**用户名**:当验证方式是用户名/密码验证时，请输入用户名。"
 msgstr ""
 
-#: ../../root_interface.md:316
+#: ../../root_interface.md:313
 #: f78aa9d5a06a40328f5572d74c70365a
-msgid "**认证用户名**： 认证这个用户名 。"
+msgid "**认证用户名**： 认证这个用户名。"
 msgstr ""
 
-#: ../../root_interface.md:318
+#: ../../root_interface.md:315
 #: 29be28d319bb42daa25ea54ced3018af
 msgid "**密码**：当验证方式是用户名/密码验证时，请输入密码。"
 msgstr ""
 
-#: ../../root_interface.md:322
-#: ../../root_interface.md:330
+#: ../../root_interface.md:319
 #: 522be4691000400787bff27669618375
-#: 0defcf7186834dfa8366771d982d15d3
-msgid "**状态**： 根据你的需要你可以禁用这个域 。"
+msgid "**状态**： 根据你的需要你可以禁用这个域。"
 msgstr ""
 
-#: ../../root_interface.md:324
+#: ../../root_interface.md:321
 #: f4cec4b5e83f46c6a4a651ae28eece98
 msgid "添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。"
 msgstr ""
 
-#: ../../root_interface.md:326
+#: ../../root_interface.md:323
 #: 4be9aa05d8c14432ae3f6e0dfb3510bb
 msgid "![alt text](_static/images/root/media/image37.png)"
 msgstr ""
 
-#: ../../root_interface.md:328
+#: ../../root_interface.md:325
 #: 3df57b57972c45c3aef51a96d54a9149
 msgid "**验证域**： 需要验证的域。"
 msgstr ""
 
-#: ../../root_interface.md:332
+#: ../../root_interface.md:327
+#: 0defcf7186834dfa8366771d982d15d3
+msgid "**状态**： 根据你的需要你可以禁用这个域 。"
+msgstr ""
+
+#: ../../root_interface.md:329
 #: 4dbdaceedf314f99a3dafac3c82d8166
 msgid "在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:334
+#: ../../root_interface.md:331
 #: 45278396d2f5452590681c8f48328514
 msgid "![alt text](_static/images/root/media/image38.png)"
 msgstr ""
 
-#: ../../root_interface.md:336
+#: ../../root_interface.md:333
 #: 61a32f41dccd41cfb5217630410f5ebd
 msgid "**已拨**： 已拨打电话总数量。"
 msgstr ""
 
-#: ../../root_interface.md:338
+#: ../../root_interface.md:335
 #: 57dda018549947e8a34c204c8a3e09ab
 msgid "**失败**： 已拨打电话失败数量。"
 msgstr ""
 
-#: ../../root_interface.md:340
+#: ../../root_interface.md:337
 #: 1f9f1b991eb648038aa5c138d67a11a3
 msgid "**未应答**： 已拨打电话未应答数量。"
 msgstr ""
 
-#: ../../root_interface.md:342
+#: ../../root_interface.md:339
 #: 64b71edfdabc48ebbf1cf24df85a135e
 msgid "【高级】设置：（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:344
+#: ../../root_interface.md:341
 #: 479cac9f961046389779b5226c8dbd70
 msgid "![alt text](_static/images/root/media/image39.png)"
 msgstr ""
 
-#: ../../root_interface.md:346
+#: ../../root_interface.md:343
 #: 4e356e6088534913bea92ca9025b461f
 msgid "**绑定呼入到 client**：您可以将此中继线绑定到某个Client，然后来自此中继线的所有呼叫都将发送到此Client。"
 msgstr ""
 
-#: ../../root_interface.md:348
+#: ../../root_interface.md:345
 #: 54dda55a680e4aa7b48328b30912b968
 msgid "**中继侧录音增益**：如果为0则表示禁用此功能。"
 msgstr ""
 
-#: ../../root_interface.md:350
+#: ../../root_interface.md:347
 #: 783af54dd3834d1dbc3e2b67753361b5
 msgid "**分机侧录音增益**：如果为0则表示禁用此功能。"
 msgstr ""
 
-#: ../../root_interface.md:352
+#: ../../root_interface.md:349
 #: 6e5b0303866f40daa182394ef529d492
 msgid "**中继侧通话增益**：如果为0则表示禁用此功能。"
 msgstr ""
 
-#: ../../root_interface.md:354
+#: ../../root_interface.md:351
 #: 1a509c06d84948878c559ee3c9029313
 msgid "**坐席侧通话增益**：如果为0则表示禁用此功能。"
 msgstr ""
 
-#: ../../root_interface.md:356
+#: ../../root_interface.md:353
 #: 0e3ed6af9b8c450aa7b5d19217192868
 msgid "**坐席注册超时时间**：在启用注册时，您可以输入注册超时。（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
 msgstr ""
 
-#: ../../root_interface.md:358
+#: ../../root_interface.md:355
 #: abcf7a8e2bc6475984f460869a3c15e7
 msgid "**描述**：你可以填这个中继的描述信息，进行备注说明。"
 msgstr ""
 
-#: ../../root_interface.md:360
+#: ../../root_interface.md:357
 #: 2a32b490dcae42549b2c67f892bb87af
-msgid "【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）)"
+msgid "【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:362
+#: ../../root_interface.md:359
 #: 0d8267a7c4e14e9b82474a08704de223
 msgid "![alt text](_static/images/root/media/image40.png)"
 msgstr ""
 
-#: ../../root_interface.md:364
+#: ../../root_interface.md:361
 #: f006bdf7b4f14037ab025cbbf17be77e
 msgid "**名称**: 请为这个呼出规则命名。"
 msgstr ""
 
-#: ../../root_interface.md:366
+#: ../../root_interface.md:363
 #: 57e7b5a8c6cb45efaec752988f9f9fef
 msgid "**匹配规则**:设置这个匹配规则，符合此规则的呼叫将执行以下操作。"
 msgstr ""
 
-#: ../../root_interface.md:368
+#: ../../root_interface.md:365
 #: c545c1ac4ce442399ab45a0fb7592bad
 msgid "**替换主叫号码**:在这里你可以重新设定主叫号码和主叫号码名称。"
 msgstr ""
 
-#: ../../root_interface.md:370
+#: ../../root_interface.md:367
 #: 2924f4300eb840769ce8bec06881cf6e
 msgid "**增加主叫号码前缀**:系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。"
 msgstr ""
 
-#: ../../root_interface.md:372
+#: ../../root_interface.md:369
 #: b6e5f1f121964ca19b372ed58b98377e
 msgid "**被叫号码**:你可以添加/移除被叫号码前缀或者重置被叫号码。"
 msgstr ""
 
-#: ../../root_interface.md:374
+#: ../../root_interface.md:371
 #: a666365896a14857a25d8e4f3deea189
 msgid "**转向**: 路由匹配时系统将进行此动作。"
 msgstr ""
 
-#: ../../root_interface.md:376
+#: ../../root_interface.md:373
 #: 6c7e1f6ed9e94f90a5d5d8b1616fa1fe
 msgid "【呼入IP 】设置:"
 msgstr ""
 
-#: ../../root_interface.md:378
+#: ../../root_interface.md:375
 #: 12685e4c8d1f40b2b0326dda617a23b2
 msgid "![alt text](_static/images/root/media/image41.png)"
 msgstr ""
 
-#: ../../root_interface.md:380
+#: ../../root_interface.md:377
 #: 79be18eee4d444b0a95e3e08b9de4791
 msgid "**呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。"
 msgstr ""
 
-#: ../../root_interface.md:382
+#: ../../root_interface.md:379
 #: 84ce5029f3d84bb08a38a2d2f7983c61
 msgid "![alt text](_static/images/root/media/image42.png)"
 msgstr ""
 
-#: ../../root_interface.md:384
+#: ../../root_interface.md:381
 #: 6b2d9eba47834e049eb7757283732863
 msgid "**费率**: 缴纳费用的比率。"
 msgstr ""
 
-#: ../../root_interface.md:386
+#: ../../root_interface.md:383
 #: 01800e1761ec44538de68d221616d8a6
 msgid "普通费率：没有初始时长计算，只按照每分钟的计费方式计算费率。"
 msgstr ""
 
-#: ../../root_interface.md:388
+#: ../../root_interface.md:385
 #: a7a7dd5e0de147219f9107eef5b1060f
 msgid "费率计划：根据已设置好的费率计划选择计费。"
 msgstr ""
 
-#: ../../root_interface.md:390
+#: ../../root_interface.md:387
 #: 3f314ecf9ff6401f8baadf2a6ba23747
 msgid "DID 号码:"
 msgstr ""
 
-#: ../../root_interface.md:392
+#: ../../root_interface.md:389
 #: 1c931ee14ef84b09b4c4b432f001375d
 msgid "DID号码指电信运营商提供的能够呼入到系统的电话号码，是外线呼入时的接入号码即被叫号码，是公司对外公布的电话号码，也可以理解成客户拨打的号码。DID在系统中的主要作用是，通过对DID号码的识别，我们可以制作不同的拨入路由，例如直接呼叫一个分机，一个振铃组，进入一个IVR或者一个队列。"
 msgstr ""
 
-#: ../../root_interface.md:394
+#: ../../root_interface.md:391
 #: 922c2537f03a430ea70a90b365865cf2
 msgid "![alt text](_static/images/root/media/image43.png)"
 msgstr ""
 
-#: ../../root_interface.md:396
+#: ../../root_interface.md:393
 #: 40828a57d6024682be413669586d9807
 msgid "点击添加添加一个新的中继："
 msgstr ""
 
-#: ../../root_interface.md:398
+#: ../../root_interface.md:395
 #: f65187c4137c447297a4d686be72a943
 msgid "![alt text](_static/images/root/media/image44.png)"
 msgstr ""
 
-#: ../../root_interface.md:400
-#: d726a0f6cc974df29129339a462f77fd
-msgid "**DID号码**: Please enter a DID number, one per line."
+#: ../../root_interface.md:397
+#: 091dbab63f7d4ab999b9ac7718db84d6
+msgid "**DID号码**: 请输入did号码，每行一个。"
 msgstr ""
 
-#: ../../root_interface.md:402
+#: ../../root_interface.md:399
 #: 2c1bcea58b55496b9a4410caa9953d4c
 msgid "**DID名称**: DID名称用于帮助你在系统中识别该号码，在统计时如果设置了DID名称，则会使用此名称。"
 msgstr ""
 
-#: ../../root_interface.md:404
+#: ../../root_interface.md:401
 #: daccbc924fe04a668c605cda78f4f94f
 msgid "**代理商**: 请为这个did号码选择一个代理商。"
 msgstr ""
 
-#: ../../root_interface.md:406
+#: ../../root_interface.md:403
 #: 23e2e1b291d24e7aa98570c97aa8a16e
 msgid "**状态**: DID号码禁用后, 呼入到当前DID的来电将不可用。"
 msgstr ""
 
-#: ../../root_interface.md:408
+#: ../../root_interface.md:405
 #: bcfc2880129146968346508713a645cb
 msgid "【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。"
 msgstr ""
 
-#: ../../root_interface.md:410
+#: ../../root_interface.md:407
 #: a3f6d9c8aba147c4aebe8848c12fb536
 msgid "![alt text](_static/images/root/media/image45.png)"
 msgstr ""
 
-#: ../../root_interface.md:412
+#: ../../root_interface.md:409
 #: 6eb6283c82694b9084fa1d09dfc2f605
 msgid "外显号码:"
 msgstr ""
 
-#: ../../root_interface.md:414
+#: ../../root_interface.md:411
 #: c2dd911c8cd84cb1a71e0c729b438772
 msgid "外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:417
+#: ../../root_interface.md:414
 #: 00210258f065450eb505b6bc53eadb19
 msgid "![alt text](_static/images/root/media/image46.png)"
 msgstr ""
 
-#: ../../root_interface.md:419
+#: ../../root_interface.md:416
 #: 48abee9d29504a35ad8684f3b8591dfe
 msgid "**选择【添加】，进入【常规】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:421
+#: ../../root_interface.md:418
 #: 531ffbc52ec242ad8fd423cfab593bda
 msgid "![alt text](_static/images/root/media/image47.png)"
 msgstr ""
 
-#: ../../root_interface.md:423
+#: ../../root_interface.md:420
 #: 9e468ae938a34034b5b1bca485c398e5
 msgid "**外显号码**： 请输入您要添加的外显号码，每行一个。"
 msgstr ""
 
-#: ../../root_interface.md:425
+#: ../../root_interface.md:422
 #: e2f565c3734c4b21805051af3b3da200
 msgid "**供应商**： 你可以为这个外显号码选择一个供应商。"
 msgstr ""
 
-#: ../../root_interface.md:427
+#: ../../root_interface.md:424
 #: 14ccfefc30e845e48f18212fab83d84b
 msgid "**费率计划**： 你可以为这个外显号码选择一个费率计划。"
 msgstr ""
 
-#: ../../root_interface.md:429
+#: ../../root_interface.md:426
 #: 9ba7893fec294047bba6fbf003a0fb5b
 msgid "**代理商**： 你可以为这个外显号码选择一个代理商。"
 msgstr ""
 
-#: ../../root_interface.md:431
+#: ../../root_interface.md:428
 #: 1725eab3a1be490cbaa45ed5cbc07666
 msgid "号码区域信息:"
 msgstr ""
 
-#: ../../root_interface.md:433
+#: ../../root_interface.md:430
 #: f36f05ae58a74219b0853d8a9ff1b6f9
-msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配系统的通话号码的所属地。添加归属地完成后，当坐席页面有来电时，会提示来电号码的归属地信息，当坐席联系客户时，客户资料页面会显示号码归属地。面，在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
+msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配did号码的所属地。添加归属地完成后点击工具中-更新DID归属地，DID页面中属性一栏会被更新为匹配区域。在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
 msgstr ""
 
-#: ../../root_interface.md:435
+#: ../../root_interface.md:432
 #: 4273618950154de7af592c6fefcfd074
 msgid "![alt text](_static/images/root/media/image48.png)"
 msgstr ""
 
-#: ../../root_interface.md:437
+#: ../../root_interface.md:434
 #: b4b59e93a1d14d628e82a933a06aad6c
 msgid "**选择【添加】并输入【通用】设置：（如下图所示）**"
 msgstr ""
 
-#: ../../root_interface.md:439
+#: ../../root_interface.md:436
 #: e704bc8367cf41188e7798f8a208ecdd
 msgid "![alt text](_static/images/root/media/image49.png)"
 msgstr ""
 
-#: ../../root_interface.md:441
+#: ../../root_interface.md:438
 #: a45dbe7407cd41df8bdbb2ee4534f6cb
 msgid "**操作**:"
 msgstr ""
 
-#: ../../root_interface.md:443
+#: ../../root_interface.md:440
 #: be8f7fad4f404d4995cc3cd89c7a917a
 msgid "更新：如果表内数据与当前设定的数据有重复，以设定的数据为准，对表进行更新。"
 msgstr ""
 
-#: ../../root_interface.md:445
+#: ../../root_interface.md:442
 #: 69eef75dc4544fdaa68ba10c7d980b5b
 msgid "重置：清空表内所有号码区域信息，再将当前设定的数据导入表内."
 msgstr ""
 
-#: ../../root_interface.md:447
+#: ../../root_interface.md:444
 #: e9379a825e0d4d5eb27797b1d90d284c
 msgid "**数据**: 直接填写数据,或将csv文件拖拽到此区域(文件需使用UTF-8编码)。格式示例：号码(数字)+属性(文本)"
 msgstr ""
 
-#: ../../root_interface.md:449
+#: ../../root_interface.md:446
 #: 3e000eb10b2743b0a7692b4718fbb628
 msgid "g. 呼叫设置:"
 msgstr ""
 
-#: ../../root_interface.md:451
+#: ../../root_interface.md:448
 #: cae1b8ef1fcb46f79b9e1d9dbeeb920b
 msgid "节点管理:"
 msgstr ""
 
-#: ../../root_interface.md:453
+#: ../../root_interface.md:450
 #: 7c5f4f5e34514098aff97beaa01e7da5
 msgid "从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。"
 msgstr ""
 
-#: ../../root_interface.md:455
+#: ../../root_interface.md:452
 #: 4ce96bbf6b144ad3b8f8fba37ebf2646
 msgid "![alt text](_static/images/root/media/image50.png)"
 msgstr ""
 
-#: ../../root_interface.md:457
+#: ../../root_interface.md:454
 #: 0a4e7859e7874353acf5f23c8dc0b7aa
 msgid "**选择【添加】并输入【通用】设置:**"
 msgstr ""
 
-#: ../../root_interface.md:459
+#: ../../root_interface.md:456
 #: 321cc5995b8c4ba8bae41b2f253ef79d
 msgid "**节点类型**: 选择节点类型，分为【普通】和【 Opensips 】。系统默认为【 普通 】"
 msgstr ""
 
-#: ../../root_interface.md:461
+#: ../../root_interface.md:458
 #: b0ecff1dd90146b69765959eda5362af
 msgid "当节点类型为普通时：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:463
+#: ../../root_interface.md:460
 #: c3fec731ce9a400b89d68513eab849ac
 msgid "![alt text](_static/images/root/media/image51.png)"
 msgstr ""
 
-#: ../../root_interface.md:465
+#: ../../root_interface.md:462
+#: ../../root_interface.md:476
 #: 395912778fc54dd3a9dd655738bfd1f6
-msgid "**节点名称**： 给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
+#: 0e3dc944bafd44e1ba81c4f38e5461b8
+msgid "**节点名称**：给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
 msgstr ""
 
-#: ../../root_interface.md:468
+#: ../../root_interface.md:464
+#: ../../root_interface.md:478
 #: 592fd4a7c8ae4f10b914614fb4a20cff
-msgid "**节点 I**： 请输入astercc服务器的IP地址。"
+#: c63ae38bd4f14d4586944be740b8413a
+msgid "**节点 IP**： 请输入astercc服务器的IP地址。"
 msgstr ""
 
-#: ../../root_interface.md:470
+#: ../../root_interface.md:466
 #: fb8f9a5663354a06b17cc01c745f222c
 msgid "**Sip端口**： 节点http端口 默认值为3000。"
 msgstr ""
 
-#: ../../root_interface.md:472
-#: ../../root_interface.md:484
+#: ../../root_interface.md:468
+#: ../../root_interface.md:480
 #: 9414f1b475544b4197743b9dc91debab
 #: 33d41b10cf174c40a9e639f4ba3af793
 msgid "**Node端口**： 客户端webrtc使用的地址。"
 msgstr ""
 
-#: ../../root_interface.md:474
+#: ../../root_interface.md:470
 #: cc4c876106044db9a374e9b9a41e5031
 msgid "**处理任务**： 是否执行导出任务。"
 msgstr ""
 
-#: ../../root_interface.md:476
+#: ../../root_interface.md:472
 #: e8a0df55452f4e6a8a7ac279f2251037
 msgid "当节点类型为 opensips 时：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:478
+#: ../../root_interface.md:474
 #: 15c111f6d8984be6af831d57714ce8cb
 msgid "![alt text](_static/images/root/media/image52.png)"
 msgstr ""
 
-#: ../../root_interface.md:480
-#: 0e3dc944bafd44e1ba81c4f38e5461b8
-msgid "**节点名称**：给这个节点起一个名字便于识别。媒体网关与节点的相应配置需要与该名称一致。"
-msgstr ""
-
 #: ../../root_interface.md:482
-#: c63ae38bd4f14d4586944be740b8413a
-msgid "**节点 IP**： 请输入astercc服务器的IP地址。"
-msgstr ""
-
-#: ../../root_interface.md:486
 #: 517cc94305ce4ebc86d55c8a680684b8
 msgid "**WS服务器**: 客户端webrtc使用的地址。"
 msgstr ""
 
-#: ../../root_interface.md:488
+#: ../../root_interface.md:484
 #: c175f7ef87304dabab52924e502fa55e
 msgid "**优先级**：WS服务器的使用优先级,坐席将优先连接优先级大的ws服务器.数值越大优先级越高.。"
 msgstr ""
 
-#: ../../root_interface.md:490
+#: ../../root_interface.md:486
 #: 2362440837fa4e0f8fefa2c3c2fef3c3
 msgid "**Mysql地址**： 填写 Opensips 使用的 MySQL 地址。"
 msgstr ""
 
-#: ../../root_interface.md:492
+#: ../../root_interface.md:488
 #: 6055247f7dd249369ee422fb08e11f0c
 msgid "**Mysql端口**： 填写 Opensips 使用的 MySQL 端口。"
 msgstr ""
 
-#: ../../root_interface.md:494
+#: ../../root_interface.md:490
 #: b05f6ca9b3084eea8f5a9de509701bb7
 msgid "**Mysql用户名**：填写 Opensips 使用的 MySQL 用户名。"
 msgstr ""
 
-#: ../../root_interface.md:496
+#: ../../root_interface.md:492
 #: 90c50f27ef984ea4b24612b45562d03f
 msgid "**Mysql密码**： 填写 Opensips 使用的 MySQL 密码。"
 msgstr ""
 
-#: ../../root_interface.md:498
+#: ../../root_interface.md:494
 #: 55c37a2cb69f4553950c0167e316ee46
 msgid "**Mysql数据库**： 填写 Opensips 使用的 MySQL 数据库。"
 msgstr ""
 
-#: ../../root_interface.md:500
+#: ../../root_interface.md:496
 #: 3b36d25667744b878ddcd16e03a62c49
 msgid "![alt text](_static/images/root/media/image53.png)"
 msgstr ""
 
-#: ../../root_interface.md:502
+#: ../../root_interface.md:498
 #: c767f31677c7415cbafbcc1d143da3b6
 msgid "**编辑节点**： 编辑这个节点。"
 msgstr ""
 
-#: ../../root_interface.md:504
+#: ../../root_interface.md:500
 #: 85f727ec58f24eb2a249bb69a8f25372
 msgid "**健康检查**： 对节点进行健康检查。"
 msgstr ""
 
-#: ../../root_interface.md:506
+#: ../../root_interface.md:502
 #: 72ad52f3832d48dc8549d57800d1420d
 msgid "**暂停**： 暂停这个节点的使用。"
 msgstr ""
 
-#: ../../root_interface.md:508
+#: ../../root_interface.md:504
 #: f8b812faf82246ea95c5852f650d9a22
 msgid "**删除节点**： 删除这个节点"
 msgstr ""
 
-#: ../../root_interface.md:510
+#: ../../root_interface.md:506
 #: 353679023f064e48b1c88c587f6af194
 msgid "呼叫限制次数:"
 msgstr ""
 
-#: ../../root_interface.md:512
+#: ../../root_interface.md:508
 #: 9a2e6f3e222c4a01beb7018b5db966ab
-msgid "呼叫限制是指号码可以拨打的次数;同时，您可以在 通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 个电话。（如下图所示）"
+msgid "呼叫限制是指号码可以拨打的次数;同时，您可以在 通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 个电话。呼叫限制次数搜索，搜索的是呼叫限制前拨号的次数，并不是被限制的次数（如下图所示）。"
 msgstr ""
 
-#: ../../root_interface.md:515
+#: ../../root_interface.md:511
 #: f5c4dceaf8f649aea6a9e957783fe222
 msgid "![alt text](_static/images/root/media/image54.png)"
 msgstr ""
 
-#: ../../root_interface.md:517
-#: ../../root_interface.md:617
-#: ../../root_interface.md:633
+#: ../../root_interface.md:513
+#: ../../root_interface.md:613
+#: ../../root_interface.md:629
 #: 77c4a9bde96e4a0d845b1956d89fcf83
 #: 89ab746f30de4830a22a8e4f606a5565
 #: af7a5c8b566a4cecbdd1747d426a40ab
 msgid "**选择【添加】并进入【通用】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:519
+#: ../../root_interface.md:515
 #: 09ceef6d07c6445dbd0224c22a337981
 msgid "![alt text](_static/images/root/media/image55.png)"
 msgstr ""
 
-#: ../../root_interface.md:521
+#: ../../root_interface.md:517
 #: 6b201f0a3bee4b4ca896efe702e42b6d
 msgid "**规则**： 你可以在 M 天内呼叫 N 次超出设置次数通话会被限制。"
 msgstr ""
 
-#: ../../root_interface.md:523
+#: ../../root_interface.md:519
 #: bf81a7c4937f4b07a4340d274c0c4559
 msgid "外呼档案:"
 msgstr ""
 
-#: ../../root_interface.md:525
+#: ../../root_interface.md:521
 #: ef9f27b8624943a8b1be63d555920f04
-msgid "外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以有多个呼出路由，Client可以使用不同的中继呼出基于主叫号码或被叫号码。在呼出路由中，你还可以根据需要转换主叫号码或被叫号码。"
+msgid "外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以配置有多个呼出路由呼入路由按顺序依次向下匹配，Client选择外呼档案后，根据匹配进行外呼。"
 msgstr ""
 
-#: ../../root_interface.md:527
+#: ../../root_interface.md:523
 #: 59824bf92434455987fb8ef9c0bd29b2
 msgid "![alt text](_static/images/root/media/image56.png)"
 msgstr ""
 
-#: ../../root_interface.md:529
-#: ../../root_interface.md:593
+#: ../../root_interface.md:525
+#: ../../root_interface.md:589
 #: 9e005a987755442c99dca09c4c9c6bd8
 #: 44c09a6c252e44059dce494f943e7e5e
 msgid "**单击【添加】以进入【常规】设置：（如下图所示）**"
 msgstr ""
 
-#: ../../root_interface.md:531
+#: ../../root_interface.md:527
 #: 461b181b84e24f869dc9b52edb2a40a1
 msgid "![alt text](_static/images/root/media/image57.png)"
 msgstr ""
 
-#: ../../root_interface.md:533
+#: ../../root_interface.md:529
 #: abf8c805cfa742928ac91b0df20ce562
 msgid "**档案名称**：请为该外呼档案命名。"
 msgstr ""
 
-#: ../../root_interface.md:535
+#: ../../root_interface.md:531
 #: 851500d310404982918975d10690b6df
 msgid "设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:537
+#: ../../root_interface.md:533
 #: 1ccb1bba2f3040459f25683e39d85c17
 msgid "![alt text](_static/images/root/media/image58.png)"
 msgstr ""
 
-#: ../../root_interface.md:539
+#: ../../root_interface.md:535
 #: f633a1bd41e042358792ae632d80d3b8
 msgid "**路由名称**： 请为该路由命名。"
 msgstr ""
 
-#: ../../root_interface.md:541
+#: ../../root_interface.md:537
 #: c5413da94bb241e1b68538953a860256
 msgid "**匹配规则**：设置匹配规则，满足该规则的调用将执行以下操作。如果设置了多个匹配规则，则需要匹配所有规则。"
 msgstr ""
 
-#: ../../root_interface.md:543
+#: ../../root_interface.md:539
 #: 713ad475fb984f6d9c90c36e766c6c02
-msgid "**替换主叫号码**：在这里你可以从新设定主叫号码和主叫号码名称。"
+msgid "**替换主叫号码**：在这里你可以重新设定主叫号码和主叫号码名称。"
 msgstr ""
 
-#: ../../root_interface.md:545
-#: cd3d52218a714776aa10cb2c471a0b67
-msgid "**被叫号码**： 你可以添加/移除被叫号码前缀，或是重置被叫号码。"
+#: ../../root_interface.md:541
+#: 9659c1e9da594410b38abeabb6542c2d
+msgid "**被叫号码**： 如果设置时选择，添加数字，在坐席拨号时就可以省略所添加的数字。如果选择移除数字，则坐席在拨号时就要增加所移除数字进行拨号。如果选择替换，则需要填写另外一个符合匹配过的完整号码。"
 msgstr ""
 
-#: ../../root_interface.md:547
+#: ../../root_interface.md:543
 #: 30d29ffc61584a5ea99cbc97d9a136ee
 msgid "**转向**：路由匹配时系统将进行此动作。"
 msgstr ""
 
-#: ../../root_interface.md:549
+#: ../../root_interface.md:545
 #: dd13dc5b7d534544bbdbada4986fe10b
 msgid "**中继策略**："
 msgstr ""
 
-#: ../../root_interface.md:551
+#: ../../root_interface.md:547
 #: f25918e30d51497587c9c722621a1286
 msgid "顺序：每个来电从第一个中继开始（始终为 123）"
 msgstr ""
 
-#: ../../root_interface.md:553
+#: ../../root_interface.md:549
 #: e6e068beb11248e1a067a14e65941d64
 msgid "轮询：第一个来电按中继添加的顺序运行，第二个来电从第一个中继的下一个顺序中继开始，依此类推，第三个呼叫。（第一次是123，第二次是 231，第三次是 312）"
 msgstr ""
 
-#: ../../root_interface.md:555
+#: ../../root_interface.md:551
 #: f764ede54acb438d83a61bbb3f5353d8
 msgid "随机：无模式"
 msgstr ""
 
-#: ../../root_interface.md:557
+#: ../../root_interface.md:553
 #: a843116b152c40678f012781728aa1ad
 msgid "暂停原因:"
 msgstr ""
 
-#: ../../root_interface.md:559
-#: 10e23c2b89934765a990bdf91603f508
-msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。"
+#: ../../root_interface.md:555
+#: 8973705e392a40a99aa8b1ef4bea4137
+msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。root级别设置的暂停原因，将成为新建client时默认显示的暂停原因。"
 msgstr ""
 
-#: ../../root_interface.md:561
+#: ../../root_interface.md:557
 #: 917591eb00af4569b760b6436f184757
 msgid "![alt text](_static/images/root/media/image59.png)"
 msgstr ""
 
-#: ../../root_interface.md:563
-#: ../../root_interface.md:575
-#: ../../root_interface.md:829
+#: ../../root_interface.md:559
+#: ../../root_interface.md:571
+#: ../../root_interface.md:830
 #: 7944637236454c4f9ac729bf55355e71
 #: a94e56144a974b64ba275ca0879a6497
 #: ac76e9a60d014899bd0d6ed52f82c584
 msgid "**点击【添加】进入【通用】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:565
+#: ../../root_interface.md:561
 #: 042c7b7de8ad4916b9336f83c1d9325a
 msgid "![alt text](_static/images/root/media/image60.png)"
 msgstr ""
 
-#: ../../root_interface.md:567
+#: ../../root_interface.md:563
 #: e8fe4671b1ed4cb8bf30aac84ca5cbdb
 msgid "**暂停原因名称**： 设置暂停原因为其命名。"
 msgstr ""
 
-#: ../../root_interface.md:569
+#: ../../root_interface.md:565
 #: 056f60049a7f44e98e0c25733cef3c3d
 msgid "话机部署模版:"
 msgstr ""
 
-#: ../../root_interface.md:571
+#: ../../root_interface.md:567
 #: aa199c7ecf2b4257a7ede3407bceaa00
 msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
 msgstr ""
 
-#: ../../root_interface.md:573
+#: ../../root_interface.md:569
 #: e56bda8f4bad4fe5865acdf4b56043b2
 msgid "![alt text](_static/images/root/media/image61.png)"
 msgstr ""
 
-#: ../../root_interface.md:577
+#: ../../root_interface.md:573
 #: 8227474abde3476193ab9ee87901a69e
 msgid "![alt text](_static/images/root/media/image62.png)"
 msgstr ""
 
-#: ../../root_interface.md:579
+#: ../../root_interface.md:575
 #: 02b68211ed474d8e92fe8026f2f97873
 msgid "**模版名称**：请填入模版名称。"
 msgstr ""
 
-#: ../../root_interface.md:581
+#: ../../root_interface.md:577
 #: 144ac8f9033a44deb2c8f94c168f824d
 msgid "**话机品牌**： 请输入话机型号。"
 msgstr ""
 
-#: ../../root_interface.md:583
+#: ../../root_interface.md:579
 #: f3ed161c315c4a9197c6feae95f0faa4
 msgid "**模版内容**： 输入模板（root或管理员提前准备的模板，不同话机的模板不同）。"
 msgstr ""
 
-#: ../../root_interface.md:585
+#: ../../root_interface.md:581
 #: 76f17298de9b4c7d9d6807cd1968e652
 msgid "h. 信息:"
 msgstr ""
 
-#: ../../root_interface.md:587
+#: ../../root_interface.md:583
 #: e3bb5a96cbe74d2a867afc2e33ea756e
 msgid "短信档案:"
 msgstr ""
 
-#: ../../root_interface.md:589
+#: ../../root_interface.md:585
 #: f9eb2d2b0a0a44048adac14bb563e967
 msgid "短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。"
 msgstr ""
 
-#: ../../root_interface.md:591
+#: ../../root_interface.md:587
 #: 30e9e75739af4a9a92540f64f07ed3e9
 msgid "![alt text](_static/images/root/media/image63.png)"
 msgstr ""
 
-#: ../../root_interface.md:595
+#: ../../root_interface.md:591
 #: 0c12b8f2f14848638408ac20cbdd88e6
 msgid "![alt text](_static/images/root/media/image64.png)"
 msgstr ""
 
-#: ../../root_interface.md:597
+#: ../../root_interface.md:593
 #: 03d494a574f44470adac2fabf572fb30
 msgid "**短信档案名称**： 请给短信档案命名。"
 msgstr ""
 
-#: ../../root_interface.md:599
+#: ../../root_interface.md:595
 #: c4e61762667346588a09bb748395baa5
 msgid "设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:601
+#: ../../root_interface.md:597
 #: 07cb13b4c61e4bc7b4819a35d66deb47
 msgid "![alt text](_static/images/root/media/image65.png)"
 msgstr ""
 
-#: ../../root_interface.md:603
+#: ../../root_interface.md:599
 #: 793f5dd55a7f4d5384fab28a13182261
 msgid "**匹配标识串**： 客户请求中用于选择要发送短信的供应商的标识字符串。"
 msgstr ""
 
-#: ../../root_interface.md:605
+#: ../../root_interface.md:601
 #: 8b7d0734ea7b47ba993848fdb91677fc
 msgid "**匹配供应商**： 字符串匹配时使用的供应商。"
 msgstr ""
 
-#: ../../root_interface.md:607
+#: ../../root_interface.md:603
 #: 3f5797b6fd784c7988c924927181bce4
 msgid "编辑完【短信文件】后，如下图所示，点击保存（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:609
+#: ../../root_interface.md:605
 #: 9fe9998efaaa492fac581b5affe97f92
 msgid "![alt text](_static/images/root/media/image66.png)"
 msgstr ""
 
-#: ../../root_interface.md:611
+#: ../../root_interface.md:607
 #: a240786ae2ae4be89a41b4ce8ee771f8
 msgid "短信供应商:"
 msgstr ""
 
-#: ../../root_interface.md:613
+#: ../../root_interface.md:609
 #: 2f175de691e34a059821648b4eaf82ef
 msgid "短信供应商页面用于管理短信供应商，你可以在系统中配置多个供应商，然后在短信档案中配置如何选择这些供应商发短信。"
 msgstr ""
 
-#: ../../root_interface.md:615
+#: ../../root_interface.md:611
 #: 70ea4e03a2ab4af3a8b8eeccf9a37a74
 msgid "![alt text](_static/images/root/media/image67.png)"
 msgstr ""
 
-#: ../../root_interface.md:619
+#: ../../root_interface.md:615
 #: 005d27edfc354a188925235b1747d18c
 msgid "![alt text](_static/images/root/media/image68.png)"
 msgstr ""
 
-#: ../../root_interface.md:621
+#: ../../root_interface.md:617
 #: 08daf44357434b6a8e087ebad8c109fa
 msgid "**供应商名称**： 请输入短信供应商名称。"
 msgstr ""
 
-#: ../../root_interface.md:623
+#: ../../root_interface.md:619
 #: 9ee7caad7db647e791f35c7af0aa5c06
 msgid "**标识**：每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新的标识，请联系系统管理员。"
 msgstr ""
 
-#: ../../root_interface.md:625
+#: ../../root_interface.md:621
 #: 09c0dd59a4e047eca3b9ebd6d64959d3
 msgid "**参数**：如果你想使用对同一个供应商的多个账号，可以在这里设置向脚本文件传递的参数。"
 msgstr ""
 
-#: ../../root_interface.md:627
+#: ../../root_interface.md:623
 #: 773c48c0e2e049b0b6c379cb67467c8d
 msgid "邮件服务器:"
 msgstr ""
 
-#: ../../root_interface.md:629
-#: 183b0bda6cad4515bbbe42bdaf9ceae7
-msgid "邮件服务器页面用于管理电子邮件收发的管理设备。"
+#: ../../root_interface.md:625
+#: a42cc95e0929464c8c85de42138b3bee
+msgid "邮件服务器页面用于管理电子邮件收发的管理设置，配置好的邮件服务器可以在client编辑中进行选择使用。"
 msgstr ""
 
-#: ../../root_interface.md:631
+#: ../../root_interface.md:627
 #: cb54ef009dc4495db001874bdc00b3e6
 msgid "![alt text](_static/images/root/media/image69.png)"
 msgstr ""
 
-#: ../../root_interface.md:635
+#: ../../root_interface.md:631
 #: 79ae233881a8423bbb96a862e0d3ef77
 msgid "![alt text](_static/images/root/media/image70.png)"
 msgstr ""
 
-#: ../../root_interface.md:637
+#: ../../root_interface.md:633
 #: 1bc02411dc4a4d55a7c52a806308cb66
 msgid "**服务器名称**： 请为这个服务器命名。"
 msgstr ""
 
-#: ../../root_interface.md:639
+#: ../../root_interface.md:635
 #: fe703d38ef834cba9257b105deb4bf76
 msgid "**服务器类型**： 请选择这个服务器的类型。"
 msgstr ""
 
-#: ../../root_interface.md:641
+#: ../../root_interface.md:637
 #: 78eb28f0e786432d8ca0db471416fcf9
 msgid "**域名**： 请输入这个邮件服务器的域名。"
 msgstr ""
 
-#: ../../root_interface.md:643
+#: ../../root_interface.md:639
 #: 8a1da5a09ff1462cbd12b7cf89ea8365
 msgid "**端口**： 请输入这个邮件服务器的端口号。"
 msgstr ""
 
-#: ../../root_interface.md:645
+#: ../../root_interface.md:641
 #: cf31eeba209e4934ba8dfc414f76bec2
 msgid "**发信人邮箱**： 请输入这个邮件服务器的发信人邮箱。"
 msgstr ""
 
-#: ../../root_interface.md:647
+#: ../../root_interface.md:643
 #: 520d166224ce4cc38aeb82e55d49ae3f
 msgid "**使用SMTP认证**: 请确认是否需要使用SMTP认证。"
 msgstr ""
 
-#: ../../root_interface.md:649
+#: ../../root_interface.md:645
 #: 0da37d4b6d534ec5812a05ff68b8b6b1
 msgid "**启用SSL或TLS协议**： 选择一个启动协议。"
 msgstr ""
 
-#: ../../root_interface.md:651
+#: ../../root_interface.md:647
 #: 0cda2170463b43b389d4877adcee1918
 msgid "**SMTP用户名**: 若启动SMTP认证，请输入SMTP用户名。"
 msgstr ""
 
-#: ../../root_interface.md:653
+#: ../../root_interface.md:649
 #: c9a45456e72445039a777e79563e9b28
 msgid "**密码**： 请输入SMTP用户名对应的密码。"
 msgstr ""
 
-#: ../../root_interface.md:655
+#: ../../root_interface.md:651
 #: f25e0bdc362f4d06962cd3a819981ed3
 msgid "i. 统计:"
 msgstr ""
 
-#: ../../root_interface.md:657
-#: 9f7c2606348348a18a20eb6c49ea6082
-msgid "**统计报表**：您可以查看项目详细信息、项目摘要、任务详细信息、任务摘要和成本费率报告。（如下图所示）"
+#: ../../root_interface.md:653
+#: 88b1988dc81d4fa1a42e0438cc5d12be
+msgid "**统计报表**：root级别统计暂不显示。（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:659
+#: ../../root_interface.md:655
 #: 48e4899f30794dc0a67e870b5bd1fc8c
 msgid "![alt text](_static/images/root/media/image71.png)"
 msgstr ""
 
-#: ../../root_interface.md:661
+#: ../../root_interface.md:657
 #: 825273185b0d4487aad047b868680346
 msgid "j. 监控管理:"
 msgstr ""
 
-#: ../../root_interface.md:663
+#: ../../root_interface.md:659
 #: 42330314b54d4a49a3c1e0bc535de433
-msgid "**实时监控**：系统用户可以实时监控呼入/呼出的状态以及座位是否在线（如下图所示）"
+msgid "**实时监控**：系统用户可以实时监控呼入/呼出的状态以及整个系统下坐席的状态（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:665
+#: ../../root_interface.md:661
 #: 66cdccec4d504ee9ab9f55547567c4b1
 msgid "![alt text](_static/images/root/media/image72.png)"
 msgstr ""
 
-#: ../../root_interface.md:667
+#: ../../root_interface.md:663
 #: 25a4f79992d44d07a53dc034e9f00945
 msgid "k. 日志记录:"
 msgstr ""
 
-#: ../../root_interface.md:669
+#: ../../root_interface.md:665
 #: 21cb4f7fc88d49f281461b708bf9d43e
 msgid "**日志记录**： 您可以查看所有用户的行为（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:671
+#: ../../root_interface.md:667
 #: 3fc8068038064e2f8e73ce9779e39e31
 msgid "![alt text](_static/images/root/media/image73.png)"
 msgstr ""
 
-#: ../../root_interface.md:673
+#: ../../root_interface.md:669
+#: 24deab73276b466c896442e966e7ec74
+msgid "点击查看可以对日志记录进行更详细查看（如下图所示）"
+msgstr ""
+
+#: ../../root_interface.md:671
+#: b75797fd2b924829b2cf3f85f2b33e7e
+msgid "![alt text](_static/images/root/media/image90.png)"
+msgstr ""
+
+#: ../../root_interface.md:674
 #: 8918700b09904d778d750186c12ea11f
 msgid "l. 系统:"
 msgstr ""
 
-#: ../../root_interface.md:675
+#: ../../root_interface.md:676
 #: 124b3f31d63c4c8b82a5bead0d3360dc
 msgid "系统偏好:"
 msgstr ""
 
-#: ../../root_interface.md:677
+#: ../../root_interface.md:678
 #: 77c9e13bb87e4f7380afd3bb54e34593
 msgid "即系统设置，用户可以根据需要对系统进行常规设置"
 msgstr ""
 
-#: ../../root_interface.md:679
+#: ../../root_interface.md:680
 #: a2221ba3495b49f0a902c42095649fd6
 msgid "【 通用 】 设置页面：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:681
+#: ../../root_interface.md:682
 #: 297e17ac70324dcf8ed64bce1c9c0472
 msgid "![alt text](_static/images/root/media/image74.png)"
 msgstr ""
 
-#: ../../root_interface.md:683
+#: ../../root_interface.md:684
 #: ef572193b5154889a1646dcbe4afcca5
 msgid "**时区**： 当前使用的时区，默认为东京且无法修改。"
 msgstr ""
 
-#: ../../root_interface.md:685
+#: ../../root_interface.md:686
 #: 383d8c204aa242b6857a8dfd33326645
 msgid "**语言**： 您可以设置语言。"
 msgstr ""
 
-#: ../../root_interface.md:687
+#: ../../root_interface.md:688
 #: b70c5bc1db154679b552606cedcacf25
 msgid "**国家**：你可以设置国家"
 msgstr ""
 
-#: ../../root_interface.md:689
+#: ../../root_interface.md:690
 #: 4787b13e50194459911ab82d302f8449
 msgid "**区号**： 你可以设置区号。"
 msgstr ""
 
-#: ../../root_interface.md:691
+#: ../../root_interface.md:692
 #: 6486327b28b54f65b41a4ad827bea904
 msgid "**日期格式模式**： 您可以设置日期格式模式。"
 msgstr ""
 
-#: ../../root_interface.md:693
+#: ../../root_interface.md:694
 #: 3634b913988647a186aeceef40d9faeb
 msgid "**日期格式**：您可以设置日期格式，在日期格式模式下选择精确模式将显示。"
 msgstr ""
 
-#: ../../root_interface.md:695
+#: ../../root_interface.md:696
 #: 1d436d90b6684695808be013f3680b5a
 msgid "**时间格式**： 您可以设置时间格式，将显示日期格式模式下的精确模式。"
 msgstr ""
 
-#: ../../root_interface.md:697
+#: ../../root_interface.md:698
 #: fdaf3faf8e114b4a88241e8551240b22
 msgid "**时长格式**： 您可以设置时长的格式。"
 msgstr ""
 
-#: ../../root_interface.md:699
+#: ../../root_interface.md:700
 #: b9e6c4e53d984f4caecc721db445cc7f
 msgid "**号码格式**： 你可以设置号码的格式。"
 msgstr ""
 
-#: ../../root_interface.md:701
+#: ../../root_interface.md:702
 #: 32ee7845b5e544ce87d5373068c0fc6c
 msgid "**称呼格式**： 你可以设置姓名称呼的格式。"
 msgstr ""
 
-#: ../../root_interface.md:703
+#: ../../root_interface.md:704
 #: 8e7f2fd30f7a4472ab70e4fe5501ad15
 msgid "**账号超时时间**： 账号登录超时时间（单位：分钟）"
 msgstr ""
 
-#: ../../root_interface.md:705
+#: ../../root_interface.md:706
 #: 4354b2e59fd14bdb9abe046fc84de33c
 msgid "**坐席超时时间**： 坐席登录超时时间（单位：分钟）"
 msgstr ""
 
-#: ../../root_interface.md:707
+#: ../../root_interface.md:708
 #: b1ecb6b645354f6f95f4e46eb7c9c752
 msgid "**坐席浏览器超时时间**：如果代理设置为与浏览器一起使用，则当浏览器关闭并达到此超时时间时，系统将检出所有动态签入的代理组（单位：秒）。"
 msgstr ""
 
-#: ../../root_interface.md:709
+#: ../../root_interface.md:710
 #: 1b7b82b69a5a4f3290757eda9780e57f
 msgid "【货币】设置页面：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:711
+#: ../../root_interface.md:712
 #: 2e212753ced44275855841eaeb2cde2c
 msgid "![alt text](_static/images/root/media/image75.png)"
 msgstr ""
 
-#: ../../root_interface.md:713
+#: ../../root_interface.md:714
 #: a4a228d7961b40338208acc76ac491d8
-msgid "**货币**： 设置货币。."
+msgid "**货币**： 设置货币。"
 msgstr ""
 
-#: ../../root_interface.md:715
+#: ../../root_interface.md:716
 #: 7119e3a25c284e8188b59c641fad61a8
 msgid "**货币符号**： 设置货币符号。"
 msgstr ""
 
-#: ../../root_interface.md:717
+#: ../../root_interface.md:718
 #: 8ba6dc1da797420a96613df2123edaaf
 msgid "**货币小数点**： 设置货币小数点"
 msgstr ""
 
-#: ../../root_interface.md:719
+#: ../../root_interface.md:720
 #: c015ebeeba0e4f4ca1af841155b1a8fb
 msgid "**数字分隔符**： 设置数字分隔符。"
 msgstr ""
 
-#: ../../root_interface.md:721
+#: ../../root_interface.md:722
 #: aed7cd171bb34c5aa6e3c8856ee1438f
 msgid "**千位分隔符**： 设置千位分隔符。"
 msgstr ""
 
-#: ../../root_interface.md:723
+#: ../../root_interface.md:724
 #: b820eac05405443bb500bf05c88d348f
 msgid "【 数据 】 设置页面：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:725
+#: ../../root_interface.md:726
 #: c6f9a97ee1f847f8a50782d586a36931
 msgid "![alt text](_static/images/root/media/image76.png)"
 msgstr ""
 
-#: ../../root_interface.md:727
+#: ../../root_interface.md:728
 #: 53b8bcfe27314b649d4000c2e38a1d4d
 msgid "**导出文件编**： 设置导出文件编码。"
 msgstr ""
 
-#: ../../root_interface.md:729
+#: ../../root_interface.md:730
 #: e5f5649e19a840e6a24f64dacc4ec383
 msgid "**导出单文件最大行数**： 设置导出文件最大行数。"
 msgstr ""
 
-#: ../../root_interface.md:731
+#: ../../root_interface.md:732
 #: 1c1895f60e7642ad937355125cd00a26
 msgid "【拨号】设置页面：（如下图）"
 msgstr ""
 
-#: ../../root_interface.md:733
+#: ../../root_interface.md:734
 #: 3a530d40d4534203b356f3524f872084
 msgid "![alt text](_static/images/root/media/image77.png)"
 msgstr ""
 
-#: ../../root_interface.md:735
+#: ../../root_interface.md:736
 #: 636220b2865042c29b67fdffe5732801
 msgid "**拨打外线超时**： 外呼振铃时长。"
 msgstr ""
 
-#: ../../root_interface.md:737
+#: ../../root_interface.md:738
 #: fc59a00adb4e4010a454bace50e91033
 msgid "**拨打分机超时**:内线振铃超时。"
 msgstr ""
 
-#: ../../root_interface.md:739
+#: ../../root_interface.md:740
 #: 328b7ed43ae94568931fbbbb21ac961d
 msgid "销售漏斗:"
 msgstr ""
 
-#: ../../root_interface.md:741
+#: ../../root_interface.md:742
 #: 0db8d7ed39e94640adb4eae02ac27d11
 msgid "销售漏斗用于标记代理商记录的客户通话状态，默认有三种类型：成功/失败/跟踪，可以根据需要添加/编辑/删除。"
 msgstr ""
 
-#: ../../root_interface.md:743
+#: ../../root_interface.md:744
 #: f69ae938eee84c55bb49f7812984c7db
 msgid "销售漏斗的分数代表着坐席的呼叫和联系分数，最终可以根据坐席的总分进行排名，可以在坐席数据页面的排名列表中查看。"
 msgstr ""
 
-#: ../../root_interface.md:745
+#: ../../root_interface.md:746
 #: 398bed4bc7ca4e9ca934dd2be4f0c460
 msgid "![alt text](_static/images/root/media/image78.png)"
 msgstr ""
 
-#: ../../root_interface.md:747
+#: ../../root_interface.md:748
 #: 043504ec075f4b82a1ec71558dc041e3
 msgid "**选择【添加】并进入【常规】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:749
+#: ../../root_interface.md:750
 #: a9e9cd99a9504dd2a82551540272e58c
 msgid "![alt text](_static/images/root/media/image79.png)"
 msgstr ""
 
-#: ../../root_interface.md:751
+#: ../../root_interface.md:752
 #: 4fd65e1c4b754a66a9a17c2f39d8949e
 msgid "**名称**：为此销售漏斗命名。"
 msgstr ""
 
-#: ../../root_interface.md:753
+#: ../../root_interface.md:754
 #: 7550872d705745958c22cece4a3685d9
 msgid "**分值**： 请设置这个销售漏斗的分值，分值可体现坐席的工作情况。"
 msgstr ""
 
-#: ../../root_interface.md:755
+#: ../../root_interface.md:756
 #: 8062a2560f114c5989a26e8fd3eed081
 msgid "**状态**： 销售漏斗的状态:"
 msgstr ""
 
-#: ../../root_interface.md:757
+#: ../../root_interface.md:758
 #: d26b702ca6b949b8ac119708c486615e
 msgid "启用：正常显示"
 msgstr ""
 
-#: ../../root_interface.md:759
+#: ../../root_interface.md:760
 #: a0efeec5ae6942a7ae38ffe89eae1061
 msgid "隐藏：坐席不可见"
 msgstr ""
 
-#: ../../root_interface.md:761
+#: ../../root_interface.md:762
 #: aaf9af1e75c340fc9cabbc7e590f6fbc
 msgid "关闭：系统不可见"
 msgstr ""
 
-#: ../../root_interface.md:763
+#: ../../root_interface.md:764
 #: 93b7aeef8de54a9098553a5788a2c9c6
 msgid "后台任务:"
 msgstr ""
 
-#: ../../root_interface.md:765
+#: ../../root_interface.md:766
 #: dd5d51627ca34ef99651cb1f9b105b64
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
 msgstr ""
 
-#: ../../root_interface.md:767
+#: ../../root_interface.md:768
 #: b75797fd2b924829b2cf3f85f2b33e7e
 msgid "![alt text](_static/images/root/media/image80.png)"
 msgstr ""
 
-#: ../../root_interface.md:769
+#: ../../root_interface.md:770
 #: d87e032d5d604e83a7ebaf36670fc0c5
 msgid "高级:"
 msgstr ""
 
-#: ../../root_interface.md:771
+#: ../../root_interface.md:772
 #: 9392ddeb64944400905418c0a6930436
 msgid "可以查看和编辑某些系统设置"
 msgstr ""
 
-#: ../../root_interface.md:773
+#: ../../root_interface.md:774
 #: 2d50d08d02e349299bff9ab85023a04e
-msgid "**\\[基本\\]设置：（如下图）**"
+msgid "**【基本】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:775
+#: ../../root_interface.md:776
 #: 9373bb55f72c47528aa79b5f3d63fee8
 msgid "![alt text](_static/images/root/media/image81.png)"
 msgstr ""
 
-#: ../../root_interface.md:777
+#: ../../root_interface.md:778
 #: 698adc618a1a46afb73b29e0fa227355
 msgid "**事件类型**;"
 msgstr ""
 
-#: ../../root_interface.md:779
+#: ../../root_interface.md:780
 #: 9cd2124f106246d2b451a62d904ac5d1
 msgid "系统提供两种事件:通话记录:当呼叫挂断时，系统会将通话记录发布到特定的URL."
 msgstr ""
 
-#: ../../root_interface.md:781
+#: ../../root_interface.md:782
 #: 2de5ae2c23db472fbb01db0c4a937716
 msgid "坐席事件:系统将发布所有坐席事件，如响铃，应答，挂断，签入，签出，暂停，取消暂停等"
 msgstr ""
 
-#: ../../root_interface.md:783
+#: ../../root_interface.md:784
 #: 44b4814ef2414963b76b44f98a468d11
 msgid "**事件接收地址**: 系统会将事件数据发送到此URL。如果您不需要它，请将其留空。"
 msgstr ""
 
-#: ../../root_interface.md:785
+#: ../../root_interface.md:786
 #: ad132bc8473e44259cbbc9672a6eee98
 msgid "**录音设置**: 请设置您需要的录音类型。"
 msgstr ""
 
-#: ../../root_interface.md:787
+#: ../../root_interface.md:788
 #: 156b09a8ed7e47268f9c440bf0af7778
 msgid "**录音格式**: 请选择录音格式。"
 msgstr ""
 
-#: ../../root_interface.md:789
+#: ../../root_interface.md:790
 #: eaf4205da2d14b4bbf15769d0c81c058
 msgid "**录音文件名格式**:你可以自定义录音文件的命名规则，可用的变量包括:"
 msgstr ""
 
-#: ../../root_interface.md:803
+#: ../../root_interface.md:804
 #: 7c48f2d77bd549339ea751ff5d0d8986
 msgid "**语音识别**: 根据需要是否开启语音识别功能。"
 msgstr ""
 
-#: ../../root_interface.md:805
+#: ../../root_interface.md:806
 #: 88e67a52f6824fca9727999dd54072dd
 msgid "**语音识别回调地址**:如果已配置，系统会将语音识别结果发送到此 URL。"
 msgstr ""
 
-#: ../../root_interface.md:807
+#: ../../root_interface.md:808
 #: d83c04feee604a67a1e70d14864b2002
 msgid "**账号多点登录**: 允许一个帐户多点登录。"
 msgstr ""
 
-#: ../../root_interface.md:809
+#: ../../root_interface.md:810
 #: 94fda0438bac4c9e851fcc8ba6b2c323
-msgid "**\\[录音转移\\]设置：（如下图）**"
+msgid "**【录音转移】设置：（如下图）**"
 msgstr ""
 
-#: ../../root_interface.md:811
+#: ../../root_interface.md:812
 #: 078b9ebc2c3b45a5b85735ee58054808
 msgid "![alt text](_static/images/root/media/image82.png)"
 msgstr ""
 
-#: ../../root_interface.md:813
+#: ../../root_interface.md:814
 #: 05b174afefcb4c88a1dbb6a059f938cf
 msgid "**转移路径**: 录音合成后，系统会将文件发送到该地址。"
 msgstr ""
 
-#: ../../root_interface.md:815
+#: ../../root_interface.md:816
 #: d6869442a9804d148fe10d452784164d
 msgid "**转移策略**: 转移策略是实时的或定时。"
 msgstr ""
 
-#: ../../root_interface.md:817
+#: ../../root_interface.md:818
 #: 3546320e0d3940bfb4d3ded8033ffb12
 msgid "公司信息:"
 msgstr ""
 
-#: ../../root_interface.md:819
+#: ../../root_interface.md:820
 #: 5a82ace876c742d7af05f92a3e7df781
 msgid "在此页面上，您可以查看和编辑系统的公司信息。（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:821
+#: ../../root_interface.md:822
 #: b568e68046f94aa88e73071aa98a4b8e
 msgid "![alt text](_static/images/root/media/image83.png)"
 msgstr ""
 
-#: ../../root_interface.md:823
+#: ../../root_interface.md:824
 #: 599729d781684fd5a45178efb59c2c4f
 msgid "假期设置 :"
 msgstr ""
 
-#: ../../root_interface.md:825
+#: ../../root_interface.md:826
 #: fc722448ee8b4c29a89a9b3858d78e4e
 msgid "根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:827
+#: ../../root_interface.md:828
 #: d6901ac3afc7451697ee50053a31189d
 msgid "![alt text](_static/images/root/media/image84.png)"
 msgstr ""
 
-#: ../../root_interface.md:831
+#: ../../root_interface.md:832
 #: 3fb15dcebf154ff9a9663482bf23a6d7
 msgid "![alt text](_static/images/root/media/image85.png)"
 msgstr ""
 
-#: ../../root_interface.md:833
+#: ../../root_interface.md:834
 #: 563492d0693b4cdf9353c313d6f3d3ec
 msgid "**假日名称**: 假日名称。"
 msgstr ""
 
-#: ../../root_interface.md:835
+#: ../../root_interface.md:836
 #: 75df5832d1b84e859b8d2254d0ed1c46
 msgid "**国家**: 国家代码(ISO 3166-1 2位代码)。"
 msgstr ""
 
-#: ../../root_interface.md:837
+#: ../../root_interface.md:838
 #: 4aa737bf695b42a38b30b6ad8a211f5e
 msgid "**日期**: 日期。"
 msgstr ""
 
-#: ../../root_interface.md:839
+#: ../../root_interface.md:840
 #: 6ee328f48c204db496ea99131c0ce730
 msgid "工具栏"
 msgstr ""
 
-#: ../../root_interface.md:841
+#: ../../root_interface.md:842
 #: 776127b391104b288df7e5b1a127172b
 msgid "**后台任务**:您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）"
 msgstr ""
 
-#: ../../root_interface.md:843
+#: ../../root_interface.md:844
 #: f31d01dc360349a88cffbe7537b572bc
 msgid "![alt text](_static/images/root/media/image86.png)"
 msgstr ""
 
-#: ../../root_interface.md:845
+#: ../../root_interface.md:846
 #: b220d49153fb485993c7893491839a1d
 msgid "**通知**: 将显示一些新消息（如下所示）。"
 msgstr ""
 
-#: ../../root_interface.md:847
+#: ../../root_interface.md:848
 #: 3af26a4911a74d8fa5677dd45ccffe91
 msgid "![alt text](_static/images/root/media/image87.png)"
 msgstr ""
 
-#: ../../root_interface.md:849
+#: ../../root_interface.md:850
 #: f5ad548de37d49a6b36068e9f3e90af7
 msgid "**语言**: Root 用户可以从此下拉菜单中选择通用语言类型（如下所示）"
 msgstr ""
 
-#: ../../root_interface.md:851
+#: ../../root_interface.md:852
 #: 993f047ba3f34417a87584a805af703c
 msgid "![alt text](_static/images/root/media/image88.png)"
 msgstr ""
 
-#: ../../root_interface.md:853
+#: ../../root_interface.md:854
 #: f13ac8cb90e44143bec7b005605da1f2
 msgid "**我的档案**"
 msgstr ""
 
-#: ../../root_interface.md:855
+#: ../../root_interface.md:856
 #: 4a8f8ae5cd504bb1b5c96508d18e618e
 msgid "![alt text](_static/images/root/media/image89.png)"
 msgstr ""
 
-#: ../../root_interface.md:857
+#: ../../root_interface.md:858
 #: d91d077949294f54aaf524687904903f
 msgid "**包括“我的档案”和“注销”**"
 msgstr ""
 
-#: ../../root_interface.md:859
+#: ../../root_interface.md:860
 #: 173a3a3802e240f5ab52e03a0fa5dffc
 msgid "**\\[我的个人资料\\] 允许编辑 root 用户个人资料**"
 msgstr ""
 
-#: ../../root_interface.md:861
+#: ../../root_interface.md:862
 #: 768ef8e1c4da497697ce26cd65b8117f
 msgid "**\\[登录\\]退出当前登录页面**"
 msgstr ""
