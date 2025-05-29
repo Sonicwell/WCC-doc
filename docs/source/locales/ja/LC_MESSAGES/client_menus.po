@@ -42,7 +42,7 @@ msgstr "**アカウント**は、エージェントの追加、レポートの�
 
 #: ../../client_menus.md:11 174c05f18c5e44c697358b8b4f079968
 msgid "![alt text](_static/images/client/media/image28.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image28.png)""
 
 #: ../../client_menus.md:11 ../../client_menus.md:25 ../../client_menus.md:47
 #: ../../client_menus.md:61 ../../client_menus.md:69 ../../client_menus.md:75
@@ -265,7 +265,7 @@ msgstr "[ドロップダウンメニュー]このアカウントでログイン�
 
 #: ../../client_menus.md:25 68a2d7098deb48b796ce1188ccf56a31
 msgid "![alt text](_static/images/client/media/image29.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image29.png)"
 
 #: ../../client_menus.md:27 ../../client_menus.md:218 ../../client_menus.md:386
 #: ../../client_menus.md:440 ../../client_menus.md:516
@@ -314,7 +314,7 @@ msgstr "[[追加]をクリックして、アカウントを追加するために
 
 #: ../../client_menus.md:47 4cebcc3413824148ba84f93d10e5ed9b
 msgid "![alt text](_static/images/client/media/image30.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image30.png)"
 
 #: ../../client_menus.md:49 4ad708d55e904bda8ae5ba22608833d9
 msgid "**用户名**：用户将用此用户名进行系统登录。"
@@ -338,7 +338,7 @@ msgstr "**パスワード**：パスワードを入力するか、パスワー�
 
 #: ../../client_menus.md:61 075925e9527f435a8f9febf94ddd2350
 msgid "![alt text](_static/images/client/media/image31.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image31.png)"
 
 #: ../../client_menus.md:63 48bede74624e4c76b8d3d75dc17c410b
 msgid "**确认密码**:请再次输入密码，确保两次密码相同。"
