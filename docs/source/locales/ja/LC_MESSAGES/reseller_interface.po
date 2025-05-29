@@ -896,15 +896,3 @@ msgstr ""
 msgid "![alt text](_static/images/reseller/media/image44.png)"
 msgstr ""
 
-#~ msgid "**单击【添加】以执行常【规】设置**"
-#~ msgstr "** [追加]をクリックして通常の設定を実行します**"
-
-#~ msgid "**密码**:用户将使用此密码登录，必填。"
-#~ msgstr "**パスワード**：ユーザーはこのパスワードを使用してログインします。"
-
-#~ msgid "**DID 号码**: 请输入did号码。"
-#~ msgstr "** did number **：DID番号を入力してください。"
-
-#~ msgid "**供应商**: 你可以为这个外显号码选择一个供应商。"
-#~ msgstr "**サプライヤー**：このディスプレイ番号のサプライヤーを選択できます。"
-

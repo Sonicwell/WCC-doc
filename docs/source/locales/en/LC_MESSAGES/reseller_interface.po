@@ -1033,15 +1033,3 @@ msgstr "![alt text](_static/images/en/reseller/media/image43.png)"
 msgid "![alt text](_static/images/reseller/media/image44.png)"
 msgstr "![alt text](_static/images/en/reseller/media/image44.png)"
 
-#~ msgid "**单击【添加】以执行常【规】设置**"
-#~ msgstr "**Click [Add] to perform the regular settings**"
-
-#~ msgid "**密码**:用户将使用此密码登录，必填。"
-#~ msgstr "**Password**: Users will use this password to log in, required."
-
-#~ msgid "**DID 号码**: 请输入did号码。"
-#~ msgstr "**DID Number**: Please enter the did number."
-
-#~ msgid "**供应商**: 你可以为这个外显号码选择一个供应商。"
-#~ msgstr "**Suppliers**: You can select a supplier for this display number."
-
