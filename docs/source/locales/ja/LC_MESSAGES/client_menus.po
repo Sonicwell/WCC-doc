@@ -354,7 +354,7 @@ msgstr "[[Advanced]をクリックして、このアカウントのメモを設�
 
 #: ../../client_menus.md:69 773418969cfc4ab98fa5d82d408e3e63
 msgid "![alt text](_static/images/client/media/image32.png)"
-msgstr ""
+msgstr ""![alt text](_static/images/ja/client/media/image32.png)"
 
 #: ../../client_menus.md:71 9d32f1ac39de4eb3bc71dbe705a92fe0
 msgid "③保存后，账户创建成功。"
@@ -368,7 +368,7 @@ msgstr ""
 
 #: ../../client_menus.md:75 7039d448d1944e0e926f18662efa9bf9
 msgid "![alt text](_static/images/client/media/image33.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image33.png)"
 
 #: ../../client_menus.md:77 27a3f74fd9bd404e875724e8b45c9377
 msgid "⑤点击下拉菜单，即可以该用户登录或删除该用户"
@@ -376,7 +376,7 @@ msgstr "suldドロップダウンメニューをクリックして、ユーザ�
 
 #: ../../client_menus.md:79 4fb8502fbab64fab8800b0a6622231e9
 msgid "![alt text](_static/images/client/media/image34.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image34.png)"
 
 #: ../../client_menus.md:81 4baf9faff4ce4a6d9d05368533b6a639
 msgid "3.1.2坐席"
@@ -398,7 +398,7 @@ msgstr "シートはさまざまな作業のために異なるシートグルー
 
 #: ../../client_menus.md:89 adf2395921c6465b84e78c64f34c6970
 msgid "![alt text](_static/images/client/media/image35.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image35.png)"
 
 #: ../../client_menus.md:91 0cc285fbeeb04b7fa2dd0f4638060cea
 msgid "【搜索】全局搜索仅支持坐席工号搜索。"
@@ -474,7 +474,7 @@ msgstr "addidをクリックして、エージェントの追加/編集の一般
 
 #: ../../client_menus.md:129 fe2c4f99dc4e4ee2a6515775962acbf7
 msgid "![alt text](_static/images/client/media/image36.png)"
-msgstr ""
+msgstr ""![alt text](_static/images/ja/client/media/image36.png)"
 
 #: ../../client_menus.md:131 53c78436cada4d4bb9fb83690882a941
 msgid "**坐席工号**:坐席工号应该是唯一的，它是注册sip电话机时的用户名。用途包括-通过浏览器登录系统，通过电话签入坐席组，内部拨号使用等。坐席工号是长度为2-6的数字组成，且首位非零，如01001不可设置，坐席工号设定后不可更改。"
@@ -526,7 +526,7 @@ msgstr "<span class = \"mark\">②click [advanced] seatsの追加/編集ペー�
 
 #: ../../client_menus.md:154 f6a7a0ca4f8346fb85e62c68e78ee7c2
 msgid "![alt text](_static/images/client/media/image37.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image37.png)"
 
 #: ../../client_menus.md:158 5313342aaa3c4292834cd2415c50893e
 #, fuzzy
@@ -563,7 +563,7 @@ msgstr "<span class = \"mark\">①</span>「バッチ操作」 - 「バッチ追
 
 #: ../../client_menus.md:172 3426cda1849c4881b124061be0f6e3fd
 msgid "![alt text](_static/images/client/media/image38.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image38.png)"
 
 #: ../../client_menus.md:174 517619a4e7ed4813a7bceedf8f85ee33
 msgid "**起始坐席工号**：添加坐席的首个开头工号。"
@@ -605,7 +605,7 @@ msgstr "[[プレビューと構成]をクリックしてバッチインポート
 
 #: ../../client_menus.md:192 7a71618c40fa4830ab5809e75da91c7f
 msgid "![alt text](_static/images/client/media/image39.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image39.png)"
 
 #: ../../client_menus.md:194 58493ecae6334608a413d8cd82db5ca5
 msgid "③对已经建立好的坐席，用户也可以选择需要的坐席，点击工具中的【批量编辑】，对坐席进行批量的快速编辑:"
@@ -613,7 +613,7 @@ msgstr "既に確立されたエージェントシートについては、ユー
 
 #: ../../client_menus.md:196 02c25ef70c8947e993b298d7c14b1b02
 msgid "![alt text](_static/images/client/media/image40.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image40.png)"
 
 #: ../../client_menus.md:198 d8115a4d0f3842fea954c266f8d28e4d
 msgid "3.1.3坐席组"
@@ -631,7 +631,7 @@ msgstr "**エージェントグループ**は、座席の管理に使用され�
 
 #: ../../client_menus.md:204 460527dde8db454a80bc819ae332711c
 msgid "![alt text](_static/images/client/media/image41.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image41.png)"
 
 #: ../../client_menus.md:206 0a80b402a8494df7bcf3e1a441235410
 msgid "【搜索】全局搜索仅支持坐席组名称搜索。"
@@ -713,7 +713,7 @@ msgstr "[[追加]をクリックして、ADDエージェントグループの一
 
 #: ../../client_menus.md:248 3d18a8e2588a4b3c93ddc100b9e97995
 msgid "![alt text](_static/images/client/media/image329.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image329.png)"
 
 #: ../../client_menus.md:250 2280e8c416224212ac784e2b1e398764
 msgid "**坐席组名称**：坐席组名称用于在系统中识别该坐席组，你可以在任何时候修改该名称。"
@@ -737,7 +737,7 @@ msgstr "[[Advanced]をクリックして、シートグループを追加する�
 
 #: ../../client_menus.md:260 1df4aac72e404f1cbff4584cd36b58dd
 msgid "![alt text](_static/images/client/media/image42.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image42.png)"
 
 #: ../../client_menus.md:262 a03d8b52f295416b8e588dda481807fb
 msgid "**自动退出话后**：设置坐席进入话后状态，多少秒之后自动结束话后。（当设置选择零时，即为不退出话后状态）"
@@ -754,7 +754,7 @@ msgstr ""
 
 #: ../../client_menus.md:266 5ccdb8ca6391405fa9b9f71a33abf016
 msgid "![alt text](_static/images/client/media/image43.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image43.png)"
 
 #: ../../client_menus.md:268 14e878689d224050b2d6f841ab449393
 msgid "**SIP自动应答**：大部分的IP话机支持一个特殊的SIP头消息，当呼叫请求中包含此消息时，话机会自动应答，例如点击拨号和预拨号。"
@@ -782,7 +782,7 @@ msgstr "[[QUOTE]をクリックして、シートグループを追加するた�
 
 #: ../../client_menus.md:280 f61bf78d58804d7ea2073786d69dbba7
 msgid "![alt text](_static/images/client/media/image44.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image44.png)"
 
 #: ../../client_menus.md:282 f5862f9044fb4f69b6ab8cf57896cf61
 msgid "**呼入队列**：如果你想使用该坐席组处理呼入通话或者预拨号，你需要开启并配置队列功能。"
@@ -794,7 +794,7 @@ msgstr "**リンギング戦略**："
 
 #: ../../client_menus.md:286 9a169afed3e740debc5dda4b648ead3a
 msgid "![alt text](_static/images/client/media/image45.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image45.png)"
 
 #: ../../client_menus.md:288 527da4f2ef0240039f4be14d4e972f04
 msgid "*<u>最久未呼叫</u>*-组内当日最长时间未振铃的坐席会被优先呼叫，如果有相同时间未振铃的坐席，呼叫将以坐席组页面中组内坐席的顺序，依次呼叫。"
@@ -960,7 +960,7 @@ msgstr ""
 
 #: ../../client_menus.md:358 28d921cb55a34bbdb88d929636beea80
 msgid "![alt text](_static/images/client/media/image46.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image46.png)"
 
 #: ../../client_menus.md:360 ae1b43ba40734b8d876c86386e8ded13
 msgid "**技能别名**：坐席组能够被分配到在线咨询服务中。技能别名是这个坐席组能够对外提供的服务名称，用于展示给客户。"
@@ -992,7 +992,7 @@ msgstr "**役割**ユーザー許可を制御するために使用されます�
 
 #: ../../client_menus.md:372 1b516be402f44ee6828f402437663677
 msgid "![alt text](_static/images/client/media/image47.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image47.png)"
 
 #: ../../client_menus.md:374 84f303a4f66a4cdca44cd1fc64677105
 msgid "【搜索】仅支持以角色名称进行全域搜索。"
@@ -1032,7 +1032,7 @@ msgstr "[[general]インターフェイスを入力するには[追加]をクリ
 
 #: ../../client_menus.md:398 cfb5e479e65e4e0cb99f3582d01e1922
 msgid "![alt text](_static/images/client/media/image48.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image48.png)"
 
 #: ../../client_menus.md:400 959e1177e74d40c2839528ee5bb91a0d
 #, fuzzy
@@ -1045,7 +1045,7 @@ msgstr "click Advanced Advanced Page of Advanced Pageの追加/編集ロール�
 
 #: ../../client_menus.md:404 68edf249cc1b4498beaf012a631a818e
 msgid "![alt text](_static/images/client/media/image49.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image49.png)"
 
 #: ../../client_menus.md:406 d7d10aeda8b34ad894f52a713460ea84
 msgid "在高级页面，用户可以为角色设置查看表格中字段的高级页面显示或隐藏，用户禁用角色查看坐席组的高级页面权限，那么拥有这个角色的坐席或账户就不能查看编辑坐席组的高级页面。"
@@ -1053,7 +1053,7 @@ msgstr "高度なページで、ユーザーは表示テーブルのフィール
 
 #: ../../client_menus.md:408 365f24cc41a544d6b807429a7b30da08
 msgid "![alt text](_static/images/client/media/image50.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image50.png)"
 
 #: ../../client_menus.md:410 2cc2c63dc819409e84fba515c8b10ad5
 msgid "用户也可以为角色设置查看管理范围，用户设置通话记录仅自己，意思是仅查看自己的通话记录（如果选择全部就是可查看所有坐席的通话记录，选择坐席组则可以查看所在坐席组内所有成员的通话记录），设置保存后拥有这个角色的坐席或账户就只能查看自己的通话记录，其他坐席的通话记录不可查看。"
@@ -1066,7 +1066,7 @@ msgstr "click Advanced Advanced Page of Advanced Pageの追加/編集ロール�
 
 #: ../../client_menus.md:414 c8df9856935e4050a9fd3d373d2bb2d0
 msgid "![alt text](_static/images/client/media/image51.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image51.png)"
 
 #: ../../client_menus.md:416 8e9648702be84e84acda31e3acfdc485
 msgid "在权限设置页面上，用户可以为角色设置系统功能使用权限，系统默认将列表中不可单击的字段（如统计页面等）赋予坐席或帐户，以说明权限设置对代理或帐户的影响，用户禁用角色添加代理的权限，则具有该角色的代理或帐户没有添加代理的权限。"

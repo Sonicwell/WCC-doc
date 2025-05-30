@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:5 efcc741c88da46e3bf01fa9250add71b
 msgid "![alt text](_static/images/client/media/image3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image3.png)"
 
 #: ../../client_toolbar.md:5 ../../client_toolbar.md:9
 #: ../../client_toolbar.md:13 ../../client_toolbar.md:17
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:9 776561a954394711916cc8099b3acb41
 msgid "![alt text](_static/images/client/media/image4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image4.png)"
 
 #: ../../client_toolbar.md:11 d5902f76f987481e9feeeaeedf4f70a0
 msgid "↓↓↓"
@@ -79,7 +79,7 @@ msgstr "↓↓↓"
 
 #: ../../client_toolbar.md:13 67eda7c8ef3d45b693a9bc436b0bc674
 msgid "![alt text](_static/images/client/media/image5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image5.png)"
 
 #: ../../client_toolbar.md:15 16c1c59f454f4136a2020f6d5acac297
 msgid "在这里，您可以选择功能的快捷方式。选中后，将显示这些快捷方式↓↓↓"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:17 acfa915cf90346729868caaa5c7606b8
 msgid "![alt text](_static/images/client/media/image6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image6.png)"
 
 #: ../../client_toolbar.md:19 a5f826ae47594cca906d02f38b9576f9
 msgid "【快速搜索】按钮，可直接在知识库中搜索知识。"
@@ -97,7 +97,7 @@ msgstr "[クイック検索]ボタン、知識ベースで直接知識を検索�
 
 #: ../../client_toolbar.md:21 ac8110fd117b4903a8c12d92e7871a11
 msgid "![alt text](_static/images/client/media/image7.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image7.png)"
 
 #: ../../client_toolbar.md:23 bbcf1efa96114bc98f07469e4a79109a
 msgid ""
@@ -114,7 +114,7 @@ msgstr "発信者番号に記入し、発信者番号に記入します。"
 
 #: ../../client_toolbar.md:27 ebe8cb885613482f8323aa0428a4d27e
 msgid "![alt text](_static/images/client/media/image8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image8.png)"
 
 #: ../../client_toolbar.md:29 6b519fffe2364f588668a8e2ca1d995b
 msgid "【任务】有导入或导出任务时，此处显示任务进度。"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:31 c4ec9f22ab0441249b9e179e48bc98fc
 msgid "![alt text](_static/images/client/media/image9.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image9.png)"
 
 #: ../../client_toolbar.md:33 39b5c0fd5ef1474c8aa1132d2615aaaa
 msgid ""
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:35 74494fbf3d8749aaa814315931f43320
 msgid "![alt text](_static/images/client/media/image10.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image10.png)"
 
 #: ../../client_toolbar.md:37 2092459c9cc8471ea4a3b24f11acddb5
 msgid ""
@@ -148,7 +148,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:39 b25b50f78da54e7ba4c811ba283eb250
 msgid "![alt text](_static/images/client/media/image11.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image11.png)"
 
 #: ../../client_toolbar.md:41 dc614c3f4a474282a67360d9ac7dbe13
 msgid ""
@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:43 125f1d29561746d78d030824f557389d
 msgid "![alt text](_static/images/client/media/image12.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image12.png)"
 
 #: ../../client_toolbar.md:45 2682bc97943f41bf9007642545de90fc
 msgid "【我的档案】客户可以在此处修改他们的账户信息，包括用户名。"
@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:47 92e2974bd5c642f6a9dbb14d7abed699
 msgid "![alt text](_static/images/client/media/image13.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image13.png)"
 
 #: ../../client_toolbar.md:49 0a1e22e6185f482c8080da47675ad30f
 msgid ""
@@ -217,15 +217,15 @@ msgstr "[戻る]をクリックして、会話リストに戻ります。"
 
 #: ../../client_toolbar.md:65 9acfa384bda34a9c947f4f5bdac9957e
 msgid "![alt text](_static/images/client/media/image14.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image14.png)"
 
 #: ../../client_toolbar.md:67 acf074feb9f64d8894ca72d933d8560d
 msgid "![alt text](_static/images/client/media/image15.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image15.png)"
 
 #: ../../client_toolbar.md:69 ee64b355268d482b9f706003580b84d4
 msgid "![alt text](_static/images/client/media/image16.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image16.png)"
 
 #: ../../client_toolbar.md:71 175ddc8407fd40a48b2dcd543dff7ae3
 msgid "【仪表盘】"
@@ -254,7 +254,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:79 f4666800a2984e95a1bb09d82e45d947
 msgid "![alt text](_static/images/client/media/image17.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image17.png)"
 
 #: ../../client_toolbar.md:81 8bd9eb3212a34bc3b848e38fccd5de53
 msgid "2.1 呼出 /接通/通话时长"
@@ -262,7 +262,7 @@ msgstr "2.1呼び出し時間/リーチ/コール期間"
 
 #: ../../client_toolbar.md:83 4df1c60dc7d14e63b596e57af9bc5050
 msgid "![alt text](_static/images/client/media/image18.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image18.png)"
 
 #: ../../client_toolbar.md:85 4c473aec87d24cf08f1a772f16bce420
 msgid "**呼出**:该client当天呼出的电话总数。"
@@ -282,7 +282,7 @@ msgstr "2.2コールイン /ミス /コール期間"
 
 #: ../../client_toolbar.md:93 390d7a44997d40e5b3bd3213f684c4b3
 msgid "![alt text](_static/images/client/media/image19.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image19.png)"
 
 #: ../../client_toolbar.md:95 3afe9b744ef94aecb84f6a4b8db03a5b
 msgid "**呼入**:该client当日呼入通话的次数。"
@@ -304,7 +304,7 @@ msgstr "2.3新しい番号を接続する /古い番号を接続する"
 
 #: ../../client_toolbar.md:103 56e157981c5c4f09ab16a586e1093f2a
 msgid "![alt text](_static/images/client/media/image20.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image20.png)"
 
 #: ../../client_toolbar.md:105 634c48bc9fb14948bc013e9df3540074
 msgid "**接通新号码**:首次呼入该client并被接通的号码。"
@@ -332,7 +332,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:113 98d822325e9e4dc5953a80e78429c4f0
 msgid "![alt text](_static/images/client/media/image21.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image21.png)"
 
 #: ../../client_toolbar.md:115 6cce2609986d495daa66e155e6b580b8
 msgid "2.5 公告"
@@ -346,7 +346,7 @@ msgstr ""
 
 #: ../../client_toolbar.md:119 8d2d4b857f464c81bdc6861552306332
 msgid "![alt text](_static/images/client/media/image22.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image22.png)"
 
 #: ../../client_toolbar.md:121 5be03a27cda24ea0a8a9bdd6a2d6c4c9
 msgid "2.6 did 呼入"
@@ -358,7 +358,7 @@ msgstr "DIDの割合のパイチャートが呼び出されます。"
 
 #: ../../client_toolbar.md:125 1170582051174f8dbe5d4886b1fbbae2
 msgid "![alt text](_static/images/client/media/image23.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image23.png)"
 
 #: ../../client_toolbar.md:127 c186c7a8fe644b8181498916ec68dd8a
 msgid "次数、时长、分钟数的饼状图会先显示 DID 名称，没有名字则显示数字。"
@@ -377,12 +377,12 @@ msgstr ""
 
 #: ../../client_toolbar.md:131 62b710e24ad14de291a657f25dad4bf9
 msgid "![alt text](_static/images/client/media/image24.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image24.png)"
 
 #: ../../client_toolbar.md:133 ../../client_toolbar.md:153
 #: 1debcc79b0e94cffb2e92d2be7731815 01d626214b79412fb5b95cd36d8f3097
 msgid "![alt text](_static/images/client/media/image25.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image25.png)"
 
 #: ../../client_toolbar.md:135 11ab9a3e436d48f5af0f7650b8dd3b4b
 msgid ""
@@ -445,7 +445,7 @@ msgstr "8）**DID 転送の切断**: カウントされません。"
 
 #: ../../client_toolbar.md:155 44f300a2bce243c0a017578236958e5d
 msgid "![alt text](_static/images/client/media/image26.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image26.png)"
 
 #: ../../client_toolbar.md:157 66c5df3ff2e641caabc1e1b5ec19dbf2
 msgid ""
@@ -502,4 +502,4 @@ msgstr "8）**向きを変えて電話を切った**: カウントされませ�
 
 #: ../../client_toolbar.md:175 14fec2276de04f8980d5249969a70b51
 msgid "![alt text](_static/images/client/media/image27.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image27.png)"

@@ -51,7 +51,7 @@ msgstr ""
 
 #: ../../client_login.md:11 17ff94ce4ba247caab63273f6812b19c
 msgid "![alt text](_static/images/client/media/image1.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image1.png)"
 
 #: ../../client_login.md:11 ../../client_login.md:17
 #: ba5a17e3012a43ef960060d4b374b133 3c4d4e8a91714fc1b9e35a30af12101d
@@ -73,4 +73,4 @@ msgstr ""
 
 #: ../../client_login.md:17 1bb3f6bb7f424c13b2b99735c45389dd
 msgid "![alt text](_static/images/client/media/image2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image2.png)"
