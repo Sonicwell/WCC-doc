@@ -133,7 +133,7 @@ msgid "a. 仪表盘:"
 msgstr "a. Dashboard:"
 
 #: ../../root_interface.md:13 53e434d1048742fa83b5d1650427659e
-#, fuzzy
+
 msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：呼出/应答、登录坐席总数、DID呼入、主叫地区和被叫地区。"
 msgstr "System users can view statistics on the dashboard: "
 "Outbound/Answered"
