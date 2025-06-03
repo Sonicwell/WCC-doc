@@ -149,7 +149,7 @@ msgstr "b. User:"
 
 #: ../../root_interface.md:19 ce7ab9693282496399ea8513fc80565d
 msgid "代理商："
-msgstr "Agent:"
+msgstr " Resellers: "
 
 #: ../../root_interface.md:21 6001afd4953046c6a7baeb24f24406cd
 msgid "由系统用户建立"
@@ -166,13 +166,13 @@ msgstr "![alt text](_static/images/en/root/media/image5.png)"
 #: ../../root_interface.md:27 b71f3bad9cc240f99a641e94dcc48995
 msgid "**域名**：每个代理用户应拥有唯一的域名，域名一经设置不可修改。域名只能为字母（a-zA-Z）、数字（0-9）、字符（.-）的组合。"
 msgstr ""
-"**Domain Name**: Each proxy user should have a unique domain name, and "
+"**Realm**: Each proxy user should have a unique domain name, and "
 "the domain name cannot be modified once it is set. "
 
 #: ../../root_interface.md:29 2795977eb13f4d2bb20a021c893623d0
 msgid "**代理商**: 请指定该代理商的姓名，姓名可以随时更改。"
 msgstr ""
-"**Agent**: Please specify the name of the agent, and the name can be "
+"**Reseller name**: Please specify the name of the agent, and the name can be "
 "changed at any time."
 
 #: ../../root_interface.md:31 818f4697cfc74f9c829b4ecf69f49edf
@@ -186,11 +186,11 @@ msgstr "**Username**: The user will use this username to log in to the system."
 
 #: ../../root_interface.md:35 609793c5ebb6478fb64af5fdfac3e0e4
 msgid "**名**: 请填写该代理商用户的名称。"
-msgstr "**Name**: Please fill in the name of the agent user."
+msgstr "**First Name**: Please fill in the name of the agent user."
 
 #: ../../root_interface.md:37 cd3c3ad974e64df1984110ca668b695e
 msgid "**姓**: 请填写该代理商用户的姓。"
-msgstr "**Secret**: Please fill in the last name of the agent user."
+msgstr "**Last Name**: Please fill in the last name of the agent user."
 
 #: ../../root_interface.md:39 8eff35e3f8684f67b222a3148dcdcef3
 msgid "**密码**：填写用户登录密码，用户将使用此密码登录系统。"
@@ -218,10 +218,9 @@ msgid "**时区**: 请为该代理用户设置时区。设置后不可修改。�
 msgstr "**Time Zone**: Please set the time zone for this proxy user. "
 
 #: ../../root_interface.md:49 d20807f53c1844d3851a92f7caa841dc
-#, fuzzy
 msgid "**【 公司信息 】:** 公司信息基本编辑（如下图）"
 msgstr ""
-"**\\[Company Information\\]:** Basic edit of company information (as "
+"**\\[Companyinfo\\]:** Basic edit of company information (as "
 "shown below)"
 
 #: ../../root_interface.md:52 efe65d48241f4c7baaf338e277463d5f
@@ -242,7 +241,7 @@ msgstr "**Contact number**: Please fill in the contact number of this company."
 
 #: ../../root_interface.md:60 8b9b0c253e3645549093603db48464dc
 msgid "**公司网址**:请填写这个公司的网址。"
-msgstr "**Company URL**: Please fill in the website of this company."
+msgstr "**Website**: Please fill in the website of this company."
 
 #: ../../root_interface.md:62 46c011cceec94156855d3519879987c2
 msgid "**电子邮件**: 请填写公司的电子邮件地址。"
@@ -250,12 +249,12 @@ msgstr "**Email**: Please fill in the company's email address."
 
 #: ../../root_interface.md:64 0db30aa2b5dd44b79a295f18923aa18a
 msgid "**税号**:请填写公司的税号。"
-msgstr "**Tax number**: Please fill in the company's tax number."
+msgstr "**V.A.T Reg Name**: Please fill in the company's tax number."
 
 #: ../../root_interface.md:66 60c44d74628c409d94fc106302e91c81
 msgid "**开户银行**： 请填写这个公司的开户银行。"
 msgstr ""
-"**Opening an account**: Please fill in the account opening bank of this "
+"**Bank Name**: Please fill in the account opening bank of this "
 "company."
 
 #: ../../root_interface.md:68 3809a88496c543a0bb1fb0bb985727ce
@@ -264,11 +263,11 @@ msgstr "**Account Name**: Please fill in the name of this account."
 
 #: ../../root_interface.md:70 53bb929f71fa4ddf82d63cea290a4b2e
 msgid "**账号**: 请填写账号。"
-msgstr "**Account**: Please fill in your account."
+msgstr "**Account Number**: Please fill in your account."
 
 #: ../../root_interface.md:72 1a41d549978f4dff8225a58b6dbb4cb2
 msgid "**办公地址**: 请填写办公地址。"
-msgstr "**Office Address**: Please fill in the office address."
+msgstr "**Address**: Please fill in the office address."
 
 #: ../../root_interface.md:74 cf1150a62878420893dc935ec7584ce0
 msgid "Clients:"
@@ -718,7 +717,7 @@ msgstr "f. Voice settings:"
 
 #: ../../root_interface.md:270 d28f7d5eb004480fa278ca5baa13f6e6
 msgid "中继管理:"
-msgstr "Relay Management:"
+msgstr " Trunks: "
 
 #: ../../root_interface.md:272 c29e3c5734be42809cf7520c5a49fe7b
 msgid "中继是用于将本机的电话网络与其他系统的电话网络连接在一起的线路管理。"
