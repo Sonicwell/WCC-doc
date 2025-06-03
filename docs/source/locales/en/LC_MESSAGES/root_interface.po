@@ -133,12 +133,11 @@ msgid "a. 仪表盘:"
 msgstr "a. Dashboard:"
 
 #: ../../root_interface.md:13 53e434d1048742fa83b5d1650427659e
-
 msgid "系统用户可以在仪表板上查看统计数据：系统用户可以在仪表板上查看统计数据：呼出/应答、登录坐席总数、DID呼入、主叫地区和被叫地区。"
-msgstr "System users can view statistics on the dashboard: "
-"Outbound/Answered"
-"Total Logged Agents"
-"DID Inbound Calling Region and Called Region on the Dashboard."
+msgstr ""
+"System users can view statistics on the dashboard: System users can view "
+"statistics on the dashboard: outbound/responsed, online proxy, DID "
+"inbound, inbound area and outbound area."
 
 #: ../../root_interface.md:15 f88e47a7965d45d89294eeeaffd5dfe4
 msgid "![alt text](_static/images/root/media/image4.png)"
@@ -157,7 +156,6 @@ msgid "由系统用户建立"
 msgstr "Created by system users"
 
 #: ../../root_interface.md:23 23e1dfd7f40b4ecb8815af0553485f8d
-#, fuzzy
 msgid "选择【添加】，进入【常规】添加代理商的设置：（如下图）"
 msgstr "Select [Add] to enter [General] to add proxy settings: (as shown below)"
 
@@ -810,7 +808,6 @@ msgstr ""
 "verification, please select the voice encoding of this relay."
 
 #: ../../root_interface.md:307 097263c05c444e8d8206a05f5369e674
-#, fuzzy
 msgid "**服务器地址**： 请输入这个服务器的地址，它可能是一个域或者IP。"
 msgstr ""
 "**Server Address**: Please enter the address of this server, it may be a "
@@ -827,7 +824,6 @@ msgstr ""
 "verification, please enter the username."
 
 #: ../../root_interface.md:313 f78aa9d5a06a40328f5572d74c70365a
-#, fuzzy
 msgid "**认证用户名**： 认证这个用户名。"
 msgstr "**Certified username**: Authenticate this username."
 
@@ -838,7 +834,6 @@ msgstr ""
 "verification, please enter your password."
 
 #: ../../root_interface.md:319 522be4691000400787bff27669618375
-#, fuzzy
 msgid "**状态**： 根据你的需要你可以禁用这个域。"
 msgstr "**Status**: You can disable this domain according to your needs."
 
@@ -925,7 +920,6 @@ msgstr ""
 "relay and make notes."
 
 #: ../../root_interface.md:357 2a32b490dcae42549b2c67f892bb87af
-#, fuzzy
 msgid "【呼出规则】设置：选择【添加呼出规则】进入添加呼出规则页面，通过此中继呼出的电话将使用此呼出规则。【呼入规则】与【呼出规则】类似。（如下图）"
 msgstr ""
 "[Out Call Rules] Settings: Select [Add Out Call Rules] to enter the Add "
@@ -1028,7 +1022,6 @@ msgid "![alt text](_static/images/root/media/image44.png)"
 msgstr "![alt text](_static/images/en/root/media/image44.png)"
 
 #: ../../root_interface.md:397 091dbab63f7d4ab999b9ac7718db84d6
-#, fuzzy
 msgid "**DID号码**: 请输入did号码，每行一个。"
 msgstr ""
 "**External Number**: Please enter the display number you want to add, one"
@@ -1106,7 +1099,6 @@ msgid "号码区域信息:"
 msgstr "Number area information:"
 
 #: ../../root_interface.md:430 f36f05ae58a74219b0853d8a9ff1b6f9
-#, fuzzy
 msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配did号码的所属地。添加归属地完成后点击工具中-更新DID归属地，DID页面中属性一栏会被更新为匹配区域。在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
 msgstr ""
 "The number area information represents the number's home location, and "
@@ -1273,7 +1265,6 @@ msgid "呼叫限制次数:"
 msgstr "Call limit:"
 
 #: ../../root_interface.md:508 9a2e6f3e222c4a01beb7018b5db966ab
-#, fuzzy
 msgid ""
 "呼叫限制是指号码可以拨打的次数;同时，您可以在 "
 "通话限制搜索中搜索受限的电话号码。此设置适用于客户账户下的所有代理。例如，如果设置为每天20次，则在所有客户端中，一天内只能拨打 20 "
@@ -1350,7 +1341,6 @@ msgstr ""
 "will perform the following operations. "
 
 #: ../../root_interface.md:539 713ad475fb984f6d9c90c36e766c6c02
-#, fuzzy
 msgid "**替换主叫号码**：在这里你可以重新设定主叫号码和主叫号码名称。"
 msgstr ""
 "**Replace Calling Number**: Here you can set the caller number and caller"
@@ -1394,7 +1384,6 @@ msgid "暂停原因:"
 msgstr "Reason for suspension:"
 
 #: ../../root_interface.md:555 8973705e392a40a99aa8b1ef4bea4137
-#, fuzzy
 msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。root级别设置的暂停原因，将成为新建client时默认显示的暂停原因。"
 msgstr ""
 "The reason for pause is a pause reason selected when the agent is busy. "
@@ -1619,7 +1608,6 @@ msgid "j. 监控管理:"
 msgstr "j. Monitoring management:"
 
 #: ../../root_interface.md:659 42330314b54d4a49a3c1e0bc535de433
-#, fuzzy
 msgid "**实时监控**：系统用户可以实时监控呼入/呼出的状态以及整个系统下坐席的状态（如下图所示）"
 msgstr ""
 "**Real-time monitoring**: System users can monitor the incoming/outgoing "
@@ -1649,7 +1637,6 @@ msgid "点击查看可以对日志记录进行更详细查看（如下图所示�
 msgstr ""
 
 #: ../../root_interface.md:671 b75797fd2b924829b2cf3f85f2b33e7e
-#, fuzzy
 msgid "![alt text](_static/images/root/media/image90.png)"
 msgstr "![alt text](_static/images/en/root/media/image9.png)"
 
@@ -1743,7 +1730,6 @@ msgid "![alt text](_static/images/root/media/image75.png)"
 msgstr "![alt text](_static/images/en/root/media/image75.png)"
 
 #: ../../root_interface.md:714 a4a228d7961b40338208acc76ac491d8
-#, fuzzy
 msgid "**货币**： 设置货币。"
 msgstr "**Currency**: Set currency. "
 
@@ -1876,7 +1862,6 @@ msgid "可以查看和编辑某些系统设置"
 msgstr "You can view and edit certain system settings"
 
 #: ../../root_interface.md:774 2d50d08d02e349299bff9ab85023a04e
-#, fuzzy
 msgid "**【基本】设置：（如下图）**"
 msgstr "**\\[Basic\\] Settings: (as shown below) **"
 
@@ -1936,7 +1921,6 @@ msgid "**账号多点登录**: 允许一个帐户多点登录。"
 msgstr "**Account multi-point login**: Allow multiple login for one account."
 
 #: ../../root_interface.md:810 94fda0438bac4c9e851fcc8ba6b2c323
-#, fuzzy
 msgid "**【录音转移】设置：（如下图）**"
 msgstr "**\\[Record Transfer\\] Settings: (as shown below) **"
 
