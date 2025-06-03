@@ -1091,7 +1091,7 @@ msgstr "エージェントが配置されている部門では、管理者がエ
 
 #: ../../client_menus.md:426 244b2885ee98484dad37f8937ee5e9d2
 msgid "![alt text](_static/images/client/media/image52.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image52.png)"
 
 #: ../../client_menus.md:428 3147d28202524df2ad11dea93e6ce7ee
 msgid "【搜索】全局搜索仅支持部门名称搜索。"
@@ -1103,7 +1103,7 @@ msgstr "dided（show）structure separtment部門構造を表示するかどう�
 
 #: ../../client_menus.md:432 6c136d40d2e44532b7a8d64c678e72a6
 msgid "![alt text](_static/images/client/media/image53.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image53.png)"
 
 #: ../../client_menus.md:434 afdf288d982a4e99a0fc75bd05e2b886
 msgid "【添加】添加一个新的部门"
@@ -1140,7 +1140,7 @@ msgstr "add/エディター部門の一般ページを入力するには、[追�
 
 #: ../../client_menus.md:452 775f252b862e4f8bbd1c3e599df9fc27
 msgid "![alt text](_static/images/client/media/image54.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image54.png)"
 
 #: ../../client_menus.md:454 10419f96b52048e6a96a5863b2053546
 msgid "**部门名称**：请填写这个部门名称。"
@@ -1185,7 +1185,7 @@ msgstr "**カスタムフィールドページ**で、顧客情報フィール�
 
 #: ../../client_menus.md:474 7bcade054c5d47c6805004487a044950
 msgid "![alt text](_static/images/client/media/image55.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image55.png)"
 
 #: ../../client_menus.md:476 a9c5d726278a496b947ab0ddfdeee6b6
 msgid "上图中的【默认】是客户包的选择，【默认】为默认客户包，也可选择具体客户包进行自定义字段的添加编辑或搜索，如果这个client没有被开启客户包的功能，不会出现客户包相关显示。"
@@ -1211,7 +1211,7 @@ msgstr "[ツール]フィールド修理、フィールド許可設定、フィ�
 
 #: ../../client_menus.md:488 e9ff43956b9d433499bbbafd812a6bd5
 msgid "![alt text](_static/images/client/media/image56.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image56.png)"
 
 #: ../../client_menus.md:490 9365d60a176346bebdab9f85e5c86c91
 msgid "***字段修复***-在自定义字段不显示或显示不完全有错误时可以进行字段修复。"
@@ -1219,7 +1219,7 @@ msgstr "***フィールド修正***  - カスタムフィールドが表示さ�
 
 #: ../../client_menus.md:492 54da29b8e00f4bddb2bdc7baca29ac56
 msgid "![alt text](_static/images/client/media/image57.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/ client/media/image57.png)"
 
 #: ../../client_menus.md:494 ce75be025b7648a68bd2e6859f1a51fa
 msgid "**指定修复键**:客户数据页面缺失自定义字段的功能，缺失附件上传功能，包括客户弹屏界面，附件上传流程异常。"
@@ -1243,11 +1243,11 @@ msgstr ""
 
 #: ../../client_menus.md:502 660e2a86285e41b1bb548b7833c6c777
 msgid "![alt text](_static/images/client/media/image58.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image58.png)"
 
 #: ../../client_menus.md:504 b1fbcabedd694d35af05a38fc968c22c
 msgid "![alt text](_static/images/client/media/image59.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image59.png)"
 
 #: ../../client_menus.md:506 36848d25b4644e44ba2f959f55bfd8a2
 #, fuzzy
@@ -1260,11 +1260,11 @@ msgstr ""
 
 #: ../../client_menus.md:508 04d5aabcd704467fad57eb531fe69363
 msgid "![alt text](_static/images/client/media/image60.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image60.png)"
 
 #: ../../client_menus.md:510 1405865424f34ff48c98d155559be691
 msgid "![alt text](_static/images/client/media/image61.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image61.png)"
 
 #: ../../client_menus.md:512 ebe2c644241349e1b2e6112182dc793e
 msgid "如果标签设置为 B，坐席登录后，客户数据弹出屏幕将在显示为高亮。"
