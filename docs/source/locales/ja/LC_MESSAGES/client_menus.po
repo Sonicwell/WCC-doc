@@ -1641,7 +1641,7 @@ msgstr "*** CSVファイルをエクスポート***  -  CSV形式でデータを
 
 #: ../../client_menus.md:695 ddc9a0aa7df440ea8dd6445a0ce0da9a
 msgid "![alt text](_static/images/client/media/image71.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image71.png)"
 
 #: ../../client_menus.md:697 2b67b837eecb483794ac8e96ddfb0bf4
 #, fuzzy
@@ -1665,7 +1665,7 @@ msgstr "[編集]または[ドロップダウンメニュー]は、新しく作�
 
 #: ../../client_menus.md:706 05c57e6b612843049f011894e9016cd1
 msgid "![alt text](_static/images/client/media/image72.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image72.png)"
 
 #: ../../client_menus.md:710 e08b8b88acbe4aa6bd064df44f342791
 msgid "姓名：客户的姓名。"
@@ -1759,7 +1759,7 @@ msgstr "customer顧客データを追加/編集するには、[一般的なペ�
 
 #: ../../client_menus.md:752 7f2132fcb5364444b0f1256102d40b3c
 msgid "![alt text](_static/images/client/media/image73.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image73.png)"
 
 #: ../../client_menus.md:754 cf3e2b57b47a4c9ba4dd7045ca094bf7
 msgid "**姓名**：客户名称。当客户来电时弹出屏幕时，当客户弹出时显示的名称。"
@@ -1803,8 +1803,8 @@ msgstr ""
 "Pageの追加/編集ページで新しいフィールドのコンテンツを編集できます。"
 
 #: ../../client_menus.md:772 3fd91d0fea13496bb6824f5a744a9554
-msgid "![alt text](_static/images/client/media/image.png)"
-msgstr ""
+msgid "![alt text](_static/images/client/media/image74.png)"
+msgstr "![alt text](_static/images/ja/client/media/image74.png)"
 
 #: ../../client_menus.md:774 953101285b244f3180f3918c369d0626
 msgid "②点击数据进入添加/编辑客户数据的数据页面:"
@@ -1812,7 +1812,7 @@ msgstr "customer顧客データを追加/編集するためにデータページ
 
 #: ../../client_menus.md:776 00993dbb79034e3d841cbbb7a03cafea
 msgid "![alt text](_static/images/client/media/image75.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image75.png)"
 
 #: ../../client_menus.md:778 892151ae638a4b4c89c124885477d137
 msgid "**数据来源**：用户在数据来源页面可以对数据来源进行编辑，主要用于对客户数据进行分组。"
@@ -1855,7 +1855,7 @@ msgstr ""
 
 #: ../../client_menus.md:794 33c5e717e640440193cf066931b80051
 msgid "![alt text](_static/images/client/media/image76.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image76.png)"
 
 #: ../../client_menus.md:796 385225ebbf4b4f758dac15a41f25aba8
 msgid "导入数据后，系统会自动匹配和数据相同的字段，系统没有的字段需要用户点击请选择的下拉菜单进行新建：请选择——新建字段——输入框（输入新字段）。"
@@ -1865,7 +1865,7 @@ msgstr ""
 
 #: ../../client_menus.md:798 92758ad6f27c4f7aa0ef79556574aeba
 msgid "![alt text](_static/images/client/media/image77.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image77.png)"
 
 #: ../../client_menus.md:800 38c4f042a3c74f3b9b992704a658a822
 msgid "【导入首行】选择是否导入数据中的第一行数据。"
@@ -1935,7 +1935,7 @@ msgstr ""
 
 #: ../../client_menus.md:828 9b67c3ba0aa847848f055ea841078a99
 msgid "![alt text](_static/images/client/media/image78.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image78.png)"
 
 #: ../../client_menus.md:830 c5e022f3a2984023a7eadb6fa002ae14
 msgid "3.3添加至禁呼列表"
@@ -1957,11 +1957,11 @@ msgstr "ハイライトを追加しない場合は、ノーコールを追加し
 
 #: ../../client_menus.md:838 988665e1ffbc449c8f6e1a91e3246a9e
 msgid "![alt text](_static/images/client/media/image79.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image79.png)"
 
 #: ../../client_menus.md:840 8da527b4ff1d426aa6fe7211ee0d83a3
 msgid "![alt text](_static/images/client/media/image80.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image80.png)"
 
 #: ../../client_menus.md:842 7c4046c1ad5847fab38f2f256dba7f1d
 msgid "坐席登录后可以看到这个客户的弹屏被标记为高亮，且高亮客户不能拨打电话。"
@@ -1969,7 +1969,7 @@ msgstr "ログインした後、この顧客のポップアップ画面が強調
 
 #: ../../client_menus.md:844 9063a9725bc643259c7796aa50e9d745
 msgid "![alt text](_static/images/client/media/image81.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image81.png)"
 
 #: ../../client_menus.md:846 457eeebd5b3f441ba8c916614f0fff30
 msgid "3.4从禁呼列表移除"
@@ -1993,7 +1993,7 @@ msgstr "クライアントが強調表示されているとマークされ、そ
 
 #: ../../client_menus.md:856 dbbc08c46a85436981e63ade27884553
 msgid "![alt text](_static/images/client/media/image82.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image82.png)"
 
 #: ../../client_menus.md:858 1a402cc37439468d92c76d7524975086
 msgid "3.3.4通话记录"
@@ -2012,7 +2012,7 @@ msgstr "このページにシステム上にすべての**呼び出しレコー�
 
 #: ../../client_menus.md:864 cc12637a45fb40b18c60a5b323682845
 msgid "![alt text](_static/images/client/media/image83.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image83.png)"
 
 #: ../../client_menus.md:866 684eb066363840158e95d47a9eefe616
 msgid "上图中的【全部】可将通话记录按照全部、默认客户包和客户包进行筛选。"
@@ -2045,7 +2045,7 @@ msgstr "【ツールruderユーザーは、履歴を呼び出すことでCSVフ�
 
 #: ../../client_menus.md:880 5a1e227784c64296b3c285c2a3a9eecd
 msgid "![alt text](_static/images/client/media/image84.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image84.png)"
 
 #: ../../client_menus.md:882 ef8cbbbf9a564fd38614fcd8853a2453
 msgid "【试听】点击试听在通话记录上方会有该录音的播放器显示，用户可以选择跨进或减慢该录音的播放速度。"
@@ -2053,7 +2053,7 @@ msgstr "[アドレス]クリックして、コールレコードの上に録音�
 
 #: ../../client_menus.md:884 d7b20f7a29384f94a75dc1eaee28bca2
 msgid "![alt text](_static/images/client/media/image85.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image85.png)"
 
 #: ../../client_menus.md:886 3dc7ab435c964b57b742095d9e7a0ccb
 msgid "【下拉菜单】点击下载录音。"
@@ -2061,7 +2061,7 @@ msgstr "[ドロップダウンメニュー]クリックして録音をダウン�
 
 #: ../../client_menus.md:888 d468eb9924c74d7fa36571db204f702c
 msgid "![alt text](_static/images/client/media/image86.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image86.png)"
 
 #: ../../client_menus.md:890 ../../client_menus.md:2319
 #: ../../client_menus.md:4216 978f22848c0f46ac8a45c87b58a99314
@@ -2448,7 +2448,7 @@ msgstr "連絡先レコードは、エージェントのレコードと顧客の
 
 #: ../../client_menus.md:1074 61b1399bddab4ea8b13cbfb1f662bd83
 msgid "![alt text](_static/images/client/media/image87.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image87.png)"
 
 #: ../../client_menus.md:1076 3fe8ea1befc340648048c06918995c5b
 msgid "上图中的【默认】可将联络记录按照默认和客户包进行筛选。"
@@ -2464,7 +2464,7 @@ msgstr "【ツールcsv形式でファイルをエクスポートします。 �
 
 #: ../../client_menus.md:1082 253e0580c8c041fa8d8ee289dff728c6
 msgid "![alt text](_static/images/client/media/image88.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image88.png)"
 
 #: ../../client_menus.md:1084 ../../client_menus.md:3457
 #: 50d1a704f4ab4094bf0394573a7b0fa0
@@ -2557,7 +2557,7 @@ msgstr "**顧客タグ**は、顧客向けのさまざまな顧客タグを選�
 
 #: ../../client_menus.md:1128 9296d3e6c0324c3890acb764daca9410
 msgid "![alt text](_static/images/client/media/image89.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image89.png)"
 
 #: ../../client_menus.md:1130 8bb224037a4140fb8d5bea75b6b8cd89
 msgid "【搜索】全局搜索仅支持使用标签名称进行搜索。"
@@ -2593,7 +2593,7 @@ msgstr "①[追加]をクリックして、新しい顧客タグを追加する�
 
 #: ../../client_menus.md:1146 432042ae66ce4772b2dbd07cdc01c80a
 msgid "![alt text](_static/images/client/media/image90.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image90.png)"
 
 #: ../../client_menus.md:1148 a0a405521a7f4256aaed4e67b1a54110
 msgid "②点击高级进入添加新客户标签高级界面："
@@ -2601,7 +2601,7 @@ msgstr "Advanced Advanced Advanced Interfaceを入力して新しい顧客タグ
 
 #: ../../client_menus.md:1150 fe23898b2bd24f18b71a8aec874f8d73
 msgid "![alt text](_static/images/client/media/image91.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image91.png)"
 
 #: ../../client_menus.md:1152 1944c3a6164642f9b509e420d80f0acd
 msgid "③保存新的客户标签后，可以在客户数据的【添加/编辑客户数据】的数据页面中选择客户标签。"
@@ -2609,7 +2609,7 @@ msgstr "new New Customerタグを保存すると、顧客データのデータ�
 
 #: ../../client_menus.md:1154 7fc83c3255444ac792967cfcc0f3e4ef
 msgid "![alt text](_static/images/client/media/image92.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image92.png)"
 
 #: ../../client_menus.md:1156 d4375aa8bb2e4d30a1c84b45eda00582
 msgid "3.3.7 数据来源"
@@ -2632,7 +2632,7 @@ msgstr "顧客データがアップロードされると、データソースが
 
 #: ../../client_menus.md:1164 d41c4c5487ee4257a9ebe34fc9647765
 msgid "![alt text](_static/images/client/media/image93.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image93.png)"
 
 #: ../../client_menus.md:1166 2426cf8cdf924320b345fb08bb834076
 msgid "【搜索】全局搜索仅支持来源名称搜索。"
@@ -2668,7 +2668,7 @@ msgstr "coshddid [追加]をクリックして、データソースの追加/編
 
 #: ../../client_menus.md:1182 83fcf596c8d449139a4d38661c2c127b
 msgid "![alt text](_static/images/client/media/image94.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image94.png)"
 
 #: ../../client_menus.md:1184 fea2bc235b76411196e62def833e09dd
 msgid "**来源名称**:请输入数据来源的名称。"
@@ -2684,7 +2684,7 @@ msgstr "click Advanced Data Sourceの追加/編集の詳細ページを入力す
 
 #: ../../client_menus.md:1190 e989dd2d6faa43d3b931ef8d4cf27cb9
 msgid "![alt text](_static/images/client/media/image95.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image95.png)"
 
 #: ../../client_menus.md:1192 f243d5b6be9848b39d28c390b858d428
 msgid "③点击保存即可保存新的数据来源"
@@ -2702,7 +2702,7 @@ msgstr "ユーザーが**ポップスクリーン警告**顧客データを設�
 
 #: ../../client_menus.md:1200 0056655787134417a2ddb2c5d85ebf20
 msgid "![alt text](_static/images/client/media/image96.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image96.png)"
 
 #: ../../client_menus.md:1202 9a97ccbb43174e6daa70733692c868c1
 msgid "上图中【全部】可点击选择默认和客户包的弹屏警告。"
@@ -2742,7 +2742,7 @@ msgstr "[[追加]をクリックして[ポップアップ]警告の追加/編集
 
 #: ../../client_menus.md:1222 bf5e25df4c474e09867076c56b17f6ad
 msgid "![alt text](_static/images/client/media/image97.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image97.png)"
 
 #: ../../client_menus.md:1224 8e5a3c1187c54313892ad22d2dff499a
 msgid "**所属客户包**：当前所属客户包。"
@@ -2766,7 +2766,7 @@ msgstr "[[保存]をクリックして、新しいポップアップ警告を追
 
 #: ../../client_menus.md:1234 b14d22b6cbb44589b8997a1d5d5a3bf0
 msgid "![alt text](_static/images/client/media/image98.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image98.png)"
 
 #: ../../client_menus.md:1236 20fdf2728e3242ceaf049d6cae492ebd
 msgid "2.2 坐席添加一个新的弹屏警告"
@@ -2784,7 +2784,7 @@ msgstr ""
 
 #: ../../client_menus.md:1242 26f0ef2a78864f648077268c42969280
 msgid "![alt text](_static/images/client/media/image99.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image99.png)"
 
 #: ../../client_menus.md:1244 db881d050cee4a4da17165aa9943df9c
 msgid "②坐席在客户备注页面会查看到自己设置的备注弹屏警告，此时弹屏警告未生效。"
@@ -2792,7 +2792,7 @@ msgstr "agentエージェントは、カスタマーノートページに設定�
 
 #: ../../client_menus.md:1246 8c3dd69f19454bd785f1591ee12d5f8c
 msgid "![alt text](_static/images/client/media/image100.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image100.png)"
 
 #: ../../client_menus.md:1248 0cb31e352d514ea8924afc2f31a666f7
 msgid "③client用户收到坐席的弹屏警告审核通知。"
@@ -2800,7 +2800,7 @@ msgstr "clientクライアントユーザーは、エージェントからポッ
 
 #: ../../client_menus.md:1250 428a2348488e44bc916c053740b73dbe
 msgid "![alt text](_static/images/client/media/image101.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image101.png)"
 
 #: ../../client_menus.md:1252 8aac6413b3ae4a5ea59b786195aa2d81
 msgid ""
@@ -2813,7 +2813,7 @@ msgstr ""
 
 #: ../../client_menus.md:1254 4e8c702cd85043398e22d17cd53b608e
 msgid "![alt text](_static/images/client/media/image102.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image102.png)"
 
 #: ../../client_menus.md:1256 cd7c889d513d4db298abad730ae62d7c
 msgid "⑤弹屏警告设置成功后，坐席查看该客户资料，拨打该客户电话或者接听该客户电话时就会收到该条弹屏警告。"
@@ -2821,7 +2821,7 @@ msgstr "popupポップアップ警告が正常に設定された後、エージ�
 
 #: ../../client_menus.md:1258 be414b93bba24b469293d2d65fe9f195
 msgid "![alt text](_static/images/client/media/image103.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image103.png)"
 
 #: ../../client_menus.md:1260 85312f48c0cc4174a4131cdd302240de
 msgid "2. 显示/隐藏字段"

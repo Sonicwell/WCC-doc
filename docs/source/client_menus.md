@@ -769,7 +769,7 @@
 
 如果在自定义字段中增添了新的字段，可以在新增/编辑客户数据页面中编辑新字段的内容。
 
-![alt text](_static/images/client/media/image.png)
+![alt text](_static/images/client/media/image74.png)
 
 ②点击数据进入添加/编辑客户数据的数据页面:
 
