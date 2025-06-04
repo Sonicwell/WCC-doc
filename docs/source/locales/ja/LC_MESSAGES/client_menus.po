@@ -1272,7 +1272,7 @@ msgstr "タグがBに設定されている場合、エージェントがログ�
 
 #: ../../client_menus.md:514 45eb5bef3f9e4a9b9eb31cf5051c0ab1
 msgid "![alt text](_static/images/client/media/image62.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image62.png)"
 
 #: ../../client_menus.md:518 e255a8cb4f604eeb8f7fe0b4cd318789
 msgid "字段名：数据库里的字段名。"
@@ -1357,7 +1357,7 @@ msgstr "cully [追加]をクリックして、[カスタム]フィールドの[�
 
 #: ../../client_menus.md:558 f9518c725a2f4e11bcfd7016b80a725d
 msgid "![alt text](_static/images/client/media/image63.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image63.png)"
 
 #: ../../client_menus.md:560 279bcf93b6104443b07dc48086192246
 msgid "**所属客户包**:设置的字段所在的客户包，仅在该客户包下的客户能够查看这个自定义字段。"
@@ -1456,7 +1456,7 @@ msgstr "ユーザーが代理店レベルでクライアントを設定すると
 
 #: ../../client_menus.md:606 7e59d8e74d8e44c194fe1d42b04ce6c6
 msgid "![alt text](_static/images/client/media/image64.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image64.png)"
 
 #: ../../client_menus.md:608 88b505c6aca0488887841f1e77345954
 msgid "【全局搜索】该页面支持使用客户包的显示名称进行搜索。"
@@ -1505,7 +1505,7 @@ msgstr "<span class = \"mark\">①click追加顧客パッケージの追加/編�
 
 #: ../../client_menus.md:632 250d8cfb4ab041bd84ff4e89145a374a
 msgid "![alt text](_static/images/client/media/image65.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image65.png)"
 
 #: ../../client_menus.md:634 f2fbe4b19725416baac17e42c9a868dd
 msgid "**显示名称**：该客户包所显示的客户包名称。"
@@ -1551,7 +1551,7 @@ msgstr "**顧客データ**ページには、エージェントがダイヤル�
 
 #: ../../client_menus.md:654 624cbb93b8fb46e2be63d205d3d9bcef
 msgid "![alt text](_static/images/client/media/image66.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image66.png)"
 
 #: ../../client_menus.md:656 ada9b9cf756e41e0a9c60256374c68bb
 msgid "**以下的默认、全局搜索、销售漏斗、所属任务、呼叫结果、客户标签都为搜索条件。**"
@@ -1574,7 +1574,7 @@ msgstr ""
 
 #: ../../client_menus.md:664 ee1b58b091e6477fa3d75a3c14494de5
 msgid "![alt text](_static/images/client/media/image67.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image67.png)"
 
 #: ../../client_menus.md:666 06aea0c1c8394f9faf23e476794fb6d5
 msgid "【所属任务】】用户可以根据所属任务搜索客户数据，分配了任务的客户数据可以被分配到指定坐席。"
@@ -1586,7 +1586,7 @@ msgstr "[コール結果]エージェントが提出した通話結果に基づ�
 
 #: ../../client_menus.md:670 9dbd0afaf4ee4e11abd12401574bc7b9
 msgid "![alt text](_static/images/client/media/image68.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image68.png)"
 
 #: ../../client_menus.md:672 e2c7f4574a9c42f5ab1af2812576cd86
 msgid "【客户标签】根据用户设置的客户标签搜索客户数据。"
@@ -1620,7 +1620,7 @@ msgstr "エージェントへの割り当て：最初にタスクを選択して
 
 #: ../../client_menus.md:685 f5093230763f4c9dbc513dd71ed74478
 msgid "![alt text](_static/images/client/media/image69.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image69.png)"
 
 #: ../../client_menus.md:687 d344883f477f412db2d9bbc18c1c5e0b
 msgid "↓↓↓直接分配给坐席"
@@ -1628,7 +1628,7 @@ msgstr "↓↓シートに直接割り当てられます"
 
 #: ../../client_menus.md:689 b1e7cbfc09db4405aa19261181a89e1e
 msgid "![alt text](_static/images/client/media/image70.png)"
-msgstr ""
+msgstr "![alt text](_static/images/ja/client/media/image70.png)"
 
 #: ../../client_menus.md:691 6d3859dd5976463b957121692839b00b
 #, fuzzy
