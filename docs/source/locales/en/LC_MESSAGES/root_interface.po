@@ -276,8 +276,11 @@ msgstr "Clients:"
 #: ../../root_interface.md:76 37307e31609b4a73b527c71f652365b8
 msgid ""
 "clients "
-"用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。"
-msgstr "clients The user is created by an agent user. "
+"用户是有代理商用户创建，也可以以某-client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。"
+msgstr ""
+"clients The user is created by an Resellers. "
+"On the clients page, the list of clients on the page displays the Resellers and the clients whose accounts have been created by the Resellers"
+"On the Cients Users page, the page list displays all agency users and clients whose agency accounts have been created"
 
 #: ../../root_interface.md:78 51b6cbc9bfc1491b87fb174aa34a8e74
 msgid "![alt text](_static/images/root/media/image8.png)"
@@ -309,15 +312,15 @@ msgstr "![alt text](_static/images/en/root/media/image10.png)"
 
 #: ../../root_interface.md:92 0a4c23f4668f49b583a522fbc6b95eec
 msgid "**状态**:您可以选择启用/禁用该帐户。"
-msgstr "**Status**: You can choose to enable/disable the account."
+msgstr "**State**: You can choose to enable/disable the account."
 
 #: ../../root_interface.md:94 e4f08f1a98ec4a7aa4fdde05590d9473
 msgid "**名**: 请输入用户的名。"
-msgstr "**Name**: Please enter the user's name."
+msgstr "**Last Name**: Please enter the user's name."
 
 #: ../../root_interface.md:96 aa540e0c79254172b5f1c2e0e5d6c597
 msgid "**姓**: 请输入用户的姓。"
-msgstr "**Secret**: Please enter the user's last name."
+msgstr "**First Name**: Please enter the user's last name."
 
 #: ../../root_interface.md:98 69ee1fa18f114d3182b4c54cb1882b3c
 msgid "**密码**: 用户将用此密码进行系统登录。"
@@ -341,11 +344,15 @@ msgstr "In the Advanced settings, you can set the notes for this account"
 
 #: ../../root_interface.md:106 53de9c80021c41a48726ddf76acced7f
 msgid "角色和权限:"
-msgstr "Roles and Permissions:"
+msgstr "Roles:"
 
 #: ../../root_interface.md:108 8604dcaa476b4199ac03bb9e35bf47ec
 msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
-msgstr "Roles are used to control the permissions that users have. "
+msgstr ""
+"Roles are used to control the permissions that users have. "
+"For example, if you set an account to have the permission to view tasks, you can first add a role to view task permissions,"
+"and then assign this permission role to an account, so that the account can view tasks and view tasks."
+"The list on the Roles & Permissions page displays the newly created permission roles for the current user and account."
 
 #: ../../root_interface.md:110 44342ba0b6fd46ae98035c37f29193e1
 msgid "![alt text](_static/images/root/media/image11.png)"
@@ -371,7 +378,7 @@ msgstr "![alt text](_static/images/en/root/media/image13.png)"
 
 #: ../../root_interface.md:120 7bd25328a6fc4d8f98767d003d96ceec
 msgid "【权限设置】:"
-msgstr "【Permission Settings】:"
+msgstr "【Privilege】:"
 
 #: ../../root_interface.md:122 e9bb243ea68145e18bcb69dd33097797
 msgid "![alt text](_static/images/root/media/image14.png)"
@@ -383,7 +390,7 @@ msgstr "c. Customer data:"
 
 #: ../../root_interface.md:126 7d5f12d6f43e4407bd74e1a4b651aed3
 msgid "客户标签:"
-msgstr "Customer Tags:"
+msgstr "Tags:"
 
 #: ../../root_interface.md:128 43f344c3a6bb4b35bd8ab551cc21b683
 msgid "客户标签管理页面，客户标签用于为客户选择不同的客户标签，方便通过客户标签进行查找客户。在客户标签页面，可以新增/查看/编辑/删除客户标签。"
@@ -415,7 +422,7 @@ msgstr "![alt text](_static/images/en/root/media/image17.png)"
 
 #: ../../root_interface.md:140 b1bab57a94ac4b5f838a84271f34f025
 msgid "数据来源"
-msgstr "Source of data"
+msgstr " Sources "
 
 #: ../../root_interface.md:142 186491e593774d989b74f05845896020
 msgid "数据来源是指客户数据的数据来源，导入一次客户数据就会增加一次数据来源，用时间和颜色标记。在数据来源页面，用户可以新增/查看/编辑/删除数据来源。"
@@ -439,7 +446,7 @@ msgstr "**Source Name**: Please enter the name of the data source."
 #: ../../root_interface.md:152 88ddf6823e7c457ca1d487c6bf197cc7
 msgid "**来源颜色**: 请选择客户数据来源的颜色。"
 msgstr ""
-"**Source Color**: Please select the color of the source of the customer "
+"**Color**: Please select the color of the source of the customer "
 "data."
 
 #: ../../root_interface.md:154 9cfc9d4472324b718acdb95fca6bc3cc
@@ -454,7 +461,7 @@ msgstr "![alt text](_static/images/en/root/media/image20.png)"
 
 #: ../../root_interface.md:158 0034a53d83574f9288641f1879da5c6b
 msgid "d.任务管理："
-msgstr "d. Task management:"
+msgstr "d. Campaigns Manage:"
 
 #: ../../root_interface.md:160 9f01ab0704b44e5d9ab79266d913ffd9
 msgid "呼叫结果"
@@ -482,7 +489,7 @@ msgstr "![alt text](_static/images/en/root/media/image22.png)"
 #: ../../root_interface.md:170 4d859781468145b6849fb85f3f6123d4
 msgid "**呼叫结果名称**:您可以自定义通话结果，座席完成通话后，可以选择通话结果记录通话结束。"
 msgstr ""
-"**Call result name**: You can customize the call results. After the agent"
+"**Callresult**: You can customize the call results. After the agent"
 " completes the call, you can choose to record the call results."
 
 #: ../../root_interface.md:172 be30e0f333d040cba8505f6cbd91df74
@@ -492,7 +499,7 @@ msgstr "**Call Status**: The call result can only be set when answering the call
 #: ../../root_interface.md:174 37d7c98727f34e18bb7d9b85680d7ee5
 msgid "**所属销售漏斗**:设置仅在指定销售漏斗下显示的呼叫结果。"
 msgstr ""
-"**Sales funnel to which you belong**: Sets the call results that are "
+"**Sales funnel**: Sets the call results that are "
 "displayed only under the specified sales funnel."
 
 #: ../../root_interface.md:176 9a6a1614369845fd8f3e98aa26857500
@@ -508,8 +515,7 @@ msgstr "e. Billing:"
 
 #: ../../root_interface.md:180 eadb3f652fe84867af2c74efff1314ad
 msgid "客户计费"
-msgstr "Customer billing"
-
+msgstr "Billing"
 #: ../../root_interface.md:182 2c3958704aa54c67926e1f2f2506f94b
 msgid "客户计费是对代理商的计费。"
 msgstr "Customer billing is billing to the agent."
@@ -532,18 +538,17 @@ msgstr "**ID**: Unique id."
 
 #: ../../root_interface.md:192 556bee8719cf4cfd89143a9619f2aa4c
 msgid "**客户名称**: 添加一个客户名称，添加后不能更改。"
-msgstr "**Customer Name**: Add a customer name, it cannot be changed after adding."
+msgstr "**Client Name**: Add a customer name, it cannot be changed after adding."
 
 #: ../../root_interface.md:194 ff1cecc68d3646f899cfdf4c85e20c8c
 msgid "**域名**: 添加一个域名，域名保存后不能更改。"
 msgstr ""
-"**Domain Name**: Add a domain name, the domain name cannot be changed "
+"**Realm**: Add a domain name, the domain name cannot be changed "
 "after saving."
 
 #: ../../root_interface.md:196 6aad84832dae4184bea585ba6536e9f8
-#, fuzzy
 msgid "【计费】设置：（如下图）"
-msgstr "[Bill] Settings: (as shown below)"
+msgstr "[Billing] Settings: (as shown below)"
 
 #: ../../root_interface.md:198 3ce054a4a11f4e7bb8b806eff03950d6
 msgid "![alt text](_static/images/root/media/image25.png)"
@@ -551,11 +556,11 @@ msgstr "![alt text](_static/images/en/root/media/image25.png)"
 
 #: ../../root_interface.md:200 45af9dadd7d5407e86259bda75bb64c2
 msgid "**应缴费用**： 应当缴纳的本期费用。"
-msgstr "**Fees to be paid**: The fees to be paid for this period."
+msgstr "**Blance**: The fees to be paid for this period."
 
 #: ../../root_interface.md:202 f97b8494b6c14844a4e1e8df6d08689b
 msgid "**最大坐席数量**： 允许使用的最大坐席数量。"
-msgstr "**Maximum number of seats**: The maximum number of seats allowed."
+msgstr "**Maximum agent quantity**: The maximum number of seats allowed."
 
 #: ../../root_interface.md:204 a2b86695813346038a315396f8dc2edf
 msgid "**付款方式**： 选择付款方式预付款或后付款。"
@@ -567,7 +572,7 @@ msgstr "**Credit Limit**: Set the available credit Limit."
 
 #: ../../root_interface.md:208 e36a24f6ab81423a881b14696a068b3b
 msgid "**月租**： 设置月租数额。"
-msgstr "**Monthly Rental**: Set the monthly rent amount."
+msgstr "**Monthly Rent**: Set the monthly rent amount."
 
 #: ../../root_interface.md:210 0ba133583c144c568995ae8be0107fd0
 msgid "**短信**：能够详细了解本月短信的消费情况、本月剩余时间、手动添加使用的短信数量，并选择SMS 费率。"
@@ -579,20 +584,20 @@ msgstr ""
 #: ../../root_interface.md:212 96d32d978ae14305a687403d2053d2fa
 msgid "**呼出**：能够了解更多关于本月和本月剩余时间呼出的钱的消耗情况。您可以手动添加套餐分钟数和费率。"
 msgstr ""
-"**Exhaust**: Can learn more about the consumption of money exhaled this "
+"**Exhale**: Can learn more about the consumption of money exhaled this "
 "month and the rest of the month. "
 
 #: ../../root_interface.md:214 793851ec103746d8aef1415563bb25a4
 msgid "**实际通话**：当系统拨打至座席电话后，由座席电话回拨给客户，客户接听时即产生费用。"
 msgstr ""
-"**Actual call**: When the system calls the agent, the agent calls back to"
+"**Call**: When the system calls the agent, the agent calls back to"
 " the customer, and the customer will incur the charge when answering the "
 "call."
 
 #: ../../root_interface.md:216 d34783a70fe94fe7a79f643527641b73
 msgid "**主叫通话**： 由系统拨打到坐席绑定电话的呼叫流程计费情况设置。"
 msgstr ""
-"**Call call**: Settings for the call process billing status of the system"
+"**CallA**: Settings for the call process billing status of the system"
 " to the agent-bound phone."
 
 #: ../../root_interface.md:218 d989f77af3804a25902e9295268d877a
@@ -606,7 +611,7 @@ msgstr "![alt text](_static/images/en/root/media/image26.png)"
 #: ../../root_interface.md:222 feff2e2e9a7d400d9e62264faaa5e736
 msgid "**余额不足提醒**： 设置余额不足后的提醒次数。"
 msgstr ""
-"**Reminder for insufficient balance**: Set the number of reminders after "
+"**Insufficient balance Reminder**: Set the number of reminders after "
 "insufficient balance."
 
 #: ../../root_interface.md:224 13c71c79fa60479eb1debee457ad713d
@@ -663,39 +668,39 @@ msgstr "![alt text](_static/images/en/root/media/image31.png)"
 
 #: ../../root_interface.md:246 bd62d091d43347628ec1d65768c95e55
 msgid "**费率名称**： 请为这个费率命名。"
-msgstr "**Rate Name**: Please name this rate."
+msgstr "**Rate Plan Name**: Please name this rate."
 
 #: ../../root_interface.md:248 6d8b107423a34278aa469c2ddbd4dd04
 msgid "**费率类别**：请选择一个费率类别。"
-msgstr "**Rate Category**: Please select a rate category."
+msgstr "**RCategory**: Please select a rate category."
 
 #: ../../root_interface.md:250 b0300ab03c81410a8944d97290672de7
 msgid "**初始计费**:初始计费是在初始时长内，每分钟的费率,相当于起步价，单位是元/分。"
 msgstr ""
-"**Initial billing**: The initial billing is within the initial time "
+"**Init rate**: The initial billing is within the initial time "
 "period, the rate per minute is equivalent to the starting price, and the "
 "unit is RMB/min."
 
 #: ../../root_interface.md:252 765db31053e644868338fe58d5ac6741
 msgid "**初始计费时长**:初始计费时长是接通电话初始时长所计费的时间,相当于起步价对应的里程数，单位是秒。"
 msgstr ""
-"**Initial billing time**: The initial billing time is the time billed for"
+"**Initial block**: The initial billing time is the time billed for"
 " the initial call, which is equivalent to the mileage corresponding to "
 "the starting price, and is in seconds."
 
 #: ../../root_interface.md:254 5c59bda513c4432484670ce691b33a05
 msgid "**费率**:初始计费后每分钟的费率，单位是元/分。"
-msgstr "**Rate**: The rate per minute after initial billing, unit is RMB/min."
+msgstr "**Billing Rate**: The rate per minute after initial billing, unit is RMB/min."
 
 #: ../../root_interface.md:256 bb678c55b9734d37abbc8fc776509c50
 msgid "**计费周期**:计费周期是指过初始时长后多久计费一次，单位是秒。"
 msgstr ""
-"**Billing cycle**: The billing cycle refers to how long it takes to bill "
+"**Billing Block**: The billing cycle refers to how long it takes to bill "
 "once after the initial time period is over, and the unit is seconds."
 
 #: ../../root_interface.md:258 5c05bdd86c3a4fbe9c9030663084650c
 msgid "**费率数目**：编辑所要选择的费率数目。"
-msgstr "**Number of rates**: The number of rates to be selected by editing."
+msgstr "**Rate Quantity**: The number of rates to be selected by editing."
 
 #: ../../root_interface.md:262 9ca9f60fb0a14d94876796f26e9a118e
 msgid "![alt text](_static/images/root/media/image32.png)"
@@ -704,16 +709,16 @@ msgstr "![alt text](_static/images/en/root/media/image32.png)"
 #: ../../root_interface.md:264 72e6e125ce3345099a3039e84c641106
 msgid "**时间**：请选择这个费率计划开始执行的时间。"
 msgstr ""
-"**Time**: Please select the time when this rate plan begins to be "
+"**Date**: Please select the time when this rate plan begins to be "
 "executed."
 
 #: ../../root_interface.md:266 fe7958ef5e85459193cdb822391c9654
 msgid "**费率名称**: 请选择一个已添加的费率计划。"
-msgstr "**Rate Name**: Please select an added rate plan."
+msgstr "**Rate Plan Name**: Please select an added rate plan."
 
 #: ../../root_interface.md:268 aa4e3acb90e643cd9da218b9872e815c
 msgid "f. 语音设置:"
-msgstr "f. Voice settings:"
+msgstr "f. VoIP settings:"
 
 #: ../../root_interface.md:270 d28f7d5eb004480fa278ca5baa13f6e6
 msgid "中继管理:"
