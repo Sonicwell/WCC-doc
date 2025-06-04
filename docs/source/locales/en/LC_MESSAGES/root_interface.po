@@ -744,7 +744,7 @@ msgstr "![alt text](_static/images/en/root/media/image34.png)"
 
 #: ../../root_interface.md:280 dfa5b912fcc64bcdbbe022ea62a81e79
 msgid "**名称**：给中继起个名字，你可以随时改变他。"
-msgstr "**Name**: Give the relay a name and you can change it at any time."
+msgstr "**Trunk Name**: Give the relay a name and you can change it at any time."
 
 #: ../../root_interface.md:282 3f4bec4a858343a6ba999e3e7f9fa5bc
 msgid "**协议**：请选择这个中继的协议类型。"
@@ -753,7 +753,7 @@ msgstr "**Protocol**: Please select the protocol type of this relay."
 #: ../../root_interface.md:284 889404ef89bd431696373a315efbc8c5
 msgid "**验证**：请选择这个中继的验证方式. 以下步骤根据验证方式不同有所差异，添加管理中继管理接口【验证方式】，系统默认为【IP】（如下图）"
 msgstr ""
-"**Verification**: Please select the verification method of this relay. "
+"**Authentication**: Please select the verification method of this relay. "
 "The following steps vary according to the verification method. Add the "
 "management relay management interface [Verification Method]. The system "
 "defaults to [IP] (as shown below)"
@@ -765,7 +765,7 @@ msgstr "![alt text](_static/images/en/root/media/image35.png)"
 #: ../../root_interface.md:289 a3f94f2005d7447ea4dad98fc5f72077
 msgid "**服务器地址**：请输入这个服务器的地址，它可能是一个域或者IP。"
 msgstr ""
-"**Server address**: Please enter the address of this server, it may be a "
+"**Host**: Please enter the address of this server, it may be a "
 "domain or IP."
 
 #: ../../root_interface.md:291 79472ec024014a2aaa7a6f705094c7ed
@@ -776,12 +776,12 @@ msgstr "**Port**: Please enter the port number of this relay, the default is 506
 #: 1cd053dda5884568864494360d271ce6 46191f3a7f7b42fe98e97d318aa378bf
 msgid "**通道限制**：通道限制数表示最多有多少外拨电话数，0表示无限制。"
 msgstr ""
-"**Channel Limit**: The number of channel limits indicates the maximum "
+"**Channels Limit**: The number of channel limits indicates the maximum "
 "number of outbound calls, and 0 indicates no limit."
 
 #: ../../root_interface.md:295 3f76d5e2da1b434bba64932ac6cca82d
 msgid "**状态**: 根据你的需要你可禁用这个中继。"
-msgstr "**Status**: You can disable this relay according to your needs."
+msgstr "**State**: You can disable this relay according to your needs."
 
 #: ../../root_interface.md:297 1f59aadb804c4636b3013bd3f496d31e
 msgid "添加编辑中继管理界面【验证】，然后选择【用户名/密码】（如下图所示）"
@@ -800,7 +800,7 @@ msgstr "**Register server**: Please select a registration server."
 #: ../../root_interface.md:303 113881906bee4b40b34d64e8ce71052e
 msgid "**启用注册**： 当验证方式是用户名/密码时，你可以选择是否启用注册，若启用注册需要继续填写注册信息。"
 msgstr ""
-"**Enable registration**: When the verification method is "
+"**Registration**: When the verification method is "
 "username/password, you can choose whether to enable registration. If you "
 "enable registration, you need to continue filling in the registration "
 "information."
@@ -808,13 +808,13 @@ msgstr ""
 #: ../../root_interface.md:305 f457d6b525f94a40ae7b1e1ca28f9f97
 msgid "**语音编码**： 当验证方式是用户名/密码验证时，请选择这个中继的语音编码。"
 msgstr ""
-"**Voice encoding**: When the verification method is username/password "
+"**Codec**: When the verification method is username/password "
 "verification, please select the voice encoding of this relay."
 
 #: ../../root_interface.md:307 097263c05c444e8d8206a05f5369e674
 msgid "**服务器地址**： 请输入这个服务器的地址，它可能是一个域或者IP。"
 msgstr ""
-"**Server Address**: Please enter the address of this server, it may be a "
+"**Host**: Please enter the address of this server, it may be a "
 "domain or IP."
 
 #: ../../root_interface.md:309 0f661bd120aa4a058592775044a780d6
@@ -829,7 +829,7 @@ msgstr ""
 
 #: ../../root_interface.md:313 f78aa9d5a06a40328f5572d74c70365a
 msgid "**认证用户名**： 认证这个用户名。"
-msgstr "**Certified username**: Authenticate this username."
+msgstr "**Auth username**: Authenticate this username."
 
 #: ../../root_interface.md:315 29be28d319bb42daa25ea54ced3018af
 msgid "**密码**：当验证方式是用户名/密码验证时，请输入密码。"
@@ -839,7 +839,7 @@ msgstr ""
 
 #: ../../root_interface.md:319 522be4691000400787bff27669618375
 msgid "**状态**： 根据你的需要你可以禁用这个域。"
-msgstr "**Status**: You can disable this domain according to your needs."
+msgstr "**State**: You can disable this domain according to your needs."
 
 #: ../../root_interface.md:321 f4cec4b5e83f46c6a4a651ae28eece98
 msgid "添加管理中继管理接口【身份验证】，然后选择【O端口网关】（如下图所示）。"
@@ -853,11 +853,11 @@ msgstr "![alt text](_static/images/en/root/media/image37.png)"
 
 #: ../../root_interface.md:325 3df57b57972c45c3aef51a96d54a9149
 msgid "**验证域**： 需要验证的域。"
-msgstr "**Verification Domain**: The domain that needs to be verified."
+msgstr "**Verifications**: The domain that needs to be verified."
 
 #: ../../root_interface.md:327 0defcf7186834dfa8366771d982d15d3
 msgid "**状态**： 根据你的需要你可以禁用这个域 。"
-msgstr "**Status**: You can disable this domain according to your needs."
+msgstr "**State**: You can disable this domain according to your needs."
 
 #: ../../root_interface.md:329 4dbdaceedf314f99a3dafac3c82d8166
 msgid "在中继管理中，选择【编辑】将显示拨出、失败和未接收到消息（如下图所示）"
