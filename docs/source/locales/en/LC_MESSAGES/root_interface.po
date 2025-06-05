@@ -853,7 +853,7 @@ msgstr "![alt text](_static/images/en/root/media/image37.png)"
 
 #: ../../root_interface.md:325 3df57b57972c45c3aef51a96d54a9149
 msgid "**验证域**： 需要验证的域。"
-msgstr "**Verifications**: The domain that needs to be verified."
+msgstr "**Verification**: The domain that needs to be verified."
 
 #: ../../root_interface.md:327 0defcf7186834dfa8366771d982d15d3
 msgid "**状态**： 根据你的需要你可以禁用这个域 。"
@@ -879,7 +879,7 @@ msgstr "**Failed**: Number of failed calls."
 
 #: ../../root_interface.md:337 1f9f1b991eb648038aa5c138d67a11a3
 msgid "**未应答**： 已拨打电话未应答数量。"
-msgstr "**Not answered**: Number of calls not answered."
+msgstr "**Noanswer**: Number of calls not answered."
 
 #: ../../root_interface.md:339 64b71edfdabc48ebbf1cf24df85a135e
 msgid "【高级】设置：（如下图所示）"
@@ -892,29 +892,29 @@ msgstr "![alt text](_static/images/en/root/media/image39.png)"
 #: ../../root_interface.md:343 4e356e6088534913bea92ca9025b461f
 msgid "**绑定呼入到 client**：您可以将此中继线绑定到某个Client，然后来自此中继线的所有呼叫都将发送到此Client。"
 msgstr ""
-"**Binding call incoming client**: You can bind this trunk to a client, "
+"**Bind inbound call to client**: You can bind this trunk to a client, "
 "and then all calls from this trunk will be sent to this client."
 
 #: ../../root_interface.md:345 54dda55a680e4aa7b48328b30912b968
 msgid "**中继侧录音增益**：如果为0则表示禁用此功能。"
-msgstr "**Relay side recording gain**: If 0, this function is disabled."
+msgstr "**trunk Gain**: If 0, this function is disabled."
 
 #: ../../root_interface.md:347 783af54dd3834d1dbc3e2b67753361b5
 msgid "**分机侧录音增益**：如果为0则表示禁用此功能。"
-msgstr "**Extension side recording gain**: If 0, this function is disabled."
+msgstr "**Device Gain**: If 0, this function is disabled."
 
 #: ../../root_interface.md:349 6e5b0303866f40daa182394ef529d492
 msgid "**中继侧通话增益**：如果为0则表示禁用此功能。"
-msgstr "**Relay side call gain**: If 0, this function is disabled."
+msgstr "**Trunk Volume**: If 0, this function is disabled."
 
 #: ../../root_interface.md:351 1a509c06d84948878c559ee3c9029313
 msgid "**坐席侧通话增益**：如果为0则表示禁用此功能。"
-msgstr "**Agent side call gain**: If 0, this function is disabled."
+msgstr "**Agent Volume**: If 0, this function is disabled."
 
 #: ../../root_interface.md:353 0e3ed6af9b8c450aa7b5d19217192868
 msgid "**坐席注册超时时间**：在启用注册时，您可以输入注册超时。（只有在“【常规】”设置中选择“【用户名/密码】”时才会显示此项目）"
 msgstr ""
-"**Agent registration timeout**: When registration is enabled, you can "
+"**Expiration**: When registration is enabled, you can "
 "enter the registration timeout. "
 
 #: ../../root_interface.md:355 abcf7a8e2bc6475984f460869a3c15e7
@@ -936,36 +936,36 @@ msgstr "![alt text](_static/images/en/root/media/image40.png)"
 
 #: ../../root_interface.md:361 f006bdf7b4f14037ab025cbbf17be77e
 msgid "**名称**: 请为这个呼出规则命名。"
-msgstr "**Name**: Please name this callout rule."
+msgstr "**Route Name**: Please name this callout rule."
 
 #: ../../root_interface.md:363 57e7b5a8c6cb45efaec752988f9f9fef
 msgid "**匹配规则**:设置这个匹配规则，符合此规则的呼叫将执行以下操作。"
 msgstr ""
-"**Match Rule**: Set this matching rule, and calls that comply with this "
+"**Pattern**: Set this matching rule, and calls that comply with this "
 "rule will perform the following operations."
 
 #: ../../root_interface.md:365 c545c1ac4ce442399ab45a0fb7592bad
 msgid "**替换主叫号码**:在这里你可以重新设定主叫号码和主叫号码名称。"
 msgstr ""
-"**Replace caller number**: Here you can reset the caller number and "
+"**Replace CallerId**: Here you can reset the caller number and "
 "caller number name."
 
 #: ../../root_interface.md:367 2924f4300eb840769ce8bec06881cf6e
 msgid "**增加主叫号码前缀**:系统将为主叫号码增加前缀。对于SIP设备，主叫号码还支持使用主叫名称。"
 msgstr ""
-"**Add to call number prefix**: The system will add a prefix to the call "
+"**Add caller ID prefix**: The system will add a prefix to the call "
 "number. "
 
 #: ../../root_interface.md:369 b6e5f1f121964ca19b372ed58b98377e
 msgid "**被叫号码**:你可以添加/移除被叫号码前缀或者重置被叫号码。"
 msgstr ""
-"**Called Number**: You can add/remove the called number prefix or reset "
+"**CalleeNum**: You can add/remove the called number prefix or reset "
 "the called number."
 
 #: ../../root_interface.md:371 a666365896a14857a25d8e4f3deea189
 msgid "**转向**: 路由匹配时系统将进行此动作。"
 msgstr ""
-"**Turning**: The system will perform this action when the route is "
+"**Transfer**: The system will perform this action when the route is "
 "matched."
 
 #: ../../root_interface.md:373 6c7e1f6ed9e94f90a5d5d8b1616fa1fe
@@ -979,7 +979,7 @@ msgstr "![alt text](_static/images/en/root/media/image41.png)"
 #: ../../root_interface.md:377 79be18eee4d444b0a95e3e08b9de4791
 msgid "**呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。"
 msgstr ""
-"**Incoming IP**: Set the IP address that allows access, and you can add "
+"**Incoming IPs**: Set the IP address that allows access, and you can add "
 "multiple IP addresses at the same time."
 
 #: ../../root_interface.md:379 84ce5029f3d84bb08a38a2d2f7983c61
@@ -993,12 +993,12 @@ msgstr "**Rate**: The rate of payment."
 #: ../../root_interface.md:383 01800e1761ec44538de68d221616d8a6
 msgid "普通费率：没有初始时长计算，只按照每分钟的计费方式计算费率。"
 msgstr ""
-"Normal rate: There is no initial time calculation, only the rate is "
+"Common rate: There is no initial time calculation, only the rate is "
 "calculated according to the billing method per minute."
 
 #: ../../root_interface.md:385 a7a7dd5e0de147219f9107eef5b1060f
 msgid "费率计划：根据已设置好的费率计划选择计费。"
-msgstr "Rate plan: Choose billing based on the set rate plan."
+msgstr "Rate plans: Choose billing based on the set rate plan."
 
 #: ../../root_interface.md:387 3f314ecf9ff6401f8baadf2a6ba23747
 msgid "DID 号码:"
@@ -1028,7 +1028,7 @@ msgstr "![alt text](_static/images/en/root/media/image44.png)"
 #: ../../root_interface.md:397 091dbab63f7d4ab999b9ac7718db84d6
 msgid "**DID号码**: 请输入did号码，每行一个。"
 msgstr ""
-"**External Number**: Please enter the display number you want to add, one"
+"**DID Number**: Please enter the display number you want to add, one"
 " per line."
 
 #: ../../root_interface.md:399 2c1bcea58b55496b9a4410caa9953d4c
@@ -1040,18 +1040,18 @@ msgstr ""
 
 #: ../../root_interface.md:401 daccbc924fe04a668c605cda78f4f94f
 msgid "**代理商**: 请为这个did号码选择一个代理商。"
-msgstr "**Agent**: Please select an agent for this did number."
+msgstr "**Reseller**: Please select an agent for this did number."
 
 #: ../../root_interface.md:403 23e2e1b291d24e7aa98570c97aa8a16e
 msgid "**状态**: DID号码禁用后, 呼入到当前DID的来电将不可用。"
 msgstr ""
-"**Status**: After the DID number is disabled, the incoming call to the "
+"**State**: After the DID number is disabled, the incoming call to the "
 "current DID will be unavailable."
 
 #: ../../root_interface.md:405 bcfc2880129146968346508713a645cb
 msgid "【 高级设置 】 设置: 您可以选择一个国家并填写注释和说明。"
 msgstr ""
-"【Advanced Settings】Settings: You can select a country and fill in "
+"【Advanced】Settings: You can select a country and fill in "
 "comments and instructions."
 
 #: ../../root_interface.md:407 a3f6d9c8aba147c4aebe8848c12fb536
@@ -1060,7 +1060,7 @@ msgstr "![alt text](_static/images/en/root/media/image45.png)"
 
 #: ../../root_interface.md:409 6eb6283c82694b9084fa1d09dfc2f605
 msgid "外显号码:"
-msgstr "Display number:"
+msgstr "CallerIds:"
 
 #: ../../root_interface.md:411 c2dd911c8cd84cb1a71e0c729b438772
 msgid "外显号码即呼叫号码，是用来呼叫客户的号码。页面的外显号码列表显示的是系统用户已添加的外显号码。（如下图所示）"
@@ -1083,7 +1083,7 @@ msgstr "![alt text](_static/images/en/root/media/image47.png)"
 #: ../../root_interface.md:420 9e468ae938a34034b5b1bca485c398e5
 msgid "**外显号码**： 请输入您要添加的外显号码，每行一个。"
 msgstr ""
-"**External Number**: Please enter the display number you want to add, one"
+"**CallerIds Number**: Please enter the display number you want to add, one"
 " per line."
 
 #: ../../root_interface.md:422 e2f565c3734c4b21805051af3b3da200
@@ -1096,11 +1096,11 @@ msgstr "**Rate Plan**: You can choose a rate plan for this display number."
 
 #: ../../root_interface.md:426 9ba7893fec294047bba6fbf003a0fb5b
 msgid "**代理商**： 你可以为这个外显号码选择一个代理商。"
-msgstr "**Agent**: You can choose an agent for this display number."
+msgstr "**Resellers**: You can choose an agent for this display number."
 
 #: ../../root_interface.md:428 1725eab3a1be490cbaa45ed5cbc07666
 msgid "号码区域信息:"
-msgstr "Number area information:"
+msgstr "Phone Area:"
 
 #: ../../root_interface.md:430 f36f05ae58a74219b0853d8a9ff1b6f9
 msgid "号码区域信息表示的是号码的归属地，系统可以根据号码归属地中的号码前缀来匹配did号码的所属地。添加归属地完成后点击工具中-更新DID归属地，DID页面中属性一栏会被更新为匹配区域。在该页面可以添加/批量添加/查看/删除/DID号码更新操作。"
@@ -1125,7 +1125,7 @@ msgstr "![alt text](_static/images/en/root/media/image49.png)"
 
 #: ../../root_interface.md:438 a45dbe7407cd41df8bdbb2ee4534f6cb
 msgid "**操作**:"
-msgstr "**operate**:"
+msgstr "**Option**:"
 
 #: ../../root_interface.md:440 be8f7fad4f404d4995cc3cd89c7a917a
 msgid "更新：如果表内数据与当前设定的数据有重复，以设定的数据为准，对表进行更新。"
@@ -1151,7 +1151,7 @@ msgstr "g. Call settings:"
 
 #: ../../root_interface.md:448 cae1b8ef1fcb46f79b9e1d9dbeeb920b
 msgid "节点管理:"
-msgstr "Node Management:"
+msgstr "Nodes:"
 
 #: ../../root_interface.md:450 7c5f4f5e34514098aff97beaa01e7da5
 msgid "从节点管理中，可以了解添加节点的设置状态、CPU状态、系统负载、系统运行时间、节点类型和其他系统工作条件。"
@@ -1203,7 +1203,7 @@ msgstr "**Node port**: The address used by the client webrtc."
 
 #: ../../root_interface.md:470 cc4c876106044db9a374e9b9a41e5031
 msgid "**处理任务**： 是否执行导出任务。"
-msgstr "**Take Tasks**: Whether to perform export tasks."
+msgstr "**Process Task**: Whether to perform export tasks."
 
 #: ../../root_interface.md:472 e8a0df55452f4e6a8a7ac279f2251037
 msgid "当节点类型为 opensips 时：（如下图）"
@@ -1226,7 +1226,7 @@ msgstr ""
 
 #: ../../root_interface.md:486 2362440837fa4e0f8fefa2c3c2fef3c3
 msgid "**Mysql地址**： 填写 Opensips 使用的 MySQL 地址。"
-msgstr "**Mysql address**: Fill in the MySQL address used by Opensips."
+msgstr "**Mysql Host**: Fill in the MySQL address used by Opensips."
 
 #: ../../root_interface.md:488 6055247f7dd249369ee422fb08e11f0c
 msgid "**Mysql端口**： 填写 Opensips 使用的 MySQL 端口。"
@@ -1234,7 +1234,7 @@ msgstr "**Mysql port**: Fill in the MySQL port used by Opensips."
 
 #: ../../root_interface.md:490 b05f6ca9b3084eea8f5a9de509701bb7
 msgid "**Mysql用户名**：填写 Opensips 使用的 MySQL 用户名。"
-msgstr "**Mysql username**: Fill in the MySQL username used by Opensips."
+msgstr "**Mysql user**: Fill in the MySQL username used by Opensips."
 
 #: ../../root_interface.md:492 90c50f27ef984ea4b24612b45562d03f
 msgid "**Mysql密码**： 填写 Opensips 使用的 MySQL 密码。"
@@ -1254,11 +1254,11 @@ msgstr "**Edit node**: Edit this node."
 
 #: ../../root_interface.md:500 85f727ec58f24eb2a249bb69a8f25372
 msgid "**健康检查**： 对节点进行健康检查。"
-msgstr "**Health Check**: Perform a health check on the node."
+msgstr "**Checkup**: Perform a health check on the node."
 
 #: ../../root_interface.md:502 72ad52f3832d48dc8549d57800d1420d
 msgid "**暂停**： 暂停这个节点的使用。"
-msgstr "**Pause**: Pause the use of this node."
+msgstr "**Pause Node**: Pause the use of this node."
 
 #: ../../root_interface.md:504 f8b812faf82246ea95c5852f650d9a22
 msgid "**删除节点**： 删除这个节点"
@@ -1294,12 +1294,12 @@ msgstr "![alt text](_static/images/en/root/media/image55.png)"
 #: ../../root_interface.md:517 6b201f0a3bee4b4ca896efe702e42b6d
 msgid "**规则**： 你可以在 M 天内呼叫 N 次超出设置次数通话会被限制。"
 msgstr ""
-"**Rules**: You can call N times in M ​​days beyond the set number of "
+"**Strategy**: You can call N times in M ​​days beyond the set number of "
 "calls will be limited."
 
 #: ../../root_interface.md:519 bf81a7c4937f4b07a4340d274c0c4559
 msgid "外呼档案:"
-msgstr "Outbound call file:"
+msgstr "Call Profiles:"
 
 #: ../../root_interface.md:521 ef9f27b8624943a8b1be63d555920f04
 msgid "外呼档案用于为坐席选择外呼中继线，在一个外呼档案中可以配置有多个呼出路由呼入路由按顺序依次向下匹配，Client选择外呼档案后，根据匹配进行外呼。"
@@ -1322,7 +1322,7 @@ msgstr "![alt text](_static/images/en/root/media/image57.png)"
 
 #: ../../root_interface.md:529 abf8c805cfa742928ac91b0df20ce562
 msgid "**档案名称**：请为该外呼档案命名。"
-msgstr "**File name**: Please name the outbound call file."
+msgstr "**Call profile name**: Please name the outbound call file."
 
 #: ../../root_interface.md:531 851500d310404982918975d10690b6df
 msgid "设置文件名后，单击“添加外呼路由”以设置出站路由（如下图所示）"
@@ -1341,13 +1341,13 @@ msgstr "**Route Name**: Please name the route."
 #: ../../root_interface.md:537 c5413da94bb241e1b68538953a860256
 msgid "**匹配规则**：设置匹配规则，满足该规则的调用将执行以下操作。如果设置了多个匹配规则，则需要匹配所有规则。"
 msgstr ""
-"**Match Rule**: Set a matching rule, and calls that satisfy this rule "
+"**Pattern**: Set a matching rule, and calls that satisfy this rule "
 "will perform the following operations. "
 
 #: ../../root_interface.md:539 713ad475fb984f6d9c90c36e766c6c02
 msgid "**替换主叫号码**：在这里你可以重新设定主叫号码和主叫号码名称。"
 msgstr ""
-"**Replace Calling Number**: Here you can set the caller number and caller"
+"**Replace CallerID**: Here you can set the caller number and caller"
 " number name from the new one."
 
 #: ../../root_interface.md:541 9659c1e9da594410b38abeabb6542c2d
@@ -1355,19 +1355,20 @@ msgid ""
 "**被叫号码**： "
 "如果设置时选择，添加数字，在坐席拨号时就可以省略所添加的数字。如果选择移除数字，则坐席在拨号时就要增加所移除数字进行拨号。如果选择替换，则需要填写另外一个符合匹配过的完整号码。"
 msgstr ""
+"**CalleeNum**: You can add/remove the prefix of the called number or reset the called number."
 
 #: ../../root_interface.md:543 30d29ffc61584a5ea99cbc97d9a136ee
 msgid "**转向**：路由匹配时系统将进行此动作。"
 msgstr ""
-"**Turning**: The system will perform this action when the route is "
+"**Transfer**: The system will perform this action when the route is "
 "matched."
 
 #: ../../root_interface.md:545 dd13dc5b7d534544bbdbada4986fe10b
 msgid "**中继策略**："
-msgstr "**Relay Policy**:"
+msgstr "**Policy**:"
 
 #: ../../root_interface.md:547 f25918e30d51497587c9c722621a1286
-msgid "顺序：每个来电从第一个中继开始（始终为 123）"
+msgid "Order：每个来电从第一个中继开始（始终为 123）"
 msgstr "Sequence: Each incoming call starts with the first relay (always 123)"
 
 #: ../../root_interface.md:549 e6e068beb11248e1a067a14e65941d64
@@ -1385,7 +1386,7 @@ msgstr "Random: No mode"
 
 #: ../../root_interface.md:553 a843116b152c40678f012781728aa1ad
 msgid "暂停原因:"
-msgstr "Reason for suspension:"
+msgstr "PauseReasons:"
 
 #: ../../root_interface.md:555 8973705e392a40a99aa8b1ef4bea4137
 msgid "暂停原因是坐席置忙时选择的一个暂停原因，在暂停原因页面，系统用户可以添加/查看/编辑/删除暂停原因。root级别设置的暂停原因，将成为新建client时默认显示的暂停原因。"
