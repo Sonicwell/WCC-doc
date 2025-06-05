@@ -1825,12 +1825,12 @@ msgstr "**Name**: Name this sales funnel."
 #: ../../root_interface.md:754 7550872d705745958c22cece4a3685d9
 msgid "**分值**： 请设置这个销售漏斗的分值，分值可体现坐席的工作情况。"
 msgstr ""
-"**Score**: Please set the score of this sales funnel, the score can "
+"**Value**: Please set the score of this sales funnel, the score can "
 "reflect the working status of the seat."
 
 #: ../../root_interface.md:756 8062a2560f114c5989a26e8fd3eed081
 msgid "**状态**： 销售漏斗的状态:"
-msgstr "**Status**: Status of sales funnel:"
+msgstr "**State**: Status of sales funnel:"
 
 #: ../../root_interface.md:758 d26b702ca6b949b8ac119708c486615e
 msgid "启用：正常显示"
@@ -1838,15 +1838,15 @@ msgstr "Enable: Display normally"
 
 #: ../../root_interface.md:760 a0efeec5ae6942a7ae38ffe89eae1061
 msgid "隐藏：坐席不可见"
-msgstr "Hide: The seat is invisible"
+msgstr "Invisible: The seat is invisible"
 
 #: ../../root_interface.md:762 aaf9af1e75c340fc9cabbc7e590f6fbc
 msgid "关闭：系统不可见"
-msgstr "Close: The system is not visible"
+msgstr "Closed: The system is not visible"
 
 #: ../../root_interface.md:764 93b7aeef8de54a9098553a5788a2c9c6
 msgid "后台任务:"
-msgstr "Backstage tasks:"
+msgstr "Server tasks:"
 
 #: ../../root_interface.md:766 dd5d51627ca34ef99651cb1f9b105b64
 msgid "后台任务是允许在系统的程序任务，通常他们是耗时的例如导入导出报告。"
@@ -1876,7 +1876,7 @@ msgstr "![alt text](_static/images/en/root/media/image81.png)"
 
 #: ../../root_interface.md:778 698adc618a1a46afb73b29e0fa227355
 msgid "**事件类型**;"
-msgstr "**Event Type**;"
+msgstr "**Event**;"
 
 #: ../../root_interface.md:780 9cd2124f106246d2b451a62d904ac5d1
 msgid "系统提供两种事件:通话记录:当呼叫挂断时，系统会将通话记录发布到特定的URL."
@@ -1893,37 +1893,37 @@ msgstr ""
 
 #: ../../root_interface.md:784 44b4814ef2414963b76b44f98a468d11
 msgid "**事件接收地址**: 系统会将事件数据发送到此URL。如果您不需要它，请将其留空。"
-msgstr "**Event Receive Address**: The system will send event data to this URL. "
+msgstr "**Event post URL**: The system will send event data to this URL. "
 
 #: ../../root_interface.md:786 ad132bc8473e44259cbbc9672a6eee98
 msgid "**录音设置**: 请设置您需要的录音类型。"
-msgstr "**Recording settings**: Please set the recording type you need."
+msgstr "**Monitor**: Please set the recording type you need."
 
 #: ../../root_interface.md:788 156b09a8ed7e47268f9c440bf0af7778
 msgid "**录音格式**: 请选择录音格式。"
-msgstr "**Recording Format**: Please select the recording format."
+msgstr "**Recording file format**: Please select the recording format."
 
 #: ../../root_interface.md:790 eaf4205da2d14b4bbf15769d0c81c058
 msgid "**录音文件名格式**:你可以自定义录音文件的命名规则，可用的变量包括:"
 msgstr ""
-"**Recording file name format**: You can customize the naming rules of "
+"**Recording filename format**: You can customize the naming rules of "
 "recording files, and the available variables include:"
 
 #: ../../root_interface.md:804 7c48f2d77bd549339ea751ff5d0d8986
 msgid "**语音识别**: 根据需要是否开启语音识别功能。"
 msgstr ""
-"**Speech Recognition**: Whether the voice recognition function is enabled"
+"**ASR**: Whether the voice recognition function is enabled"
 " as needed."
 
 #: ../../root_interface.md:806 88e67a52f6824fca9727999dd54072dd
 msgid "**语音识别回调地址**:如果已配置，系统会将语音识别结果发送到此 URL。"
 msgstr ""
-"**Speech recognition callback address**: If configured, the system will "
+"**ASR result callback URL**: If configured, the system will "
 "send the voice recognition result to this URL."
 
 #: ../../root_interface.md:808 d83c04feee604a67a1e70d14864b2002
 msgid "**账号多点登录**: 允许一个帐户多点登录。"
-msgstr "**Account multi-point login**: Allow multiple login for one account."
+msgstr "**Multi Login**: Allow multiple login for one account."
 
 #: ../../root_interface.md:810 94fda0438bac4c9e851fcc8ba6b2c323
 msgid "**【录音转移】设置：（如下图）**"
@@ -1941,7 +1941,7 @@ msgstr ""
 
 #: ../../root_interface.md:816 d6869442a9804d148fe10d452784164d
 msgid "**转移策略**: 转移策略是实时的或定时。"
-msgstr "**Transfer Policy**: The transfer policy is real-time or timed."
+msgstr "**Transfer strategy**: The transfer policy is real-time or timed."
 
 #: ../../root_interface.md:818 3546320e0d3940bfb4d3ded8033ffb12
 msgid "公司信息:"
@@ -1957,7 +1957,7 @@ msgstr "![alt text](_static/images/en/root/media/image83.png)"
 
 #: ../../root_interface.md:824 599729d781684fd5a45178efb59c2c4f
 msgid "假期设置 :"
-msgstr "Holiday settings:"
+msgstr "Holiday:"
 
 #: ../../root_interface.md:826 fc722448ee8b4c29a89a9b3858d78e4e
 msgid "根据各国、各民族的风俗和纪念要求，统一指定庆祝、休假休息时间。（如下图所示）"
@@ -1988,12 +1988,12 @@ msgstr "**Date**: Date."
 
 #: ../../root_interface.md:840 6ee328f48c204db496ea99131c0ce730
 msgid "工具栏"
-msgstr "Toolbar"
+msgstr "Status bar"
 
 #: ../../root_interface.md:842 776127b391104b288df7e5b1a127172b
 msgid "**后台任务**:您可以在此处查看后台正在进行的任务，如图所示：如果没有正在进行的任务，它们将显示为零。（如下图所示）"
 msgstr ""
-"**Backend Tasks**: You can view tasks in progress in the background here,"
+"**Server tasks**: You can view tasks in progress in the background here,"
 " as shown in the figure: If there are no tasks in progress, they will "
 "appear as zero. "
 
@@ -2003,7 +2003,7 @@ msgstr "![alt text](_static/images/en/root/media/image86.png)"
 
 #: ../../root_interface.md:846 b220d49153fb485993c7893491839a1d
 msgid "**通知**: 将显示一些新消息（如下所示）。"
-msgstr "**Notification**: Some new messages will be displayed (as shown below)."
+msgstr "**Notify**: Some new messages will be displayed (as shown below)."
 
 #: ../../root_interface.md:848 3af26a4911a74d8fa5677dd45ccffe91
 msgid "![alt text](_static/images/root/media/image87.png)"
@@ -2021,7 +2021,7 @@ msgstr "![alt text](_static/images/en/root/media/image88.png)"
 
 #: ../../root_interface.md:854 f13ac8cb90e44143bec7b005605da1f2
 msgid "**我的档案**"
-msgstr "**My Files**"
+msgstr "**My profile**"
 
 #: ../../root_interface.md:856 4a8f8ae5cd504bb1b5c96508d18e618e
 msgid "![alt text](_static/images/root/media/image89.png)"
@@ -2029,7 +2029,7 @@ msgstr "![alt text](_static/images/en/root/media/image89.png)"
 
 #: ../../root_interface.md:858 d91d077949294f54aaf524687904903f
 msgid "**包括“我的档案”和“注销”**"
-msgstr "**Includes \"My Files\" and \"Logout\"**"
+msgstr "**Includes \"My profile\" and \"Logout\"**"
 
 #: ../../root_interface.md:860 173a3a3802e240f5ab52e03a0fa5dffc
 msgid "**\\[我的个人资料\\] 允许编辑 root 用户个人资料**"
