@@ -1411,11 +1411,11 @@ msgstr "![alt text](_static/images/en/root/media/image60.png)"
 
 #: ../../root_interface.md:563 e8fe4671b1ed4cb8bf30aac84ca5cbdb
 msgid "**暂停原因名称**： 设置暂停原因为其命名。"
-msgstr "**Pause Reason Name**: Set the pause reason to name it."
+msgstr "**Pause Name**: Set the pause reason to name it."
 
 #: ../../root_interface.md:565 056f60049a7f44e98e0c25733cef3c3d
 msgid "话机部署模版:"
-msgstr "Telephone deployment template:"
+msgstr "Provisioning Templates:"
 
 #: ../../root_interface.md:567 aa199c7ecf2b4257a7ede3407bceaa00
 msgid "话机部署模板可以直接对话机设置进行配置，模板内容可以自主添加进行默认配置，在多台话机运用时能够节省更多的时间一键进行部署。"
@@ -1438,7 +1438,7 @@ msgstr "**Template name**: Please fill in the template name."
 
 #: ../../root_interface.md:577 144ac8f9033a44deb2c8f94c168f824d
 msgid "**话机品牌**： 请输入话机型号。"
-msgstr "**Telephone brand**: Please enter the phone model."
+msgstr "**Phone brand**: Please enter the phone model."
 
 #: ../../root_interface.md:579 f3ed161c315c4a9197c6feae95f0faa4
 msgid "**模版内容**： 输入模板（root或管理员提前准备的模板，不同话机的模板不同）。"
@@ -1449,11 +1449,11 @@ msgstr ""
 
 #: ../../root_interface.md:581 76f17298de9b4c7d9d6807cd1968e652
 msgid "h. 信息:"
-msgstr "h. Information:"
+msgstr "h. Messages:"
 
 #: ../../root_interface.md:583 e3bb5a96cbe74d2a867afc2e33ea756e
 msgid "短信档案:"
-msgstr "SMS file:"
+msgstr "SMS Profiles:"
 
 #: ../../root_interface.md:585 f9eb2d2b0a0a44048adac14bb563e967
 msgid "短信档案用于配置客户发送短信时的路由，每个档案中你可以将匹配标识传绑定到短信供应商，当客户发起发送短信的请求时，可以通过使用不同的标识串来选择使用的供应商。"
@@ -1473,7 +1473,7 @@ msgstr "![alt text](_static/images/en/root/media/image64.png)"
 
 #: ../../root_interface.md:593 03d494a574f44470adac2fabf572fb30
 msgid "**短信档案名称**： 请给短信档案命名。"
-msgstr "**SMS file name**: Please name the SMS file."
+msgstr "**SMS profile name**: Please name the SMS file."
 
 #: ../../root_interface.md:595 c4e61762667346588a09bb748395baa5
 msgid "设置完【文件名】后，点击【绑定供应商】来设置绑定的供应商：（如下图所示）"
@@ -1488,12 +1488,12 @@ msgstr "![alt text](_static/images/en/root/media/image65.png)"
 #: ../../root_interface.md:599 793f5dd55a7f4d5384fab28a13182261
 msgid "**匹配标识串**： 客户请求中用于选择要发送短信的供应商的标识字符串。"
 msgstr ""
-"**Match ID string**: The identification string used in the customer "
+"**Match string**: The identification string used in the customer "
 "request to select the vendor to send the SMS."
 
 #: ../../root_interface.md:601 8b7d0734ea7b47ba993848fdb91677fc
 msgid "**匹配供应商**： 字符串匹配时使用的供应商。"
-msgstr "**Match supplier**: The vendor used when string matching."
+msgstr "**Sms_Supplier_id **: The vendor used when string matching."
 
 #: ../../root_interface.md:603 3f5797b6fd784c7988c924927181bce4
 msgid "编辑完【短信文件】后，如下图所示，点击保存（如下图）"
@@ -1526,21 +1526,21 @@ msgstr "![alt text](_static/images/en/root/media/image68.png)"
 
 #: ../../root_interface.md:617 08daf44357434b6a8e087ebad8c109fa
 msgid "**供应商名称**： 请输入短信供应商名称。"
-msgstr "**Supply Name**: Please enter the SMS supplier name."
+msgstr "**SMS supplier name**: Please enter the SMS supplier name."
 
 #: ../../root_interface.md:619 9ee7caad7db647e791f35c7af0aa5c06
 msgid "**标识**：每一个供应商都需要一个标识，标识由字母组成。同时你需要在系统里写一个针对此供应商的脚本文件用于调用供应商提供的接口来发送短信。如果想增加新的标识，请联系系统管理员。"
-msgstr "**Login**: Every supplier needs a logo, and the logo consists of letters. "
+msgstr "**Identity**: Every supplier needs a logo, and the logo consists of letters. "
 
 #: ../../root_interface.md:621 09c0dd59a4e047eca3b9ebd6d64959d3
 msgid "**参数**：如果你想使用对同一个供应商的多个账号，可以在这里设置向脚本文件传递的参数。"
 msgstr ""
-"**Parameters**: If you want to use multiple accounts for the same vendor,"
+"**Params**: If you want to use multiple accounts for the same vendor,"
 " you can set the parameters passed to the script file here."
 
 #: ../../root_interface.md:623 773c48c0e2e049b0b6c379cb67467c8d
 msgid "邮件服务器:"
-msgstr "Mail Server:"
+msgstr "Emails Server:"
 
 #: ../../root_interface.md:625 a42cc95e0929464c8c85de42138b3bee
 msgid "邮件服务器页面用于管理电子邮件收发的管理设置，配置好的邮件服务器可以在client编辑中进行选择使用。"
@@ -1564,7 +1564,7 @@ msgstr "**Server Type**: Please select the type of this server."
 
 #: ../../root_interface.md:637 78eb28f0e786432d8ca0db471416fcf9
 msgid "**域名**： 请输入这个邮件服务器的域名。"
-msgstr "**Domain Name**: Please enter the domain name of this mail server."
+msgstr "**Host**: Please enter the domain name of this mail server."
 
 #: ../../root_interface.md:639 8a1da5a09ff1462cbd12b7cf89ea8365
 msgid "**端口**： 请输入这个邮件服务器的端口号。"
@@ -1572,12 +1572,12 @@ msgstr "**Port**: Please enter the port number of this mail server."
 
 #: ../../root_interface.md:641 cf31eeba209e4934ba8dfc414f76bec2
 msgid "**发信人邮箱**： 请输入这个邮件服务器的发信人邮箱。"
-msgstr "**Sender Email**: Please enter the sender email of this email server."
+msgstr "**Sender**: Please enter the sender email of this email server."
 
 #: ../../root_interface.md:643 520d166224ce4cc38aeb82e55d49ae3f
 msgid "**使用SMTP认证**: 请确认是否需要使用SMTP认证。"
 msgstr ""
-"**Use SMTP authentication**: Please confirm whether you need SMTP "
+"**SMTP authentication**: Please confirm whether you need SMTP "
 "authentication."
 
 #: ../../root_interface.md:645 0da37d4b6d534ec5812a05ff68b8b6b1
@@ -1610,12 +1610,12 @@ msgstr "![alt text](_static/images/en/root/media/image71.png)"
 
 #: ../../root_interface.md:657 825273185b0d4487aad047b868680346
 msgid "j. 监控管理:"
-msgstr "j. Monitoring management:"
+msgstr "j. Realtimes:"
 
 #: ../../root_interface.md:659 42330314b54d4a49a3c1e0bc535de433
 msgid "**实时监控**：系统用户可以实时监控呼入/呼出的状态以及整个系统下坐席的状态（如下图所示）"
 msgstr ""
-"**Real-time monitoring**: System users can monitor the incoming/outgoing "
+"**Real Time**: System users can monitor the incoming/outgoing "
 "status and whether the seat is online in real time (as shown in the "
 "figure below)"
 
@@ -1625,12 +1625,12 @@ msgstr "![alt text](_static/images/en/root/media/image72.png)"
 
 #: ../../root_interface.md:663 25a4f79992d44d07a53dc034e9f00945
 msgid "k. 日志记录:"
-msgstr "k. Logging:"
+msgstr "k. Logs:"
 
 #: ../../root_interface.md:665 21cb4f7fc88d49f281461b708bf9d43e
 msgid "**日志记录**： 您可以查看所有用户的行为（如下图所示）"
 msgstr ""
-"**Log Record**: You can view all users' behavior (as shown in the figure "
+"**Logs**: You can view all users' behavior (as shown in the figure "
 "below)"
 
 #: ../../root_interface.md:667 3fc8068038064e2f8e73ce9779e39e31
@@ -1651,7 +1651,7 @@ msgstr "l. System:"
 
 #: ../../root_interface.md:676 124b3f31d63c4c8b82a5bead0d3360dc
 msgid "系统偏好:"
-msgstr "System preferences:"
+msgstr "preferences:"
 
 #: ../../root_interface.md:678 77c9e13bb87e4f7380afd3bb54e34593
 msgid "即系统设置，用户可以根据需要对系统进行常规设置"
@@ -1685,7 +1685,7 @@ msgstr "** Area Code**: You can set the area code."
 
 #: ../../root_interface.md:692 6486327b28b54f65b41a4ad827bea904
 msgid "**日期格式模式**： 您可以设置日期格式模式。"
-msgstr "**Date Format Mode**: You can set the date format mode."
+msgstr "**Date format pattern**: You can set the date format mode."
 
 #: ../../root_interface.md:694 3634b913988647a186aeceef40d9faeb
 msgid "**日期格式**：您可以设置日期格式，在日期格式模式下选择精确模式将显示。"
@@ -1701,7 +1701,7 @@ msgstr ""
 
 #: ../../root_interface.md:698 fdaf3faf8e114b4a88241e8551240b22
 msgid "**时长格式**： 您可以设置时长的格式。"
-msgstr "**Duration format**: You can set the format of the duration."
+msgstr "**Time length format**: You can set the format of the duration."
 
 #: ../../root_interface.md:700 b9e6c4e53d984f4caecc721db445cc7f
 msgid "**号码格式**： 你可以设置号码的格式。"
@@ -1709,15 +1709,15 @@ msgstr "**Number format**: You can set the format of the number."
 
 #: ../../root_interface.md:702 32ee7845b5e544ce87d5373068c0fc6c
 msgid "**称呼格式**： 你可以设置姓名称呼的格式。"
-msgstr "**Title format**: You can set the format of your name call."
+msgstr "**Appellation**: You can set the format of your name call."
 
 #: ../../root_interface.md:704 8e7f2fd30f7a4472ab70e4fe5501ad15
 msgid "**账号超时时间**： 账号登录超时时间（单位：分钟）"
-msgstr "**Account timeout time**: Account login timeout time (unit: minutes)"
+msgstr "**Account Session timeout**: Account login timeout time (unit: minutes)"
 
 #: ../../root_interface.md:706 4354b2e59fd14bdb9abe046fc84de33c
 msgid "**坐席超时时间**： 坐席登录超时时间（单位：分钟）"
-msgstr "**Agent timeout time**: Agent login timeout time (unit: minutes)"
+msgstr "**Agent Session timeout**: Agent login timeout time (unit: minutes)"
 
 #: ../../root_interface.md:708 b1ecb6b645354f6f95f4e46eb7c9c752
 msgid "**坐席浏览器超时时间**：如果代理设置为与浏览器一起使用，则当浏览器关闭并达到此超时时间时，系统将检出所有动态签入的代理组（单位：秒）。"
@@ -1744,15 +1744,15 @@ msgstr "**Currency Symbol**: Set currency symbol."
 
 #: ../../root_interface.md:718 8ba6dc1da797420a96613df2123edaaf
 msgid "**货币小数点**： 设置货币小数点"
-msgstr "**Currency decimal point**: Set currency decimal point"
+msgstr "**Currency Significant Digits**: Set currency decimal point"
 
 #: ../../root_interface.md:720 c015ebeeba0e4f4ca1af841155b1a8fb
 msgid "**数字分隔符**： 设置数字分隔符。"
-msgstr "**Number delimiter**: Set the numeric delimiter."
+msgstr "**Number Segmentation**: Set the numeric delimiter."
 
 #: ../../root_interface.md:722 aed7cd171bb34c5aa6e3c8856ee1438f
 msgid "**千位分隔符**： 设置千位分隔符。"
-msgstr "**Thousand Delimiter**: Set the Thousand Delimiter."
+msgstr "**1000 separator**: Set the Thousand Delimiter."
 
 #: ../../root_interface.md:724 b820eac05405443bb500bf05c88d348f
 msgid "【 数据 】 设置页面：（如下图）"
@@ -1769,7 +1769,7 @@ msgstr "**Export file encoding**: Set the export file encoding."
 #: ../../root_interface.md:730 e5f5649e19a840e6a24f64dacc4ec383
 msgid "**导出单文件最大行数**： 设置导出文件最大行数。"
 msgstr ""
-"**Maximum number of lines for exporting single files**: Set the maximum "
+"**Export file size**: Set the maximum "
 "number of lines for exporting files."
 
 #: ../../root_interface.md:732 1c1895f60e7642ad937355125cd00a26
@@ -1782,11 +1782,11 @@ msgstr "![alt text](_static/images/en/root/media/image77.png)"
 
 #: ../../root_interface.md:736 636220b2865042c29b67fdffe5732801
 msgid "**拨打外线超时**： 外呼振铃时长。"
-msgstr "**Dialing outside timeout**: External call ringing duration."
+msgstr "**External timeout**: External call ringing duration."
 
 #: ../../root_interface.md:738 fc59a00adb4e4010a454bace50e91033
 msgid "**拨打分机超时**:内线振铃超时。"
-msgstr "**Dial extension timeout**: Inside line ringing timeout."
+msgstr "**Extension timeout**: Inside line ringing timeout."
 
 #: ../../root_interface.md:740 328b7ed43ae94568931fbbbb21ac961d
 msgid "销售漏斗:"
