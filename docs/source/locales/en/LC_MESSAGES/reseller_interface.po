@@ -66,7 +66,6 @@ msgid "alt text"
 msgstr "alt text"
 
 #: ../../reseller_interface.md:9 3032aa58f10e4273875a1bc958d9a1d4
-#, fuzzy
 msgid "2### 1.2.2 工具栏"
 msgstr "1.2.2 Toolbar"
 
@@ -105,7 +104,6 @@ msgid "![alt text](_static/images/reseller/media/image4.png)"
 msgstr "![alt text](_static/images/en/reseller/media/image4.png)"
 
 #: ../../reseller_interface.md:27 3a1f9b9a55a545638264f29b46d64ebb
-#, fuzzy
 msgid "**单击【添加】进入【常规】设置页面**"
 msgstr "**Click [Add] to enter [General] settings**:"
 
@@ -116,25 +114,23 @@ msgstr "![alt text](_static/images/en/reseller/media/image5.png)"
 #: ../../reseller_interface.md:31 c76a620d78664b059db0833ca52a33a1
 msgid "**域名**: 每个客户端都必须有一个唯一的域，通常使用域名，它可以用于sip 注册、web 登录等，一旦设置了域，就无法再次修改。"
 msgstr ""
-"**Domain Name**: Each client must have a unique domain, usually using a "
+"**Realm**: Each client must have a unique domain, usually using a "
 "domain name, which can be used for sip registration, web login, etc. Once"
 " the domain is set, it cannot be modified again."
 
 #: ../../reseller_interface.md:33 3ad1443aebcf47de90914543f8caa851
 msgid "**客户名称**: 填写一个客户名称，该名称可以随时更改."
 msgstr ""
-"**Customer Name**: Fill in a customer name, which can be changed at any "
+"**Client Name**: Fill in a customer name, which can be changed at any "
 "time."
 
 #: ../../reseller_interface.md:35 16adb28235014faabcb0b84b890c563a
-#, fuzzy
 msgid "**用户名**: 请填写这个Client的用户名，Client用户将使用此用户名登陆系统，一旦设定，将不能再修改。"
 msgstr ""
 "**Username**: The user will use this username to log in to the system. "
 "Once set, it will no longer be modified and required."
 
 #: ../../reseller_interface.md:37 1b562bc05bec478c83a438969678bbf4
-#, fuzzy
 msgid "**密码**:Client管理员将使用该密码进行系统登录。"
 msgstr "**Password**: The user will use the word password to log in to the system."
 
@@ -146,18 +142,18 @@ msgstr ""
 
 #: ../../reseller_interface.md:41 19fda47344af42ddaf0cb67115bc64fd
 msgid "**名**: 请填写此用户的名字。"
-msgstr "**Name**: Please fill in the name of this user."
+msgstr "**First name**: Please fill in the name of this user."
 
 #: ../../reseller_interface.md:43 005ffc2e310f4c598826c54bb3628719
 msgid "**姓**: 请填写此用户的姓氏，必填。"
 msgstr ""
-"**Short Name**: Please fill in the last name of this user, which is "
+"**Last name**: Please fill in the last name of this user, which is "
 "required."
 
 #: ../../reseller_interface.md:45 39c636d336c74eebb088319243f88c27
 msgid "**状态**:客户端用户的状态可分为正常、禁用和暂停。当客户端被禁用时，登录会提示“帐户不存在或密码不正确”。当帐户被暂停时，登录将提示“该帐户已被禁用，无法登录。请联系管理员”。"
 msgstr ""
-"**Status**: The status of the client user can be divided into normal, "
+"**State**: The status of the client user can be divided into normal, "
 "disabled and paused. "
 
 #: ../../reseller_interface.md:49 ../../reseller_interface.md:219
@@ -171,7 +167,6 @@ msgid "![alt text](_static/images/reseller/media/image6.png)"
 msgstr "![alt text](_static/images/en/reseller/media/image6.png)"
 
 #: ../../reseller_interface.md:53 d7b91e3c62814e9cbb2da9ee6dfd71dc
-#, fuzzy
 msgid "**多客户包**: 允许client创建多个客户包，开启该功能时，client页面会出现客户包功能。"
 msgstr ""
 "**Multiple customer package**: Allows the client to create multiple "
@@ -186,7 +181,7 @@ msgstr ""
 #: ../../reseller_interface.md:59 0cbcad9e5c14483db5e22823bc9e417c
 msgid "**事件类型**:系统可以提供呼叫事件、坐席事件和通话记录三种对接方式，三种可同时启用:"
 msgstr ""
-"**Event Type**: The system can provide three docking methods: call event,"
+"**Event**: The system can provide three docking methods: call event,"
 " agent event and call record, and three can be enabled at the same time:"
 
 #: ../../reseller_interface.md:61 530c062a48b04125a2d1f8afc868f45d
@@ -205,13 +200,13 @@ msgstr ""
 #: ../../reseller_interface.md:65 b34c5e58daa4469fb949b569a0c6cb02
 msgid "**通话记录**: 当通话结束后，系统会将通话记录推送到指定地址."
 msgstr ""
-"**Call record**: After the call is over, the system will push the call "
+"**CDR**: After the call is over, the system will push the call "
 "record to the specified address."
 
 #: ../../reseller_interface.md:67 dfff15198ccf400e9ebf7a51cfe43c99
 msgid "**事件接收地址**: 如果你需要从系统接收事件，请提供一个可用的地址。"
 msgstr ""
-"**Event Receive Address**: If you need to receive events from the system,"
+"**Event Post URL**: If you need to receive events from the system,"
 " please provide an available address."
 
 #: ../../reseller_interface.md:69 8b3ed33f877d400fb6d6417c8cbd893b
@@ -227,12 +222,10 @@ msgstr ""
 "recorded."
 
 #: ../../reseller_interface.md:73 acdc4b80cf91421abd6eebcacf5c2979
-#, fuzzy
 msgid "**录音格式**:请选择录音的格式有 MP3 和 WAV 两种类型可供选择."
 msgstr "**Recording format**: Please select the recording formats: MP3 and WAV."
 
 #: ../../reseller_interface.md:75 8481052a0c8b441298d69014b5d318db
-#, fuzzy
 msgid "**录音文件格式**:你可以自定义录音文件的命名规则，可用的变量包括:"
 msgstr ""
 "**Recording file format**: You can customize the naming rules of "
@@ -241,22 +234,21 @@ msgstr ""
 #: ../../reseller_interface.md:86 20eabb046c1c4908a2c072fda4138da6
 msgid "**IP访问白名单**: 设置一个其他地点的ip，跟当前ip不一致的，此时登录这个client是不能登录的。当IP地址换成当前位置地址时，可登录。"
 msgstr ""
-"**IP access whitelist**: Set an IP in another location, which is "
+"**IP White List**: Set an IP in another location, which is "
 "inconsistent with the current IP. You cannot log in to this client at "
 "this time. "
 
 #: ../../reseller_interface.md:88 df94855e1edc4b34991cca3bba0ae5e9
 msgid "**自动部署用户名**: 指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的用户名。"
 msgstr ""
-"**Automatic deployment username**: refers to the agent deploying using a "
+"**Auto Deploy Username**: refers to the agent deploying using a "
 "phone deployment template. After the deployment is successful, check the "
 "username that needs to be entered in the configuration."
 
 #: ../../reseller_interface.md:90 0556b13908ad421c87a34c2c93c53866
-#, fuzzy
 msgid "**自动部署密码**:指坐席使用话机部署模版进行部署，在部署成功后查看配置需要输入的密码。"
 msgstr ""
-"**Automatic deployment password**: It refers to the agent using a phone "
+"**Auto Provision Password**: It refers to the agent using a phone "
 "deployment template for deployment, and check the password that needs to "
 "be entered in the configuration after the deployment is successful."
 
@@ -265,6 +257,9 @@ msgid ""
 "**无可用坐席溢出**：根据组所属的内部线路的状态来确定是否可以来电。如果没有可接受的用户，则不进入此组并转发。 转发目的地设置为'队列设置为 0"
 " 且无可用座席时的转发地'。"
 msgstr ""
+"**No available agents overflow**: Determine whether a call can be made based on the status of the internal "
+"line to which the group belongs. "
+"If there are no acceptable users, do not enter this group and forward it."
 
 #: ../../reseller_interface.md:95 318e0e91511b4e1087d459ac8b08bb93
 msgid "**【呼叫设置】**:"
@@ -277,7 +272,7 @@ msgstr "![alt text](_static/images/en/reseller/media/image7.png)"
 #: ../../reseller_interface.md:99 8f125d095d4d47e3a1595b0c2e69d461
 msgid "**外呼档案**: 根据需要，你可以为这个client的用户设置外呼档案，外呼档案可以选择多个。"
 msgstr ""
-"**Outgoing call file**: According to your needs, you can set out outgoing"
+"**Call profiles**: According to your needs, you can set out outgoing"
 " call file for the user of this client, and you can choose multiple "
 "outgoing call files."
 
@@ -291,20 +286,20 @@ msgstr ""
 #: ../../reseller_interface.md:103 13fa3d53079a4a569de6ee9cb7ee9241
 msgid "**外显号码轮询**: 用户可以为client设置主叫号码的轮询规则，改规则将在设置了多个主叫号码时生效。"
 msgstr ""
-"**External number polling**: Users can set polling rules for calling "
+"**CallerId policy**: Users can set polling rules for calling "
 "numbers for client, and the change rules will take effect when multiple "
 "calling numbers are set."
 
 #: ../../reseller_interface.md:105 b07df4d61c0e45cba16d5359f963dac4
 msgid "**外显号码限制**: 请在这里输入改client可以使用的所有主叫号码，如果没有输入，则表示该客户可以选择使用任何主叫号码。"
 msgstr ""
-"**External number limit**: Please enter all calling numbers that can be "
+"**CallerId restriction**: Please enter all calling numbers that can be "
 "used by the client. If there is no input, it means that the customer can "
 "choose to use any calling number."
 
 #: ../../reseller_interface.md:109 9ee5eaaa74db40aebc94b785c2bcde17
 msgid "**【AI赋能】设置**:"
-msgstr "**【AI Empowerment】Settings**:"
+msgstr "**【AI】Settings**:"
 
 #: ../../reseller_interface.md:111 6461e9150d2344afb5dc5b4adf4df694
 msgid "![alt text](_static/images/reseller/media/image8.png)"
@@ -312,11 +307,11 @@ msgstr "![alt text](_static/images/en/reseller/media/image8.png)"
 
 #: ../../reseller_interface.md:113 ae3706d6d61c4a01b084c4e68f606c6a
 msgid "**AI 参数配置**: 联系管理管理员进行配置。"
-msgstr "**AI parameter configuration**: Contact the administrator to configure."
+msgstr "**AI params**: Contact the administrator to configure."
 
 #: ../../reseller_interface.md:115 3740c51f046040139e4bd839dceaf7ff
 msgid "**【API 限制】设置**:"
-msgstr "**【API Restrictions】Set**:"
+msgstr "**【API Limitation】Set**:"
 
 #: ../../reseller_interface.md:117 5d5118665d254dd7b30b59b42c024053
 msgid "![alt text](_static/images/reseller/media/image9.png)"
@@ -337,13 +332,13 @@ msgstr ""
 #: ../../reseller_interface.md:123 2ce3492831094fc8b6541e1f9e346b47
 msgid "**广播**:请设置广播调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
-"**Broadcast**: Please set the maximum limit number of broadcast calls. "
+"**Get Data**: Please set the maximum limit number of broadcast calls. "
 "When the call exceeds the limit number, stop the call."
 
 #: ../../reseller_interface.md:125 536df8a686184bc6a2eea2d72ee20a15
 msgid "**点击呼叫**:请设置点击呼叫调用的最大限制数量，当调用超过限制数，则停止调用。"
 msgstr ""
-"**Click to call**: Please set the maximum limit number of click call "
+"**Dial**: Please set the maximum limit number of click call "
 "calls. When the call exceeds the limit number, stop the call."
 
 #: ../../reseller_interface.md:127 0c77479c98a64537bf3c3f4a895ad09d
@@ -360,15 +355,15 @@ msgstr "**Company Name**: Please fill in the company name."
 
 #: ../../reseller_interface.md:133 4a32221fa7d14c90b5ef654043e51c7e
 msgid "**注册地址**: 请填写注册地址。"
-msgstr "**Registered address**: Please fill in the registration address."
+msgstr "**Registration Address**: Please fill in the registration address."
 
 #: ../../reseller_interface.md:135 248dd853cb444d0ba3cbe6cdca8fa35a
 msgid "**联系电话**: 请填写联系电话。"
-msgstr "**Contact number**: Please fill in the contact number."
+msgstr "**Telephone**: Please fill in the contact number."
 
 #: ../../reseller_interface.md:137 58df0f082b784ae488a37165fb62b9d1
 msgid "**公司网址**: 请填写公司网站。"
-msgstr "**Company website**: Please fill in the company website."
+msgstr "**website**: Please fill in the company website."
 
 #: ../../reseller_interface.md:139 365e88ceb24a4f04a521ff54b89c2231
 msgid "**电子邮件**: 请填写电子邮件。"
@@ -376,11 +371,11 @@ msgstr "**Email**: Please fill in the email."
 
 #: ../../reseller_interface.md:141 f741fda6b86a4079851d0c2ebaff1e78
 msgid "**税号**: 请填写税号。"
-msgstr "**Tax number**: Please fill in the tax number."
+msgstr "**V.A.T Reg Number**: Please fill in the tax number."
 
 #: ../../reseller_interface.md:143 a0eaab75c6da473bb3fe391d77a61826
 msgid "**开户银行**: 请填写开户银行。"
-msgstr "**Opening an account**: Please fill in the account opening bank."
+msgstr "**Bank Name**: Please fill in the account opening bank."
 
 #: ../../reseller_interface.md:145 afc9079d75e84a6990490d431c2d6649
 msgid "**账户名称**: 请填写账户名称。"
@@ -388,7 +383,7 @@ msgstr "**Account Name**: Please fill in the account name."
 
 #: ../../reseller_interface.md:147 223243b3dd294ecc996cc98253e80999
 msgid "**账号**: 请填写账号。"
-msgstr "**Account**: Please fill in your account."
+msgstr "**Account Number**: Please fill in your account."
 
 #: ../../reseller_interface.md:149 c88ad146e9d9495c862f5dd872091f1a
 msgid "**办公地址**: 请填写办公室地址。"
@@ -396,21 +391,19 @@ msgstr "**Office Address**: Please fill in the office address."
 
 #: ../../reseller_interface.md:151 48454860542d44bca8bd70b916556e4d
 msgid "**【信息】设置**:"
-msgstr "**【Information】Settings**:"
+msgstr "**【Message】Settings**:"
 
 #: ../../reseller_interface.md:153 101ba1458e0d4a3da3f7608df8074ef7
 msgid "![alt text](_static/images/reseller/media/image11.png)"
 msgstr "![alt text](_static/images/en/reseller/media/image11.png)"
 
 #: ../../reseller_interface.md:155 7e330297c3384db495644eb07a1138b9
-#, fuzzy
 msgid "**邮件服务器**:根据已添加的邮件服务器的名称，选择要作为邮件服务器管理的邮件服务器。"
 msgstr ""
-"**Mail Server**: Select the mail server to manage as the mail server "
+"**Email Server**: Select the mail server to manage as the mail server "
 "based on the name of the added mail server."
 
 #: ../../reseller_interface.md:157 346660201c054e93ba46a3b0bb524768
-#, fuzzy
 msgid "**短信档案**:请根据已添加的短信档案名称，选择一个短信档案作为配置客户发送短信时的路由。"
 msgstr ""
 "**SMS Profile**: Please select a SMS Profile as the route to configure "
@@ -427,32 +420,31 @@ msgstr "![alt text](_static/images/en/reseller/media/image12.png)"
 #: ../../reseller_interface.md:163 771c17145da14ee081ecf5ca0d22758e
 msgid "**禁止坐席web登录**:您可以设置坐席是否可以从网页登录，如果禁止坐席使用web登录，则坐席无法使用账号和密码直接登录，页面会提示“管理员已禁止从web登录”。"
 msgstr ""
-"**Prohibit web login**: You can set whether the agent can log in from the"
+"**Ban Agent Login From Web**: You can set whether the agent can log in from the"
 " web page. If the agent is prohibited from logging in with the web, the "
 "agent cannot log in directly with the account and password. The page will"
 " prompt \"The administrator has prohibited logging from the web\"."
 
 #: ../../reseller_interface.md:165 af9a549c8c044fa69067cd58b9f97470
 msgid "**账号超时时间**: 登录账号超时时间。 (单位：分钟)"
-msgstr "**Account timeout time**: Login account timeout time. "
+msgstr "**Account Session Timeout**: Login account timeout time. "
 
 #: ../../reseller_interface.md:167 dba6d4d548904a9fb839cdce86265ae5
 msgid "**坐席超时时间**: 坐席登录超时时间。 (单位：分钟)"
-msgstr "**Agent timeout time**: The agent login timeout time. "
+msgstr "**Agent Session Timeout**: The agent login timeout time. "
 
 #: ../../reseller_interface.md:169 7981a6c2bfa04280a7fd26d0d2c2b110
 msgid "**坐席浏览器超时时间**:如果坐席设置了使用浏览器工作，当关闭浏览器后，达到此超时时间时，系统会将坐席签出所有动态签入的坐席组（单位：秒）。"
 msgstr ""
-"**Agent browser timeout time**: If the agent is set to work with the "
+"**Agent Browser Timeout**: If the agent is set to work with the "
 "browser, when the browser is closed and this timeout time is reached, the"
 " system will check out all dynamically checked-in agent groups (unit: "
 "seconds)."
 
 #: ../../reseller_interface.md:171 3c9ae52e5e5a492e98c997830e57dee6
-#, fuzzy
 msgid "**隐藏页面组件**: 隐藏的页面不会在client左侧菜单显示（左侧默认显示，右侧隐藏）。."
 msgstr ""
-"**Hide page component**: The hidden page will not be displayed in the "
+"**Hide Page Componentst**: The hidden page will not be displayed in the "
 "left menu of the client (the left side is displayed by default, and the "
 "right side is hidden). "
 
@@ -486,15 +478,15 @@ msgstr "**Username**: The user will use this username to log in to the system."
 
 #: ../../reseller_interface.md:185 bcc5ef62e173443c96389275974621c5
 msgid "**状态**: 你可以将这个账户临时禁用。"
-msgstr "**Status**: You can temporarily disable this account."
+msgstr "**State**: You can temporarily disable this account."
 
 #: ../../reseller_interface.md:187 74f30b39cc484123ac0339a57ec0080d
 msgid "**名**: 请输入用户的名字。"
-msgstr "**Name**: Please enter the user's name."
+msgstr "**First name**: Please enter the user's name."
 
 #: ../../reseller_interface.md:189 93d9c732d34044719b26030dfbf44850
 msgid "**姓**:请输入用户的姓氏。"
-msgstr "**Short Name**: Please enter the user's last name."
+msgstr "**Last name**: Please enter the user's last name."
 
 #: ../../reseller_interface.md:191 1b562bc05bec478c83a438969678bbf4
 msgid "**密码**: 用户将用词密码进行系统登录。"
@@ -522,11 +514,11 @@ msgstr "![alt text](_static/images/en/reseller/media/image15.png)"
 
 #: ../../reseller_interface.md:201 3d4ec91ee56b4cb2b43b63c8d5c501c7
 msgid "**备注**: 您可以在此处设置有关此帐户的一些注释信息。"
-msgstr "**Notes**: You can set some comment information about this account here."
+msgstr "**Memo**: You can set some comment information about this account here."
 
 #: ../../reseller_interface.md:203 9e3306199667438d8773a244e576a62c
 msgid "角色和权限："
-msgstr "Roles and Permissions:"
+msgstr "Roles:"
 
 #: ../../reseller_interface.md:205 84729c463adb4dd38f24b948a3db305a
 msgid "角色用于控制用户拥有的权限。例如设置一个账户拥有查看任务权限，首先添加一个查看任务权限的角色，然后分配此权限角色到某一账户，此账户即可拥有查看任务功能，可以查看任务。角色和权限页面的列表显示的是当前用户和账户新建的权限角色。"
@@ -556,7 +548,7 @@ msgstr "![alt text](_static/images/en/reseller/media/image18.png)"
 
 #: ../../reseller_interface.md:217 9b57574dfe774e45aa951b70e7dd8cd5
 msgid "**名称**: 请为这个权限角色命名。"
-msgstr "**Name**: Please name this permission role."
+msgstr "**Role Name**: Please name this permission role."
 
 #: ../../reseller_interface.md:221 ae24ac3b9b7049f9a56c5831ba4ee78c
 msgid "控制此角色下用户页面的高级显示权限，以及显示是否由用户自己创建。"
@@ -570,7 +562,7 @@ msgstr "![alt text](_static/images/en/reseller/media/image19.png)"
 
 #: ../../reseller_interface.md:225 e020b585097f46ac8a472b22625fd54f
 msgid "**【权限】设置**:"
-msgstr "**【Permissions】Set**:"
+msgstr "**【Privilege】Set**:"
 
 #: ../../reseller_interface.md:227 fe7ce1b1d3654147af8ecf9f058d37fc
 msgid "控制具有此角色的用户的页面显示权限。"
@@ -586,7 +578,7 @@ msgstr "d. Billing:"
 
 #: ../../reseller_interface.md:233 35d30ca08135427d88db331189ae2c17
 msgid "客户计费："
-msgstr "Customer billing:"
+msgstr "Billing:"
 
 #: ../../reseller_interface.md:235 cd6f92e0d96f45a6b4191ca6d315a146
 msgid "它是client的计费，创建client会自动生成对应的客户账单，删除client也会删除对应的客户账单。."
@@ -614,13 +606,13 @@ msgstr "**ID**: The unique ID of the data."
 #: ../../reseller_interface.md:245 5f4b3e77119b45399ceb30c278b8bb6c
 msgid "**客户名称**: 客户名称是新经销商用户的名称，无法修改。"
 msgstr ""
-"**Customer Name**: The customer name is the name of the new dealer user "
+"**Client Name**: The customer name is the name of the new dealer user "
 "and cannot be modified."
 
 #: ../../reseller_interface.md:247 5933fc81e7244699a2d42d8a13261784
 msgid "**域名**: 域名是已新增的代理商用户的域名，不可以再修改。"
 msgstr ""
-"**Domain Name**: The domain name is the domain name of the newly added "
+"**Realm**: The domain name is the domain name of the newly added "
 "agent user and cannot be modified."
 
 #: ../../reseller_interface.md:249 d9a70cf2f93d4c3f935820ae8b925cc0
@@ -704,7 +696,6 @@ msgstr ""
 "received."
 
 #: ../../reseller_interface.md:281 6e5fb2c5a48e4e2c9f72b2274ab6291f
-#, fuzzy
 msgid "在设置的客户页面点击下拉菜单，选择【充值】或是【扣费】，可以记录客户的充值或是扣费金额及交易时间，如有需要，还可以填写备注信息。"
 msgstr ""
 "<span class=\"mark\">Click the drop-down menu on the set customer page "
@@ -813,7 +804,6 @@ msgid "外显号码："
 msgstr "Display number:"
 
 #: ../../reseller_interface.md:325 ee5f7160a9644bb683ce7acdbe5a5253
-#, fuzzy
 msgid "外显号码即主叫号码，是坐席呼叫客户时对外显示的号码。"
 msgstr ""
 "The displayed number is the calling number, which is the number when "
@@ -832,7 +822,6 @@ msgid "![alt text](_static/images/reseller/media/image31.png)"
 msgstr "![alt text](_static/images/en/reseller/media/image31.png)"
 
 #: ../../reseller_interface.md:335 9698880d5989405383d751d98fc1de57
-#, fuzzy
 msgid "**外显号码**: 代理商级别只能查看，不能添加或是更改外显号码。"
 msgstr "**External Number**: Please enter the display number you want to add."
 
@@ -841,7 +830,6 @@ msgid "**供应商**:代理商级别只能查看，不能更改编辑供应商�
 msgstr ""
 
 #: ../../reseller_interface.md:339 4f6bcb1581664c10bd844c5fe944e101
-#, fuzzy
 msgid "**Client**: 选择一个client，指定的client可以使用这个外显号码。"
 msgstr "**Client**: You can select a client for this display number."
 
