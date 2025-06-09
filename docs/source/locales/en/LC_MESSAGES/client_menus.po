@@ -280,7 +280,6 @@ msgid "2.显示/隐藏字段"
 msgstr "2 Show/Hide fields"
 
 #: ../../client_menus.md:29 e10d4c1ea9b2476eb5b5a75f6b6e0491
-#, fuzzy
 msgid "用户名：该账户用户名。"
 msgstr "Username: This account name."
 
@@ -392,11 +391,11 @@ msgstr "![alt text](_static/images/en/client/media/image34.png)"
 
 #: ../../client_menus.md:81 4baf9faff4ce4a6d9d05368533b6a639
 msgid "3.1.2坐席"
-msgstr "3.1.2 Seat"
+msgstr "3.1.2 Agents"
 
 #: ../../client_menus.md:83 961e275da46847bab281fbfbfdb7c57f
 msgid "1.坐席页面介绍"
-msgstr "1 Introduction to the seat page"
+msgstr "1 Introduction to the agents page"
 
 #: ../../client_menus.md:85 5f66847df00a4b39b9ac93b089aa3cfe
 msgid "**坐席**是系统中的基本工作单位,创建坐席时系统会自动创建一个SIP账号,你可以注册SIP设备或者将电话号码绑定到该坐席,然后坐席就可以通过系统发起和接收呼叫了。"
@@ -502,7 +501,7 @@ msgstr "![alt text](_static/images/en/client/media/image36.png)"
 #: ../../client_menus.md:131 53c78436cada4d4bb9fb83690882a941
 msgid "**坐席工号**:坐席工号应该是唯一的，它是注册sip电话机时的用户名。用途包括-通过浏览器登录系统，通过电话签入坐席组，内部拨号使用等。坐席工号是长度为2-6的数字组成，且首位非零，如01001不可设置，坐席工号设定后不可更改。"
 msgstr ""
-"**Agent Work Number**: The work number should be unique, it is the user "
+"**Agent No**: The work number should be unique, it is the user "
 "name when registering a SIP phone. "
 
 #: ../../client_menus.md:133 a37121c8b3ca4aa89df72383201df46f
@@ -511,7 +510,7 @@ msgstr "**Role**: Assign permission roles to this agent."
 
 #: ../../client_menus.md:135 c28f3a9a5ff242cc9c189beefd0298a5
 msgid "**名**：为这个坐席填写名字。"
-msgstr "**Name**: Fill in the name for this seat."
+msgstr "**First name**: Fill in the name for this seat."
 
 #: ../../client_menus.md:137 8565164b03f742c781d6319efada97ca
 msgid "**姓**：填写坐席姓氏。"
