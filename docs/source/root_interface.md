@@ -15,7 +15,7 @@ WCC系统根界面窗口主要由三个区域组成：①左侧菜单栏、②�
 ![alt text](_static/images/root/media/image4.png)
 
 #### b. 用户: 
-
+   
 ##### 代理商： 
 
 由系统用户建立
