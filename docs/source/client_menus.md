@@ -4168,15 +4168,14 @@ client可以在 **公告** 页面给坐席或是账户用户发送一个公告�
 
 ##### 3 坐席
 
-点击坐席页面可以看到坐席的实时信息。
+点击坐席页面可以看到坐席的实时信息。显示的坐席范围为：全部坐席，本页面显示的坐席数量与百分比页面坐席总数、坐席状态数量保持一致。
 
-![alt text](_static/images/client/media/image310.png)
-
+![alt text](_static/images/client/media/image310.png)  
 ##### 4 百分比
 
 如果坐席通话次数较多，可以直接切换到百分比模式（内部通话和转接通话不以百分比显示）
 
-![alt text](_static/images/client/media/image311.png)
+![alt text](_static/images/client/media/image311.png)  
 
 #### 3.13.2 大屏监控
 
