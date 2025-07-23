@@ -250,7 +250,47 @@ b.客户由任务A分配到任务B
 
 **工单**：对当前客户所建立过的工单进行查看（如下图）
 
-【图片需替换】
+![alt text](_static/images/agent/image-a34.png)
+
+坐席建立工单的基本流程：  
+
+①坐席在保存客户资料后会弹出工单资料的功能区  
+
+![alt text](_static/images/agent/image-a35.png)  
+
+②坐席在工单资料页面可以
+
+填写工单标题-->选择工单类别-->选择工单状态-->选择工单结果-->填写工单描述-->保存工单
+
+保存后的工单点击工单-->编辑可以查看
+
+![alt text](_static/images/agent/image-a36.png)
+
+③查看工单时，可以点击【预约时间】对工单进行预约  
+
+![alt text](_static/images/agent/image-a37.png)
+
+工单的预约可以有快速预约的时间选择(30分、1天、1周)，坐席也可以自定义工单的预约时间  
+
+![alt text](_static/images/agent/image-a38.png)
+
+④保存预约后，工单预约会显示在仪表盘中，如图所示  
+
+![alt text](_static/images/agent/image-a39.png)
+
+⑤在客户弹屏的工单相关记录功能区中，可以查看工单的修改记录
+
+![alt text](_static/images/agent/image-a40.png) 
+
+在预约时间中，可以删除工单预约,在仪表盘页面不会显示  
+
+![alt text](_static/images/agent/image-a41.png) 
+
+坐席还可以对工单进行评论，所有坐席的评论会显示在工单的评论中  
+
+![alt text](_static/images/agent/image-a42.png) 
+
+**订单**：
 
 **联络信息**：相当于一个关联通讯录，可以添加客户的亲属信息（如下图）
 
