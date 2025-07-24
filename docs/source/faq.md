@@ -322,4 +322,29 @@ B.使用坐席页面可以直接点击呼叫按钮然后输入第三方号码，
 
 ![alt text](_static/images/QA/image-17.png)
 
-话机的自动部署就会成功。
+话机的自动部署就会成功。  
+  
+    
+#### 11 同一系统下两个client之间呼叫，都需要做什么准备？  
+
+**建立中继**    
+
+1.建立一个使用ip的中继，ip(去astercc网站的中继上找）。因为都在同一个环境中，所以建立的中继就是本环境的  
+例如stg的两个client互相打，就建一个stgIP的中继    
+
+![alt text](_static/images/QA/image-18.png)  
+
+**建立外呼档案**  
+  
+2.以被叫号码-前缀匹配为条件，匹配目标client所用did的前缀，中继都使用同一个中继（上述创建好的）    
+
+例如：client1使用的did前缀是56，client2使用的did前缀是57  
+     那么client1--外呼档案1的前缀就匹配57，client2--外呼档案2前缀就匹配56  
+      
+![alt text](_static/images/QA/image-19.png)  
+
+**分配**  
+
+将创建好的外呼档案、did号码、外线号码等分配给对应的两个client，就可以双向进行呼叫了    
+  
+![alt text](_static/images/QA/image-20.png) 
