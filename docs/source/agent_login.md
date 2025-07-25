@@ -276,7 +276,7 @@ b.客户由任务A分配到任务B
 
 ④保存预约后，工单预约会显示在仪表盘中，如图所示  
 
-![alt text](_static/images/agent/image-a39.png)
+![alt text](_static/images/agent/image-a39.png)          
 
 ⑤在客户弹屏的工单相关记录功能区中，可以查看工单的修改记录
 
@@ -290,11 +290,27 @@ b.客户由任务A分配到任务B
 
 ![alt text](_static/images/agent/image-a42.png) 
 
-**订单**：
+**订单**：坐席可以在订单页面增加一个客户所属的订单
+
+![alt text](_static/images/agent/image-a43.png)
+
+添加订单：
+
+①添加产品名称，选择产品类型，选择订购
+
+![alt text](_static/images/agent/image-a44.png) 
+
+![alt text](_static/images/agent/image-a46.png) 
+
+②填写发货单号、快递单号、联络人、电话号码、地址等信息完善订单信息  
+
+![alt text](_static/images/agent/image-a45.png)
+
+![alt text](_static/images/agent/image-a47.png)
 
 **联络信息**：相当于一个关联通讯录，可以添加客户的亲属信息（如下图）
 
-【图片需替换】
+![alt text](_static/images/agent/image-a48.png)
 
 **历史联络记录**：主要包括销售漏斗、呼叫结果、备注，如果之前已经对客户进行过沟通，则会显示该客户以往保存的联络记录（如下图）
 
