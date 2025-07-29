@@ -345,6 +345,64 @@ B.使用坐席页面可以直接点击呼叫按钮然后输入第三方号码，
 
 **分配**  
 
-将创建好的外呼档案、did号码、外线号码等分配给对应的两个client，就可以双向进行呼叫了    
+3.将创建好的外呼档案、did号码、外线号码等分配给对应的两个client，就可以双向进行呼叫了    
   
-![alt text](_static/images/QA/image-20.png) 
+![alt text](_static/images/QA/image-20.png)   
+  
+    
+      
+#### 12  blf的使用说明及方法  
+  
+**1 功能说明** 
+
+**blf功能**：如果某一坐席需要知道另外一个或多个指定坐席目前所处的状态情况，就可以启动blf功能。   
+  
+**2 配置方法**  
+  
+目前blf功能可以在两种话机类型上实现。分别是硬电话、wcc网页电话。 
+  
+ **sip电话的配置步骤（以yealink为例）**    
+
+ ①登录sip电话的IP地址，进入到sip电话的功能配置页面  
+   
+![alt text](_static/images/QA/image-21.png)     
+  
+ ②在【账号】页面注册一个分机    
+
+![alt text](_static/images/QA/image-22.png)  
+  
+ ③点击【可编程按键】页面，将账号键2的类型改成blf，分别在值、标签、和分机号中填上被监控坐席的工号，点击【提交】按钮，sip话机上的账号2就启用了blf的功能，账号1中的分机就可以监控账号2中分机的状态  
+
+![alt text](_static/images/QA/image-23.png)  
+
+**注**如果在“值”中输入*85等功能键，监控坐席可以直接按sip电话上的指示灯按钮抢接被监控坐席的电话
+ 
+  
+ **wcc网页电话的配置步骤**  
+  
+ ①登录一个分机  
+   
+   ![alt text](_static/images/QA/image-24.png)   
+     
+ ②点击页面上的【设置】按钮，进入到自定义按键页面  
+   
+   ![alt text](_static/images/QA/image-25.png)   
+     
+   ![alt text](_static/images/QA/image-26.png)   
+     
+ ③在自定义按键页面可以选择添加一个或多个被监控的坐席  
+   
+  ![alt text](_static/images/QA/image-27.png)    
+    
+ ④添加成功后，就可以看到被监控坐席当前的状态了  
+   
+  ![alt text](_static/images/QA/image-28.png)   
+    
+      
+**颜色显示**  
+  
+  无论是sip电话还是wcc网页电话，若被监控的坐席指示灯显示的是绿色，说明该坐席当前处于空闲状态；若被监控坐席的指示灯显示的是红色，说明该坐席当前处于振铃、通话等繁忙状态。  
+    
+ ![alt text](_static/images/QA/image-29.png)  
+   
+ **注**：只有内线之间或外显号码呼入到被监控坐席时，才会触发该功能，指示灯才会变成红色，呼出到外线暂不支持该功能
