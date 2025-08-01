@@ -402,11 +402,87 @@ b.客户由任务A分配到任务B
 ![alt text](_static/images/agent/image-a63.png)
 
 **自动拨号**：坐席可以对列表中的客户进行自动拨打。点击自动拨号会显示坐席需要自动拨号的客户所满足的条件：
-拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。（
+
+拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。
+
 上次联络信息：坐席可以根据客户上次联络的时间界定所要拨打的客户号码。
+
 点击确定即进入按该条件执行的自动拨号：
-当坐席使用自动拨号模式时：（如下图
-倒计时：当坐席完成一个通话时，系统将开始倒计时 ，倒计时结束后系统将拨打下一个号码。
-延迟：坐席可以点击延迟按钮获得更多的时间。
-暂停：暂停自动拨号
-开始：是暂停的相反工作，表示继续自动拨号
+
+![alt text](_static/images/agent/image-a64.png)
+
+当坐席使用自动拨号模式时有以下控制键可以对自动拨号进行控制：
+
+![alt text](_static/images/agent/image-a65.png) 
+
+- 倒计时：当坐席完成一个通话时，系统将开始倒计时 ，倒计时结束后系统将拨打下一个号码。
+
+- 延迟：坐席可以点击延迟按钮获得更多的时间。
+
+- 暂停：暂停自动拨号。
+
+- 开始：是暂停的相反工作，表示继续自动拨号。
+
+### 2.3 状态栏
+
+#### 2.3.1 状态：
+
+坐席默认登录时显示的状态都是【准备】，这个状态是坐席默认的空闲状态。
+
+![alt text](_static/images/agent/image-a66.png) 
+
+当坐席有事需要离开时，可以选择暂停，此时这个坐席的状态显示为【暂停】
+
+![alt text](_static/images/agent/image-a67.png) 
+
+当有队列通话呼入，坐席接通挂断后，如果任务中设置了进入话后，则坐席状态会变成【话后】状态。
+
+![alt text](_static/images/agent/image-a68.png) 
+
+#### 2.3.2 通话 ( webrtc ) ：
+
+系统自带webrtc话机，在右上角打开webrtc按钮  
+
+![alt text](_static/images/agent/image-a69.png)
+
+注册好的话机，在鼠标放置于通话按钮上时会弹出注册信息  
+
+![alt text](_static/images/agent/image-a70.png)
+
+坐席使用webrtc的拨号盘进行拨号，拨号盘上有静音以及声音调节按钮  
+
+![alt text](_static/images/agent/image-a71.png)
+
+表头图标可以切换页面，切换至通话记录页面，可以查看使用webrtc的最近通话记录  
+
+![alt text](_static/images/agent/image-a72.png)
+
+也可以使用webrtc的自带联系人设置，添加联系人姓名  
+
+![alt text](_static/images/agent/image-a73.png)
+
+在设置页面，可以设置自动应答，即当有通话呼入到该坐席，坐席使用的webrtc可以直接接通这个通话。
+
+还可以设置挂机忙音，当坐席开启了挂机忙音，当坐席通话时对方挂断了通话，则会出现 " dududu " 的声音提示通话被挂断。  
+
+![alt text](_static/images/agent/image-a74.png)  
+
+当坐席输入号码进行拨号呼入对方未接通时，会显示振铃。
+
+![alt text](_static/images/agent/image-a75.png)  
+
+接通后状态中会显示通话的号码，保持，以及挂断键  
+
+![alt text](_static/images/agent/image-a76.png)  
+
+点击保持，坐席依然保持在通话状态，客户端会播放一段音乐，点击恢复，会回到通话状态  
+
+![alt text](_static/images/agent/image-a77.png)  
+
+在通话期间，如果在图示框中输入号码点击回车，或是点击绿色通话按钮，通话会被盲转至图示框中所输入的号码处。
+
+![alt text](_static/images/agent/image-a78.png)  
+
+#### 2.3.3 知识库/默认客户包 ：
+
+
