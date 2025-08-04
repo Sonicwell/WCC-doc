@@ -528,3 +528,60 @@ b.客户由任务A分配到任务B
 #### 2.3.4 消息通知 ：
 
 坐席右上角会显示一些审核内容提示通知，例如弹屏审核，dnd审核，以及知识库审核等。
+
+![alt text](_static/images/agent/image-a86.png)
+
+坐席点击聊天按钮，可以进入聊天界面。进入聊天界面有【用户】和【联系】两个通讯录可以选择。
+
+默认界面是【用户】界面。坐席在【用户】页面可以看到坐席所属坐席组的聊天组群，还可以在通讯记录中搜索聊天对象，或是查看聊天记录
+
+![alt text](_static/images/agent/image-a87.png)
+
+点击进入坐席组聊天页面，坐席组长会在右上角有一个铃铛图标，点击这个图标，坐席组长可以发送组内推送消息。
+
+![alt text](_static/images/agent/image-a88.png)
+
+![alt text](_static/images/agent/image-a89.png)
+
+推送消息分为两种：
+
+- 固定信息：该信息会一直滚动出现，只有坐席组长选择推送消息中的清除，该固定消息被清除。
+
+![alt text](_static/images/agent/image-a90.png)
+
+固定消息设置成功会在如图所示的位置显示，只有该组内坐席可以收到。
+
+![alt text](_static/images/agent/image-a91.png)
+
+只有坐席组长可以在推送消息中，点击【清除】清除这个固定消息。
+
+![alt text](_static/images/agent/image-a92.png)
+
+- 临时信息: 坐席组长还可以发送【临时消息】该消息默认持续时间为30秒，30秒后自动关闭。临时消息只有在线坐席可以接收到。
+
+![alt text](_static/images/agent/image-a93.png)
+
+#### 2.3.5 坐席组签入 ：
+
+- 坐席组：显示坐席用户所在的所有坐席组，可根据当前状况勾选☑是否【签入】到其中一个或多个坐席组，【签入】在坐席登录状态，默认显示。
+
+下图为例:坐席【签入】坐席组。坐席签入一个坐席组则表示该坐席准备好从该坐席组中接收呼叫。
+
+![alt text](_static/images/agent/image-a94.png)
+
+- 签出: 表示该坐席不再从签出的所有坐席组接收呼叫。
+
+![alt text](_static/images/agent/image-a95.png)
+
+- 我的公告： 有【我的公告】权限的坐席或是client，可以向坐席发布公告，公告会显示在仪表盘的公告栏中，坐席也可以由弹窗中【我的公告】进入查看。
+
+![alt text](_static/images/agent/image-a96.png)
+
+## 3 MicroSIP话机使用手册
+
+### 3.1 登录
+
+双击MiroSIP，打开话机，点击下拉按钮，选择【添加账户】，填写相关信息（如下图）：
+
+![alt text](_static/images/agent/image-a97.png)
+
