@@ -691,3 +691,89 @@ b.客户由任务A分配到任务B
 
 若刚好B坐席处于忙线状态则系统会直接挂断电话。（ 如下图 ）
 
+![alt text](_static/images/agent/image-a109.png)
+
+![alt text](_static/images/agent/image-a110.png)
+
+取消勾选【通话模式（无会议功能）】，转接功能为咨询转状态:
+
+当坐席A有呼入电话，需要转接到坐席B，应答后，在键盘中输入坐席B的号码，进行呼叫，客户会在系统中听等待音乐（如下图）
+
+![alt text](_static/images/agent/image-a111.png)
+
+坐席B接通后，点击【转移】——【坐席呼转】，客户的通话被转接到1002坐席B，建立通话后，坐席A电话挂断（如下图）
+
+![alt text](_static/images/agent/image-a112.png)
+
+坐席B为忙或无法接听而拒绝接听客户电话，坐席可将继续重复上述操作将通话转接至能够接听方，若转接不成功，该通话最终回到原坐席A处；
+
+转接过程中，坐席A点击客户的通话界面，则通话回到原坐席A处。（如下图）
+
+![alt text](_static/images/agent/image-a113.png)
+
+## 4 物理话机使用手册
+
+### 4.1 注册
+
+点击话机【菜单】进入主菜单（如下图）
+
+![alt text](_static/images/agent/image-a114.png)
+
+选择【基础设置】（如下图）
+
+![alt text](_static/images/agent/image-a115.png)
+
+选择【无线网络】，点击右键，将【无线网络 关闭】设置成【无线网络 开启】（如下图）
+
+![alt text](_static/images/agent/image-a116.png)
+
+选择【可用Wi-Fi网络】，选择要连的网络，点击【连接】，输入密码后保存（如下图）
+
+![alt text](_static/images/agent/image-a117.png)
+
+在主菜单页面选择【状态】，选择IPV4，查看IP（如下图）
+
+![alt text](_static/images/agent/image-a118.png)
+
+打开浏览器输入IP：192.168.31.68进入话机注册页面
+
+输入用户名，密码，点击登录（说明书默认账号，密码均为admin)如下图：
+
+![alt text](_static/images/agent/image-a119.png)
+
+一台话机可以登录两个号码，登陆后选择【ToIP】，在【账号1】和【账号2】下填写注册内容（如下图）
+
+![alt text](_static/images/agent/image-a120.png)
+
+将【基本设置】中的【账号使能】点击成【开启】
+
+![alt text](_static/images/agent/image-a121.png)
+
+【用户信息】中【显示名称】可以随意设置
+
+若注册号码为外线 ：
+
+![alt text](_static/images/agent/image-a122.png)
+
+【认证名称】和【注册账号】均为要注册的外线号码
+
+【密码】提前设定好的密码
+
+【注册服务器】：freepbx14.cbacloud.net
+
+【注册服务器端口】和【代理服务器端口】均为：5080
+
+若注册号码为内线：
+
+![alt text](_static/images/agent/image-a123.png)
+
+【认证名称】和【注册账号】均为坐席号码（如上图），【密码】对应sip分机注册密码（如下图）
+
+![alt text](_static/images/agent/image-a124.png)
+
+【注册服务器】对应Client名；【代理服务器】为：wcc1-dev-rakuten.az.cba-japan.com；【注册服务器端口】和【代理服务器端口】均为：6060（如下图）
+
+![alt text](_static/images/agent/image-a125.png)
+
+### 4.2 转接
+
