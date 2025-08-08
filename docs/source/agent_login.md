@@ -777,3 +777,89 @@ b.客户由任务A分配到任务B
 
 ### 4.2 转接
 
+#### 4.2.1 盲转
+
+通话过程中，在话机上点击【转接】（如下图）
+
+![alt text](_static/images/agent/image-a126.png)
+
+输入转接坐席B的坐席工号，再点击【盲转】，盲转成功，操作完成。（如下图）
+
+![alt text](_static/images/agent/image-a127.png)
+
+#### 4.2.2 咨询转
+
+通话过程中，在话机上点击【转接】（如下图）
+
+![alt text](_static/images/agent/image-a128.png)
+
+坐席A和转接坐席B建立通话后，坐席A点击【转接】，咨询转成功，操作完成。（如下图）
+
+![alt text](_static/images/agent/image-a129.png)
+
+#### 4.2.3 驻留
+
+通话过程中，在话机上点击【转接】（如下图）
+
+![alt text](_static/images/agent/image-a130.png)
+
+输入驻留号码（系统默认为“700”，可在功能键页面更改），点击【发送】，话机会有提示音，提示“驻留成功，取回号码为701”，其他坐席可直接输入驻留号码取回驻留的客户。（如下图）
+
+![alt text](_static/images/agent/image-a131.png)
+
+## 5 rectel
+
+### 5.1 注册
+
+填写话机名和SIP注册密码（如下图）
+
+![alt text](_static/images/agent/image-a132.png)
+
+点击登录页面的Login，在填写域名，点Next（如下图）
+
+![alt text](_static/images/agent/image-a133.png)
+
+点skip（如下图）
+
+![alt text](_static/images/agent/image-a134.png)
+
+运行完继续点Skip（如下图）
+
+![alt text](_static/images/agent/image-a135.png)
+
+点击YES（如下图）
+
+![alt text](_static/images/agent/image-a136.png)
+
+点击创建账户（如下图）
+
+![alt text](_static/images/agent/image-a137.png)
+
+点击红框位置编辑这个账号（如下图）
+
+![alt text](_static/images/agent/image-a138.png)
+
+勾选【Use outbound proxy】，填写服务器网址（如下图）
+
+![alt text](_static/images/agent/image-a139.png)
+
+点击Register，在点yes（如下图）
+
+![alt text](_static/images/agent/image-a140.png)
+
+注册成功（如下图）
+
+![alt text](_static/images/agent/image-a141.png)
+
+### 5.2 转接操作
+
+坐席可以在搜索框或软键盘中，直接输入号码，输入号码后点击电话图标或键盘上的Enter键，若用软键盘输入，也可点击【Dial]】，对客户进行呼叫（如下图）
+
+![alt text](_static/images/agent/image-a142.png)
+
+Contacts:显示联系人列表，打开联系人列表，可以点击星号标将联系人添加到【Favorites】列表中，也可以对客户进行编辑。（如下图）\
+
+![alt text](_static/images/agent/image-a143.png)
+
+Recent:显示最近联系记录（如下图）
+
