@@ -550,7 +550,6 @@ msgid "![alt text](_static/images/client/media/image37.png)"
 msgstr "![alt text](_static/images/en/client/media/image37.png)"
 
 #: ../../client_menus.md:158 5313342aaa3c4292834cd2415c50893e
-#, fuzzy
 msgid ""
 "**外显号码**: "
 "定义坐席外呼时显示的主叫号码。设置外显号码的地方有三处，分别是系统偏好，外呼任务，坐席，如果三处均设置不一样的外显号码，他们的显示关系为坐席>任务>系统偏好，坐席设置的外显号码最优先显示。如果该坐席设置了多个外显号码，显示规则受系统-"
@@ -790,7 +789,6 @@ msgid "①点击【添加】，进入添加 坐席组的通用页面："
 msgstr "①Click [Add] to enter the general page of the Add agent group:"
 
 #: ../../client_menus.md:248 3d18a8e2588a4b3c93ddc100b9e97995
-#, fuzzy
 msgid "![alt text](_static/images/client/media/image329.png)"
 msgstr "![alt text](_static/images/en/client/media/image329.png)"
 
@@ -1202,7 +1200,6 @@ msgid "![alt text](_static/images/client/media/image48.png)"
 msgstr "![alt text](_static/images/en/client/media/image48.png)"
 
 #: ../../client_menus.md:396 959e1177e74d40c2839528ee5bb91a0d
-#, fuzzy
 msgid "名称：请为这个权限的角色命名。"
 msgstr "Name: Please name the role with this permission."
 
@@ -1242,7 +1239,6 @@ msgstr ""
 "call records, and the call records for other seats cannot be viewed."
 
 #: ../../client_menus.md:408 b9e4079e310f44eea51fa2142e373832
-#, fuzzy
 msgid "③点击权限设置进入添加/编辑角色和权限的权限设置页面："
 msgstr ""
 "③ Click on the permission settings to enter the permission settings page for"
@@ -1264,7 +1260,6 @@ msgstr ""
 "account with the role does not have the permission to add the agent."
 
 #: ../../client_menus.md:414 352c92ccf6bb419ca598aa5ff4e605b2
-#, fuzzy
 msgid "④完成以上步骤后点击保存即可保存该角色权限。"
 msgstr ""
 "④ After completing the above steps, click Save to save the permissions of "
@@ -1307,7 +1302,6 @@ msgid "【添加】添加一个新的部门"
 msgstr "【Add】Add a new department"
 
 #: ../../client_menus.md:432 2dcee6791be6433e8ff9b347cf7ea63b
-#, fuzzy
 msgid "【显示/隐藏字段】选择在部门页面需要显示或是需要隐藏的字段。"
 msgstr ""
 "[Show/Hide Fields] Select the fields that need to be displayed or hidden on "
@@ -1346,7 +1340,6 @@ msgid "**部门名称**：请填写这个部门名称。"
 msgstr "**Department name**: Please fill in the name of this department."
 
 #: ../../client_menus.md:452 6cdd99305263406a849d6d013305ddc1
-#, fuzzy
 msgid "**坐席**：当前Client用户已创建的坐席，添加在该部门的坐席成员，可以选择多个坐席到此部门，但一个坐席只能在一个部门中。"
 msgstr ""
 "**Agent**: The current client user has created a seat. Add a seat member in "
@@ -1477,7 +1470,6 @@ msgid "![alt text](_static/images/client/media/image59.png)"
 msgstr "![alt text](_static/images/en/client/media/image59.png)"
 
 #: ../../client_menus.md:502 36848d25b4644e44ba2f959f55bfd8a2
-#, fuzzy
 msgid ""
 "***字段显示顺序***- "
 "用户可以在字段顺序设置中拖动字段，更该字段的排列顺序，姓名字段默认在第一位不可更改。字段可按标签A和标签B两个标签区分显示，标签B区背景颜色为高亮。在字段操作中，可以对字段是否必填，自定义字段是否在客户资料弹屏的自定义通话记录中进行编辑，字段和字段中填写内容的宽度可根据需要进行设置。"
@@ -1581,7 +1573,6 @@ msgid "必填：该字段是否为必填。"
 msgstr "Required: Whether this field is required."
 
 #: ../../client_menus.md:544 8a25c83cdd7b4bb68f57094cb4096e18
-#, fuzzy
 msgid "唯一索引：该字段是否有唯一性。"
 msgstr "Unique index: Whether this field is unique."
 
@@ -1631,7 +1622,6 @@ msgid "***输入框***-用户可以输入数据但无法换行；"
 msgstr "***Input box***-Users can enter data but cannot wrap lines;"
 
 #: ../../client_menus.md:566 77647f5a8e514c80947fcefdfd7cf980
-#, fuzzy
 msgid "***电话号码***-填写一个电话号码；"
 msgstr "*** Phone number***-Fill in a phone number;"
 
@@ -1656,7 +1646,6 @@ msgid "***附件***-选择一个附件进行上传；"
 msgstr "***Attachment***-Select an attachment to upload;"
 
 #: ../../client_menus.md:578 77647f5a8e514c80947fcefdfd7cf980
-#, fuzzy
 msgid "***地址***-选择一个默认地址；"
 msgstr "***Address***-Select a default address;"
 
@@ -1681,7 +1670,6 @@ msgstr ""
 "search will speed up the search speed of this custom field."
 
 #: ../../client_menus.md:588 5f66d28d1eb741d6ac3ada9e519f54b7
-#, fuzzy
 msgid "**成功必填字段**：当提交成功状态联络记录（销售漏斗的值大于0）时，当前字段是否必填"
 msgstr ""
 "**Required fields for success**: When submitting a successful status contact"
@@ -1689,12 +1677,10 @@ msgstr ""
 "field required?"
 
 #: ../../client_menus.md:590 a6bec6e1483f47919e6c693e17ce16b0
-#, fuzzy
 msgid "**必填**：是否为必填字段。"
 msgstr "**Required**: Whether it is a required field."
 
 #: ../../client_menus.md:592 7e7bbb0fafdd4eb9bd452ee94e9fde84
-#, fuzzy
 msgid "**唯一索引**：是否是唯一性（什么是唯一性？表里数据的当前字段没有重复值）。"
 msgstr ""
 "**Unique Index**: Is it uniqueness (What is uniqueness? The current field of"
@@ -1756,7 +1742,6 @@ msgid "唯一标识：该客户报的唯一标识。"
 msgstr "Unique ID: The unique ID reported by the customer."
 
 #: ../../client_menus.md:620 33e52974ec9746b588ef22d0a1036245
-#, fuzzy
 msgid "唯一键值：该客户包的不可重复的加速搜索字段，对常用字段来说设置比较方便查找。"
 msgstr ""
 "Unique key value: The non-repeatable accelerated search field of this "
@@ -1804,7 +1789,6 @@ msgstr ""
 "to close the customer package for viewing. "
 
 #: ../../client_menus.md:636 5904a496913b46b9bcfac6822f4aa9d2
-#, fuzzy
 msgid "**全局唯一**：选中代表客户包下的客户号码全局唯一，即使用一个客户的多个同一号码字段，也会提示重复。"
 msgstr ""
 "**Global unique**: Select the global unique customer number under the "
@@ -1812,7 +1796,6 @@ msgstr ""
 "used, it will also be prompted to be repeated."
 
 #: ../../client_menus.md:638 f3a505fa1d704e19a9a569a532d62e40
-#, fuzzy
 msgid "**唯一键值**：用户可以设置唯一索引字段，索引字段可添加多个，添加成唯一唯一索引字段后，在该客户包下该索引字段下不可以重复。"
 msgstr ""
 "**Unique key value**: Users can set a unique index field. Multiple index "
@@ -1868,7 +1851,6 @@ msgstr ""
 "area, area, and notes."
 
 #: ../../client_menus.md:658 47ee0e08796a493cbc1d1715019ba204
-#, fuzzy
 msgid "【搜索】后面的【请选择】为销售漏斗，显示该客户包下的所有销售漏斗，根据坐席提交的销售漏斗，用户可以搜索销售漏斗里的客户数据。."
 msgstr ""
 "[Search] The following [Please select] is the sales funnel, which displays "
@@ -1909,7 +1891,6 @@ msgid ""
 msgstr "[Customer Allocation] Allocate customer data. "
 
 #: ../../client_menus.md:672 ab087e43936e4308bdf125932e2b049c
-#, fuzzy
 msgid "客户数据可以从以下三种形式进行分配:"
 msgstr "Customer data can be allocated from the following three forms:"
 
@@ -1950,7 +1931,6 @@ msgid "![alt text](_static/images/client/media/image70.png)"
 msgstr "![alt text](_static/images/en/client/media/image70.png)"
 
 #: ../../client_menus.md:687 6d3859dd5976463b957121692839b00b
-#, fuzzy
 msgid "【工具】"
 msgstr "【tool】"
 
@@ -1963,14 +1943,12 @@ msgid "![alt text](_static/images/client/media/image71.png)"
 msgstr "![alt text](_static/images/en/client/media/image71.png)"
 
 #: ../../client_menus.md:693 2b67b837eecb483794ac8e96ddfb0bf4
-#, fuzzy
 msgid "***数据导入***-将CSV格式的数据批量导入; (导入的客户数据文件不能超过     20 MB)"
 msgstr ""
 "***Data Import***-Batch import of data in CSV format; (The imported customer"
 " data file cannot exceed 20 MB)"
 
 #: ../../client_menus.md:696 2676aa4afac34e46ac2490193594e1cb
-#, fuzzy
 msgid "***添加至禁呼列表***-将选中的客户数据添加到禁呼列表;"
 msgstr ""
 "***Add to the banned call list***-Add the selected customer data to the "
@@ -1997,12 +1975,10 @@ msgid "姓名：客户的姓名。"
 msgstr "Name: The customer's name."
 
 #: ../../client_menus.md:708 71979e2edfed4862ab588c04b721d8ae
-#, fuzzy
 msgid "電話番号：客户的电话号码"
 msgstr "Phone number: Customer's phone number"
 
 #: ../../client_menus.md:710 4f9cd05a05ef419c905168facaa59c63
-#, fuzzy
 msgid "Eメール: 客户的邮箱地址。"
 msgstr "Eメール: Customer's email address."
 
@@ -2019,12 +1995,10 @@ msgid "住所：客户的住址。"
 msgstr "Residence: The client's address."
 
 #: ../../client_menus.md:718 aa5918e3d15147f991bd122cf3d3305b
-#, fuzzy
 msgid "地域：客户所在地区。"
 msgstr "Region: The customer's area."
 
 #: ../../client_menus.md:720 d9005bb29a544ce1a9473d854b58ff5e
-#, fuzzy
 msgid "顧客タグ：设置的客户标签。"
 msgstr "Customer: Set customer tags."
 
@@ -2077,12 +2051,10 @@ msgid "3.新增客户数据"
 msgstr "3 Add new customer data"
 
 #: ../../client_menus.md:744 62b339782f854968b86afacaf0ba39c9
-#, fuzzy
 msgid "3.1单条数据创建"
 msgstr "3.1 Single data creation"
 
 #: ../../client_menus.md:746 1df1a059307f4f99a53c87b5dd53cc72
-#, fuzzy
 msgid "①点击添加进入添加/编辑客户数据的常规页面:"
 msgstr ""
 "① Click Add to enter the general page for adding/editing customer data:"
@@ -2103,12 +2075,10 @@ msgstr ""
 "repeatedly."
 
 #: ../../client_menus.md:754 4f9cd05a05ef419c905168facaa59c63
-#, fuzzy
 msgid "**Eメール**: 客户的邮箱地址。"
 msgstr "**Eメール*: Customer's email address."
 
 #: ../../client_menus.md:756 cbf7cf744d71439e8b6151652f8ad21d
-#, fuzzy
 msgid "**性别**：客户的性别"
 msgstr "**Gender**: The gender of the client"
 
@@ -2117,7 +2087,6 @@ msgid "**年龄**: 客户的年龄。"
 msgstr "**Age**: The age of the client."
 
 #: ../../client_menus.md:760 7d961ff3ef434d76ab92bf0d00dbf926
-#, fuzzy
 msgid "**住所**：客户的住址。"
 msgstr "**Residence**: The client’s address."
 
@@ -2136,7 +2105,6 @@ msgstr ""
 "the new field in the Add/Edit Customer Data page."
 
 #: ../../client_menus.md:768 9d663156b84a487b80aca79b2091fbad
-#, fuzzy
 msgid "![alt text](_static/images/client/media/image74.png)"
 msgstr "![alt text](_static/images/en/client/media/image74.png)"
 
@@ -2425,7 +2393,6 @@ msgstr ""
 "history."
 
 #: ../../client_menus.md:870 f8265700f6144ac5a65ab6365b4dc5d6
-#, fuzzy
 msgid "【请选择任务】选择需要查询电话记录的任务。"
 msgstr "[Please select a task] Select the task to query the phone record."
 
@@ -3585,7 +3552,6 @@ msgstr ""
 "display or hide."
 
 #: ../../client_menus.md:1351 5b967a8e319947d3a20ebe93c0343f48
-#, fuzzy
 msgid "【状态】为用户可以选择任务的状态，例如启用、隐藏、关闭来查看任务。"
 msgstr ""
 "【Status】The status of the user can select the task, such as enable, hide, "
@@ -3777,7 +3743,6 @@ msgstr ""
 "**External Number**: The calling number used by the system in this task."
 
 #: ../../client_menus.md:1423 247124cf2b88410c925f3a839ab1cd24
-#, fuzzy
 msgid "**工作时间**：设置任务的工作时间，如果不在任务的工作时间内，坐席将不能接听或是拨打来自此任务的客户数据。"
 msgstr ""
 "**Working hours**: Set the working hours of the task. If it is not during "
@@ -4052,7 +4017,6 @@ msgstr ""
 "when the customer answers the call. "
 
 #: ../../client_menus.md:1517 21c6152aa8f841d69c3aaf7b30af3588
-#, fuzzy
 msgid "**最大输入长度**-:使用预拨号时，客户接通电话后，如果客户输入一个键并按任意一个键或自动挂断， 则记录中没有记录。（不允许输入负数）"
 msgstr ""
 "**Maximum input length**-: When using pre-dial, after the customer receives "
@@ -4176,7 +4140,6 @@ msgstr ""
 " belongs."
 
 #: ../../client_menus.md:1563 84c7a09ea4b34187850a018a0a696026
-#, fuzzy
 msgid "【呼叫结果】选择成功提交客户的呼叫结果。（显示绑定销售漏斗>0和未绑定任务的呼叫结果）"
 msgstr ""
 "【Call Results】Select to submit the call result of the customer successfully."
@@ -4212,32 +4175,26 @@ msgid "电话号码：成功提交客户电话号码。"
 msgstr "Phone number: Submit the customer phone number successfully."
 
 #: ../../client_menus.md:1579 1b10cffb35df4969a2de2f5e9e1a270e
-#, fuzzy
 msgid "电子邮件：成功提交客户的电子邮件。"
 msgstr "Email: Submit the client's email successfully."
 
 #: ../../client_menus.md:1581 ecba3151fec44ecba40c50bf94f423a9
-#, fuzzy
 msgid "性别：成功提交客户的性别。"
 msgstr "Gender: The gender of the client successfully submitted."
 
 #: ../../client_menus.md:1583 ecba3151fec44ecba40c50bf94f423a9
-#, fuzzy
 msgid "年龄：成功提交客户的年龄。"
 msgstr "Age: The age of the successful submission of the client."
 
 #: ../../client_menus.md:1585 ecba3151fec44ecba40c50bf94f423a9
-#, fuzzy
 msgid "住所：成功提交客户的住址。"
 msgstr "Residence: Successfully submitted the client's address."
 
 #: ../../client_menus.md:1587 ec456bf74e914c95893cbb51ca7c5fe8
-#, fuzzy
 msgid "地域：成功提交客户所在的地区。"
 msgstr "Region: The region where the client was successfully submitted."
 
 #: ../../client_menus.md:1589 58d5e696241042999a881cb848c3dc43
-#, fuzzy
 msgid "客户标签：该成功提交客户保存的客户标签。"
 msgstr ""
 "Customer Tag: This successfully submits the customer's saved customer tag."
@@ -4259,7 +4216,6 @@ msgid "呼叫结果：该成功提交客户的呼叫结果。"
 msgstr "Call result: The client's call result is successfully submitted."
 
 #: ../../client_menus.md:1597 641e2c1b227e446996324908ceecd9f5
-#, fuzzy
 msgid "最后更新：该成功提交客户最后更新客户资料的时间。"
 msgstr ""
 "Last update: The time when the customer was successfully submitted to the "
@@ -4272,7 +4228,6 @@ msgstr ""
 "to the client."
 
 #: ../../client_menus.md:1601 6792c7ce55a64fedae8f7c8a02b7dbf6
-#, fuzzy
 msgid "最后分配时间：该成功提交客户最后分配的时间。"
 msgstr ""
 "Last allocated time: The last allocated time that the client has "
@@ -4505,7 +4460,6 @@ msgstr ""
 "the process of turning on pre-dialization. "
 
 #: ../../client_menus.md:1687 376b38b059ad477a9fc5646e2d9d398a
-#, fuzzy
 msgid "![alt text](_static/images/client/media/image138.png)"
 msgstr "![alt text](_static/images/en/client/media/image138.png)"
 
@@ -4514,7 +4468,6 @@ msgid "③点击【回收】，对任务中的客户数据进行回收。在【�
 msgstr "③Click [Recycle] to recycle customer data in the task. "
 
 #: ../../client_menus.md:1691 29bbd4dd068e42fda0493d2808906235
-#, fuzzy
 msgid "![alt text](_static/images/client/media/image139.png)"
 msgstr "![alt text](_static/images/en/client/media/image139.png)"
 
@@ -4628,7 +4581,6 @@ msgid "**开始时间**：客户开始振铃的时间。"
 msgstr "**Start time**: The time when the customer starts ringing."
 
 #: ../../client_menus.md:1733 462ede5c6e3e4fdaa183e57d79c1fb15
-#, fuzzy
 msgid "**振铃时长**：客户振铃的时长。"
 msgstr "**Ringing Duration**: The length of time the customer rings."
 
@@ -4985,7 +4937,6 @@ msgid "质检备注：质检的备注。"
 msgstr "Quality inspection notes: Quality inspection notes."
 
 #: ../../client_menus.md:1893 d9c1b8d7ee934d3e9d288e5d0e23532d
-#, fuzzy
 msgid "电话号码：客户的电话号码."
 msgstr "Phone number: Customer's phone number."
 
@@ -5150,7 +5101,6 @@ msgstr ""
 "search."
 
 #: ../../client_menus.md:1957 0263c0557cd54eaa89140fd1416794ac
-#, fuzzy
 msgid "【添加】添加一个新的质检词条（上限为40个字符）。"
 msgstr "【Add】Add a new quality inspection entry (up to 40 characters)."
 
@@ -5298,7 +5248,6 @@ msgstr ""
 "that use the same incoming rules into a group. "
 
 #: ../../client_menus.md:2023 85ec02b21fe7409ba35880144d574eea
-#, fuzzy
 msgid ""
 "**绑定客户包**：不绑定，将使用系统偏好设置下设置的默认客户包，默认客户包即使用默认客户表，绑定后选择具体客户包，标明当前DID与该客户包进行绑定，当客户包不可见时，会释放当前DID，并且该字段重置为不绑定。"
 msgstr ""
@@ -5546,7 +5495,6 @@ msgid "【编辑】对已经建立好的媒体文件进行编辑。"
 msgstr "[Edit] Edit the established media files."
 
 #: ../../client_menus.md:2123 c9dd0bb2ed234ad1b53c307494952de6
-#, fuzzy
 msgid "【下拉菜单】在下拉菜单中用户可以对该条媒体文件进行预览、下载或是删除操作。"
 msgstr ""
 "[Drop-down menu] In the drop-down menu, the user can preview, download or "
@@ -5629,14 +5577,12 @@ msgid "**文件类型**："
 msgstr "**File Type**:"
 
 #: ../../client_menus.md:2165 811e4764db184303b28525512d1c247f
-#, fuzzy
 msgid "***语音文件***：通常是一个短的语音消息，可以在IVR和语音播报中使用。"
 msgstr ""
 "***Voice File***: Usually a short voice message that can be used in IVR and "
 "voice broadcasts."
 
 #: ../../client_menus.md:2167 051b391b9e944df2b1a75543a51d709f
-#, fuzzy
 msgid "***等待音乐***：系统将在客户呼叫处于等待状态时播放的音乐，也可以在坐席组中使用。"
 msgstr ""
 "***Waiting for Music***: Music played when the system calls the customer in "
@@ -5730,7 +5676,6 @@ msgstr ""
 "will specify the rules for the incoming call route. "
 
 #: ../../client_menus.md:2207 f6cfae1066904f9bb66d5506d84fd25e
-#, fuzzy
 msgid "**一类是以主叫号码为主**，设置主叫号码的规则形式："
 msgstr ""
 "**The first category is mainly based on the calling number**, and the rule "
@@ -5747,7 +5692,6 @@ msgstr ""
 "rule may not display the area information normally.   "
 
 #: ../../client_menus.md:2214 f6cfae1066904f9bb66d5506d84fd25e
-#, fuzzy
 msgid "**一类是以DID号码为主**，设置DID号码的规则形式："
 msgstr ""
 "**The first category is mainly DID numbers**, setting the rule form of DID "
@@ -5876,7 +5820,6 @@ msgid "**菜单名称**：为这个IVR命名。"
 msgstr "**Menu Name**: Name this IVR."
 
 #: ../../client_menus.md:2273 aeb1142d99b3422798a27b5d9a310f64
-#, fuzzy
 msgid "**内线号码**：定义这个IVR的内线号码，从内线sip分机上拨打该内线号码均可达到此IVR。"
 msgstr ""
 "**Inside Number**: Define the inside number of this IVR. Calling the inside "
@@ -7497,7 +7440,6 @@ msgid "3 添加一个新的问卷"
 msgstr "3 Add a new questionnaire"
 
 #: ../../client_menus.md:2977 4ab2d1c103d644a984d118ec32978110
-#, fuzzy
 msgid "①点击添加进入添加/编辑问卷常规页面："
 msgstr "① Click Add to enter the Add/Edit Questionnaire General Page:"
 
@@ -7514,7 +7456,6 @@ msgid "**问卷类型**：选择问卷的类型"
 msgstr "**Query Type**: Select the type of questionnaire"
 
 #: ../../client_menus.md:2985 c619ab0286864f6883664d538a3f327a
-#, fuzzy
 msgid "***文本问卷***将此调查应用于任务后，任务中的客户可以根据调查中设置的问题进行填写和选择。"
 msgstr ""
 "***Text Questionnaire***After applying this survey to the task, customers in"
@@ -7522,7 +7463,6 @@ msgstr ""
 "survey."
 
 #: ../../client_menus.md:2987 b25870f64fd649148a61c13a8a8a774f
-#, fuzzy
 msgid "***语音问卷***将调查问卷应用于任务后，通过预拨号呼出的客户将听到以语音格式播放的调查问题（需要配置TTS 引擎且暂时不可用）。"
 msgstr ""
 "***Voice Questionnaire***After applying the questionnaire to a task, "
@@ -7748,7 +7688,6 @@ msgid "**模板名称**：为这个模板命名。"
 msgstr "**Template name**: Name this template."
 
 #: ../../client_menus.md:3087 5d7cfe84b7d546c7860a80fffcf93d5f
-#, fuzzy
 msgid "**选项类型**："
 msgstr "**Option Type**:"
 
@@ -7757,7 +7696,6 @@ msgid "![alt text](_static/images/client/media/image244.png)"
 msgstr "![alt text](_static/images/en/client/media/image244.png)"
 
 #: ../../client_menus.md:3091 2a8b1ab143a4433389c914d387100982
-#, fuzzy
 msgid "***单选***-此问题只能选择一个选项。"
 msgstr "***Single-Select***-This question can only select one option."
 
@@ -7772,7 +7710,6 @@ msgstr ""
 "single choice."
 
 #: ../../client_menus.md:3097 d131a45010184dda8b26ca35a962bfbd
-#, fuzzy
 msgid "***单选+下拉框***此问题每个单选后面都可以下拉添加选项</span>."
 msgstr ""
 "***Single choice + drop-down box***This problem can be followed by drop-down"
@@ -7872,39 +7809,32 @@ msgid "姓名：该问卷所属客户的姓名。"
 msgstr "Name: The name of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3141 509620699c3949f9a3eff9b5a35e5c6a
-#, fuzzy
 msgid "电话号码：该问卷所属客户的号码。"
 msgstr ""
 "Phone number: The number of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3143 98df736e083f4f2fb9e14dc400993ad2
-#, fuzzy
 msgid "电子邮件：该问卷所属客户的电子邮件。"
 msgstr "Email: Email of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3145 22851459ac614d269b72abc092eff840
-#, fuzzy
 msgid "性别：该问卷所属客户的性别。"
 msgstr "Gender: The gender of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3147 22851459ac614d269b72abc092eff840
-#, fuzzy
 msgid "年龄：该问卷所属客户的年龄。"
 msgstr "Age: The age of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3149 22851459ac614d269b72abc092eff840
-#, fuzzy
 msgid "住所：该问卷所属客户的住址。"
 msgstr ""
 "Residence: The address of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3151 22851459ac614d269b72abc092eff840
-#, fuzzy
 msgid "地域：该问卷所属客户的地区。"
 msgstr "Region: The region of the client to which the questionnaire belongs."
 
 #: ../../client_menus.md:3153 22851459ac614d269b72abc092eff840
-#, fuzzy
 msgid "备注：该问卷所属客户的备注。"
 msgstr "Note: Notes of the client to which this questionnaire belongs."
 
@@ -8083,12 +8013,10 @@ msgid "【编辑】对已建立的短信模板进行编辑。"
 msgstr "[Edit] Edit the created SMS template."
 
 #: ../../client_menus.md:3239 83129263878b4e4390ce9ecc3a1c8370
-#, fuzzy
 msgid "【下拉菜单】删除这个短信模板及发送模板内容。"
 msgstr "[Drop-down menu] Delete this SMS template and send template content."
 
 #: ../../client_menus.md:3241 5cd7d13f247c47ae90fe54eae94a930d
-#, fuzzy
 msgid "![alt text](_static/images/client/media/image330.png)"
 msgstr ""
 
@@ -8537,17 +8465,14 @@ msgid "【下拉菜单】删除该工单状态."
 msgstr "[Drop-down menu] Delete the ticket status."
 
 #: ../../client_menus.md:3455 7d722b33a72347ae8ad08af564f4f6e1
-#, fuzzy
 msgid "状态:工单状态的名称。"
 msgstr "Status: The name of the ticket status."
 
 #: ../../client_menus.md:3457 d6ffe2f61d474e4faacda5964b780ccf
-#, fuzzy
 msgid "创建时间：工单状态的创建时间。"
 msgstr "Creation time: The creation time of the ticket status."
 
 #: ../../client_menus.md:3459 d7f8a2710dcc40179efe75c14e7bd9c6
-#, fuzzy
 msgid "最后更新：该工单状态最后的更新时间。"
 msgstr "Last updated: The last update time of the ticket status."
 
@@ -9030,7 +8955,6 @@ msgid "状态：这个坐席待办的处理状态。"
 msgstr "Status: The processing status of this seat to be handled."
 
 #: ../../client_menus.md:3691 3e85790020584f4f942399bc0b22422d
-#, fuzzy
 msgid "所属坐席：创立这个坐席待办的人."
 msgstr "The seat: the person who founded this seat to be held."
 
@@ -9642,13 +9566,11 @@ msgstr ""
 "seat group."
 
 #: ../../client_menus.md:3943 9a5517f3ab03447092bec12c5bbfe932
-#, fuzzy
 msgid "呼入放弃率：该坐席组的呼入放弃率。"
 msgstr ""
 "Incoming abandonment rate: Incoming abandonment rate of the agent group."
 
 #: ../../client_menus.md:3945 d7d3851b11cf4f1fb400b73773aabf0d
-#, fuzzy
 msgid "放弃平均等待时长：该坐席组的未应答通话的平均等待时间。"
 msgstr ""
 "Average waiting time for abandonment: The average waiting time for the "
@@ -10610,7 +10532,6 @@ msgid "3 添加销售漏斗"
 msgstr "3 Add sales funnel"
 
 #: ../../client_menus.md:4369 3c7e9e263bd04611949935f85352870f
-#, fuzzy
 msgid "①点击【添加】按钮，进入销售漏斗添加/编辑常规界面："
 msgstr ""
 "①Click the [Add] button to enter the general interface for adding/editing of"

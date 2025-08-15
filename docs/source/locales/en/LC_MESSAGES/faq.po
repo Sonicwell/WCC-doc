@@ -1660,7 +1660,6 @@ msgstr ""
 "clients of stg are fighting each other, and a relay of stgIP is created."
 
 #: ../../faq.md:335 8b2cd6d09ceb45d8b674267674ab2798
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-18.png)"
 msgstr ""
 
@@ -1685,12 +1684,10 @@ msgstr ""
 "and the prefix of client2--out call file 2 matches 56"
 
 #: ../../faq.md:344 60e25afdae394e43bea52f3bf0c9fe4a
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-19.png)"
 msgstr ""
 
 #: ../../faq.md:346 a5f448efd6bc40ab83d1b31fb34898b2
-#, fuzzy
 msgid "**分配**"
 msgstr "**distribute**"
 
@@ -1701,7 +1698,6 @@ msgstr ""
 "to the corresponding two clients, and you can make calls in both directions."
 
 #: ../../faq.md:350 fbc6f060befe4540be0d1434a03ec18e
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-20.png)"
 msgstr ""
 
@@ -1739,7 +1735,6 @@ msgstr ""
 "configuration page of the sip phone"
 
 #: ../../faq.md:368 86f34fc113bd44dc92b621b6bccf2ac0
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-21.png)"
 msgstr ""
 
@@ -1748,7 +1743,6 @@ msgid "②在【账号】页面注册一个分机"
 msgstr "② Register an extension on the [Account] page"
 
 #: ../../faq.md:372 515385bf45cd4458a2207b8ce975d665
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-22.png)"
 msgstr ""
 
@@ -1762,7 +1756,6 @@ msgstr ""
 "extension in account 1 can monitor the status of the extension in account 2."
 
 #: ../../faq.md:376 7a77d91c17bd4f2281bb96535a77253e
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-23.png)"
 msgstr ""
 
@@ -1782,7 +1775,6 @@ msgid "①登录一个分机"
 msgstr "①Login an extension"
 
 #: ../../faq.md:385 46c75ce326ad448292a2042699699b56
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-24.png)"
 msgstr ""
 
@@ -1791,12 +1783,10 @@ msgid "②点击页面上的【设置】按钮，进入到自定义按键页面"
 msgstr "②Click the [Settings] button on the page to enter the custom key page"
 
 #: ../../faq.md:389 5c568267855a4d2f8f052c78577ee9c3
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-25.png)"
 msgstr ""
 
 #: ../../faq.md:391 80ad098d00184fc58d9ae39c7dbbc5c3
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-26.png)"
 msgstr ""
 
@@ -1806,7 +1796,6 @@ msgstr ""
 "③You can choose to add one or more monitored seats on the custom key page"
 
 #: ../../faq.md:395 b009e5746d5542f88e5debb806275913
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-27.png)"
 msgstr ""
 
@@ -1817,7 +1806,6 @@ msgstr ""
 "monitored agent."
 
 #: ../../faq.md:399 041a012d6c664cf390a2f49dc570ac7a
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-28.png)"
 msgstr ""
 
@@ -1835,7 +1823,6 @@ msgstr ""
 "agent is currently in a busy state such as ringing, talking, etc."
 
 #: ../../faq.md:406 92c502cc0d424744a4e6b515452fc062
-#, fuzzy
 msgid "![alt text](_static/images/QA/image-29.png)"
 msgstr ""
 

@@ -275,7 +275,6 @@ msgid "Clients:"
 msgstr "Clients:"
 
 #: ../../root_interface.md:76 37307e31609b4a73b527c71f652365b8
-#, fuzzy
 msgid ""
 "clients 用户是有代理商用户创建。代理商用户和系统用户在client页面可以删除/编辑/查看clients用户，也可以以某-"
 "client用户登陆。代理商用户在clients页面，页面列表显示的是当前代理商和当前代理商的账户已新建的Clients用户。系统用户在Cients用户页面，页面列表显示的是系统用户下所有的代理商用户和代理商账户已新建的Clients用户。"
@@ -1379,7 +1378,6 @@ msgid "**中继策略**："
 msgstr "**Policy**:"
 
 #: ../../root_interface.md:547 f25918e30d51497587c9c722621a1286
-#, fuzzy
 msgid "顺序：每个来电从第一个中继开始（始终为 123）"
 msgstr "Sequence: Each incoming call starts with the first relay (always 123)"
 

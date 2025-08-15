@@ -1495,7 +1495,6 @@ msgid "![alt text](_static/images/QA/image-19.png)"
 msgstr ""
 
 #: ../../faq.md:346 a5f448efd6bc40ab83d1b31fb34898b2
-#, fuzzy
 msgid "**分配**"
 msgstr "**配布する**"
 
