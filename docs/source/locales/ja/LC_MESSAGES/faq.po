@@ -9,13 +9,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"POT-Creation-Date: 2025-08-15 11:09+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.17.0\n"
@@ -28,392 +28,338 @@ msgstr "よくある質問"
 msgid "1 PBX错误编码的解释"
 msgstr "1 PBXエラーエンコーディングの説明"
 
-#: ../../faq.md:0 0a5c41373dee41328d646cc10775e1dc
+#: ../../faq.md 0a5c41373dee41328d646cc10775e1dc
 msgid "错误编码"
 msgstr "エラーエンコーディング"
 
-#: ../../faq.md:0 7b9f570b5e6242e69a998a9fd3d90e86
+#: ../../faq.md 7b9f570b5e6242e69a998a9fd3d90e86
 msgid "中文解释"
 msgstr "中国語の説明"
 
-#: ../../faq.md:0 af21c1ef1fa74eb0bdeeb4da6e1e7981
+#: ../../faq.md af21c1ef1fa74eb0bdeeb4da6e1e7981
 msgid "示例"
 msgstr "例"
 
-#: ../../faq.md:0 8af74f3bc9bb47f0b280f73bd5fcddaf
+#: ../../faq.md 8af74f3bc9bb47f0b280f73bd5fcddaf
 msgid "404"
 msgstr "404"
 
-#: ../../faq.md:0 507eade712634bfb9f40fe1086a7bfc4
+#: ../../faq.md 507eade712634bfb9f40fe1086a7bfc4
 msgid "未找到此分机，禁止呼出"
 msgstr "この拡張機能は見つかりません、コールアウトは禁止されています"
 
-#: ../../faq.md:0 ae65302a47954cf1ae0bb5995bc17e5e
-msgid ""
-"例：坐席A注册一个sip电话，然后在坐席编辑页面中将坐席状态设置为禁用，保存后删"
-"除该坐席，在话机注册超时前呼出外线，就会听到语音提示"
+#: ../../faq.md ae65302a47954cf1ae0bb5995bc17e5e
+msgid "例：坐席A注册一个sip电话，然后在坐席编辑页面中将坐席状态设置为禁用，保存后删除该坐席，在话机注册超时前呼出外线，就会听到语音提示"
 msgstr ""
-"例：エージェントAはSIP電話を登録し、エージェント編集ページでAgent Statusを無"
-"効に設定します。保存後、エージェントを削除します。電話が登録されている場合"
-"は、音声プロンプトが聞こえる前に外側の行を呼び出します。"
+"例：エージェントAはSIP電話を登録し、エージェント編集ページでAgent "
+"Statusを無効に設定します。保存後、エージェントを削除します。電話が登録されている場合は、音声プロンプトが聞こえる前に外側の行を呼び出します。"
 
-#: ../../faq.md:0 e6196c8596314003960afe4a1d5ae1f7
+#: ../../faq.md e6196c8596314003960afe4a1d5ae1f7
 msgid "410"
 msgstr "410"
 
-#: ../../faq.md:0 9910bb2b13ee4e599dd31a47d34bdf91
+#: ../../faq.md 9910bb2b13ee4e599dd31a47d34bdf91
 msgid "转向类型或转向目标缺失"
 msgstr "欠陥のあるステアリングタイプまたはステアリングターゲット"
 
-#: ../../faq.md:0 f3d62d401acc44c3ba88108e3dad9cd7
+#: ../../faq.md f3d62d401acc44c3ba88108e3dad9cd7
 msgid ""
-"例：did不设置转向，呼入电话走呼入路由，然后呼入路由能匹配上但是不设置转向，听"
-"不到提示音，但是在通话记录里显示410/did转向到坐席组，坐席组溢出转向有类别没目"
-"标，会听到语音提示"
+"例：did不设置转向，呼入电话走呼入路由，然后呼入路由能匹配上但是不设置转向，听不到提示音，但是在通话记录里显示410/did转向到坐席组，坐席组溢出转向有类别没目标，会听到语音提示"
 msgstr ""
-"例：ステアリングを設定せず、着信コールルートが着信し、着信コールルートは一致"
-"しますが、ステアリングは設定されておらず、迅速なトーンは聞こえませんが、410/"
-"DIDはコールレコードに表示されます。シートグループのオーバーフローステアリング"
-"にはカテゴリがありますが、ターゲットはありません。音声プロンプトが聞こえま"
-"す。"
+"例：ステアリングを設定せず、着信コールルートが着信し、着信コールルートは一致しますが、ステアリングは設定されておらず、迅速なトーンは聞こえませんが、410/DIDはコールレコードに表示されます。シートグループのオーバーフローステアリングにはカテゴリがありますが、ターゲットはありません。音声プロンプトが聞こえます。"
 
-#: ../../faq.md:0 5c9ca24209a245238797a4bc170d62c8
+#: ../../faq.md 5c9ca24209a245238797a4bc170d62c8
 msgid "411"
 msgstr "411"
 
-#: ../../faq.md:0 4bfee5fda4214c1abd5461925c31d203
+#: ../../faq.md 4bfee5fda4214c1abd5461925c31d203
 msgid "未找到该转向目标配置(一般是设置是转向目标被删除了)"
-msgstr ""
-"ステアリングターゲットの構成は見つかりませんでした（通常、ステアリングター"
-"ゲットが削除されました）"
+msgstr "ステアリングターゲットの構成は見つかりませんでした（通常、ステアリングターゲットが削除されました）"
 
-#: ../../faq.md:0 f9e43d31806e4e26bede62e203de1062
+#: ../../faq.md f9e43d31806e4e26bede62e203de1062
 msgid "例：did转向到ivr，然后删掉该ivr，外线呼入时会听到语音提示"
-msgstr ""
-"例：IVRに目を向け、IVRを削除しました。外から電話をかけると、音声プロンプトが"
-"聞こえます。"
+msgstr "例：IVRに目を向け、IVRを削除しました。外から電話をかけると、音声プロンプトが聞こえます。"
 
-#: ../../faq.md:0 30b51787a4334e7f9168a9eb5b4cae27
+#: ../../faq.md 30b51787a4334e7f9168a9eb5b4cae27
 msgid "415"
 msgstr "415"
 
-#: ../../faq.md:0 40f68d3daf604765b950897b0747e006
+#: ../../faq.md 40f68d3daf604765b950897b0747e006
 msgid "外呼档案中未匹配到路由"
 msgstr "ルートは発信コールファイルでは一致しません"
 
-#: ../../faq.md:0 6180932a83f34fb2af1210c0a7eaf9ce
+#: ../../faq.md 6180932a83f34fb2af1210c0a7eaf9ce
 msgid "例：没有设置外呼档案；或设置的外呼档案路由匹配不上"
-msgstr ""
-"例：発信コールファイルは設定されていません。または、設定されているコールファ"
-"イルルートが一致できません"
+msgstr "例：発信コールファイルは設定されていません。または、設定されているコールファイルルートが一致できません"
 
-#: ../../faq.md:0 e9921e7879624eb2ba28acfd463cc513
+#: ../../faq.md e9921e7879624eb2ba28acfd463cc513
 msgid "416"
 msgstr "416"
 
-#: ../../faq.md:0 3dc16729896b44acb034b4623fd70ecc
+#: ../../faq.md 3dc16729896b44acb034b4623fd70ecc
 msgid "未找到指定的外呼中继"
 msgstr "指定された発信コールリレーは見つかりませんでした"
 
-#: ../../faq.md:0 41f048e2dd014fb0a0ec9b9ffa4a46e0
+#: ../../faq.md 41f048e2dd014fb0a0ec9b9ffa4a46e0
 msgid "例：外呼档案中不设置中继"
 msgstr "例：リレーは発信コールファイルに設定されていません"
 
-#: ../../faq.md:0 4b2875201548498994d89d3c022810ad
+#: ../../faq.md 4b2875201548498994d89d3c022810ad
 msgid "417"
 msgstr "417"
 
-#: ../../faq.md:0 d3a3996f6b474c1fb21bc2b08fa11c86
+#: ../../faq.md d3a3996f6b474c1fb21bc2b08fa11c86
 msgid "获取IVR语音列表媒体文件失败"
 msgstr "IVRボイスリストメディアファイルの取得に失敗しました"
 
-#: ../../faq.md:0 ee7b5a13a67448689183eec03bb07f37
-msgid ""
-"例：在ivr语音菜单中设置了一个媒体文件，然后将设置的媒体文件删除，did转向到该"
-"ivr，外线呼入时会听到语音提示"
+#: ../../faq.md ee7b5a13a67448689183eec03bb07f37
+msgid "例：在ivr语音菜单中设置了一个媒体文件，然后将设置的媒体文件删除，did转向到该ivr，外线呼入时会听到语音提示"
 msgstr ""
-"例：IVR Voiceメニューにメディアファイルを設定し、セットメディアファイルを削除"
-"して、IVRにターンします。外部呼び出しがあるときに音声プロンプトが聞こえます。"
+"例：IVR "
+"Voiceメニューにメディアファイルを設定し、セットメディアファイルを削除して、IVRにターンします。外部呼び出しがあるときに音声プロンプトが聞こえます。"
 
-#: ../../faq.md:0 9eb4bf3577dd4c1794d621f1270cac62
+#: ../../faq.md 9eb4bf3577dd4c1794d621f1270cac62
 msgid "418"
 msgstr "418"
 
-#: ../../faq.md:0 8406c6da79464a4fb279d7966b8f5dc7
+#: ../../faq.md 8406c6da79464a4fb279d7966b8f5dc7
 msgid "中继绑定的Client与DID绑定的Client不一致"
-msgstr ""
-"リレーに縛られたクライアントは、DIDに縛られたクライアントと矛盾しています"
+msgstr "リレーに縛られたクライアントは、DIDに縛られたクライアントと矛盾しています"
 
-#: ../../faq.md:0 488e3c145f0f4612bd96da7d686ea7fb
+#: ../../faq.md 488e3c145f0f4612bd96da7d686ea7fb
 msgid "以did的realm为准"
 msgstr "DIDの領域が勝ちます"
 
-#: ../../faq.md:0 b1acb6c87c2c4bd8a970ddcc0b365691
+#: ../../faq.md b1acb6c87c2c4bd8a970ddcc0b365691
 msgid "419"
 msgstr "419"
 
-#: ../../faq.md:0 88e5f96c0b8f4c56b8dd782a6b30161c
+#: ../../faq.md 88e5f96c0b8f4c56b8dd782a6b30161c
 msgid "呼入通话未匹配到任何Client，无法进行转向"
 msgstr "着信コールはクライアントと一致せず、オンにすることができません"
 
-#: ../../faq.md:0 8bbbb5ce0d144a90b735e99678b19693
+#: ../../faq.md 8bbbb5ce0d144a90b735e99678b19693
 msgid "例：呼入的DID和中继都不绑定clien"
 msgstr "例：着信はクライアントにバインドされていません"
 
-#: ../../faq.md:0 eb94737482594d70b0a28b635412241b
+#: ../../faq.md eb94737482594d70b0a28b635412241b
 msgid "420"
 msgstr "420"
 
-#: ../../faq.md:0 f80c84b00e93493687295a6c8bc86348
+#: ../../faq.md f80c84b00e93493687295a6c8bc86348
 msgid "DNC列表中的号码，禁止呼叫"
 msgstr "DNCリストの数字、呼び出しは許可されていません"
 
-#: ../../faq.md:0 af53fb9ed0754f28ac1884f7f7e2ad57
+#: ../../faq.md af53fb9ed0754f28ac1884f7f7e2ad57
 msgid "例：将客户号码添加到禁呼列表，坐席呼出，会有语音提示"
-msgstr ""
-"例：顧客番号を禁止されたコールリストに追加すると、通話が座席から外れてしま"
-"い、音声プロンプトがあります。"
+msgstr "例：顧客番号を禁止されたコールリストに追加すると、通話が座席から外れてしまい、音声プロンプトがあります。"
 
-#: ../../faq.md:0 13418f93e7634e5b8138401535a773ef
+#: ../../faq.md 13418f93e7634e5b8138401535a773ef
 msgid "421"
 msgstr "421"
 
-#: ../../faq.md:0 facb3dd5e2c1408b918ffe94af890b8d
+#: ../../faq.md facb3dd5e2c1408b918ffe94af890b8d
 msgid "DID已被禁用"
 msgstr "DIDは無効になっています"
 
-#: ../../faq.md:0 1d13ed2ef839465f9a20c79f15b18913
+#: ../../faq.md 1d13ed2ef839465f9a20c79f15b18913
 msgid "422"
 msgstr "422"
 
-#: ../../faq.md:0 14c773a6a7244a208c564e8b59b6617e
+#: ../../faq.md 14c773a6a7244a208c564e8b59b6617e
 msgid "达到系统呼叫次数限制规则，禁止呼出"
 msgstr "システムコール制限ルールを満たし、発信コールを禁止する"
 
-#: ../../faq.md:0 a43417f5925b436ca2b1c0b8740c3c65
+#: ../../faq.md a43417f5925b436ca2b1c0b8740c3c65
 msgid "例：在root-呼叫限制次数页面，添加呼叫限制，坐席呼出会有语音提示"
-msgstr ""
-"例：ルートコール制限ページで、コール制限を追加すると、エージェントが呼び出す"
-"と音声プロンプトがあります。"
+msgstr "例：ルートコール制限ページで、コール制限を追加すると、エージェントが呼び出すと音声プロンプトがあります。"
 
-#: ../../faq.md:0 3e5ab1fbddff4228a2b7652f04c93dff
+#: ../../faq.md 3e5ab1fbddff4228a2b7652f04c93dff
 msgid "423"
 msgstr "423"
 
-#: ../../faq.md:0 f2c19f1d79f94932a1af82787bfe6f22
+#: ../../faq.md f2c19f1d79f94932a1af82787bfe6f22
 msgid "默认呼入路由未设置转向目标"
 msgstr "デフォルトの着信ルートは、ステアリングターゲットを設定しません"
 
-#: ../../faq.md:0 581c61df3c7248cda342a068aad800b7
-msgid ""
-"例：did不设置转向，已有的呼入路由匹配不上时，默认呼入路由未设置转向，外线呼入"
-"会语音提示"
+#: ../../faq.md 581c61df3c7248cda342a068aad800b7
+msgid "例：did不设置转向，已有的呼入路由匹配不上时，默认呼入路由未设置转向，外线呼入会语音提示"
 msgstr ""
-"例：ステアリングを設定しなかった場合、既存の着信ルートが一致できない場合、デ"
-"フォルトの着信ルートはステアリングを設定せず、音声は外部からの着信の呼び出し"
-"を促します。"
+"例：ステアリングを設定しなかった場合、既存の着信ルートが一致できない場合、デフォルトの着信ルートはステアリングを設定せず、音声は外部からの着信の呼び出しを促します。"
 
-#: ../../faq.md:0 806b4d1cd62f45a1935384f6b54ed7c4
+#: ../../faq.md 806b4d1cd62f45a1935384f6b54ed7c4
 msgid "424"
 msgstr "424"
 
-#: ../../faq.md:0 c3784d73566f4bc2a9e140444b59cbe5
+#: ../../faq.md c3784d73566f4bc2a9e140444b59cbe5
 msgid "监听/秘语/强插对象未在通话中"
-msgstr ""
-"リスニング/シークレットワード/強力な挿入オブジェクトは呼び出しにありません"
+msgstr "リスニング/シークレットワード/強力な挿入オブジェクトは呼び出しにありません"
 
-#: ../../faq.md:0 af2ebdbc29084aa1af7f852498aa5634
+#: ../../faq.md af2ebdbc29084aa1af7f852498aa5634
 msgid "例：9010未在通话，9003输入*909010，会有语音提示"
-msgstr ""
-"例：9010は電話にありません、9003 Enter *909010、そして音声プロンプトがありま"
-"す"
+msgstr "例：9010は電話にありません、9003 Enter *909010、そして音声プロンプトがあります"
 
-#: ../../faq.md:0 c41dfe5cb35b49fd8a635061285e7fa1
+#: ../../faq.md c41dfe5cb35b49fd8a635061285e7fa1
 msgid "425"
 msgstr "425"
 
-#: ../../faq.md:0 3a197c2a054b4f2ea69a0cebd1a5a18f
+#: ../../faq.md 3a197c2a054b4f2ea69a0cebd1a5a18f
 msgid "该坐席只允许进行点击呼叫(双呼)，禁止直接呼叫"
-msgstr ""
-"このシートでは、クリックコール（ダブルコール）のみを許可し、直接コールは禁止"
-"されています"
+msgstr "このシートでは、クリックコール（ダブルコール）のみを許可し、直接コールは禁止されています"
 
-#: ../../faq.md:0 b8d5ce864d1946eeb51795df5fd02327
+#: ../../faq.md b8d5ce864d1946eeb51795df5fd02327
 msgid "例：在坐席编辑页面开启：只允许点击呼叫，坐席直接呼出会有语音提示"
-msgstr ""
-"例：エージェントの編集ページで開く：[コール]のみが許可されているため、エー"
-"ジェントが直接コールアウトすると音声プロンプトが表示されます。"
+msgstr "例：エージェントの編集ページで開く：[コール]のみが許可されているため、エージェントが直接コールアウトすると音声プロンプトが表示されます。"
 
-#: ../../faq.md:0 bfc403be8edc4f598a139d5aa4ba462b
+#: ../../faq.md bfc403be8edc4f598a139d5aa4ba462b
 msgid "426"
 msgstr "426"
 
-#: ../../faq.md:0 fa16a0713d7e403f980cfcd21d02594d
+#: ../../faq.md fa16a0713d7e403f980cfcd21d02594d
 msgid "无权使用功能键进行监听相关操作，监听目标不在监控范围内"
-msgstr ""
-"ファンクションキーを使用して監視関連操作を実行する許可がないため、監視目標は"
-"監視範囲内にありません"
+msgstr "ファンクションキーを使用して監視関連操作を実行する許可がないため、監視目標は監視範囲内にありません"
 
-#: ../../faq.md:0 e48dd6bc9c4e47cbacd9babd428eb267
-msgid ""
-"例：该坐席没有监听特权或者被监听方不在该坐席的监听范围内，该坐席监听时会听到"
-"语音提示"
+#: ../../faq.md e48dd6bc9c4e47cbacd9babd428eb267
+msgid "例：该坐席没有监听特权或者被监听方不在该坐席的监听范围内，该坐席监听时会听到语音提示"
 msgstr ""
-"例：エージェントには監視の特権がないか、監視対象者がエージェントの監視範囲内"
-"にありません。エージェントは、監視時に音声プロンプトが聞こえます。"
+"例：エージェントには監視の特権がないか、監視対象者がエージェントの監視範囲内にありません。エージェントは、監視時に音声プロンプトが聞こえます。"
 
-#: ../../faq.md:0 c406e133cc7d4fd4afae731433f1413e
+#: ../../faq.md c406e133cc7d4fd4afae731433f1413e
 msgid "427"
 msgstr "427"
 
-#: ../../faq.md:0 822491354876457882c1b64c0c2ba8b3
+#: ../../faq.md 822491354876457882c1b64c0c2ba8b3
 msgid "不允许坐席自己的分机对自己进行监听相关操作"
-msgstr ""
-"自分の拡張機能を担っている場合、自分に関連して監視して動作することはできませ"
-"ん。"
+msgstr "自分の拡張機能を担っている場合、自分に関連して監視して動作することはできません。"
 
-#: ../../faq.md:0 f7d4c8438d2244a88957b07600d45ab9
+#: ../../faq.md f7d4c8438d2244a88957b07600d45ab9
 msgid "例：坐席监听、密语、强插自己会听到语音提示"
-msgstr ""
-"例：シートモニター、秘密の単語、そして自分自身が音声プロンプトを聞くことを強"
-"制されました"
+msgstr "例：シートモニター、秘密の単語、そして自分自身が音声プロンプトを聞くことを強制されました"
 
-#: ../../faq.md:0 a8552a20cdf74fa2bd53ea935f0c0ad6
+#: ../../faq.md a8552a20cdf74fa2bd53ea935f0c0ad6
 msgid "430"
 msgstr "430"
 
-#: ../../faq.md:0 e6c88fb8606841b5b9270e8fc6865466
+#: ../../faq.md e6c88fb8606841b5b9270e8fc6865466
 msgid "未在任何节点找到该目标通话/*85不加工号"
-msgstr ""
-"ターゲットコールはどのノードでも見つかりませんでした/*85は数を処理しません"
+msgstr "ターゲットコールはどのノードでも見つかりませんでした/*85は数を処理しません"
 
-#: ../../faq.md:0 52d58daf91dc418e81bb7d2380820d7a
+#: ../../faq.md 52d58daf91dc418e81bb7d2380820d7a
 msgid "例：同部门的坐席不处于振铃状态，该坐席输入*85会有语音提示"
-msgstr ""
-"例：同じ部門の座席はリンギング状態にありません。座席が入力された場合 *85で"
-"は、音声プロンプトがあります。"
+msgstr "例：同じ部門の座席はリンギング状態にありません。座席が入力された場合 *85では、音声プロンプトがあります。"
 
-#: ../../faq.md:0 73b35a76838746d5bc37e03ae8fa0155
+#: ../../faq.md 73b35a76838746d5bc37e03ae8fa0155
 msgid "432"
 msgstr "432"
 
-#: ../../faq.md:0 98e1f45febfa41cfa7204d1a8428faa7
+#: ../../faq.md 98e1f45febfa41cfa7204d1a8428faa7
 msgid "抢接目标未处于振铃状态"
 msgstr "ターゲットは鳴っていません"
 
-#: ../../faq.md:0 a7399b8366f84902bfcada88cab0b08b
-#: 81548a3c432c49e58cea4880aea203d7
-msgid ""
-"例：坐席2006输入“*859010:”抢接9010坐席的电话，但9010处于空闲状态，会语音提示"
+#: ../../faq.md 81548a3c432c49e58cea4880aea203d7
+#: a7399b8366f84902bfcada88cab0b08b
+msgid "例：坐席2006输入“*859010:”抢接9010坐席的电话，但9010处于空闲状态，会语音提示"
 msgstr ""
-"例：2006年には、「*859010：」を入力して、9010シートからコールをピックアップし"
-"ますが、9010はアイドル状態であり、Voiceによって促されます。"
+"例：2006年には、「*859010：」を入力して、9010シートからコールをピックアップしますが、9010はアイドル状態であり、Voiceによって促されます。"
 
-#: ../../faq.md:0 d20cc047aa5a4afc8fe55ca9ba840452
+#: ../../faq.md d20cc047aa5a4afc8fe55ca9ba840452
 msgid "434"
 msgstr "434"
 
-#: ../../faq.md:0 dfc70f3af50744d19bf0783062879073
+#: ../../faq.md dfc70f3af50744d19bf0783062879073
 msgid "功能键抢接不同部门的电话"
 msgstr "さまざまな部門から通話を受け取るための機能キー"
 
-#: ../../faq.md:0 89d03cf8ca27487fbf890488ac71beeb
+#: ../../faq.md 89d03cf8ca27487fbf890488ac71beeb
 msgid "460"
 msgstr "460"
 
-#: ../../faq.md:0 db214f334b0d4bc5810ddaffff04bc4c
+#: ../../faq.md db214f334b0d4bc5810ddaffff04bc4c
 msgid "接回的驻留通话不存在"
 msgstr "居住コールは存在しません"
 
-#: ../../faq.md:0 c42af1e8b1854c3c9bb4be83e19d3f46
-msgid ""
-"例：找不到驻留取回通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才"
-"会报"
-msgstr ""
-"例：呼び出しに対応するSIPノードは見つかりません。このシステムノードのデータ"
-"は、存在しない場合は報告されません。"
+#: ../../faq.md c42af1e8b1854c3c9bb4be83e19d3f46
+msgid "例：找不到驻留取回通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才会报"
+msgstr "例：呼び出しに対応するSIPノードは見つかりません。このシステムノードのデータは、存在しない場合は報告されません。"
 
-#: ../../faq.md:0 75152278cb9a4536b44af2a6ec779ac6
+#: ../../faq.md 75152278cb9a4536b44af2a6ec779ac6
 msgid "461"
 msgstr "461"
 
-#: ../../faq.md:0 711d43a478df43269b0bf80313ae1adf
+#: ../../faq.md 711d43a478df43269b0bf80313ae1adf
 msgid "同上"
 msgstr "同上"
 
-#: ../../faq.md:0 5ee4aef49bf641a7b9e7db0386b8168a
+#: ../../faq.md 5ee4aef49bf641a7b9e7db0386b8168a
 msgid "462"
 msgstr "462"
 
-#: ../../faq.md:0 2031ed0a31ed4691a088e51de9c5a1f4
+#: ../../faq.md 2031ed0a31ed4691a088e51de9c5a1f4
 msgid "抢接的通话不存在"
 msgstr "ピックアップされた呼び出しは存在しません"
 
-#: ../../faq.md:0 1a0c54b2005349c3a36c88f8ddc80b6a
-msgid ""
-"例：找不到抢接通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才会报"
-msgstr ""
-"例：呼び出しの対応するSIPノードは見つかりません。このシステムノードのデータ"
-"は、存在しない場合は報告されません。"
+#: ../../faq.md 1a0c54b2005349c3a36c88f8ddc80b6a
+msgid "例：找不到抢接通话对应的SIP节点,  这个系统节点数据错误，或不存在的时候才会报"
+msgstr "例：呼び出しの対応するSIPノードは見つかりません。このシステムノードのデータは、存在しない場合は報告されません。"
 
 #: ../../faq.md:30 e13d63c940e7428d96d82a2a629f1cfd
 msgid "2 通话记录中呼叫类型"
 msgstr "2通話履歴のコールタイプ"
 
-#: ../../faq.md:0 dd5d2fd34e564ce996b61790c2384449
+#: ../../faq.md dd5d2fd34e564ce996b61790c2384449
 msgid "呼叫类型"
 msgstr "呼び出しタイプ"
 
-#: ../../faq.md:0 48361924d505440093655a3f6002ad3a
+#: ../../faq.md 48361924d505440093655a3f6002ad3a
 msgid "呼入"
 msgstr "呼び出します"
 
-#: ../../faq.md:0 a81f374e8d4948f690123fdb8d8a7b66
+#: ../../faq.md a81f374e8d4948f690123fdb8d8a7b66
 msgid "呼出"
 msgstr "叫ぶ"
 
-#: ../../faq.md:0 2f9cad4034c841698fd4b6d24e3456f6
+#: ../../faq.md 2f9cad4034c841698fd4b6d24e3456f6
 msgid "两端呼"
 msgstr "両端を呼び出します"
 
-#: ../../faq.md:0 fea740dae9d741619e005dbfcd350a47
+#: ../../faq.md fea740dae9d741619e005dbfcd350a47
 msgid "预拨号"
 msgstr "前世代"
 
-#: ../../faq.md:0 bc4820433e404eaebd4954b9e7ea5bc8
+#: ../../faq.md bc4820433e404eaebd4954b9e7ea5bc8
 msgid "内线"
 msgstr "内部"
 
-#: ../../faq.md:0 635aa35d21264f2c87d6da19bc38e384
+#: ../../faq.md 635aa35d21264f2c87d6da19bc38e384
 msgid "语音通知"
 msgstr "音声通知"
 
-#: ../../faq.md:0 eda86f27ce0b4f2c802ca91abad4d840
+#: ../../faq.md eda86f27ce0b4f2c802ca91abad4d840
 msgid "放音收号"
 msgstr "サウンドを再生して、番号を受け取ります"
 
-#: ../../faq.md:0 5069fb1557004e91844a4991a876f542
+#: ../../faq.md 5069fb1557004e91844a4991a876f542
 msgid "强插"
 msgstr "強制挿入"
 
-#: ../../faq.md:0 3ffb8e4b6f42450aa6034f6c15be2f11
+#: ../../faq.md 3ffb8e4b6f42450aa6034f6c15be2f11
 msgid "密语"
 msgstr "秘密の言葉"
 
-#: ../../faq.md:0 a87a0ec5b04e40978079e9df699dbf76
+#: ../../faq.md a87a0ec5b04e40978079e9df699dbf76
 msgid "监听"
 msgstr "モニター"
 
-#: ../../faq.md:0 4f9f5654ba5d40ceabe605e021a58952
+#: ../../faq.md 4f9f5654ba5d40ceabe605e021a58952
 #: ac2affba5c5c49528eb6959112647f32
 msgid "抢接"
 msgstr "それを得る"
 
-#: ../../faq.md:0 cc5d8a22290c499fbeeb4f25009bf3aa
+#: ../../faq.md cc5d8a22290c499fbeeb4f25009bf3aa
 msgid "驻留"
 msgstr "住居"
 
-#: ../../faq.md:0 fd348b8810154330a38b592ba45c3f9d
+#: ../../faq.md fd348b8810154330a38b592ba45c3f9d
 msgid "三方通话"
 msgstr "3パーティの呼び出し"
 
@@ -421,181 +367,165 @@ msgstr "3パーティの呼び出し"
 msgid "3 通话记录中挂断原因及其产生的方式"
 msgstr "3 コールレコードとその発生方法にぶら下がっている理由"
 
-#: ../../faq.md:0 ae25f782e39b4f75acc46b5ab60028e8
+#: ../../faq.md ae25f782e39b4f75acc46b5ab60028e8
 msgid "挂断原因"
 msgstr "ぶら下がっている理由"
 
-#: ../../faq.md:0 6725904bf4ac4be99ff00c2a1d0098d4
+#: ../../faq.md 6725904bf4ac4be99ff00c2a1d0098d4
 msgid "产生原因"
 msgstr "原因"
 
-#: ../../faq.md:0 f52659efd4e94a2394f9898ed045e8a0
+#: ../../faq.md f52659efd4e94a2394f9898ed045e8a0
 msgid "接通"
 msgstr "接続する"
 
-#: ../../faq.md:0 16088ad756bb4f049ed55e693709fd87
+#: ../../faq.md 16088ad756bb4f049ed55e693709fd87
 msgid "通话接通"
 msgstr "接続に電話します"
 
-#: ../../faq.md:0 c900efcbbb5e4ee8bb46bf404b57f21a
+#: ../../faq.md c900efcbbb5e4ee8bb46bf404b57f21a
 msgid "未应答"
 msgstr "答えはありません"
 
-#: ../../faq.md:0 cf9bc3b9028d4ae3ab132ce7c7a72cc3
+#: ../../faq.md cf9bc3b9028d4ae3ab132ce7c7a72cc3
 msgid "呼入到未在线的坐席"
 msgstr "オンラインではない座席に電話してください"
 
-#: ../../faq.md:0 3703e1c911884303968a3ad235abfd5e
+#: ../../faq.md 3703e1c911884303968a3ad235abfd5e
 msgid "呼叫失败"
 msgstr "呼び出しが失敗しました"
 
-#: ../../faq.md:0 e968ec6e771f4634bc7522fb741486ce
+#: ../../faq.md e968ec6e771f4634bc7522fb741486ce
 msgid "呼出错误号码（呼出匹配不到外呼档案）"
 msgstr "発信エラー番号（発信コールファイルは一致できません）"
 
-#: ../../faq.md:0 33efc459ff034425b69cfb4bdde24640
+#: ../../faq.md 33efc459ff034425b69cfb4bdde24640
 msgid "黑名单"
 msgstr "ブラックリスト"
 
-#: ../../faq.md:0 7b417f8fc14e4edc84f149815421963f
+#: ../../faq.md 7b417f8fc14e4edc84f149815421963f
 msgid "把这个号码设置在黑名单中进行呼叫"
 msgstr "この番号をブラックリストに設定して電話をかける"
 
-#: ../../faq.md:0 2470d70631b44ede8053485257fdb89e
+#: ../../faq.md 2470d70631b44ede8053485257fdb89e
 msgid "呼叫次数限制"
 msgstr "呼び出し制限"
 
-#: ../../faq.md:0 0720b43c9b21448094a1858a71f92cde
+#: ../../faq.md 0720b43c9b21448094a1858a71f92cde
 msgid "系统设置了呼叫次数限制，当达到限制次数时，会提示"
-msgstr ""
-"システムには、呼び出し数に制限が設定されています。制限に到達すると、プロンプ"
-"トが表示されます。"
+msgstr "システムには、呼び出し数に制限が設定されています。制限に到達すると、プロンプトが表示されます。"
 
-#: ../../faq.md:0 ff6b678f9ac64802a2c144625c405164
+#: ../../faq.md ff6b678f9ac64802a2c144625c405164
 msgid "紧急号码屏蔽"
 msgstr "緊急番号ブロック"
 
-#: ../../faq.md:0 3193da8a84964e1989743d80bdda45d4
+#: ../../faq.md 3193da8a84964e1989743d80bdda45d4
 msgid "禁止呼叫紧急号码 110 118 119"
 msgstr "緊急番号への呼びかけ110 118 119"
 
-#: ../../faq.md:0 9da6a1e679ba4e65944f8b35ed662e1a
+#: ../../faq.md 9da6a1e679ba4e65944f8b35ed662e1a
 msgid "被叫忙"
 msgstr "呼ばれる"
 
-#: ../../faq.md:0 d922e85bce0241f2a1633cbd9f0ae5da
+#: ../../faq.md d922e85bce0241f2a1633cbd9f0ae5da
 msgid "呼叫的一方正在通话中或是拒绝通话，会显示被叫忙"
-msgstr ""
-"発信者は電話をかけているか、電話をかけることを拒否し、彼が呼ばれていることを"
-"示します。"
+msgstr "発信者は電話をかけているか、電話をかけることを拒否し、彼が呼ばれていることを示します。"
 
-#: ../../faq.md:0 883911b1cd7e4a6c99e19f9f5891d978
+#: ../../faq.md 883911b1cd7e4a6c99e19f9f5891d978
 msgid "被叫拒接"
 msgstr "拒否するように呼ばれました"
 
-#: ../../faq.md:0 cb087a1006244d82b09a31d13e34cde1
-#: 684c0025136f41e09f0f491a31a520e8 e961dabd8f00445fba1e19727367e4ac
+#: ../../faq.md 684c0025136f41e09f0f491a31a520e8
+#: cb087a1006244d82b09a31d13e34cde1 e961dabd8f00445fba1e19727367e4ac
 msgid "主叫提前挂机"
 msgstr "発信者は事前に電話を切ります"
 
-#: ../../faq.md:0 37c391e342e54334a5df35bba9d0e67a
+#: ../../faq.md 37c391e342e54334a5df35bba9d0e67a
 msgid "呼出错误号码，但号码可以匹配到对应的外呼档案"
-msgstr ""
-"間違った番号を呼び出しますが、番号は対応する発信ファイルと一致することができ"
-"ます"
+msgstr "間違った番号を呼び出しますが、番号は対応する発信ファイルと一致することができます"
 
-#: ../../faq.md:0 e116ed5c0fe448a9bb1df7d2f18077ca
+#: ../../faq.md e116ed5c0fe448a9bb1df7d2f18077ca
 msgid "已删除，系统可能会有残留"
 msgstr "削除されていると、残留システムがある場合があります"
 
-#: ../../faq.md:0 544d7d83fd5449e3848d61c0cb9d39d3
+#: ../../faq.md 544d7d83fd5449e3848d61c0cb9d39d3
 msgid "呼叫超时"
 msgstr "タイムアウトを呼び出します"
 
-#: ../../faq.md:0 db02412ea5b14075ace36fd6ed545da9
+#: ../../faq.md db02412ea5b14075ace36fd6ed545da9
 msgid "呼叫（呼入呼出）到在线坐席或客户，但坐席或客户没有接通，直到超时挂断"
 msgstr ""
-"オンラインエージェントまたはクライアントに（出入り）を呼び出しますが、エー"
-"ジェントまたはクライアントはタイムアウトが一時停止されるまで接続しません"
+"オンラインエージェントまたはクライアントに（出入り）を呼び出しますが、エージェントまたはクライアントはタイムアウトが一時停止されるまで接続しません"
 
-#: ../../faq.md:0 c6581e0c269b4bb6a5307c2f39f4f1dd
+#: ../../faq.md c6581e0c269b4bb6a5307c2f39f4f1dd
 msgid "队列等待退出"
 msgstr "出口を待っているキュー"
 
-#: ../../faq.md:0 cc923b9d7e0b4bf1b8e91e94dafc18ab
+#: ../../faq.md cc923b9d7e0b4bf1b8e91e94dafc18ab
 msgid "呼入到队列时，客户在队列中等待坐席接通电话时，挂断"
-msgstr ""
-"コールがキューにあるとき、エージェントが通話に応答するためにキューで待機する"
-"ときにクライアントが電話を切る。"
+msgstr "コールがキューにあるとき、エージェントが通話に応答するためにキューで待機するときにクライアントが電話を切る。"
 
-#: ../../faq.md:0 73c77d2665714cd7becd11f9638d4175
+#: ../../faq.md 73c77d2665714cd7becd11f9638d4175
 msgid "队列超时"
 msgstr "キュータイムアウト"
 
-#: ../../faq.md:0 1b84c2707e7446b9a995aa19dd454863
-msgid ""
-"呼入到队列时，客户在队列中等待坐席接通电话，直到队列超时时间，通话被挂断"
-msgstr ""
-"通話がキューにあるとき、クライアントはキューでキューで待機し、エージェントが"
-"キュータイムアウトとコールが切れるまでコールに応答します。"
+#: ../../faq.md 1b84c2707e7446b9a995aa19dd454863
+msgid "呼入到队列时，客户在队列中等待坐席接通电话，直到队列超时时间，通话被挂断"
+msgstr "通話がキューにあるとき、クライアントはキューでキューで待機し、エージェントがキュータイムアウトとコールが切れるまでコールに応答します。"
 
-#: ../../faq.md:0 4320b0ab08fd4725b6646f30139f1b10
+#: ../../faq.md 4320b0ab08fd4725b6646f30139f1b10
 msgid "空队列禁入"
 msgstr "空のキューがブロックされています"
 
-#: ../../faq.md:0 cabe2e43a0314531a8a518ada4324b7f
+#: ../../faq.md cabe2e43a0314531a8a518ada4324b7f
 msgid "队列中设置，没有坐席签入时不允许呼入"
-msgstr ""
-"キューに設定すると、エージェントのチェックインがない場合、コールインは許可さ"
-"れません"
+msgstr "キューに設定すると、エージェントのチェックインがない場合、コールインは許可されません"
 
-#: ../../faq.md:0 2b709304ea8c4917a6c89bf8a4240db4
+#: ../../faq.md 2b709304ea8c4917a6c89bf8a4240db4
 msgid "空队列溢出"
 msgstr "空のキューオーバーフロー"
 
-#: ../../faq.md:0 a08356517fe441a5a2a0dc61e58a973b
+#: ../../faq.md a08356517fe441a5a2a0dc61e58a973b
 msgid "队列排队溢出"
 msgstr "キューキューオーバーフロー"
 
-#: ../../faq.md:0 133dd233180a446baab4fe2e2c96a3da
+#: ../../faq.md 133dd233180a446baab4fe2e2c96a3da
 msgid "当呼入队列通话超过坐席组设置的最大排队数时，通话被挂断"
-msgstr ""
-"コール着信キューの呼び出しがエージェントグループによって設定された最大キュー"
-"を超えると、コールは中断されます"
+msgstr "コール着信キューの呼び出しがエージェントグループによって設定された最大キューを超えると、コールは中断されます"
 
-#: ../../faq.md:0 81d450e73dad477a86cfc9916ea258fc
+#: ../../faq.md 81d450e73dad477a86cfc9916ea258fc
 msgid "识别错误"
 msgstr "識別エラー"
 
-#: ../../faq.md:0 60710e78a3ce4d3caebbc7dcf3f67f10
+#: ../../faq.md 60710e78a3ce4d3caebbc7dcf3f67f10
 msgid "关机"
 msgstr "シャットダウン"
 
-#: ../../faq.md:0 cce01e7d46d94562b47f2d0c14c2c266
+#: ../../faq.md cce01e7d46d94562b47f2d0c14c2c266
 msgid "停机"
 msgstr "シャットダウン"
 
-#: ../../faq.md:0 3009cdfb6d3d4d69a07e1d158d4cf5a3
+#: ../../faq.md 3009cdfb6d3d4d69a07e1d158d4cf5a3
 msgid "其他"
 msgstr "他の"
 
-#: ../../faq.md:0 406de0d6b98d4c8f838cff932cfb9ffc
+#: ../../faq.md 406de0d6b98d4c8f838cff932cfb9ffc
 msgid "呼叫错误"
 msgstr "エラーを呼び出します"
 
-#: ../../faq.md:0 00d0d12ce1514ccca54db11f613d9438
+#: ../../faq.md 00d0d12ce1514ccca54db11f613d9438
 msgid "转接"
 msgstr "移行"
 
-#: ../../faq.md:0 bd4665c2234b4cc0a1e15e28c6dca623
+#: ../../faq.md bd4665c2234b4cc0a1e15e28c6dca623
 msgid "通话因为转接而被挂断"
 msgstr "転送のために呼び出しが切断されました"
 
-#: ../../faq.md:0 aa17c879981945ae8af6aaf42484b229
+#: ../../faq.md aa17c879981945ae8af6aaf42484b229
 msgid "通话抢接"
 msgstr "答えを呼びます"
 
-#: ../../faq.md:0 7a9f24515fb94fabb691ed508a2e41d8
+#: ../../faq.md 7a9f24515fb94fabb691ed508a2e41d8
 msgid "阻塞"
 msgstr "ブロック"
 
@@ -603,334 +533,315 @@ msgstr "ブロック"
 msgid "4 坐席事件"
 msgstr "4席のイベント"
 
-#: ../../faq.md:0 283818b6fc944a199aeb9fd7004dfb5e
+#: ../../faq.md 283818b6fc944a199aeb9fd7004dfb5e
 msgid "Party"
 msgstr "パーティー"
 
-#: ../../faq.md:0 4d6972ca075f4ce9ab8698ff7eecd6a6
+#: ../../faq.md 4d6972ca075f4ce9ab8698ff7eecd6a6
 msgid "Action"
 msgstr "アクション"
 
-#: ../../faq.md:0 978d21b9dff54abe850e024b402bdcd0
+#: ../../faq.md 978d21b9dff54abe850e024b402bdcd0
 msgid "描述"
 msgstr "説明する"
 
-#: ../../faq.md:0 27d2c5a8feba4825bfaa8b9472ca7286
+#: ../../faq.md 27d2c5a8feba4825bfaa8b9472ca7286
 msgid "原因"
 msgstr "理由"
 
-#: ../../faq.md:0 9764d4afa21843e19d43812debf133f9
+#: ../../faq.md 9764d4afa21843e19d43812debf133f9
 msgid "agent"
 msgstr "エージェント"
 
-#: ../../faq.md:0 80e36ac5d43b446e864121d28257f4a9
-#: 761c722205254472885334740852fc2c bd8b1956c5164cf39438fb5ab2c8d2cf
+#: ../../faq.md 761c722205254472885334740852fc2c
+#: 80e36ac5d43b446e864121d28257f4a9 bd8b1956c5164cf39438fb5ab2c8d2cf
 msgid "ringing"
 msgstr "鳴る"
 
-#: ../../faq.md:0 e94b8fe243da4c85a4cee8ea69025e2d
+#: ../../faq.md e94b8fe243da4c85a4cee8ea69025e2d
 msgid "坐席进入振铃状态"
 msgstr "座席はリンギング状態に入ります"
 
-#: ../../faq.md:0 c3b9967363b241c88c45c21b0c102a38
-#: 3d3729497747443485900e55e107729f c275ff77f17546ac919a82a36a51575f
+#: ../../faq.md 3d3729497747443485900e55e107729f
+#: c275ff77f17546ac919a82a36a51575f c3b9967363b241c88c45c21b0c102a38
 msgid "answer"
 msgstr "答え"
 
-#: ../../faq.md:0 f8588c6bfe834d00a1b525707ebc49bb
+#: ../../faq.md f8588c6bfe834d00a1b525707ebc49bb
 msgid "坐席进入应答状态（坐席接通电话的事件）"
-msgstr ""
-"エージェントは返信状態を入力します（エージェントが電話を受けるインシデント）"
+msgstr "エージェントは返信状態を入力します（エージェントが電話を受けるインシデント）"
 
-#: ../../faq.md:0 c7f4b69b1fdc4a728bc3f6f075a8d881
+#: ../../faq.md c7f4b69b1fdc4a728bc3f6f075a8d881
 msgid "pause"
 msgstr "一時停止"
 
-#: ../../faq.md:0 7a93dc8d0fff4a1ba69c800ebe91c843
+#: ../../faq.md 7a93dc8d0fff4a1ba69c800ebe91c843
 msgid "坐席暂停"
 msgstr "座席は吊り下げられています"
 
-#: ../../faq.md:0 22d9f2892c8a49a3a077d5813d7835d4
+#: ../../faq.md 22d9f2892c8a49a3a077d5813d7835d4
 msgid "①默认暂停不显示 ②选择暂停原因显示暂停名称 ③组长暂停:SP"
-msgstr ""
-"default Pauseが表示されないspause一時停止名を表示するために一時停止の理由を選"
-"択します③グループリーダーの一時停止：SP"
+msgstr "default Pauseが表示されないspause一時停止名を表示するために一時停止の理由を選択します③グループリーダーの一時停止：SP"
 
-#: ../../faq.md:0 4893a5956a044c7da2dcf78351b0d03c
+#: ../../faq.md 4893a5956a044c7da2dcf78351b0d03c
 msgid "ACW"
 msgstr "ACW"
 
-#: ../../faq.md:0 2853535f2f4d4c1c9d266a3e7b37d9d7
+#: ../../faq.md 2853535f2f4d4c1c9d266a3e7b37d9d7
 msgid "进入话后"
 msgstr "会話に入った後"
 
-#: ../../faq.md:0 e7f0908b724549f88d711b1e1ff1a731
-#: 4a5d61569b0a488b921e772dc0c7501f f5c1cc320f384500a861973b0381aa58
+#: ../../faq.md 4a5d61569b0a488b921e772dc0c7501f
 #: 4b59b6e7130e47ed9500db65f0c01389 aa8e5320650a465d968ce9fd026b5ce5
+#: e7f0908b724549f88d711b1e1ff1a731 f5c1cc320f384500a861973b0381aa58
 msgid "hangup"
 msgstr "電話を切る"
 
-#: ../../faq.md:0 aec75fbd48364e76948c21a554930979
+#: ../../faq.md aec75fbd48364e76948c21a554930979
 msgid "通话被挂断"
 msgstr "電話がかかった"
 
-#: ../../faq.md:0 51fbe2a76040490fac0954b0a22c6e86
+#: ../../faq.md 51fbe2a76040490fac0954b0a22c6e86
 msgid "hangupPause"
 msgstr "hanguppause"
 
-#: ../../faq.md:0 c9f35572399440f7aac2d262aa3aee9c
+#: ../../faq.md c9f35572399440f7aac2d262aa3aee9c
 msgid "挂机恢复暂停"
 msgstr "再開サスペンション"
 
-#: ../../faq.md:0 6f87174cb280424b98e0c6df25879f93
+#: ../../faq.md 6f87174cb280424b98e0c6df25879f93
 msgid "呼入到坐席组，坐席签入但话机不在线: NoR"
-msgstr ""
-"シートグループに電話して、座席はチェックインされますが、電話はオンラインでは"
-"ありません。"
+msgstr "シートグループに電話して、座席はチェックインされますが、電話はオンラインではありません。"
 
-#: ../../faq.md:0 2a7447f55a14442b87ac300217f63945
+#: ../../faq.md 2a7447f55a14442b87ac300217f63945
 msgid "hangupACW"
 msgstr "hangupacw"
 
-#: ../../faq.md:0 982f552138dd43398eb33264b4293fb8
+#: ../../faq.md 982f552138dd43398eb33264b4293fb8
 msgid "挂机进入话后"
 msgstr "ぶら下がった後、入力します"
 
-#: ../../faq.md:0 4b8f5d1627eb47aebb0595fa49748f09
+#: ../../faq.md 4b8f5d1627eb47aebb0595fa49748f09
 msgid "auto"
 msgstr "自動"
 
-#: ../../faq.md:0 2e760a43ad694195838f63ae09fcf0e6
+#: ../../faq.md 2e760a43ad694195838f63ae09fcf0e6
 msgid "onhold"
 msgstr "保留中"
 
-#: ../../faq.md:0 983a651a73c64b0abf8c9143684f1056
+#: ../../faq.md 983a651a73c64b0abf8c9143684f1056
 msgid "通话保持"
 msgstr "キープを呼び出します"
 
-#: ../../faq.md:0 0ba9f1d71575449b82e5e2803b0c163e
+#: ../../faq.md 0ba9f1d71575449b82e5e2803b0c163e
 msgid "resume"
 msgstr "再開する"
 
-#: ../../faq.md:0 a7716b2736ee4ebbad42fd14b4bde044
+#: ../../faq.md a7716b2736ee4ebbad42fd14b4bde044
 msgid "通话恢复"
 msgstr "コールリカバリ"
 
-#: ../../faq.md:0 12e757bd5662456aa2631f46e9fd9250
+#: ../../faq.md 12e757bd5662456aa2631f46e9fd9250
 msgid "unpause"
 msgstr "unpause"
 
-#: ../../faq.md:0 2dbf4da415204fb3a9dacfc935b94c60
+#: ../../faq.md 2dbf4da415204fb3a9dacfc935b94c60
 msgid "取消暂停"
 msgstr "一時停止をキャンセルします"
 
-#: ../../faq.md:0 4904428c882842448540f0b94088e954
+#: ../../faq.md 4904428c882842448540f0b94088e954
 msgid "exitACW"
 msgstr "exitacw"
 
-#: ../../faq.md:0 2fb10ae45e6044e1957f2ef4c6286ec5
+#: ../../faq.md 2fb10ae45e6044e1957f2ef4c6286ec5
 msgid "结束话后"
 msgstr "終わりの後"
 
-#: ../../faq.md:0 b638ed681a9b4afb861228b454de1bfb
+#: ../../faq.md b638ed681a9b4afb861228b454de1bfb
 msgid "login"
 msgstr "ログイン"
 
-#: ../../faq.md:0 d6574f9cd9c14520823c12335f3df812
+#: ../../faq.md d6574f9cd9c14520823c12335f3df812
 msgid "签入坐席组"
 msgstr "シートグループにチェックインします"
 
-#: ../../faq.md:0 31f8e16c18da43e9bb164e40384b7579
+#: ../../faq.md 31f8e16c18da43e9bb164e40384b7579
 msgid "logoff"
 msgstr "ログオフ"
 
-#: ../../faq.md:0 82def3e5c4f04b8690eff8870265a4a4
+#: ../../faq.md 82def3e5c4f04b8690eff8870265a4a4
 msgid "签出坐席组"
 msgstr "シートグループをご覧ください"
 
-#: ../../faq.md:0 08a9bd4644484eb7a08d1ccf483c59fa
-msgid ""
-"①坐席签入坐席组没有签出，直接关闭浏览器页面或是网络断开-->坐席浏览器超时--"
-"checkws.②坐席登录超时--checkonline"
+#: ../../faq.md 08a9bd4644484eb7a08d1ccf483c59fa
+msgid "①坐席签入坐席组没有签出，直接关闭浏览器页面或是网络断开-->坐席浏览器超时--checkws.②坐席登录超时--checkonline"
 msgstr ""
-"Agentエージェントのチェックインはチェックアウトされません。ブラウザページを閉"
-"じるか、ネットワークを切断します - >エージェントブラウザがタイムアウトしまし"
-"た-Checkws."
+"Agentエージェントのチェックインはチェックアウトされません。ブラウザページを閉じるか、ネットワークを切断します - "
+">エージェントブラウザがタイムアウトしました-Checkws."
 
-#: ../../faq.md:0 55c4807cf026468fb72f1cbfc45f0e37
+#: ../../faq.md 55c4807cf026468fb72f1cbfc45f0e37
 msgid "QPause"
 msgstr "QPause"
 
-#: ../../faq.md:0 165ac897183e45e09d33492ec75203f4
+#: ../../faq.md 165ac897183e45e09d33492ec75203f4
 msgid "队列暂停"
 msgstr "キューの一時停止"
 
-#: ../../faq.md:0 bbe18b55df2c41a9be4832adf608f994
+#: ../../faq.md bbe18b55df2c41a9be4832adf608f994
 msgid "QUnpause"
 msgstr "qunpause"
 
-#: ../../faq.md:0 b0e21d8d871b4ca187e4cd97695e1128
+#: ../../faq.md b0e21d8d871b4ca187e4cd97695e1128
 msgid "取消队列暂停"
 msgstr "キューの一時停止をキャンセルします"
 
-#: ../../faq.md:0 d7ea2751ce4b44e0aa190890c54771a4
+#: ../../faq.md d7ea2751ce4b44e0aa190890c54771a4
 msgid "confJoin"
 msgstr "confjoin"
 
-#: ../../faq.md:0 8fa7ae5bca374d0db2573b5c0e869974
+#: ../../faq.md 8fa7ae5bca374d0db2573b5c0e869974
 msgid "加入三方会议"
 msgstr "三者会議に参加してください"
 
-#: ../../faq.md:0 04a375269731403a90583659cd2b10e7
+#: ../../faq.md 04a375269731403a90583659cd2b10e7
 msgid "加入三方会在两个坐席处分别产生一个加入的事件"
 msgstr "3つのパーティーに参加すると、2席で参加するイベントが生成されます。"
 
-#: ../../faq.md:0 cc6693b8010541f9b5eb351f01ac2dea
+#: ../../faq.md cc6693b8010541f9b5eb351f01ac2dea
 msgid "confLeave"
 msgstr "コンフリーブ"
 
-#: ../../faq.md:0 a19cd45ecc614c3c961c1b7755ce4323
+#: ../../faq.md a19cd45ecc614c3c961c1b7755ce4323
 msgid "离开三方会议"
 msgstr "三者会議を去ります"
 
-#: ../../faq.md:0 326492c94d8346ff94c5ec408febb0c9
+#: ../../faq.md 326492c94d8346ff94c5ec408febb0c9
 msgid "退出三方也会有两个坐席事件"
 msgstr "3つのパーティーには2つの座席があります"
 
-#: ../../faq.md:0 b88fd78ab5e3485cba1ab9b6aeaf981d
+#: ../../faq.md b88fd78ab5e3485cba1ab9b6aeaf981d
 msgid "setDefaultGroup"
 msgstr "SetDefaultGroup"
 
-#: ../../faq.md:0 faa79bb4067d4d68b01da1fdf5be3f91
+#: ../../faq.md faa79bb4067d4d68b01da1fdf5be3f91
 msgid "设置坐席默认组，该功能已取消，只是保留了事件日志"
-msgstr ""
-"デフォルトのエージェントグループを設定すると、この機能はキャンセルされました"
-"が、イベントログは保持されます"
+msgstr "デフォルトのエージェントグループを設定すると、この機能はキャンセルされましたが、イベントログは保持されます"
 
-#: ../../faq.md:0 042f214e277d4c6fa93fb17d1907626a
+#: ../../faq.md 042f214e277d4c6fa93fb17d1907626a
 msgid "abandon"
 msgstr "放棄する"
 
-#: ../../faq.md:0 5ce1e691fc6c46a1a0f4fc5a2facb457
-msgid ""
-"①队列中没被接听，等待超时或是主叫挂断。②呼入到队列，有坐席振铃没接通，到超"
-"时。③呼入到队列，达到最大排队数"
+#: ../../faq.md 5ce1e691fc6c46a1a0f4fc5a2facb457
+msgid "①队列中没被接听，等待超时或是主叫挂断。②呼入到队列，有坐席振铃没接通，到超时。③呼入到队列，达到最大排队数"
 msgstr ""
-"coe式は回答されておらず、タイムアウトを待っているか、発信者がハングアップしま"
-"す。 callコールがキューにあるとき、シートの鳴り声が接続されず、タイムアウトが"
-"終了します。 queuueキューの最大数に到達するためにキューに呼び出す"
+"coe式は回答されておらず、タイムアウトを待っているか、発信者がハングアップします。 "
+"callコールがキューにあるとき、シートの鳴り声が接続されず、タイムアウトが終了します。 queuueキューの最大数に到達するためにキューに呼び出す"
 
-#: ../../faq.md:0 37e396c077a847a5af46fa20d0d2c168
+#: ../../faq.md 37e396c077a847a5af46fa20d0d2c168
 msgid ""
-"①JOINEMPTY（队列中未开启允许进入空队列时，通话呼入挂断会显示该提示）。"
-"②timeout。③如果队列没有溢出转向，当坐席呼入队列达到最大排队数时，通话记录的挂"
-"断原因也是full，如果队列中有溢出转向，会显示最后挂断原因，不会显示full"
+"①JOINEMPTY（队列中未开启允许进入空队列时，通话呼入挂断会显示该提示）。②timeout。③如果队列没有溢出转向，当坐席呼入队列达到最大排队数时，通话记录的挂断原因也是full，如果队列中有溢出转向，会显示最后挂断原因，不会显示full"
 msgstr ""
-"joinempty（このプロンプトは、空のキューがキューで有効になっていないときに表示"
-"されます）。 timeout。 chueキューがオーバーフローして回転しない場合、エージェ"
-"ントコールが着信キューが最大キューの数に達すると、コールレコードの理由もいっ"
-"ぱいです。オーバーフローがあり、キューに変換された場合、最後のハングアップの"
-"理由が表示され、完全に表示されません。"
+"joinempty（このプロンプトは、空のキューがキューで有効になっていないときに表示されます）。 timeout。 "
+"chueキューがオーバーフローして回転しない場合、エージェントコールが着信キューが最大キューの数に達すると、コールレコードの理由もいっぱいです。オーバーフローがあり、キューに変換された場合、最後のハングアップの理由が表示され、完全に表示されません。"
 
-#: ../../faq.md:0 5be69dc2afcd4893a0f8a67fe4b61305
+#: ../../faq.md 5be69dc2afcd4893a0f8a67fe4b61305
 msgid "joinQueue"
 msgstr "Joinqueue"
 
-#: ../../faq.md:0 f836a567ad2c4e66b35491d21296d7c3
+#: ../../faq.md f836a567ad2c4e66b35491d21296d7c3
 msgid "有通话进入队列"
 msgstr "コールがキューに入りました"
 
-#: ../../faq.md:0 b575635f069144db81c4c4747b89d38e
+#: ../../faq.md b575635f069144db81c4c4747b89d38e
 msgid "call"
 msgstr "電話"
 
-#: ../../faq.md:0 6089e77d86a046e2b958231d079724b1
+#: ../../faq.md 6089e77d86a046e2b958231d079724b1
 msgid "create"
 msgstr "作成する"
 
-#: ../../faq.md:0 80bc9c6376cc45ed9f00e881bb522b48
+#: ../../faq.md 80bc9c6376cc45ed9f00e881bb522b48
 msgid "开始新通话（通话建立）"
 msgstr "新しい通話を開始する（コール確立）"
 
-#: ../../faq.md:0 8ed4ed2202b04ee1bf4799a60bd68c98
+#: ../../faq.md 8ed4ed2202b04ee1bf4799a60bd68c98
 msgid "通话应答（在双方的通话建立被应答，会现有一个answer的事件）"
-msgstr ""
-"通話回答（両方の当事者間で呼び出しが確立されると、回答イベントがあります）"
+msgstr "通話回答（両方の当事者間で呼び出しが確立されると、回答イベントがあります）"
 
-#: ../../faq.md:0 19e4400ad3384bb1b6953b804a058045
+#: ../../faq.md 19e4400ad3384bb1b6953b804a058045
 #: 49e6e978e0c645a3a3f710c02fca3fe1
 msgid "通话挂断"
 msgstr "電話をかける"
 
-#: ../../faq.md:0 743dc6ab6da54753ae3c3a6d4856348c
+#: ../../faq.md 743dc6ab6da54753ae3c3a6d4856348c
 msgid "caller"
 msgstr "発信者"
 
-#: ../../faq.md:0 1f78293a1af14e36b0f93c6e4a0051d4
+#: ../../faq.md 1f78293a1af14e36b0f93c6e4a0051d4
 msgid "incoming"
 msgstr "着信"
 
-#: ../../faq.md:0 222217e1167c4da6abc282096d6a4043
+#: ../../faq.md 222217e1167c4da6abc282096d6a4043
 msgid "有呼入通话"
 msgstr "着信コールがあります"
 
-#: ../../faq.md:0 6516df3b717146f2a6b9cf08edc54f46
+#: ../../faq.md 6516df3b717146f2a6b9cf08edc54f46
 msgid "主叫挂断"
 msgstr "中止"
 
-#: ../../faq.md:0 016bb1f7ac8545a4b5ad620f64c2f9a1
+#: ../../faq.md 016bb1f7ac8545a4b5ad620f64c2f9a1
 msgid "callee"
 msgstr "カリー"
 
-#: ../../faq.md:0 a5ac5c873ce2477d9eb13b93cbb59725
+#: ../../faq.md a5ac5c873ce2477d9eb13b93cbb59725
 msgid "被叫振铃"
 msgstr "リングと呼ばれます"
 
-#: ../../faq.md:0 9f124a4fe19642aea419b305e6738e64
+#: ../../faq.md 9f124a4fe19642aea419b305e6738e64
 msgid "被叫应答（被叫应答建立的事件）"
 msgstr "呼ばれる回答（呼び出された回答によって確立されたイベント）"
 
-#: ../../faq.md:0 5325c6cab1384d48a5781f7dccc6ebb7
+#: ../../faq.md 5325c6cab1384d48a5781f7dccc6ebb7
 msgid "被叫挂断"
 msgstr "ハングアップするように呼ばれました"
 
-#: ../../faq.md:0 150a8003174a425aa2b3d382b4d09706
+#: ../../faq.md 150a8003174a425aa2b3d382b4d09706
 msgid "conversation"
 msgstr "会話"
 
-#: ../../faq.md:0 449e6567f7154921ab64fa92ac46bd08
+#: ../../faq.md 449e6567f7154921ab64fa92ac46bd08
 msgid "consult"
 msgstr "相談してください"
 
-#: ../../faq.md:0 7bf5a8c073c4447d9aaa28366911378b
+#: ../../faq.md 7bf5a8c073c4447d9aaa28366911378b
 msgid "开始呼叫被咨询方"
 msgstr "相談されたパーティーに電話をかけ始めます"
 
-#: ../../faq.md:0 4827220dac3f46f8a7a1676566fe1d1f
+#: ../../faq.md 4827220dac3f46f8a7a1676566fe1d1f
 msgid "ivr"
 msgstr "IVR"
 
-#: ../../faq.md:0 060f67ef4d0a44b087d86ee84bac4a7b
+#: ../../faq.md 060f67ef4d0a44b087d86ee84bac4a7b
 msgid "start"
 msgstr "始める"
 
-#: ../../faq.md:0 769459203baf4ab5b8e6c5e2cfb9148f
+#: ../../faq.md 769459203baf4ab5b8e6c5e2cfb9148f
 msgid "进入IVR(内线拨ivr才会出现)"
 msgstr "IVRを入力します（内側の行でIVRをダイヤルした場合にのみ表示されます）"
 
-#: ../../faq.md:0 279194cfd1ad4aed89638756fa2d4293
+#: ../../faq.md 279194cfd1ad4aed89638756fa2d4293
 msgid "userInput"
 msgstr "userInput"
 
-#: ../../faq.md:0 761a84583f2c49b7b56c87fb2b29b449
+#: ../../faq.md 761a84583f2c49b7b56c87fb2b29b449
 msgid "IVR按键操作"
 msgstr "IVRキー操作"
 
-#: ../../faq.md:0 ddbf96db607c49eba52c839812f8809d
+#: ../../faq.md ddbf96db607c49eba52c839812f8809d
 msgid "end"
 msgstr "終わり"
 
-#: ../../faq.md:0 588de7901b6a446ea072eb526e1b739f
+#: ../../faq.md 588de7901b6a446ea072eb526e1b739f
 msgid "退出IVR"
 msgstr "IVRを終了します"
 
@@ -938,184 +849,181 @@ msgstr "IVRを終了します"
 msgid "5 统计报表中，各项数据的计算公式和统计范围"
 msgstr "5 統計レポートにおける各データの計算式と統計範囲"
 
-#: ../../faq.md:0 f0139dfc961b4ed18d49f1d4c885c3e8
+#: ../../faq.md f0139dfc961b4ed18d49f1d4c885c3e8
 msgid "统计项目"
 msgstr "統計項目"
 
-#: ../../faq.md:0 72eb447f5ba34ecbad69cdc5fc2293ee
+#: ../../faq.md 72eb447f5ba34ecbad69cdc5fc2293ee
 msgid "类别"
 msgstr "カテゴリ"
 
-#: ../../faq.md:0 d6ca69197a5f4aa6aaed33bf0811ac65
+#: ../../faq.md d6ca69197a5f4aa6aaed33bf0811ac65
 msgid "计算方法"
 msgstr "計算方法"
 
-#: ../../faq.md:0 31c690b51e934e1dac71e33c4132dd4a
+#: ../../faq.md 31c690b51e934e1dac71e33c4132dd4a
 msgid "取整方法"
 msgstr "丸め方法"
 
-#: ../../faq.md:0 7b7833eb34d54201b043b8d92d77e624
+#: ../../faq.md 7b7833eb34d54201b043b8d92d77e624
 msgid "坐席明细"
 msgstr "シートの詳細"
 
-#: ../../faq.md:0 71e27ef3dd3840ef9a651615f6db4b8b
+#: ../../faq.md 71e27ef3dd3840ef9a651615f6db4b8b
 #: e7cbe9c330244c219059e7259dbc103b
 msgid "呼入平均通话时长"
 msgstr "平均通話期間"
 
-#: ../../faq.md:0 e1e112ea5a9a4694afd5929663414707
+#: ../../faq.md e1e112ea5a9a4694afd5929663414707
 msgid "呼入平均通话时长=呼入通话总时长 /呼入接通量"
 msgstr "平均通話期間中着の呼び出し=合計着信コール /着信アクセス"
 
-#: ../../faq.md:0 641f4a50f6b64618bbecce0691c651fd
+#: ../../faq.md 641f4a50f6b64618bbecce0691c651fd
 msgid "向下取整,比如11/2=5.5最后取5秒"
 msgstr "たとえば、最後の5秒間で11/2 = 5.5を下方に丸くする"
 
-#: ../../faq.md:0 7ce97393ae9a4e3eb2b20f90434dc6d1
-#: 0a9dcc2138d8460388d395abf463d088
+#: ../../faq.md 0a9dcc2138d8460388d395abf463d088
+#: 7ce97393ae9a4e3eb2b20f90434dc6d1
 msgid "呼入通话总时长"
 msgstr "総コール期間"
 
-#: ../../faq.md:0 eef3bf2d8b494f9ab720648a1c981621
-#: 7c1632edc8384a368bb9acddbaf94e86
+#: ../../faq.md 7c1632edc8384a368bb9acddbaf94e86
+#: eef3bf2d8b494f9ab720648a1c981621
 msgid "呼入通话总时长=通话"
 msgstr "合計呼び出し期間=呼び出し"
 
-#: ../../faq.md:0 1a73735378ee47ec9ac8b1db15017de6
+#: ../../faq.md 1a73735378ee47ec9ac8b1db15017de6
 msgid "按通话情况直接取整"
 msgstr "通話状況に従って直接並べ替えます"
 
-#: ../../faq.md:0 5efdf0c2a79b4ea08ac9affde647d719
+#: ../../faq.md 5efdf0c2a79b4ea08ac9affde647d719
 #: de292cb5ba0645e897e31a794c2de0f3
 msgid "呼出平均通话时长"
 msgstr "平均通話期間"
 
-#: ../../faq.md:0 97d3a75975a242ad9494162490e949bc
+#: ../../faq.md 97d3a75975a242ad9494162490e949bc
 #: dcfdf7ad07304bf2ba9caa5e656bae0f
 msgid "呼出平均通话时长=呼出通话总时长 / 呼出接通总量"
 msgstr "発信コールの平均通話期間=発信コールの合計コール期間 /発信コールの総数"
 
-#: ../../faq.md:0 1ee8ba6d0b9248c7a66b37e839f0faf2
+#: ../../faq.md 1ee8ba6d0b9248c7a66b37e839f0faf2
 msgid "呼出总时长"
 msgstr "呼気の全長"
 
-#: ../../faq.md:0 a78c1382474547758b01233c1623a2c1
+#: ../../faq.md a78c1382474547758b01233c1623a2c1
 msgid "呼出总时长=振铃+通话"
 msgstr "コールの全長=リンギング +コール"
 
-#: ../../faq.md:0 c056d206967245699618cafd892f0d5a
-#: b496504f321649e9a85703e2c3e8e9b8 d13a0f12dd9c4643b60d7b471f617b6f
+#: ../../faq.md b496504f321649e9a85703e2c3e8e9b8
+#: c056d206967245699618cafd892f0d5a d13a0f12dd9c4643b60d7b471f617b6f
 msgid "平均保持时长"
 msgstr "保持の平均長"
 
-#: ../../faq.md:0 2761f38f6ddd4deca63b74d0d4aa3cfd
-#: f52eb7d3667a47618c47fcbc2b8eb085 53bfe6127a65447fa3eed42ad768f6ed
+#: ../../faq.md 2761f38f6ddd4deca63b74d0d4aa3cfd
+#: 53bfe6127a65447fa3eed42ad768f6ed f52eb7d3667a47618c47fcbc2b8eb085
 msgid "平均保持时长=保持时长 / 保持次数"
 msgstr "平均保持時間=保留時間 /保留時間の数"
 
-#: ../../faq.md:0 50b18df22de7491ab47ecdcb68e20247
+#: ../../faq.md 50b18df22de7491ab47ecdcb68e20247
 msgid "平均保持时长=保持时长 / 保持次数\t向下取整,比如7/2=3.5最后保持时长取3"
-msgstr ""
-"平均保持時間=保持時間 /保持時間の数を下方に丸めます。たとえば、7 /2 = 3.5最終"
-"保持時間は3です"
+msgstr "平均保持時間=保持時間 /保持時間の数を下方に丸めます。たとえば、7 /2 = 3.5最終保持時間は3です"
 
-#: ../../faq.md:0 b711ab68a93145b8a2378fcc7c45a826
+#: ../../faq.md b711ab68a93145b8a2378fcc7c45a826
 msgid "坐席汇总"
 msgstr "シートの概要"
 
-#: ../../faq.md:0 321fad523afe4f6884bee40eeee3f116
+#: ../../faq.md 321fad523afe4f6884bee40eeee3f116
 msgid "向下取整,比如7/2=3.5最后保持时长取3"
 msgstr "たとえば、7/2 = 3.5、最終保持時間3の丸い丸"
 
-#: ../../faq.md:0 70b51f22a76244aebd66517e5ce98c67
+#: ../../faq.md 70b51f22a76244aebd66517e5ce98c67
 msgid "话后时长"
 msgstr "会話の後"
 
-#: ../../faq.md:0 36f6b408af184a50bb1c1cad7f3b058b
+#: ../../faq.md 36f6b408af184a50bb1c1cad7f3b058b
 msgid "呼入到坐席组，坐席挂断通话后进入的话后时长"
 msgstr "シートグループに電話をかけると、コールを切った後に座席が入ります"
 
-#: ../../faq.md:0 1de85e7017f74699bdfe96aeb8861afd
+#: ../../faq.md 1de85e7017f74699bdfe96aeb8861afd
 msgid "按话后情况直接取整"
 msgstr "通話後の状況を直接整理します"
 
-#: ../../faq.md:0 1afeb16adfd94b1e8a9df39483f790e2
+#: ../../faq.md 1afeb16adfd94b1e8a9df39483f790e2
 msgid "签入时长"
 msgstr "チェックイン時間"
 
-#: ../../faq.md:0 4d842a9746e44a86b083b49d815f8014
+#: ../../faq.md 4d842a9746e44a86b083b49d815f8014
 msgid "签入到坐席组的时长"
 msgstr "シートグループへのチェックイン期間"
 
-#: ../../faq.md:0 e48cfd80758a4541a7344be612a78a22
+#: ../../faq.md e48cfd80758a4541a7344be612a78a22
 msgid "按签入时长直接取整"
 msgstr "チェックイン時間で直接並べ替えます"
 
-#: ../../faq.md:0 8c173331ba3146d6bb6a9b7b6a83593e
+#: ../../faq.md 8c173331ba3146d6bb6a9b7b6a83593e
 msgid "拨打时长=振铃+通话"
 msgstr "呼び出し期間=リンギング +コール"
 
-#: ../../faq.md:0 36fccca3d5244d949d22f50648a09c5f
+#: ../../faq.md 36fccca3d5244d949d22f50648a09c5f
 msgid "按拨打时长直接取整"
 msgstr "時間をダイヤルして直接並べ替えます"
 
-#: ../../faq.md:0 26799a8b8d57485d93765c0d0e2451e6
+#: ../../faq.md 26799a8b8d57485d93765c0d0e2451e6
 msgid "坐席组明细"
 msgstr "シートグループの詳細"
 
-#: ../../faq.md:0 a9ef110563474487bfc74a81eade2e19
-#: 041081bad4ce451b995eacd3a626fd3c
+#: ../../faq.md 041081bad4ce451b995eacd3a626fd3c
+#: a9ef110563474487bfc74a81eade2e19
 msgid "呼入接通率"
 msgstr "着信コールアクセス率"
 
-#: ../../faq.md:0 d91fcb0469c04e7d89b4801069c5487c
-#: 958239270d33457db6ebb730080371b5
+#: ../../faq.md 958239270d33457db6ebb730080371b5
+#: d91fcb0469c04e7d89b4801069c5487c
 msgid "呼入接通率=呼入接通量 / 呼入总量 后再乘以 100"
 msgstr "着信コールアクセス率=着信コールスループット /合計着信時間に100を掛けた"
 
-#: ../../faq.md:0 9048749b92ad440da1cc6204c138d143
-#: 6607fd4c16474d0985c04a116cc28367
+#: ../../faq.md 6607fd4c16474d0985c04a116cc28367
+#: 9048749b92ad440da1cc6204c138d143
 msgid "留小数点后两位,四舍五入,1/3*100%=33.33%"
 msgstr "小数点以下の2つの場所を残して、1/3*100％= 33.33％締めます"
 
-#: ../../faq.md:0 cce15bd1c86c406cb0d514d581ef41f4
+#: ../../faq.md cce15bd1c86c406cb0d514d581ef41f4
 msgid "呼入平均通话时长=呼入通话总时长 / 呼入接通总量"
 msgstr "平均通話期間着信=合計着信コール /合計着信コール"
 
-#: ../../faq.md:0 482db53bd84d4cb1b207c920f182fa17
+#: ../../faq.md 482db53bd84d4cb1b207c920f182fa17
 msgid "向下取整数,11/2=5.5取5"
 msgstr "整数を下方にして、11/2 = 5.5が1回5"
 
-#: ../../faq.md:0 3a8c050a4cbd40fe88b50510969491bf
+#: ../../faq.md 3a8c050a4cbd40fe88b50510969491bf
 msgid "呼出接通率"
 msgstr "発信コールレート"
 
-#: ../../faq.md:0 1f8b9840ea044416a37623dc5b87a777
+#: ../../faq.md 1f8b9840ea044416a37623dc5b87a777
 msgid "呼出接通率=呼出接通量 / 呼出总量 后再乘以 100"
-msgstr ""
-"発信コールレート=発信コールボリューム /合計発信コールボリュームに100を掛けた"
+msgstr "発信コールレート=発信コールボリューム /合計発信コールボリュームに100を掛けた"
 
-#: ../../faq.md:0 95a5dd8ee67541dc9058c9e756a09dbf
+#: ../../faq.md 95a5dd8ee67541dc9058c9e756a09dbf
 msgid "向下取整数,240/9=26.66取26"
 msgstr "整数を下方にして、240/9 = 26.66かかる26"
 
-#: ../../faq.md:0 401b4689e23c4b548ccd503c4a8c828a
+#: ../../faq.md 401b4689e23c4b548ccd503c4a8c828a
 msgid "呼出通话总时长"
 msgstr "総コール期間"
 
-#: ../../faq.md:0 a034b48718f1414da6ecd5339391f37b
+#: ../../faq.md a034b48718f1414da6ecd5339391f37b
 msgid "呼出通话总时长=通话"
 msgstr "合計呼び出し期間=呼び出し"
 
-#: ../../faq.md:0 3fb2bf85a96c4070b2a229ac15f40d9c
+#: ../../faq.md 3fb2bf85a96c4070b2a229ac15f40d9c
 msgid "向下取整数,116/15=7.73取7"
 msgstr "整数を下方にして、116/15 = 7.73が7を取得します"
 
-#: ../../faq.md:0 bf06aae4ea8048c4bd47391df8b28e61
+#: ../../faq.md bf06aae4ea8048c4bd47391df8b28e61
 msgid "坐席组汇总"
 msgstr "エージェントグループの概要"
 
-#: ../../faq.md:0 be24c6a581924111b61ece99bece9557
+#: ../../faq.md be24c6a581924111b61ece99bece9557
 msgid "留小数点后两位,四舍五入,7/9*100%=77.78%"
 msgstr "小数点以下の2つの場所を残して、丸めて、7/9*100％= 77.78％"
 
@@ -1135,15 +1043,24 @@ msgstr ""
 #: ../../faq.md:210 ../../faq.md:214 ../../faq.md:218 ../../faq.md:229
 #: ../../faq.md:233 ../../faq.md:237 ../../faq.md:241 ../../faq.md:249
 #: ../../faq.md:257 ../../faq.md:275 ../../faq.md:313 ../../faq.md:317
-#: ../../faq.md:323 427423f128a2458bb366e1128f7fe62c
-#: 903a9684059c42ae9c29d6b607a92ee3 3f66cb22f14743259b7b9ae540ee8760
-#: 07d6163cfa6745dd913a14e686e005c8 2e5393dfee154bb3b1f3b55f1b5b1060
-#: 2810d3855ebe4aa1ae7f41cc17be61e3 569c275d73564711a08a9f20dcf2692e
-#: a4cefebc64714792b9dccc841420dcd6 37fd6149e2a746a1ba9688777ce58577
-#: c2437ef24d6d4eae97c939432cb4b7df 7ee66c50835a4cad880cc5c22d1ff653
-#: 4388d0e55d5b475595f59a6b45e21a89 e7e1500b5c7245aea029463529b5f7db
-#: 1af08ca32b534652bcbc196047a89a3b 077d69bbf5cd4becba9373543a15a975
-#: 8773ba751b384d3b95f49fed14def477 a46604520de340299b6dfc33aa194806
+#: ../../faq.md:323 ../../faq.md:335 ../../faq.md:344 ../../faq.md:350
+#: ../../faq.md:368 ../../faq.md:372 ../../faq.md:376 ../../faq.md:385
+#: ../../faq.md:389 ../../faq.md:391 ../../faq.md:395 ../../faq.md:399
+#: ../../faq.md:406 077d69bbf5cd4becba9373543a15a975
+#: 07d6163cfa6745dd913a14e686e005c8 1af08ca32b534652bcbc196047a89a3b
+#: 1e3dcf3d5bc242348b6600430d4a11dd 2810d3855ebe4aa1ae7f41cc17be61e3
+#: 2e5393dfee154bb3b1f3b55f1b5b1060 37fd6149e2a746a1ba9688777ce58577
+#: 3f66cb22f14743259b7b9ae540ee8760 427423f128a2458bb366e1128f7fe62c
+#: 4388d0e55d5b475595f59a6b45e21a89 569c275d73564711a08a9f20dcf2692e
+#: 7cd8c91bc8ac49d8a8726de6166dd9ee 7ee66c50835a4cad880cc5c22d1ff653
+#: 8650342fb1f1492ea1b5f30be4266a50 8773ba751b384d3b95f49fed14def477
+#: 903a9684059c42ae9c29d6b607a92ee3 939b71118cf0482b810305feef8e5057
+#: a46604520de340299b6dfc33aa194806 a4cefebc64714792b9dccc841420dcd6
+#: a60701ddaaee47dcbd2a116bf32a6e32 af66d17701174fea89708442f3fc68db
+#: b96ce411f4b5450990cd88708a114d96 bee359605fd44d3a9649ef9cb9017c6c
+#: c2437ef24d6d4eae97c939432cb4b7df cab3c74997fe43de9da3551458159921
+#: e3b4cba8fb8648739c96829b9423aa25 e7b1945077e142b2bc66bb0a15049599
+#: e7e1500b5c7245aea029463529b5f7db f95eaa90a49a4258ac9996b8efd8331a
 msgid "alt text"
 msgstr "altテキスト"
 
@@ -1165,13 +1082,10 @@ msgstr "シート2：コール期間120S（平均コール期間60Sより大き�
 
 #: ../../faq.md:152 066c2625dc30491f8ff2326afa4035f5
 msgid "坐席3：通话时长4s（小于短话单时长10s*短话单比率50%=5s【shorttalk】）"
-msgstr ""
-"シート3：コール期間4秒（短期コールタイム10s未満 *短期コールレート50％= 5s "
-"[ショート]）"
+msgstr "シート3：コール期間4秒（短期コールタイム10s未満 *短期コールレート50％= 5s [ショート]）"
 
 #: ../../faq.md:154 118f21de7e5742b4a556ba3808de4d2a
-msgid ""
-"坐席4：话后时长60s（大于平均话后时长30s单小于平均话后时长90S【acwend】）"
+msgid "坐席4：话后时长60s（大于平均话后时长30s单小于平均话后时长90S【acwend】）"
 msgstr "会話の後の座席4：60年代（平均的な会話の後の30秒）"
 
 #: ../../faq.md:156 7b6a100e9786420aa45929c1d9486591
@@ -1184,33 +1098,26 @@ msgstr "他の座席はアイドルシートです[idleagent]"
 
 #: ../../faq.md:160 7e2ac779077c447594347ef7f4c5c314
 msgid "客户1：振铃，振铃15S，已经接通，但是没有坐席接通"
-msgstr ""
-"クライアント1：リンギング、鳴り、15秒、接続されていますが、座席は接続されてい"
-"ません"
+msgstr "クライアント1：リンギング、鳴り、15秒、接続されていますが、座席は接続されていません"
 
 #: ../../faq.md:162 aaeb1169f3ed40b9b10c759d8c2444b8
 msgid "客户2：振铃20s被接通（小于平均振铃时长25s【ringing】）"
-msgstr ""
-"クライアント2：リンギングは20代の間オンになります（平均リンギング時間が25秒未"
-"満【リンギング】）"
+msgstr "クライアント2：リンギングは20代の間オンになります（平均リンギング時間が25秒未満【リンギング】）"
 
-#: ../../faq.md:164 ../../faq.md:190 d7cf7496732b4c36980418420798e6a5
-#: c2fe9f2409094484abded3db14150e7b
+#: ../../faq.md:164 ../../faq.md:190 c2fe9f2409094484abded3db14150e7b
+#: d7cf7496732b4c36980418420798e6a5
 msgid "可用坐席 = idleAgent + talkEnd + acwEnd + shortTalk - waiting"
 msgstr "利用可能なエージェント= idleagent + talkend + acwend + shorttalk-待機"
 
 #: ../../faq.md:166 aa6f35c28eae4a309e3dac4ccfb5c386
 msgid ""
-"预测下次可用坐席数量=空闲坐席5个+坐席2（此时系统判断这个通话即将要被挂断"
-"了）+坐席4（大于平均话后时长系统预测这个坐席即将离开话后）+坐席3（短话单即将"
-"结束）-客户1=5+1+1+1-1=7"
+"预测下次可用坐席数量=空闲坐席5个+坐席2（此时系统判断这个通话即将要被挂断了）+坐席4（大于平均话后时长系统预测这个坐席即将离开话后）+坐席3（短话单即将结束）-客户1=5+1+1+1-1=7"
 msgstr ""
-"次回のシートの数を予測します= 5アイドルシート + 2席（この時点で、システムは"
-"コールがハングアップしようとしていると判断します） + 4席（システムが会話を離"
-"れると予測した後の平均時間以上）"
+"次回のシートの数を予測します= 5アイドルシート + 2席（この時点で、システムはコールがハングアップしようとしていると判断します） + "
+"4席（システムが会話を離れると予測した後の平均時間以上）"
 
-#: ../../faq.md:168 ../../faq.md:192 bbaf96aab7ac46b18c6045378ecd0fb6
-#: 29ce68beecde47b49dafaaf9c00e9857
+#: ../../faq.md:168 ../../faq.md:192 29ce68beecde47b49dafaaf9c00e9857
+#: bbaf96aab7ac46b18c6045378ecd0fb6
 msgid "拨号数 =（可用坐席 × 坐席百分比）/应答率 - ringing"
 msgstr "ダイヤル番号=（エージェント×座席の割合）/回答率 - リンギング"
 
@@ -1220,9 +1127,7 @@ msgstr "ダイヤル数=（7*150％）/50％-1 = 20"
 
 #: ../../faq.md:172 9da4bfa84fad4b40b28015bf8d236f0a
 msgid "系统会在每次轮预拨号开始前预测计算下一次拨号的数量。"
-msgstr ""
-"システムは、各ホイールの前ダイヤルが開始する前に次のダイヤルの数を予測しま"
-"す。"
+msgstr "システムは、各ホイールの前ダイヤルが開始する前に次のダイヤルの数を予測します。"
 
 #: ../../faq.md:174 631151b1c3f1497eafb7f0f0eda5ab8b
 msgid "allRinging = 所有振铃数"
@@ -1230,8 +1135,7 @@ msgstr "Allringing =すべてのリンギング番号"
 
 #: ../../faq.md:176 808a8dd88b934bbe98bc1cc354817db4
 msgid "waiting = 客户接通但坐席未接的通话通话数"
-msgstr ""
-"待機=クライアントが接続されているがエージェントが受信していない通話の数"
+msgstr "待機=クライアントが接続されているがエージェントが受信していない通話の数"
 
 #: ../../faq.md:178 6175242e5a6940c194675fc288690580
 msgid "allAnswered = 坐席接通的通话数"
@@ -1247,9 +1151,7 @@ msgstr "TalkEnd =通話期間が平均呼び出し期間よりも大きいコー
 
 #: ../../faq.md:184 a70d075666d8413a860b9bae029cc0db
 msgid "shortTalk = 通话时长小于短话单 × 短话单比例"
-msgstr ""
-"ショートターク=コールの期間は短いコールオーダー×短いコールオーダー比率未満で"
-"す"
+msgstr "ショートターク=コールの期間は短いコールオーダー×短いコールオーダー比率未満です"
 
 #: ../../faq.md:186 4794e97998c14973ae20e337de3eec65
 msgid "maxChannel = 任务最大拨号限制"
@@ -1261,12 +1163,11 @@ msgstr "idleagent =キュー内のアイドルシート"
 
 #: ../../faq.md:194 8a44319f73374577a993eb6eaae8ac7f
 msgid ""
-"每次发起的呼叫数取：（公式计算所得拨号数）， （每次拨号最大并发），(任务最大"
-"并发数 - allRinging -waiting - allAnswered ) 三者中最小值"
+"每次发起的呼叫数取：（公式计算所得拨号数）， （每次拨号最大并发），(任务最大并发数 - allRinging -waiting - "
+"allAnswered ) 三者中最小值"
 msgstr ""
-"毎回開始された呼び出し数は次のとおりです。（式で計算されたダイヤル数）、（ダ"
-"イヤルあたりの最大並行性）、（タスクの最大数の同行 - アレリングウェイト - ア"
-"ランスワーク）3つの最小値"
+"毎回開始された呼び出し数は次のとおりです。（式で計算されたダイヤル数）、（ダイヤルあたりの最大並行性）、（タスクの最大数の同行 - アレリングウェイト "
+"- アランスワーク）3つの最小値"
 
 #: ../../faq.md:196 ea8ffa67c8864541b6979a491168e2f1
 msgid "7坐席进行外呼前，都需要做什么准备？"
@@ -1274,9 +1175,7 @@ msgstr "7座席が発信する前にどのような準備をする必要があ�
 
 #: ../../faq.md:198 74a2cdf152c94f62a6caeeed77830166
 msgid "①首先在root级别建立好中继，外显号码，和外呼档案"
-msgstr ""
-"rastルートレベルでリレー、ディスプレイ番号、および発信コールファイルを確立し"
-"ます"
+msgstr "rastルートレベルでリレー、ディスプレイ番号、および発信コールファイルを確立します"
 
 #: ../../faq.md:200 e5d809594e50442a817402469a386678
 msgid "![alt text](_static/images/QA/image-1.png)"
@@ -1284,9 +1183,7 @@ msgstr ""
 
 #: ../../faq.md:202 1853fa2e09a4419fb7ef2cd16b7348c6
 msgid "先将外显号码分配给所属代理商，由代理商分配给client进行使用"
-msgstr ""
-"最初にアフィリエイトエージェントにディスプレイ番号を割り当てると、エージェン"
-"トはそれを使用するためにクライアントに割り当てます"
+msgstr "最初にアフィリエイトエージェントにディスプレイ番号を割り当てると、エージェントはそれを使用するためにクライアントに割り当てます"
 
 #: ../../faq.md:204 0ac00e11c70541059baa838894c40e06
 msgid "![alt text](_static/images/QA/image-2.png)"
@@ -1294,9 +1191,7 @@ msgstr ""
 
 #: ../../faq.md:206 60355a662c36422bb30f5feb2983b549
 msgid "建立外呼档案，把外呼档案分到client"
-msgstr ""
-"アウトバウンドコールファイルを作成し、クライアントにアウトバウンドコールファ"
-"イルを割り当てます"
+msgstr "アウトバウンドコールファイルを作成し、クライアントにアウトバウンドコールファイルを割り当てます"
 
 #: ../../faq.md:208 ee47184fa60848569018d28d89d20311
 msgid "![alt text](_static/images/QA/image-3.png)"
@@ -1308,9 +1203,7 @@ msgstr ""
 
 #: ../../faq.md:212 d4b6ae2316054cf28de3f5a43651112d
 msgid "在client级别--->系统偏好--->拨号--->默认外呼档案中选择相应的外呼档案"
-msgstr ""
-"クライアントレベルで対応する発信ファイルを選択します--->システム設定--->ダイ"
-"アリゼーション--->デフォルトの発信ファイル"
+msgstr "クライアントレベルで対応する発信ファイルを選択します--->システム設定--->ダイアリゼーション--->デフォルトの発信ファイル"
 
 #: ../../faq.md:214 c79b678884dc4c46b6188510379f7712
 msgid "![alt text](_static/images/QA/image-5.png)"
@@ -1318,9 +1211,7 @@ msgstr ""
 
 #: ../../faq.md:216 047ce0d6d7404804ad7e37783af2bad4
 msgid "在client级别--->系统偏好--->呼叫设置--->外显号码中选择相应的外显号码"
-msgstr ""
-"クライアントレベルで対応する表示番号を選択します--->システム設定--->コール設"
-"定--->外部番号"
+msgstr "クライアントレベルで対応する表示番号を選択します--->システム設定--->コール設定--->外部番号"
 
 #: ../../faq.md:218 9adb2893cc9942e48aa6cd48ee1cafb6
 msgid "![alt text](_static/images/QA/image-6.png)"
@@ -1328,9 +1219,7 @@ msgstr ""
 
 #: ../../faq.md:220 8ecf5c3c0d294c40a9fec51930b57d86
 msgid "如外呼档案中相应配置正常，登录坐席后，坐席开启电话就可以进行外呼了。"
-msgstr ""
-"発信コールファイルの対応する構成が正常な場合、シートにログインした後、シート"
-"は電話をオンにしてから発信コールを行うことができます。"
+msgstr "発信コールファイルの対応する構成が正常な場合、シートにログインした後、シートは電話をオンにしてから発信コールを行うことができます。"
 
 #: ../../faq.md:223 a41f889b80314d4c81b9cabd5d29684d
 msgid "8使用外呼任务的呼叫方法"
@@ -1341,22 +1230,16 @@ msgid "**1.坐席手动拨打**"
 msgstr "** 1。手動で座席を呼び出す**"
 
 #: ../../faq.md:227 79d432b078484d1ba186f336d7cf4cd4
-msgid ""
-"client建立坐席后，登录坐席，坐席签入坐席组，打开联系客户页面准备开始工作。"
-msgstr ""
-"クライアントが座席を確立したら、座席にログインし、座席グループのシートを確認"
-"し、連絡先の顧客ページを開いて作業を開始する準備をします。"
+msgid "client建立坐席后，登录坐席，坐席签入坐席组，打开联系客户页面准备开始工作。"
+msgstr "クライアントが座席を確立したら、座席にログインし、座席グループのシートを確認し、連絡先の顧客ページを開いて作業を開始する準備をします。"
 
 #: ../../faq.md:229 1ac42bba6af8418b8f04d69c46d244f8
 msgid "![alt text](_static/images/QA/image-8.png)"
 msgstr ""
 
 #: ../../faq.md:231 d269e3e6f2e4455da4348b667547a951
-msgid ""
-"在【联系客户】页面选择想要添加客户的任务，点击【我的客户】后面的“+”添加客户"
-msgstr ""
-"[顧客の連絡先]ページで、お客様を追加するタスクを選択し、[顧客]の後に「+」をク"
-"リックして顧客を追加します"
+msgid "在【联系客户】页面选择想要添加客户的任务，点击【我的客户】后面的“+”添加客户"
+msgstr "[顧客の連絡先]ページで、お客様を追加するタスクを選択し、[顧客]の後に「+」をクリックして顧客を追加します"
 
 #: ../../faq.md:233 d47ec74b85254021b6447770be11e66e
 msgid "![alt text](_static/images/QA/image-9.png)"
@@ -1364,9 +1247,7 @@ msgstr ""
 
 #: ../../faq.md:235 3a42d63943dc498197e569c2e0eafaea
 msgid "对客户资料进行编辑，并保存。保存后在电话号码处用户可以拨打电话。"
-msgstr ""
-"顧客情報を編集および保存します。保存後、ユーザーは電話番号に電話をかけること"
-"ができます。"
+msgstr "顧客情報を編集および保存します。保存後、ユーザーは電話番号に電話をかけることができます。"
 
 #: ../../faq.md:237 2ebc8c07c3254415a2d4347d0dc46a5a
 msgid "![alt text](_static/images/QA/image-10.png)"
@@ -1374,9 +1255,7 @@ msgstr ""
 
 #: ../../faq.md:239 de6072a029a743b5bdbd65d792d847fd
 msgid "保存客户资料后还可以对该客户进行问卷调查，或是建立、处理工单等。"
-msgstr ""
-"顧客情報を保存した後、顧客に関するアンケート調査を実施したり、作業注文を確立"
-"または処理することもできます。"
+msgstr "顧客情報を保存した後、顧客に関するアンケート調査を実施したり、作業注文を確立または処理することもできます。"
 
 #: ../../faq.md:241 f72565b04ca64331b0abff18fcf44f6a
 msgid "![alt text](_static/images/QA/image-11.png)"
@@ -1384,15 +1263,9 @@ msgstr ""
 
 #: ../../faq.md:243 e7811ce582c6462bbe9c1ea6e7a94ac5
 msgid ""
-"当坐席组中有被分配的客户坐席也可以在任务客户池中对客户池中的客户进行批量获"
-"取。获取到的客户会再我的客户池中显示。坐席点击呼叫客户资料页面会自动弹出，坐"
-"席响铃，坐席接听坐席电话外呼呼叫开始。"
+"当坐席组中有被分配的客户坐席也可以在任务客户池中对客户池中的客户进行批量获取。获取到的客户会再我的客户池中显示。坐席点击呼叫客户资料页面会自动弹出，坐席响铃，坐席接听坐席电话外呼呼叫开始。"
 msgstr ""
-"エージェントグループに顧客席が割り当てられている場合、顧客プールの顧客はタス"
-"クカスタマープールでバッチすることもできます。取得したクライアントは、クライ"
-"アントプールに表示されます。シートがクリックすると、通話顧客情報のページが自"
-"動的にポップアップ表示されます。シートが鳴り、シートが座席の外で電話に応答し"
-"始めます。"
+"エージェントグループに顧客席が割り当てられている場合、顧客プールの顧客はタスクカスタマープールでバッチすることもできます。取得したクライアントは、クライアントプールに表示されます。シートがクリックすると、通話顧客情報のページが自動的にポップアップ表示されます。シートが鳴り、シートが座席の外で電話に応答し始めます。"
 
 #: ../../faq.md:245 c064185416134cc795a2f6e14b8bd305
 msgid "**2.分配坐席自动拨号**"
@@ -1400,14 +1273,9 @@ msgstr "** 2。座席を割り当てるための自動ダイヤル**"
 
 #: ../../faq.md:247 7241ad44ad8b463fac969facdd5d63ec
 msgid ""
-"坐席签入坐席组后，选择对应任务。选择联系系客户，点击任务客户池可以对该任务下"
-"的客户进行获取。获取到的客户会在我的客户池中，点击自动拨号可以对列表中的客户"
-"进行自动拨打。"
+"坐席签入坐席组后，选择对应任务。选择联系系客户，点击任务客户池可以对该任务下的客户进行获取。获取到的客户会在我的客户池中，点击自动拨号可以对列表中的客户进行自动拨打。"
 msgstr ""
-"シートがシートグループにチェックされたら、対応するタスクを選択します。お客様"
-"に連絡し、タスクカスタマープールをクリックして、このタスクの下で顧客を取得し"
-"ます。取得した顧客は私の顧客プールにあり、[自動ダイヤル]をクリックして、リス"
-"ト内の顧客を自動的にダイヤルします。"
+"シートがシートグループにチェックされたら、対応するタスクを選択します。お客様に連絡し、タスクカスタマープールをクリックして、このタスクの下で顧客を取得します。取得した顧客は私の顧客プールにあり、[自動ダイヤル]をクリックして、リスト内の顧客を自動的にダイヤルします。"
 
 #: ../../faq.md:249 c651facc74254e7286874f79ca61efd6
 msgid "![alt text](_static/images/QA/image-12.png)"
@@ -1415,22 +1283,15 @@ msgstr ""
 
 #: ../../faq.md:251 4fe9a4d8bbf84f7c8fa08fa72cdebccc
 msgid "点击自动拨号会显示坐席需要自动拨号的客户所满足的条件："
-msgstr ""
-"自動ダイヤルをクリックすると、エージェントで自動ダイヤルを必要とする顧客が満"
-"たす条件が表示されます。"
+msgstr "自動ダイヤルをクリックすると、エージェントで自動ダイヤルを必要とする顧客が満たす条件が表示されます。"
 
 #: ../../faq.md:253 db4bc00f51a745bab4c55d16ff8b6255
-msgid ""
-"拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。"
-msgstr ""
-"ダイヤル数：シートは、顧客のダイヤル回数に基づいて、顧客番号をフィルタリング"
-"することができます。"
+msgid "拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。"
+msgstr "ダイヤル数：シートは、顧客のダイヤル回数に基づいて、顧客番号をフィルタリングすることができます。"
 
 #: ../../faq.md:255 e0fe6ea11940473d8ab338ab8ac2d98b
 msgid "上次联络信息：坐席可以根据客户上次联络的时间界定所要拨打的客户号码。"
-msgstr ""
-"最後の連絡先情報：エージェントは、顧客の最後の連絡時間に基づいて呼び出される"
-"顧客番号を定義できます。"
+msgstr "最後の連絡先情報：エージェントは、顧客の最後の連絡時間に基づいて呼び出される顧客番号を定義できます。"
 
 #: ../../faq.md:257 288484b2a90449a9884b01180d4d001c
 msgid "![alt text](_static/images/QA/image-13.png)"
@@ -1442,49 +1303,29 @@ msgstr "ダイヤル数：自動ダイヤルによって設定された条件。
 
 #: ../../faq.md:261 94ab615831844ac6a6539cb5fd1343fd
 msgid ""
-"延迟：在通话结束后到下一个自动呼叫开始时有一个间歇时间供坐席处理该通话的结"
-"果，如果时间不够，坐席可以点击延迟，延迟的时间由任务管理中设定，点击一次即可"
-"延迟该设定的延迟时间，延迟可累计。"
+"延迟：在通话结束后到下一个自动呼叫开始时有一个间歇时间供坐席处理该通话的结果，如果时间不够，坐席可以点击延迟，延迟的时间由任务管理中设定，点击一次即可延迟该设定的延迟时间，延迟可累计。"
 msgstr ""
-"遅延：エージェントがコールの結果を処理するための断続的な時間があり、コールが"
-"次の自動コールの開始時に終了しました。時間が不十分な場合、エージェントは遅延"
-"をクリックできます。遅延時間はタスク管理によって設定されます。一度クリックし"
-"て、設定された遅延時間を遅延させると、遅延を蓄積することができます。"
+"遅延：エージェントがコールの結果を処理するための断続的な時間があり、コールが次の自動コールの開始時に終了しました。時間が不十分な場合、エージェントは遅延をクリックできます。遅延時間はタスク管理によって設定されます。一度クリックして、設定された遅延時間を遅延させると、遅延を蓄積することができます。"
 
 #: ../../faq.md:263 da6fd49be74c4946b74eaf37f2d81645
 msgid ""
-"开始到下一个通话：在通话结束后到下一个自动呼叫开始时如果坐席在任务设定的倒计"
-"时时间内完成该呼叫的处理，可以开始下一个自动呼叫，坐席可以点击该键直接进入下"
-"一个自动呼叫状态。"
+"开始到下一个通话：在通话结束后到下一个自动呼叫开始时如果坐席在任务设定的倒计时时间内完成该呼叫的处理，可以开始下一个自动呼叫，坐席可以点击该键直接进入下一个自动呼叫状态。"
 msgstr ""
-"次のコールの開始：コールが終了し、次の自動コールが開始された後、エージェント"
-"がタスクによって設定されたカウントダウン時間内にコールの処理を完了した場合、"
-"次の自動コールを開始できます。エージェントはこのキーをクリックして、次の自動"
-"コール状態を直接入力できます。"
+"次のコールの開始：コールが終了し、次の自動コールが開始された後、エージェントがタスクによって設定されたカウントダウン時間内にコールの処理を完了した場合、次の自動コールを開始できます。エージェントはこのキーをクリックして、次の自動コール状態を直接入力できます。"
 
 #: ../../faq.md:265 44f885b380194f4b9a8529958acf80d9
 msgid ""
-"暂停：在通话结束后到下一个自动呼叫开始时，坐席如果临时有事暂时不能处理接下来"
-"的自动呼叫可以暂停该自动呼叫，等待有时间时继续处理。在暂停状态下如有任何通话"
-"则视为结束暂停状态。"
+"暂停：在通话结束后到下一个自动呼叫开始时，坐席如果临时有事暂时不能处理接下来的自动呼叫可以暂停该自动呼叫，等待有时间时继续处理。在暂停状态下如有任何通话则视为结束暂停状态。"
 msgstr ""
-"一時停止：コールが終了し、次の自動コールが開始された後、エージェントは一時的"
-"な問題がある場合は自動コールを一時的に一時停止し、時間があるときに処理を続け"
-"ることができます。一時停止状態の呼び出しは終了すると見なされます。"
+"一時停止：コールが終了し、次の自動コールが開始された後、エージェントは一時的な問題がある場合は自動コールを一時的に一時停止し、時間があるときに処理を続けることができます。一時停止状態の呼び出しは終了すると見なされます。"
 
 #: ../../faq.md:267 ec174e4e38134c2d8893d43dcc55837e
-msgid ""
-"倒计时：任务管理所设置的在通话结束后到下一个自动呼叫开始时的一个间歇的时间倒"
-"计时。"
-msgstr ""
-"CountDown：コールの終了から次の自動コールの開始までのタスク管理によって設定さ"
-"れたカウントダウン時間。"
+msgid "倒计时：任务管理所设置的在通话结束后到下一个自动呼叫开始时的一个间歇的时间倒计时。"
+msgstr "CountDown：コールの終了から次の自動コールの開始までのタスク管理によって設定されたカウントダウン時間。"
 
 #: ../../faq.md:269 f2edd3ae89d54904af43d3129ab1c25f
 msgid "×：关闭自动呼叫，已经在呼叫的无法关闭。"
-msgstr ""
-"×：自動通話をオフにすると、すでに電話をかけている人はオフにすることはできませ"
-"ん。"
+msgstr "×：自動通話をオフにすると、すでに電話をかけている人はオフにすることはできません。"
 
 #: ../../faq.md:271 7fa02e3ea3514b959df0569d9ebd7038
 msgid "**3.预拨号**"
@@ -1492,27 +1333,18 @@ msgstr "** 3.pre-dial **"
 
 #: ../../faq.md:273 457a9c8a69e449a2a38b634f72fd8e84
 msgid ""
-"在分配外呼任务后，启动预拨号之前可以先对预拨号进行设置。在操作中的下拉菜单，"
-"可以对坐席组预拨号进行高级设置，此处的设置需要用户对坐席组的工作效率有一定了"
-"解。"
+"在分配外呼任务后，启动预拨号之前可以先对预拨号进行设置。在操作中的下拉菜单，可以对坐席组预拨号进行高级设置，此处的设置需要用户对坐席组的工作效率有一定了解。"
 msgstr ""
-"発信コールタスクを割り当てた後、開始する前にプリダイヤルタスクを設定できま"
-"す。操作のドロップダウンメニューでは、シートグループの事前に直接化するための"
-"高度な設定を作成できます。ここでの設定では、ユーザーがシートグループの作業効"
-"率を特定して理解する必要があります。"
+"発信コールタスクを割り当てた後、開始する前にプリダイヤルタスクを設定できます。操作のドロップダウンメニューでは、シートグループの事前に直接化するための高度な設定を作成できます。ここでの設定では、ユーザーがシートグループの作業効率を特定して理解する必要があります。"
 
 #: ../../faq.md:275 902113b2d77346b2a3819f7867731e8f
 msgid "![alt text](_static/images/QA/image-14.png)"
 msgstr ""
 
 #: ../../faq.md:277 645d35ab072349b09f9b5cbecddc9830
-msgid ""
-"设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则"
-"需要先清空预拨号列表。"
+msgid "设置好预拨号的高级选项后，就可以进入开启预拨号的流程。如果等待客户数不为0，则需要先清空预拨号列表。"
 msgstr ""
-"前向き化のための高度なオプションを設定した後、前向き化前のプロセスを入力でき"
-"ます。待機中の顧客の数が0でない場合は、最初に先駆リストをクリアする必要があり"
-"ます。"
+"前向き化のための高度なオプションを設定した後、前向き化前のプロセスを入力できます。待機中の顧客の数が0でない場合は、最初に先駆リストをクリアする必要があります。"
 
 #: ../../faq.md:279 aeff77f1527147f583810b0c34654910
 msgid "点击回收，对任务中的客户数据进行回收。"
@@ -1520,16 +1352,11 @@ msgstr "[リサイクル]をクリックして、タスクの顧客データを�
 
 #: ../../faq.md:281 2d2d1de4927e44fcac45cd286987e032
 msgid "此时回到坐席组预拨号页面点击开始，开启预拨号。"
-msgstr ""
-"次に、エージェントグループのプリダイヤルページに戻り、[開始]をクリックしてプ"
-"リダイアルを有効にします。"
+msgstr "次に、エージェントグループのプリダイヤルページに戻り、[開始]をクリックしてプリダイアルを有効にします。"
 
 #: ../../faq.md:283 bd61b3a4169c4082b6c71d22e22354a8
-msgid ""
-"在预拨号拨打过程中，用户可以在预拨号列表中点击预拨号列表查看当前拨号列表。"
-msgstr ""
-"ダイヤル前のダイヤルプロセス中、ユーザーはプリダイヤルリストのダイヤル前のリ"
-"ストをクリックして、現在のダイヤリングリストを表示できます。"
+msgid "在预拨号拨打过程中，用户可以在预拨号列表中点击预拨号列表查看当前拨号列表。"
+msgstr "ダイヤル前のダイヤルプロセス中、ユーザーはプリダイヤルリストのダイヤル前のリストをクリックして、現在のダイヤリングリストを表示できます。"
 
 #: ../../faq.md:285 d5dad085c09c4d9584edffcc34ad870d
 msgid "9通话中的三种转接方式"
@@ -1541,43 +1368,26 @@ msgstr "** 1電話の盲目**"
 
 #: ../../faq.md:289 6e22bfe8a5bc430a8c1367fda130e8d9
 msgid ""
-"坐席在通话状态时，当需要对该通话进行转接至第三方时，坐席有两种方法可以进行盲"
-"转转接，即可以使用在页面上直接转接，也可以使用话机转接，具体操作方法如下："
+"坐席在通话状态时，当需要对该通话进行转接至第三方时，坐席有两种方法可以进行盲转转接，即可以使用在页面上直接转接，也可以使用话机转接，具体操作方法如下："
 msgstr ""
-"エージェントがコール状態にある場合、コールを第三者に転送する必要がある場合、"
-"エージェントを盲目的に転送する2つの方法があります。つまり、ページ上の直接転送"
-"に使用するか、電話の転送に使用できます。特定の操作方法は次のとおりです。"
+"エージェントがコール状態にある場合、コールを第三者に転送する必要がある場合、エージェントを盲目的に転送する2つの方法があります。つまり、ページ上の直接転送に使用するか、電話の転送に使用できます。特定の操作方法は次のとおりです。"
 
 #: ../../faq.md:291 e5c3e34641684b5ba5efc56449539109
 msgid ""
-"A.以yealink电话为例，直接使用话机点击（trans话机中对应按键）输入第三方号码后"
-"再次点击（trans）转接至第三方处，此时坐席的所有操作仅在话机上执行。"
+"A.以yealink电话为例，直接使用话机点击（trans话机中对应按键）输入第三方号码后再次点击（trans）转接至第三方处，此时坐席的所有操作仅在话机上执行。"
 msgstr ""
-"A.例としてYealink電話を取ります。携帯電話を使用して（電話の対応するボタン）を"
-"クリックしてサードパーティ番号を入力し、もう一度[トランス）をクリックしてサー"
-"ドパーティに転送します。この時点で、座席のすべての操作は電話でのみ実行されま"
-"す。"
+"A.例としてYealink電話を取ります。携帯電話を使用して（電話の対応するボタン）をクリックしてサードパーティ番号を入力し、もう一度[トランス）をクリックしてサードパーティに転送します。この時点で、座席のすべての操作は電話でのみ実行されます。"
 
 #: ../../faq.md:293 1134ba48c9b842dfbcc95e574cfb4cc5
-msgid ""
-"B.使用坐席页面可以直接点击呼叫按钮然后输入第三方号码，再次点击呼叫按钮，对通"
-"话进行转接，此时坐席操作是在网页上执行。"
+msgid "B.使用坐席页面可以直接点击呼叫按钮然后输入第三方号码，再次点击呼叫按钮，对通话进行转接，此时坐席操作是在网页上执行。"
 msgstr ""
-"B.エージェントページを使用して、コールボタンを直接クリックしてサードパーティ"
-"番号を入力し、[呼び出し]ボタンをもう一度クリックして呼び出しを転送できます。"
-"この時点で、エージェント操作はWebページで実行されます。"
+"B.エージェントページを使用して、コールボタンを直接クリックしてサードパーティ番号を入力し、[呼び出し]ボタンをもう一度クリックして呼び出しを転送できます。この時点で、エージェント操作はWebページで実行されます。"
 
 #: ../../faq.md:295 b6e6ad96ec224bc88a8fdb6a472cfacc
 msgid ""
-"转接后，发起转接坐席的通话直接挂断，当前通话转接至第三方，此时由于第三方的状"
-"态未知，若第三方可以应答，则该次转接成功，即拨号用户与第三方成功连接。若第三"
-"方未应答或为忙，则该通话直接挂断结束。"
+"转接后，发起转接坐席的通话直接挂断，当前通话转接至第三方，此时由于第三方的状态未知，若第三方可以应答，则该次转接成功，即拨号用户与第三方成功连接。若第三方未应答或为忙，则该通话直接挂断结束。"
 msgstr ""
-"転送後、エージェントへの呼び出しが直接電話を切るように開始されます。現在の呼"
-"び出しは第三者に転送されます。この時点で、第三者のステータスは不明であるた"
-"め、第三者が回答できる場合、転送は成功します。つまり、ダイヤリングユーザーと"
-"サードパーティが正常に接続します。サードパーティが回答に失敗したり、忙しい場"
-"合、電話はハングアップして終了します。"
+"転送後、エージェントへの呼び出しが直接電話を切るように開始されます。現在の呼び出しは第三者に転送されます。この時点で、第三者のステータスは不明であるため、第三者が回答できる場合、転送は成功します。つまり、ダイヤリングユーザーとサードパーティが正常に接続します。サードパーティが回答に失敗したり、忙しい場合、電話はハングアップして終了します。"
 
 #: ../../faq.md:297 24844c7618914714a99bef379ecc1e5f
 msgid "上述即实现电话盲转。"
@@ -1593,23 +1403,9 @@ msgstr "** 2電話の相談と転送**"
 
 #: ../../faq.md:303 ae48719ac6744a97aa0094be92436a91
 msgid ""
-"坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直"
-"接使用话机点击（trans）输入第三方号码，输入后点击话机上的（send），发起转接的"
-"坐席可以与指定的第三方进行通话确定此时第三方的通话状态，确认能够接听再将电话"
-"点击（trans）转接。若第三方为忙或无法接听，坐席可将继续重复上述操作将通话转接"
-"至能够接听方，若转接不成功，该通话最终回到原坐席处。在转接过程中用户电话端为"
-"等待音乐,该操作目前仅支持在话机上进行。"
+"坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直接使用话机点击（trans）输入第三方号码，输入后点击话机上的（send），发起转接的坐席可以与指定的第三方进行通话确定此时第三方的通话状态，确认能够接听再将电话点击（trans）转接。若第三方为忙或无法接听，坐席可将继续重复上述操作将通话转接至能够接听方，若转接不成功，该通话最终回到原坐席处。在转接过程中用户电话端为等待音乐,该操作目前仅支持在话机上进行。"
 msgstr ""
-"エージェントがコール状態にあるときは、たとえばYealink電話を取ります。コールを"
-"第三者に転送する必要がある場合は、電話を直接使用して[トランス）をクリックして"
-"サードパーティ番号を入力する必要があります。入力したら、電話で[送信）をクリッ"
-"クします。転送を開始するエージェントは、指定された第三者と呼び出して、この時"
-"点で第三者のコールステータスを決定し、回答してから[trans）をクリックしてコー"
-"ルを転送できることを確認します。第三者が忙しい場合、または電話に応答できない"
-"場合、エージェントは上記の操作を繰り返し続け、回答できる当事者に電話を転送し"
-"続けることができます。転送が成功しない場合、コールは最終的に元のエージェント"
-"に戻ります。転送プロセス中、ユーザーの携帯電話は音楽を待っています。この操作"
-"は現在、電話でのみサポートされています。"
+"エージェントがコール状態にあるときは、たとえばYealink電話を取ります。コールを第三者に転送する必要がある場合は、電話を直接使用して[トランス）をクリックしてサードパーティ番号を入力する必要があります。入力したら、電話で[送信）をクリックします。転送を開始するエージェントは、指定された第三者と呼び出して、この時点で第三者のコールステータスを決定し、回答してから[trans）をクリックしてコールを転送できることを確認します。第三者が忙しい場合、または電話に応答できない場合、エージェントは上記の操作を繰り返し続け、回答できる当事者に電話を転送し続けることができます。転送が成功しない場合、コールは最終的に元のエージェントに戻ります。転送プロセス中、ユーザーの携帯電話は音楽を待っています。この操作は現在、電話でのみサポートされています。"
 
 #: ../../faq.md:305 3ffe3f3032514956839e18e9390acf63
 msgid "**3话机驻留**"
@@ -1617,19 +1413,9 @@ msgstr "** 3電話の滞在**"
 
 #: ../../faq.md:307 f7df9ab38b01425da523984a9b5297a9
 msgid ""
-"坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直"
-"接使用话机点击（trans）输入功能键中设置的驻留号码以系统默认700为例，输入后点"
-"击话机上的（send），通话驻留，被驻留方响保持音乐，当第三方坐席或是原坐席想要"
-"取回，可以根据语音提示，按701取回。如果没有坐席取回，电话会回呼到驻留坐席处。"
+"坐席在通话状态时，以yealink电话为例，当需要对该通话进行转接至第三方时，需要直接使用话机点击（trans）输入功能键中设置的驻留号码以系统默认700为例，输入后点击话机上的（send），通话驻留，被驻留方响保持音乐，当第三方坐席或是原坐席想要取回，可以根据语音提示，按701取回。如果没有坐席取回，电话会回呼到驻留坐席处。"
 msgstr ""
-"エージェントがコール状態にあるときは、たとえばYealink電話を取ります。コールを"
-"第三者に転送する必要がある場合は、電話を直接使用して[トランス）をクリックし"
-"て、ファンクションキーに設定されたレジデンシー番号を入力する必要があります。"
-"例として、システムのデフォルト700を取得します。入力したら、電話で[送信）をク"
-"リックします。電話は居住し、レジデントパーティーは音楽を維持します。サード"
-"パーティの座席または元の座席がそれを取得したい場合、音声プロンプトに応じて701"
-"を押すことができます。座席が回収されない場合、コールはレジデントシートに呼び"
-"戻されます。"
+"エージェントがコール状態にあるときは、たとえばYealink電話を取ります。コールを第三者に転送する必要がある場合は、電話を直接使用して[トランス）をクリックして、ファンクションキーに設定されたレジデンシー番号を入力する必要があります。例として、システムのデフォルト700を取得します。入力したら、電話で[送信）をクリックします。電話は居住し、レジデントパーティーは音楽を維持します。サードパーティの座席または元の座席がそれを取得したい場合、音声プロンプトに応じて701を押すことができます。座席が回収されない場合、コールはレジデントシートに呼び戻されます。"
 
 #: ../../faq.md:309 44107a3ad99e4671964beca66ab1a76b
 msgid "10话机自动部署的使用方法"
@@ -1637,9 +1423,7 @@ msgstr "10電話の自動展開を使用する方法"
 
 #: ../../faq.md:311 cf3fc0cbe5524018911f4635a45e4c5e
 msgid "以yealink话机为例，在client和话机中设置自动部署的用户名及密码"
-msgstr ""
-"Yealink電話を例として使用するには、クライアントと電話で自動展開用のユーザー名"
-"とパスワードを設定します"
+msgstr "Yealink電話を例として使用するには、クライアントと電話で自動展開用のユーザー名とパスワードを設定します"
 
 #: ../../faq.md:313 7b469c1b83144404984b9b7c79a5ba70
 msgid "![alt text](_static/images/QA/image-15.png)"
@@ -1647,9 +1431,7 @@ msgstr ""
 
 #: ../../faq.md:315 79294a5daded402db80416e22ec1ec38
 msgid "在坐席--高级页面选择话机部署模版--填写话机的MAC地址"
-msgstr ""
-"エージェント -  [詳細]ページで、電話の展開テンプレートを選択します - 電話の"
-"Macアドレスに入力します"
+msgstr "エージェント -  [詳細]ページで、電話の展開テンプレートを選択します - 電話のMacアドレスに入力します"
 
 #: ../../faq.md:317 5ffeb40c10884bf18d4fe8bef9829012
 msgid "![alt text](_static/images/QA/image-16.png)"
@@ -1657,17 +1439,11 @@ msgstr ""
 
 #: ../../faq.md:319 57840d7bdb994e97bd76c0c9fd048cb0
 msgid "保存后再点击该坐席编辑--预览话机部署模版，填写用户名跟密码进行预览"
-msgstr ""
-"保存後、エージェントをクリックして編集 - 電話展開テンプレートをプレビューし、"
-"ユーザー名とパスワードを入力してプレビューします"
+msgstr "保存後、エージェントをクリックして編集 - 電話展開テンプレートをプレビューし、ユーザー名とパスワードを入力してプレビューします"
 
 #: ../../faq.md:321 8b338de9847f4a04a597bb2ab69affc8
-msgid ""
-"在yealink话机设置页面--设置--自动更新处填写服务器url以及在client设置中设置的"
-"用户名和密码"
-msgstr ""
-"yealink電話設定のクライアント設定で設定されたサーバーのURLとユーザー名とパス"
-"ワードに入力"
+msgid "在yealink话机设置页面--设置--自动更新处填写服务器url以及在client设置中设置的用户名和密码"
+msgstr "yealink電話設定のクライアント設定で設定されたサーバーのURLとユーザー名とパスワードに入力"
 
 #: ../../faq.md:323 e29508c73bb141a2b2e01271569577dd
 msgid "![alt text](_static/images/QA/image-17.png)"
@@ -1676,3 +1452,174 @@ msgstr ""
 #: ../../faq.md:325 35129eb9943b4133acf7c09a00b6de00
 msgid "话机的自动部署就会成功。"
 msgstr "電話の自動展開は成功します。"
+
+#: ../../faq.md:328 89fcac1268ee4fcebd82c318d04165c1
+msgid "11 同一系统下两个client之间呼叫，都需要做什么准备？"
+msgstr "11同じシステムの2つのクライアント間で呼び出すためにどのような準備が必要ですか？"
+
+#: ../../faq.md:330 ba5e6133d0c84d629fa15c66dc3d6538
+msgid "**建立中继**"
+msgstr "**リレーを作成**"
+
+#: ../../faq.md:332 e16b07ad0e0243f6924d7c12c59cdfdb
+msgid ""
+"1.建立一个使用ip的中继，因为都在同一个环境中，所以建立的中继就是本环境的   例如stg的两个client互相打，就建一个stgIP的中继"
+msgstr ""
+"1. "
+"IPを使用してリレーを作成します。どちらも同じ環境にあるため、確立されたリレーは現在の環境にあります。たとえば、STGの2人のクライアントが互いに戦っており、STGIPのリレーが作成されています。"
+
+#: ../../faq.md:335 8b2cd6d09ceb45d8b674267674ab2798
+msgid "![alt text](_static/images/QA/image-18.png)"
+msgstr ""
+
+#: ../../faq.md:337 a6e12af164e544299db8f69cfc1584f5
+msgid "**建立外呼档案**"
+msgstr "**アウトバウンドコールファイルを作成**"
+
+#: ../../faq.md:339 b886907c9a1a46359d11b515c2663d8e
+msgid "2.以被叫号码-前缀匹配为条件，匹配目标client所用did的前缀，中继都使用同一个中继（上述创建好的）"
+msgstr ""
+"2。呼び出された番号-"
+"PREFIXマッチングの条件に基づいて、ターゲットクライアントが使用したDIDのプレフィックスと一致し、リレーは同じリレーを使用します（上記で作成）"
+
+#: ../../faq.md:341 7952160577194a7b8675c0dc26ec5dfc
+msgid ""
+"例如：client1使用的did前缀是56，client2使用的did前缀是57        那么client1--"
+"外呼档案1的前缀就匹配57，client2--外呼档案2前缀就匹配56"
+msgstr ""
+"たとえば、クライアント1が使用するDIDプレフィックスは56で、クライアント2が使用するDIDプレフィックスは57です。クライアント1のプレフィックス "
+"- コールファイル1は57と一致し、クライアント2のプレフィックス - アウトコールファイル2は56に一致します"
+
+#: ../../faq.md:344 60e25afdae394e43bea52f3bf0c9fe4a
+msgid "![alt text](_static/images/QA/image-19.png)"
+msgstr ""
+
+#: ../../faq.md:346 a5f448efd6bc40ab83d1b31fb34898b2
+#, fuzzy
+msgid "**分配**"
+msgstr "**配布する**"
+
+#: ../../faq.md:348 ffeb5074c4d945f191dea159bb1271b3
+msgid "3.将创建好的外呼档案、did号码、外线号码等分配给对应的两个client，就可以双向进行呼叫了"
+msgstr ""
+"3.作成されたアウトバウンドコールファイル、DID番号、外部番号などを対応する2つのクライアントに割り当てると、両方向に電話をかけることができます。"
+
+#: ../../faq.md:350 fbc6f060befe4540be0d1434a03ec18e
+msgid "![alt text](_static/images/QA/image-20.png)"
+msgstr ""
+
+#: ../../faq.md:354 59c2dc6978d04e38b08fd193d2301975
+msgid "12  blf的使用说明及方法"
+msgstr "12 BLFの命令と方法"
+
+#: ../../faq.md:356 acbd1f0da7d442dc910bba2ca60dac5c
+msgid "**1 功能说明**"
+msgstr "** 1関数の説明**"
+
+#: ../../faq.md:358 99948e4e8edd41cd8ee70d031a174172
+msgid "**blf功能**：如果某一坐席需要知道另外一个或多个指定坐席目前所处的状态情况，就可以启动blf功能。"
+msgstr ""
+"** BLF機能**：シートが別のまたはそれ以上の指定された座席の現在の状態を知る必要がある場合、BLF関数をアクティブにすることができます。"
+
+#: ../../faq.md:360 c3a4e361690b4beb9968420184b39aa3
+msgid "**2 配置方法**"
+msgstr "** 2構成方法**"
+
+#: ../../faq.md:362 79db0d8a04ae4b71a520c002c26d3a20
+msgid "目前blf功能可以在两种话机类型上实现。分别是硬电话、wcc网页电话。"
+msgstr "現在、BLF機能は2種類の電話で実装できます。これらはハードフォンとWCC Web電話です。"
+
+#: ../../faq.md:364 aca6568046ba43ecae98de65c0a19002
+msgid "**sip电话的配置步骤（以yealink为例）**"
+msgstr "**電話設定手順をSIP（Yealinkを例にとる）**"
+
+#: ../../faq.md:366 4e812ce8b3b544a59d60302d489b4d17
+msgid "①登录sip电话的IP地址，进入到sip电话的功能配置页面"
+msgstr "SIP電話のIPアドレスにログインし、SIP電話の関数構成ページを入力します"
+
+#: ../../faq.md:368 86f34fc113bd44dc92b621b6bccf2ac0
+msgid "![alt text](_static/images/QA/image-21.png)"
+msgstr ""
+
+#: ../../faq.md:370 11f15d6488cc4091953e32ca76dbc9ac
+msgid "②在【账号】页面注册一个分机"
+msgstr "[[アカウント]ページに拡張機能を登録します"
+
+#: ../../faq.md:372 515385bf45cd4458a2207b8ce975d665
+msgid "![alt text](_static/images/QA/image-22.png)"
+msgstr ""
+
+#: ../../faq.md:374 b49995c835da4982a2f333b3a9e58e35
+msgid ""
+"③点击【可编程按键】页面，将账号键2的类型改成blf，分别在值、标签、和分机号中填上被监控坐席的工号，点击【提交】按钮，sip话机上的账号2就启用了blf的功能，账号1中的分机就可以监控账号2中分机的状态"
+msgstr ""
+"[[プログラム可能キー]ページをクリックし、アカウントキー2のタイプをBLFに変更し、値、ラベル、および拡張機能をそれぞれ入力し、[送信]ボタンをクリックし、SIP電話のBLF関数が有効になり、アカウント1の拡張機能がアカウント2の拡張機能のステータスを監視できます。"
+
+#: ../../faq.md:376 7a77d91c17bd4f2281bb96535a77253e
+msgid "![alt text](_static/images/QA/image-23.png)"
+msgstr ""
+
+#: ../../faq.md:378 3db9de78654b4175935106b76c71987d
+msgid "**注**如果在“值”中输入*85等功能键，监控坐席可以直接按sip电话上的指示灯按钮抢接被监控坐席的电话"
+msgstr ""
+"**注**「値」で*85などの関数キーを入力すると、監視シートはSIP電話のインジケータボタンを直接押して、監視されているシートの電話に追いつくことができます。"
+
+#: ../../faq.md:381 1dc55858393342e9ac90667855a3aeac
+msgid "**wcc网页电话的配置步骤**"
+msgstr "** WCC Web電話の構成ステップ**"
+
+#: ../../faq.md:383 84ec0fe7ca5d4c2596f4dfb1a18821b0
+msgid "①登录一个分机"
+msgstr "extensionをロギンします"
+
+#: ../../faq.md:385 46c75ce326ad448292a2042699699b56
+msgid "![alt text](_static/images/QA/image-24.png)"
+msgstr ""
+
+#: ../../faq.md:387 235c34c45c6548b198749b1e69d09ca7
+msgid "②点击页面上的【设置】按钮，进入到自定义按键页面"
+msgstr "pageページの[設定]ボタンをクリックして、カスタムキーページを入力します"
+
+#: ../../faq.md:389 5c568267855a4d2f8f052c78577ee9c3
+msgid "![alt text](_static/images/QA/image-25.png)"
+msgstr ""
+
+#: ../../faq.md:391 80ad098d00184fc58d9ae39c7dbbc5c3
+msgid "![alt text](_static/images/QA/image-26.png)"
+msgstr ""
+
+#: ../../faq.md:393 9dfcf5f9a1d2418783fc989040c1c01d
+msgid "③在自定义按键页面可以选择添加一个或多个被监控的坐席"
+msgstr "customカスタムキーページに1つ以上の監視された座席を追加することを選択できます"
+
+#: ../../faq.md:395 b009e5746d5542f88e5debb806275913
+msgid "![alt text](_static/images/QA/image-27.png)"
+msgstr ""
+
+#: ../../faq.md:397 451aefc14bd24dddbb0fd44a148ed816
+msgid "④添加成功后，就可以看到被监控坐席当前的状态了"
+msgstr "追加が成功した後、監視されたエージェントの現在のステータスを確認できます。"
+
+#: ../../faq.md:399 041a012d6c664cf390a2f49dc570ac7a
+msgid "![alt text](_static/images/QA/image-28.png)"
+msgstr ""
+
+#: ../../faq.md:402 2427bea85da540e79be1cde4c73390bc
+msgid "**颜色显示**"
+msgstr "**カラーディスプレイ**"
+
+#: ../../faq.md:404 bcbae0c2192e4358a1fca6e4fd42772b
+msgid ""
+"无论是sip电话还是wcc网页电话，若被监控的坐席指示灯显示的是绿色，说明该坐席当前处于空闲状态；若被监控坐席的指示灯显示的是红色，说明该坐席当前处于振铃、通话等繁忙状态。"
+msgstr ""
+"SIP電話であろうとWCC "
+"Web電話であろうと、監視されているエージェントインジケータライトが緑の場合、エージェントが現在アイドル状態にあることを意味します。監視されているエージェントインジケータライトが赤の場合、エージェントが現在鳴り、話すなどの忙しい状態にあることを意味します。"
+
+#: ../../faq.md:406 92c502cc0d424744a4e6b515452fc062
+msgid "![alt text](_static/images/QA/image-29.png)"
+msgstr ""
+
+#: ../../faq.md:408 5e1cdafbcfb74e98bc1880e6ac3c06ad
+msgid "**注**：只有内线之间或外线号码呼入到被监控坐席时，才会触发该功能，指示灯才会变成红色，呼出到外线暂不支持该功能"
+msgstr ""
+"**注**：この関数は、監視されたシートに内側の線または外側の数字が呼び出され、インジケータライトが赤くなる場合にのみトリガーされます。この関数は、外線への呼び出しの場合、サポートされません。"

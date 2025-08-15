@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 02:05+0900\n"
+"POT-Creation-Date: 2025-08-15 11:09+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1288,6 +1288,18 @@ msgstr ""
 #: ../../faq.md:313
 #: ../../faq.md:317
 #: ../../faq.md:323
+#: ../../faq.md:335
+#: ../../faq.md:344
+#: ../../faq.md:350
+#: ../../faq.md:368
+#: ../../faq.md:372
+#: ../../faq.md:376
+#: ../../faq.md:385
+#: ../../faq.md:389
+#: ../../faq.md:391
+#: ../../faq.md:395
+#: ../../faq.md:399
+#: ../../faq.md:406
 #: 427423f128a2458bb366e1128f7fe62c
 #: 903a9684059c42ae9c29d6b607a92ee3
 #: 3f66cb22f14743259b7b9ae540ee8760
@@ -1305,6 +1317,18 @@ msgstr ""
 #: 077d69bbf5cd4becba9373543a15a975
 #: 8773ba751b384d3b95f49fed14def477
 #: a46604520de340299b6dfc33aa194806
+#: 939b71118cf0482b810305feef8e5057
+#: a60701ddaaee47dcbd2a116bf32a6e32
+#: b96ce411f4b5450990cd88708a114d96
+#: bee359605fd44d3a9649ef9cb9017c6c
+#: 8650342fb1f1492ea1b5f30be4266a50
+#: e3b4cba8fb8648739c96829b9423aa25
+#: cab3c74997fe43de9da3551458159921
+#: e7b1945077e142b2bc66bb0a15049599
+#: 1e3dcf3d5bc242348b6600430d4a11dd
+#: 7cd8c91bc8ac49d8a8726de6166dd9ee
+#: af66d17701174fea89708442f3fc68db
+#: f95eaa90a49a4258ac9996b8efd8331a
 msgid "alt text"
 msgstr ""
 
@@ -1755,4 +1779,194 @@ msgstr ""
 #: ../../faq.md:325
 #: 35129eb9943b4133acf7c09a00b6de00
 msgid "话机的自动部署就会成功。"
+msgstr ""
+
+#: ../../faq.md:328
+#: 89fcac1268ee4fcebd82c318d04165c1
+msgid "11 同一系统下两个client之间呼叫，都需要做什么准备？"
+msgstr ""
+
+#: ../../faq.md:330
+#: ba5e6133d0c84d629fa15c66dc3d6538
+msgid "**建立中继**"
+msgstr ""
+
+#: ../../faq.md:332
+#: e16b07ad0e0243f6924d7c12c59cdfdb
+msgid "1.建立一个使用ip的中继，因为都在同一个环境中，所以建立的中继就是本环境的   例如stg的两个client互相打，就建一个stgIP的中继"
+msgstr ""
+
+#: ../../faq.md:335
+#: 8b2cd6d09ceb45d8b674267674ab2798
+msgid "![alt text](_static/images/QA/image-18.png)"
+msgstr ""
+
+#: ../../faq.md:337
+#: a6e12af164e544299db8f69cfc1584f5
+msgid "**建立外呼档案**"
+msgstr ""
+
+#: ../../faq.md:339
+#: b886907c9a1a46359d11b515c2663d8e
+msgid "2.以被叫号码-前缀匹配为条件，匹配目标client所用did的前缀，中继都使用同一个中继（上述创建好的）"
+msgstr ""
+
+#: ../../faq.md:341
+#: 7952160577194a7b8675c0dc26ec5dfc
+msgid "例如：client1使用的did前缀是56，client2使用的did前缀是57        那么client1--外呼档案1的前缀就匹配57，client2--外呼档案2前缀就匹配56"
+msgstr ""
+
+#: ../../faq.md:344
+#: 60e25afdae394e43bea52f3bf0c9fe4a
+msgid "![alt text](_static/images/QA/image-19.png)"
+msgstr ""
+
+#: ../../faq.md:346
+#: a5f448efd6bc40ab83d1b31fb34898b2
+msgid "**分配**"
+msgstr ""
+
+#: ../../faq.md:348
+#: ffeb5074c4d945f191dea159bb1271b3
+msgid "3.将创建好的外呼档案、did号码、外线号码等分配给对应的两个client，就可以双向进行呼叫了"
+msgstr ""
+
+#: ../../faq.md:350
+#: fbc6f060befe4540be0d1434a03ec18e
+msgid "![alt text](_static/images/QA/image-20.png)"
+msgstr ""
+
+#: ../../faq.md:354
+#: 59c2dc6978d04e38b08fd193d2301975
+msgid "12  blf的使用说明及方法"
+msgstr ""
+
+#: ../../faq.md:356
+#: acbd1f0da7d442dc910bba2ca60dac5c
+msgid "**1 功能说明**"
+msgstr ""
+
+#: ../../faq.md:358
+#: 99948e4e8edd41cd8ee70d031a174172
+msgid "**blf功能**：如果某一坐席需要知道另外一个或多个指定坐席目前所处的状态情况，就可以启动blf功能。"
+msgstr ""
+
+#: ../../faq.md:360
+#: c3a4e361690b4beb9968420184b39aa3
+msgid "**2 配置方法**"
+msgstr ""
+
+#: ../../faq.md:362
+#: 79db0d8a04ae4b71a520c002c26d3a20
+msgid "目前blf功能可以在两种话机类型上实现。分别是硬电话、wcc网页电话。"
+msgstr ""
+
+#: ../../faq.md:364
+#: aca6568046ba43ecae98de65c0a19002
+msgid "**sip电话的配置步骤（以yealink为例）**"
+msgstr ""
+
+#: ../../faq.md:366
+#: 4e812ce8b3b544a59d60302d489b4d17
+msgid "①登录sip电话的IP地址，进入到sip电话的功能配置页面"
+msgstr ""
+
+#: ../../faq.md:368
+#: 86f34fc113bd44dc92b621b6bccf2ac0
+msgid "![alt text](_static/images/QA/image-21.png)"
+msgstr ""
+
+#: ../../faq.md:370
+#: 11f15d6488cc4091953e32ca76dbc9ac
+msgid "②在【账号】页面注册一个分机"
+msgstr ""
+
+#: ../../faq.md:372
+#: 515385bf45cd4458a2207b8ce975d665
+msgid "![alt text](_static/images/QA/image-22.png)"
+msgstr ""
+
+#: ../../faq.md:374
+#: b49995c835da4982a2f333b3a9e58e35
+msgid "③点击【可编程按键】页面，将账号键2的类型改成blf，分别在值、标签、和分机号中填上被监控坐席的工号，点击【提交】按钮，sip话机上的账号2就启用了blf的功能，账号1中的分机就可以监控账号2中分机的状态"
+msgstr ""
+
+#: ../../faq.md:376
+#: 7a77d91c17bd4f2281bb96535a77253e
+msgid "![alt text](_static/images/QA/image-23.png)"
+msgstr ""
+
+#: ../../faq.md:378
+#: 3db9de78654b4175935106b76c71987d
+msgid "**注**如果在“值”中输入*85等功能键，监控坐席可以直接按sip电话上的指示灯按钮抢接被监控坐席的电话"
+msgstr ""
+
+#: ../../faq.md:381
+#: 1dc55858393342e9ac90667855a3aeac
+msgid "**wcc网页电话的配置步骤**"
+msgstr ""
+
+#: ../../faq.md:383
+#: 84ec0fe7ca5d4c2596f4dfb1a18821b0
+msgid "①登录一个分机"
+msgstr ""
+
+#: ../../faq.md:385
+#: 46c75ce326ad448292a2042699699b56
+msgid "![alt text](_static/images/QA/image-24.png)"
+msgstr ""
+
+#: ../../faq.md:387
+#: 235c34c45c6548b198749b1e69d09ca7
+msgid "②点击页面上的【设置】按钮，进入到自定义按键页面"
+msgstr ""
+
+#: ../../faq.md:389
+#: 5c568267855a4d2f8f052c78577ee9c3
+msgid "![alt text](_static/images/QA/image-25.png)"
+msgstr ""
+
+#: ../../faq.md:391
+#: 80ad098d00184fc58d9ae39c7dbbc5c3
+msgid "![alt text](_static/images/QA/image-26.png)"
+msgstr ""
+
+#: ../../faq.md:393
+#: 9dfcf5f9a1d2418783fc989040c1c01d
+msgid "③在自定义按键页面可以选择添加一个或多个被监控的坐席"
+msgstr ""
+
+#: ../../faq.md:395
+#: b009e5746d5542f88e5debb806275913
+msgid "![alt text](_static/images/QA/image-27.png)"
+msgstr ""
+
+#: ../../faq.md:397
+#: 451aefc14bd24dddbb0fd44a148ed816
+msgid "④添加成功后，就可以看到被监控坐席当前的状态了"
+msgstr ""
+
+#: ../../faq.md:399
+#: 041a012d6c664cf390a2f49dc570ac7a
+msgid "![alt text](_static/images/QA/image-28.png)"
+msgstr ""
+
+#: ../../faq.md:402
+#: 2427bea85da540e79be1cde4c73390bc
+msgid "**颜色显示**"
+msgstr ""
+
+#: ../../faq.md:404
+#: bcbae0c2192e4358a1fca6e4fd42772b
+msgid "无论是sip电话还是wcc网页电话，若被监控的坐席指示灯显示的是绿色，说明该坐席当前处于空闲状态；若被监控坐席的指示灯显示的是红色，说明该坐席当前处于振铃、通话等繁忙状态。"
+msgstr ""
+
+#: ../../faq.md:406
+#: 92c502cc0d424744a4e6b515452fc062
+msgid "![alt text](_static/images/QA/image-29.png)"
+msgstr ""
+
+#: ../../faq.md:408
+#: 5e1cdafbcfb74e98bc1880e6ac3c06ad
+msgid "**注**：只有内线之间或外线号码呼入到被监控坐席时，才会触发该功能，指示灯才会变成红色，呼出到外线暂不支持该功能"
 msgstr ""

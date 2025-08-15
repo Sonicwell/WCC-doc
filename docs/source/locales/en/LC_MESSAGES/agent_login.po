@@ -9,144 +9,2278 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC Documentation 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 02:46+0900\n"
+"POT-Creation-Date: 2025-08-15 11:09+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: en <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.17.0\n"
 
 #: ../../agent_login.md:1 ca8cea58a025408b9a40a149e1673f37
 msgid "1 系统登录"
-msgstr ""
+msgstr "1 System login"
 
 #: ../../agent_login.md:3 8551ac6967d8480f92c476f00e96df1c
 msgid "在您正在使用的浏览器的地址栏中输入 URL。按 Enter 键进入系统登录页面。"
-msgstr ""
+msgstr "Enter the URL in the address bar of the browser you are using. "
 
 #: ../../agent_login.md:5 e851baf5eda04ea3b37146f60a3575fd
 msgid ""
-"用户账号为工号+@client名 ，密码为client提前预设的，输入正确账号和密码，勾选"
-"【进行人机身份验证】，验证后选择【登录】，可以成功进入系统。"
+"用户账号为工号+@client名 ，密码为client提前预设的，输入正确账号和密码，勾选【进行人机身份验证】，验证后选择【登录】，可以成功进入系统。"
 msgstr ""
+"The user account is the work number + @client name, and the password is "
+"preset in advance by client. Enter the correct account and password, check "
+"[Human-computer identity verification], and select [Login] after "
+"verification, and you can successfully enter the system."
 
 #: ../../agent_login.md:7 d2612953217546d18a27d12f29d40be1
-msgid ""
-"用户可以通过选择【记住密码】，浏览器会记住此次的帐号密码，方便下次登陆。"
+msgid "用户可以通过选择【记住密码】，浏览器会记住此次的帐号密码，方便下次登陆。"
 msgstr ""
+"Users can select [Remember Password], and the browser will remember the "
+"account password this time, making it easier to log in next time."
 
 #: ../../agent_login.md:9 4ec65a14631d49a28b273244f0b11059
 msgid "![alt text](_static/images/agent/image-a1.jpg)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a1.jpg)"
 
 #: ../../agent_login.md:9 ../../agent_login.md:13 ../../agent_login.md:19
 #: ../../agent_login.md:25 ../../agent_login.md:29 ../../agent_login.md:33
-#: ../../agent_login.md:37 ../../agent_login.md:43
-#: 84c567372b8147eebe99cf8509dfc281 76711bba2e3042adbeba740503c7c6df
-#: 09b73b242a33446cad6e5845d34badfc 1add65769b714275bbc1666fb7f6cb68
-#: 0d60e9ccb0ee4afc86a53cf4c8f0ebbf f42dd5e5311d489982bb074f2e6efc89
-#: 11af902c340549ee9afa4d77453b0b44 32068358ce824b5bb8ff6511469cbe9a
+#: ../../agent_login.md:37 ../../agent_login.md:43 ../../agent_login.md:57
+#: ../../agent_login.md:75 ../../agent_login.md:81 ../../agent_login.md:85
+#: ../../agent_login.md:89 ../../agent_login.md:93 ../../agent_login.md:105
+#: ../../agent_login.md:107 ../../agent_login.md:115 ../../agent_login.md:119
+#: ../../agent_login.md:125 ../../agent_login.md:131 ../../agent_login.md:135
+#: ../../agent_login.md:139 ../../agent_login.md:155 ../../agent_login.md:169
+#: ../../agent_login.md:177 ../../agent_login.md:183 ../../agent_login.md:201
+#: ../../agent_login.md:205 ../../agent_login.md:215 ../../agent_login.md:231
+#: ../../agent_login.md:237 ../../agent_login.md:245 ../../agent_login.md:249
+#: ../../agent_login.md:253 ../../agent_login.md:259 ../../agent_login.md:267
+#: ../../agent_login.md:271 ../../agent_login.md:275 ../../agent_login.md:279
+#: ../../agent_login.md:283 ../../agent_login.md:287 ../../agent_login.md:291
+#: ../../agent_login.md:295 ../../agent_login.md:301 ../../agent_login.md:303
+#: ../../agent_login.md:307 ../../agent_login.md:309 ../../agent_login.md:313
+#: ../../agent_login.md:317 ../../agent_login.md:323 ../../agent_login.md:327
+#: ../../agent_login.md:331 ../../agent_login.md:345 ../../agent_login.md:353
+#: ../../agent_login.md:369 ../../agent_login.md:373 ../../agent_login.md:377
+#: ../../agent_login.md:381 ../../agent_login.md:385 ../../agent_login.md:390
+#: ../../agent_login.md:394 ../../agent_login.md:398 ../../agent_login.md:402
+#: ../../agent_login.md:412 ../../agent_login.md:416 ../../agent_login.md:432
+#: ../../agent_login.md:436 ../../agent_login.md:440 ../../agent_login.md:446
+#: ../../agent_login.md:450 ../../agent_login.md:454 ../../agent_login.md:458
+#: ../../agent_login.md:462 ../../agent_login.md:468 ../../agent_login.md:472
+#: ../../agent_login.md:476 ../../agent_login.md:480 ../../agent_login.md:484
+#: ../../agent_login.md:490 ../../agent_login.md:494 ../../agent_login.md:498
+#: ../../agent_login.md:502 ../../agent_login.md:504 ../../agent_login.md:518
+#: ../../agent_login.md:526 ../../agent_login.md:532 ../../agent_login.md:538
+#: ../../agent_login.md:542 ../../agent_login.md:544 ../../agent_login.md:550
+#: ../../agent_login.md:554 ../../agent_login.md:558 ../../agent_login.md:562
+#: ../../agent_login.md:570 ../../agent_login.md:574 ../../agent_login.md:578
+#: ../../agent_login.md:586 ../../agent_login.md:588 ../../agent_login.md:606
+#: ../../agent_login.md:624 ../../agent_login.md:630 ../../agent_login.md:634
+#: ../../agent_login.md:638 ../../agent_login.md:644 ../../agent_login.md:668
+#: ../../agent_login.md:670 ../../agent_login.md:686 ../../agent_login.md:694
+#: ../../agent_login.md:696 ../../agent_login.md:702 ../../agent_login.md:706
+#: ../../agent_login.md:712 ../../agent_login.md:720 ../../agent_login.md:724
+#: ../../agent_login.md:728 ../../agent_login.md:732 ../../agent_login.md:736
+#: ../../agent_login.md:742 ../../agent_login.md:746 ../../agent_login.md:750
+#: ../../agent_login.md:756 ../../agent_login.md:768 ../../agent_login.md:772
+#: ../../agent_login.md:776 ../../agent_login.md:784 ../../agent_login.md:788
+#: ../../agent_login.md:794 ../../agent_login.md:798 ../../agent_login.md:804
+#: ../../agent_login.md:808 ../../agent_login.md:816 ../../agent_login.md:820
+#: ../../agent_login.md:824 ../../agent_login.md:828 ../../agent_login.md:832
+#: ../../agent_login.md:836 ../../agent_login.md:840 ../../agent_login.md:844
+#: ../../agent_login.md:848 ../../agent_login.md:852 ../../agent_login.md:858
+#: ../../agent_login.md:862 00fb08bf4d3a4eb0af86fd7fac648738
+#: 013744879f5540509cb4dbd9355e517b 0194929d300342bfaf08ccce0cbe70c7
+#: 0693ef9eaf714700a71a25f0e1e075c4 098c4368b25e422b98e31bc02e26da3b
+#: 09b73b242a33446cad6e5845d34badfc 09dede41135a457380fdc092237178e9
+#: 0a35f5099b9b41e9b0b6118e20425581 0d60e9ccb0ee4afc86a53cf4c8f0ebbf
+#: 0eff4a6b1c164e159b84413075ff66bf 10d3d057526141d6b9fa8c560a923996
+#: 11af902c340549ee9afa4d77453b0b44 1238f735c6c64d5086a45b801339b194
+#: 13b52f9cafde478aa9dae95540692bda 1561b25674de47f991ceb7f8ef04d794
+#: 16fe50c41810400eb47143361e60d2b3 171d946f955f450db5a8422d6380c474
+#: 1add65769b714275bbc1666fb7f6cb68 1ce56d058a40492f838c67fec6ac88dd
+#: 1dbe7c380c0247cab6741b71165a2e09 20027d0884d3457c8f6a2f8b2961c153
+#: 21c83eeb9a2f4102a89471696146e768 22a22f5d897a403a9866d4ab4c5ba20a
+#: 25e3f61db07a45efad97236f3c91f2e1 26e11555e62842229945769b368b171c
+#: 27b1ed9deb324c2f89bdf25cd5ef55aa 28ae7e8a875b473c91f3237a17e50c2e
+#: 28b4164ef5814cb8b9e7bcf59c441a21 29e5c045ae194e08b8a57d8efe454479
+#: 2d85c03480bd47bc801a20de79ec733d 2fc55521e4ba49bb854dd2fb40378a0b
+#: 313b334fde554508a17c2d408df2975d 32068358ce824b5bb8ff6511469cbe9a
+#: 32c2d20ba7fb49d8b17e5c14d623e613 341d6e5e45d64313a9769679e6fb1b7b
+#: 3a577a458d854747928b5c874e2e6f4f 3b523ff47a844f2486bde49159a44e11
+#: 3c4c07e295994ef7b2b08191774ddeb6 3c9ebd2b237d405ca92e737c5d4b7a21
+#: 3d682007a5a645be81a9132ef2935966 42044303524248ceb07944ee3f7ff92f
+#: 42766cf8ab1b46cba9003c37174d714b 44b1d90deee9401cb4cec182ef2ee169
+#: 4777085c26b24ce6960e31946964d371 49b28e0126744f21a3d3452213fc78f5
+#: 4a58bddd27d6406496b5f85206615e25 4ffef2e0bbda4beead6f3d4d45d241e3
+#: 546931ecb10a432b9139663460e6a4b2 55c5227d97774f22a41e4b268deeff5e
+#: 5627278789e74d68b9b5d376a335fa4a 5704bb976b7c4fc2b7c3a53b0ae85217
+#: 5787847c55974c51832e2c11dc7c8fc3 57fa50e6133441cc8681d742d486f567
+#: 5d118e9e53844a78a5225364a18824d4 63411bf0dc8e4bce9b0290405a40c301
+#: 64a1f48f39a84ec093e6722745440b7e 65315014a20847789e62ef220fc96100
+#: 67ba2aca979840c98834055df5eed18e 682b5739b8f044f08b900ec2f182f2e9
+#: 69401dcb789c484ca13d9075035b4093 69a499ba893b42d4a65f1758d0389d2b
+#: 6e5253b1bac84197ad901983216d5312 6f6fe4e9e0af421a9ed97b7017e37ae3
+#: 74e94e76e3e241ff83516ed0f25a8ad1 76711bba2e3042adbeba740503c7c6df
+#: 76ac0841e2364f42902b0283c564992d 77171d5a592248e89f5d44b9b14c8784
+#: 77230b99c83048f4a900ca33664f8fe8 78f0b309a0914dd8a9a2f0e1739bb237
+#: 7980d201b7e4493b9406a7abf4f4b1f1 7a442699259a4e6289cc2226cf382203
+#: 7e5d2a06eac7410daade6a24ee32c757 7f5964e97a424406be6aea96540adcd9
+#: 8060bf0f65b541aea54a7052e5bc7a41 8227a5edf82f41849525d2c4a980bd27
+#: 82aaf9991a2e40fca42960f68bf92669 84c567372b8147eebe99cf8509dfc281
+#: 87dd2c07e08140c4b87507545baec74c 88d91e1c7f6b4bf0b88543b9af6edc23
+#: 8b26f56afb374a9391ec22098efc4e37 8bd4ca237b4f4babae0dbb26d2b57a9e
+#: 8c18cb8a95dd4c8f91a1bb06a5aaf181 8ff189c3e76b4939a6d29a02bc0e668a
+#: 8ffb7d776c624ac39b80c62eaffa68a7 91275e37b6e84766a7fb00708859ea62
+#: 93560e434695484699ecd7a1193c63e4 9386f4ba4fad461ea6655b96a45c0a9c
+#: 94fb059bf24447b68cfbf4a35333b1b9 94fcd1149ae040febca9326fa7ce74ea
+#: 96c08ac6a18d429a8f0bf2b854c10ef6 97a902b2ca1d42dda3021d1500bc93cc
+#: 9936f486685c487d862e0718c4dd963c 99dc4ffcd75642938f07cb84ecaf9c26
+#: 9c1f4fc5c5eb4860bd22b0cb385c31ab 9c21d80754214f71a44d49dc923cbdf8
+#: 9c9565abb24d45f9b762a2c618da358b 9fa17efad06d45a086c7d637b8169f4a
+#: a04309370fed4d7c9b26bdd6e71eafc5 a08be5c074ce41a8aa2b2ccaa7a37c86
+#: a25a2407bb914be69012a2c75b14b652 a36248c4d03f483eab384cdc8b486270
+#: a96d0c5ceb984c9a82ca8d69ebd53c9c ae6516a6eae64fa1a37ed63162c4d1d6
+#: b43b6164731343de96d8536806851412 b631fd8478a5433883e8d53dc560921f
+#: b9c895fe441c4a7eaab1cbd11c2aee07 bab29368305a475fb5413d3560ea2d3d
+#: bc9e8eb8d73f4dd491d54a194f44d613 bea6ef4a921744d09d19810a448f354e
+#: c0b6edc4868f4717b5ab92cb76d16e85 c4f23381285c4d768084551483aafaaa
+#: c990278dee4146068fd55d44f578a0f8 cd3f80d4a966458d82f00b46daa18fd2
+#: d2cc5e50058443cf852ca68585af00ae d3a880b47e0c44cf8c5634a0fabae288
+#: d4dcf5a622ed48288afe20efb5395438 d5818cb541d1430aa50352a7743d67e9
+#: d66a84260b13488399d9dcb109db6333 d9bf54ba3bf7435ab3618dd5a08fd83f
+#: db50850706b444d7a8984d4041e88425 dcc56d44c0ff4b48bc64420e12996e58
+#: dd0cd38b673b49f2a53edc4f0a9f9d98 dd3a0ee92bf5408ab2cd7f5d9c9fd7c7
+#: df9ff7bbd3184789a5e832637862c766 e74bdcff5052421aaef1f9caa38d489d
+#: e861d3f8d3e144b5aa40eea0e3940f6b e8ff7214c3e445e8b40953249621bd86
+#: e9bef45c492c46feafc362b9f754d288 ea560fabfdac4f888e27ecd5621801da
+#: eac82eaf0d88455e94b21e1506a1c2c9 ecc21cb8b9444c73b409092ce46d62bf
+#: edf5fe89d9c0432685c749d77fa35775 f07420f1d0a94375ba41fe4627c12002
+#: f2e1a07748694e82989f77c5dc095a38 f387c40add74401dbfefa1a9e887b816
+#: f42dd5e5311d489982bb074f2e6efc89 f4c4f36408454ab1a3fe584a52dcd281
+#: f6bc4ff7d34c497888c6e62e26ae7dae f90af056c11642329d7b4926d96eefc4
+#: f9bdfd74f817498c94d686a0cec7c4cc fa65fdc430d14186a3430af318112428
+#: fdf215abf7644486abca5bfeedf5cdc8
 msgid "alt text"
-msgstr ""
+msgstr "alt text"
 
 #: ../../agent_login.md:11 5e53f3881c804fd8b3980b3b26e0c479
-msgid ""
-"当用户进入系统时，选择左边的下拉选项【登出】，确认后，您将从系统中注销，页面"
-"将返回到用户登录页面。"
+msgid "当用户进入系统时，选择左边的下拉选项【登出】，确认后，您将从系统中注销，页面将返回到用户登录页面。"
 msgstr ""
+"When the user enters the system, select the drop-down option [Login Out] on "
+"the left. After confirming, you will log out from the system and the page "
+"will return to the user login page."
 
 #: ../../agent_login.md:13 cbe820c1737d49e78eb883b6a1519be4
 msgid "![alt text](_static/images/agent/image-a2.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a2.png)"
 
 #: ../../agent_login.md:15 be8190b6650f4960916cdedca21a7452
 msgid "2 界面介绍"
-msgstr ""
+msgstr "2 Interface introduction"
 
 #: ../../agent_login.md:17 9380e48c496f4b5ebefa3619780969bd
-msgid ""
-"WCC坐席界面窗口由3个主区域组成，他们分别是：①左侧菜单栏、②上方状态栏、③中间工"
-"作区"
+msgid "WCC坐席界面窗口由3个主区域组成，他们分别是：①左侧菜单栏、②上方状态栏、③中间工作区"
 msgstr ""
+"The WCC seat interface window consists of 3 main areas, namely: ① left menu "
+"bar, ② upper status bar, and ③ middle work area"
 
 #: ../../agent_login.md:19 042fe903d7ba4d03824809dea90f86ee
 msgid "![alt text](_static/images/agent/image-a3.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a3.png)"
 
 #: ../../agent_login.md:21 e942966f21f8416298531c9ef20fb46a
 msgid "2.1 菜单栏"
-msgstr ""
+msgstr "2.1 Menu Bar"
 
 #: ../../agent_login.md:23 b35712b8070c40f68bc12a52abb47169
 msgid "没有分配角色且没有坐席组长的坐席只有个人统计页面可以查看。"
 msgstr ""
+"There are no assigned roles and no agent team leader for the agent only "
+"available for viewing on the personal statistics page."
 
 #: ../../agent_login.md:25 19d33ab7dfea40c6837039e317c92c4a
 msgid "![alt text](_static/images/agent/image-a4.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a4.png)"
 
 #: ../../agent_login.md:27 f856a5cd467d4578be82f5c059e4ecd0
 msgid "有坐席组长权限的坐席，可以登录所任组长组中的坐席。"
 msgstr ""
+"A seat with the authority of a seat leader can log in to the seat in the "
+"group leader you serve."
 
 #: ../../agent_login.md:29 265cfc485fe44831bcf46188b931644b
 msgid "![alt text](_static/images/agent/image-a5.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a5.png)"
 
 #: ../../agent_login.md:31 4045009d88044bec9f4d1dd525ec5ea1
 msgid "查看所任坐组长组内坐席汇总的统计报告"
-msgstr ""
+msgstr "View the statistical report of the seats in the group leader"
 
 #: ../../agent_login.md:33 fc773c2040a64e5a8fec7def9f8f7ee7
 msgid "![alt text](_static/images/agent/image-a6.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a6.png)"
 
 #: ../../agent_login.md:35 e813d80354394cb5a57635a112e98186
 msgid "查看所有坐席的实时监控页面"
-msgstr ""
+msgstr "View real-time monitoring pages for all seats"
 
 #: ../../agent_login.md:37 95b759e19e954b19b93065ec669f285c
 msgid "![alt text](_static/images/agent/image-a7.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a7.png)"
 
 #: ../../agent_login.md:39 affb63ebe5cf47b6ada1c533f091fb23
 msgid "2.2 我的档案"
-msgstr ""
+msgstr "2.2 My Files"
 
 #: ../../agent_login.md:41 e7268c60ce944195a0f0899fe8dd9a82
 msgid "用于平时仪表盘及联系客户。坐席登陆后默认显示内容。"
-msgstr ""
+msgstr "Used for daily dashboards and contact customers. "
 
 #: ../../agent_login.md:43 41af5403ab664059acb94d8512552c99
 msgid "![alt text](_static/images/agent/image-a8.png)"
-msgstr ""
+msgstr "![alt text](_static/images/en/agent/image-a8.png)"
 
 #: ../../agent_login.md:45 92d13963356849f19c2c16a06695e7ad
 msgid "2.2.1 仪表盘"
-msgstr ""
+msgstr "2.2.1 Dashboard"
 
 #: ../../agent_login.md:47 0eaecd0bd0db4ab293b2bfa1cb579152
 msgid "仪表盘中分为坐席数据页面和个人信息页面。"
 msgstr ""
+"The dashboard is divided into a seat data page and a personal information "
+"page."
 
 #: ../../agent_login.md:49 74fcafa731734e469a05f184325ce193
 msgid "坐席数据："
-msgstr ""
+msgstr "Agent data:"
 
 #: ../../agent_login.md:51 f2173d54609b4099835400ff534e9e57
-msgid ""
-"主要包括对通话及工单等的数据概览，客户预约，工单预约，TODO，当前任务以及坐席"
-"排行榜。"
+msgid "主要包括对通话及工单等的数据概览，客户预约，工单预约，TODO，当前任务以及坐席排行榜。"
 msgstr ""
+"It mainly includes data overview of calls and work orders, customer "
+"appointments, work order appointments, TODO, current tasks and seat "
+"rankings."
 
 #: ../../agent_login.md:53 d23c0306464541dda497298f8322e819
 msgid "概览："
-msgstr ""
+msgstr "Overview:"
 
 #: ../../agent_login.md:55 528211d219bc461795e7d1626cca9b81
 msgid "可以直观的显示当前坐席的呼叫排队，工单数和呼入数"
 msgstr ""
+"It can intuitively display the call queues, number of job orders and "
+"incoming calls of the current seat"
+
+#: ../../agent_login.md:57 62a2ad9f24b14b6ba9df6fd53771ee9b
+msgid "![alt text](_static/images/agent/image-a9.png)"
+msgstr ""
+
+#: ../../agent_login.md:59 ae4a9a35cd6242799c2f50d9844249ee
+msgid "**呼叫排队**：坐席所属坐席组的实时等待人数。"
+msgstr ""
+"**Call queue**: The number of people waiting in real time for the seat group"
+" to which the seat belongs."
+
+#: ../../agent_login.md:61 a86cffd4ab9c496a94947ad817b51974
+msgid ""
+"**工单数**：显示没有选择处理结果的工单数量，一旦该工单选择了处理结果，代表这个工单已完成就会不显示。是根据工作需要提出的工作记录，工单可以由上级用户（client）建立也可以由坐席直接建立。"
+msgstr ""
+"**Test number**: Displays the number of work orders that have no processing "
+"results selected. Once the work order is selected, it means that the work "
+"order has been completed and will not be displayed. "
+
+#: ../../agent_login.md:63 5f6e06017cba40b69f57fa769f72faa9
+msgid "**呼入数**：坐席所属坐席组的实时呼入电话总数"
+msgstr ""
+"**Number of call incoming calls**: Total number of real-time incoming calls "
+"for the seat group to which the seat belongs"
+
+#: ../../agent_login.md:65 e4590b434bfb43aab2a7c289ca00ccc3
+msgid "**客户预约**：显示坐席的所有预约客户"
+msgstr "**Customer appointment**: Show all appointment customers in the seat"
+
+#: ../../agent_login.md:67 0e622734948f4463b1bf1b442b8ef391
+msgid "①②③三个快捷按钮方便坐席对预约客户的信息进行编辑和修改"
+msgstr ""
+"①②③Three shortcut buttons are convenient for the seat to edit and modify the"
+" information of the appointment customer"
+
+#: ../../agent_login.md:69 a1751f6dc3c54c84963c86c04b6f68d5
+msgid "①重新将此客户分配至新的坐席（只有坐席为坐席组长时显示）"
+msgstr ""
+"① Reassign this customer to a new seat (only when the seat is the head of "
+"the seat)"
+
+#: ../../agent_login.md:71 53f529e6131e4b1d888befd108874fea
+msgid "②修改这项预约的日期"
+msgstr "② Modify the date of this reservation"
+
+#: ../../agent_login.md:73 193a959ebc4841d882ce57361e3ce821
+msgid "③查看客户详情，进入客户弹屏"
+msgstr "③View customer details and enter the customer's screen"
+
+#: ../../agent_login.md:75 a43bb1fba7d444c7953a1f245b2bc1f9
+msgid "![alt text](_static/images/agent/image-a10.png)"
+msgstr ""
+
+#: ../../agent_login.md:77 e41cd40f0aad40678755d91b12af0401
+msgid "**工单预约**：显示预约的工单。坐席可以点击工单，设定一个预约时间，设定好预约时间的工单，则会在此显示。"
+msgstr "**Work order reservation**: Displays the booked work order. "
+
+#: ../../agent_login.md:79 d436a1187bc4496389ed86cf7d556f5a
+msgid "当即将到达预约时间时系统会自动出现提示若客户页面关闭即将到达预约时间时页面会自动弹出，提示时间范围在【系统偏好】预约提醒时间中可以设置。"
+msgstr ""
+"When the reservation time is about to arrive, the system will automatically "
+"appear. If the customer page is closed, the page will automatically pop up "
+"when the reservation time is about to arrive. The prompt time range can be "
+"set in the [System Preferences] appointment reminder time."
+
+#: ../../agent_login.md:81 e15c4e6fdef945f4b2f57b457b45890d
+msgid "![alt text](_static/images/agent/image-a11.png)"
+msgstr ""
+
+#: ../../agent_login.md:83 6563dd5d5a6f4805b556d86a90d128c1
+msgid "**TODO**：由上级用户（client）设置的需要该坐席办理的事项发布；或坐席自己点击➕添加的待办事项。"
+msgstr ""
+"**TODO**: Publish the matters set by the superior user (client) that need to"
+" be handled by the agent; or the to-do items added by the agent himself "
+"click ➕."
+
+#: ../../agent_login.md:85 b65dcced57a74af8a722b55cbd320c66
+msgid "![alt text](_static/images/agent/image-a12.png)"
+msgstr ""
+
+#: ../../agent_login.md:87 f7e6cab620e042ff81246940e8bec021
+msgid "点击右侧箭头，可以对坐席待办事项标题以及坐席待办事项进行编辑和修改。"
+msgstr ""
+"Click the arrow on the right to edit and modify the agent to-do title and "
+"the agent to-do."
+
+#: ../../agent_login.md:89 30a15467bc224192949cd56f5b6a2025
+msgid "![alt text](_static/images/agent/image-a13.png)"
+msgstr ""
+
+#: ../../agent_login.md:91 38921c010ab84f40b45ea2e2e84e5245
+msgid "【编辑】页面（如下图）"
+msgstr "【Edit】page (as shown below)"
+
+#: ../../agent_login.md:93 09cebcdeb6aa4639a2ff09de851d33ce
+msgid "![alt text](_static/images/agent/image-a14.png)"
+msgstr ""
+
+#: ../../agent_login.md:95 f664b83b8af14cc788a2b0016a3db193
+msgid "①**任务标题**：坐席待办事项标题。"
+msgstr "①**Task Title**: To-do Item Title of the Agent."
+
+#: ../../agent_login.md:97 ffab5f4f153e445698139b97d712e54a
+msgid "②**任务描述**：该坐席待办需要特殊注意或说明的描述。"
+msgstr ""
+"②**Task Description**: A description that requires special attention or "
+"explanation when the agent is to be handled."
+
+#: ../../agent_login.md:99 5c86c310610b4c1c836cb4b4d7fabf48
+msgid "③**预约时间**：这个待办的预约时间，会在坐席的仪表盘页面显示。"
+msgstr ""
+"③**Appointment time**: This to-do reservation time will be displayed on the "
+"dashboard page of the seat."
+
+#: ../../agent_login.md:101 32fd3283dfbe4fdea96593e753e52b86
+msgid "坐席可以对该待办事项的状态进行更改"
+msgstr "The agent can change the status of the to-do item"
+
+#: ../../agent_login.md:103 4f1ee7d8f39e48ba864ccf9b1f90b6de
+msgid "坐席建立的待办，如果被坐席标记成完成，则在坐席待办页面中的状态也会被更改"
+msgstr ""
+"If the agent is marked as completed by the agent, the status of the agent to"
+" do page will also be changed."
+
+#: ../../agent_login.md:105 327b5454a5174d819deccacf2f993cb7
+msgid "![alt text](_static/images/agent/image-a15.png)"
+msgstr ""
+
+#: ../../agent_login.md:107 ceb8fde591194274bcfc3e5e5a4fed71
+msgid "![alt text](_static/images/agent/image-a16.png)"
+msgstr ""
+
+#: ../../agent_login.md:109 da5e72bab57c4bf0bb044ac6483627c8
+msgid "（上图此为client/有坐席代办角色权限的坐席，页面显示状态）"
+msgstr ""
+"(The above picture is a client/sitor with the agent role permission, the "
+"page displays the status)"
+
+#: ../../agent_login.md:111 423fbb9a4dea4f9cacb0253872ab0299
+msgid "**所属任务**：显示当前坐席当天所执行的所有任务名称，接通数目和成功提交数。"
+msgstr ""
+"**Task**: Displays the names of all tasks performed on the current agent on "
+"the day, the number of connections and the number of successful submissions."
+
+#: ../../agent_login.md:113 137a1fc849b9402d97b45415b28ce36b
+msgid ""
+"坐席在任务中进行呼叫或是呼入时绑定任务的通话才会显示在任务名称中。接通数目是当前座席与客户成功建立通话数不在任务中的通话也会被计入。成功提交数是座席不管是否成功通话，保存销售漏斗为成功的数量。"
+msgstr ""
+"Only calls bound to a task when an agent makes a call in a task or calls in "
+"incoming calls will be displayed in the task name. "
+
+#: ../../agent_login.md:115 db0d543f6c1b48a7924361750f54d51d
+msgid "![alt text](_static/images/agent/image-a17.png)"
+msgstr ""
+
+#: ../../agent_login.md:117 84a8ff72cd0d42f3bd02723638d5f04f
+msgid "**排行榜**：当前坐席所在任务的所属坐席组中，坐席成功提交的排行。坐席只要有过成功提交的动作就会计算，可以重复提交。（如下图）"
+msgstr ""
+"**Ranking list**: Ranking of the successful submission of the seat in the "
+"seat group of the current seat. "
+
+#: ../../agent_login.md:119 d537782ab2974d2abbdb7c2079b6210c
+msgid "![alt text](_static/images/agent/image-a18.png)"
+msgstr ""
+
+#: ../../agent_login.md:121 ed81818d1a3b452e8f96933f74d7dce5
+msgid "个人信息:"
+msgstr "personal information:"
+
+#: ../../agent_login.md:123 d20607dae9214372895ce5a8223ad06b
+msgid "包括头像和坐席简介（如下图）"
+msgstr "Including avatar and seat introduction (as shown below)"
+
+#: ../../agent_login.md:125 80508e56b2744bef965cbb8041ddf034
+msgid "![alt text](_static/images/agent/image-a19.png)"
+msgstr ""
+
+#: ../../agent_login.md:127 b8e9789b0e4f4ea199d1841848bec6f8
+msgid "**头像**：点击左上角头像位置进入设置头像界面"
+msgstr ""
+"**Avatar**: Click the avatar position in the upper left corner to enter the "
+"setting avatar interface"
+
+#: ../../agent_login.md:129 cad8862bcf6a43f8ab5e3fd07155dd7d
+msgid "从电脑中选择一张JPG格式的照片或将JPG格式的照片拖拽到照片上传位置(大小在 1mb 以内)，然后点击设置头像；"
+msgstr ""
+"Select a JPG photo from the computer or drag the JPG photo to the upload "
+"position (the size is within 1mb), and then click Set avatar;"
+
+#: ../../agent_login.md:131 b274beb162944d9cb164f35ca1077b54
+msgid "![alt text](_static/images/agent/image-a20.png)"
+msgstr ""
+
+#: ../../agent_login.md:133 a4a8f3fc4fda4aa4a786597f0209bf6d
+msgid "也可以点击网络摄像头，打开摄像头点击拍照，点击设置头像，头像设置完成。"
+msgstr ""
+"You can also click on the webcam, open the camera and click take a photo, "
+"click to set the avatar, and the avatar is set."
+
+#: ../../agent_login.md:135 f1373df08ac94fecb263a067fcb48207
+msgid "![alt text](_static/images/agent/image-a21.png)"
+msgstr ""
+
+#: ../../agent_login.md:137 2bea44afc7ba4f0da8bb67d2b346bb1a
+msgid "**坐席简介**：包括姓/名/当前工号/Web登录密码（登陆座席系统密码）/确认Web登录密码"
+msgstr ""
+"**Agent profile**: Including surname/name/current work number/Web login "
+"password (login agent system password)/Confirm Web login password"
+
+#: ../../agent_login.md:139 76211ca7b15745c9bdca8ba25a860ae6
+msgid "![alt text](_static/images/agent/image-a22.png)"
+msgstr ""
+
+#: ../../agent_login.md:141 f36715248a45459aa3ade189aad0858a
+msgid "**姓**：填写坐席姓氏"
+msgstr "**Subject**: Fill in the last name of the seat"
+
+#: ../../agent_login.md:143 145be738c69540bc89fdb7d610393288
+msgid "**名**：填写坐席名字"
+msgstr "**Name**: Fill in the seat name"
+
+#: ../../agent_login.md:145 ec8e19dad619456a91924b5e289ad74f
+msgid "**当前工号**：当前页面坐席工号是唯一的，文本框为置灰状态为不可以修改"
+msgstr ""
+"**Current Work Number**: The current page's work number is unique, the text "
+"box is grayed out and cannot be modified"
+
+#: ../../agent_login.md:147 cd9e9e89176849c0a76bb5096b314a76
+msgid "**Web登录密码**：当座席需要通过网页登陆时，需要使用此密码，坐席也可自行修改设置该密码"
+msgstr ""
+"**Web login password**: When an agent needs to log in through the web page, "
+"he or she needs to use this password. The agent can also modify and set the "
+"password by himself."
+
+#: ../../agent_login.md:149 78cf6a415b894a1cb51b83143eb6d726
+msgid "**确认Web登录密码**：再次输入密码，保证与【Web登录密码】一致"
+msgstr ""
+"**Confirm the web login password**: Enter the password again to ensure that "
+"it is consistent with [Web login password]"
+
+#: ../../agent_login.md:151 c017a2797ac946558ef73feb4c9a297f
+msgid "联系客户"
+msgstr "Contact Customer"
+
+#: ../../agent_login.md:153 5d7c374f71b54b708ae367e1d5b7804b
+msgid "在联系客户页面，通常会有三个选择分类如图所示"
+msgstr ""
+"On the Contact Customer page, there are usually three selection categories "
+"as shown in the picture"
+
+#: ../../agent_login.md:155 4cd6264e1b96422e918ffcaecb2c8373
+msgid "![alt text](_static/images/agent/image-a23.png)"
+msgstr ""
+
+#: ../../agent_login.md:157 b5e5491697604568b4041d28b2f47fa3
+msgid "①---如果这个client中有多个客户包，①处可以选择一个客户包"
+msgstr ""
+"①--If there are multiple customer packages in this client, ① can select one "
+"customer package"
+
+#: ../../agent_login.md:159 ff772648942c4b0fb1913d8a1bef05fb
+msgid "②---选择客户包后，②里显示的是这个客户包下的任务"
+msgstr ""
+"②---After selecting the customer package, the task under this customer "
+"package is displayed in ②"
+
+#: ../../agent_login.md:161 b0b374cb28874e17915d6f46acdd36ea
+msgid "③---选择任务后，③中显示的是这任务下所绑定的呼叫结果"
+msgstr ""
+"③---After selecting the task, the call result bound to this task is "
+"displayed in ③"
+
+#: ../../agent_login.md:163 2675132f2032430795e20bc470a03ffd
+msgid "**呼叫结果**："
+msgstr "**Call Results**:"
+
+#: ../../agent_login.md:165 98b9acc710eb43ae9a279b888d77eedf
+msgid "是座席呼叫客户联络记录选择的通话结果，用于通话结果的分类。（如下图）"
+msgstr ""
+"It is the call result selected by the agent calling customer contact record "
+"and is used to classify call results. "
+
+#: ../../agent_login.md:167 6fc1363fd1b445b4938df141dbb767ea
+msgid "方便坐席通过呼叫结果进行查找客户。呼叫结果类型选择由更高级别用户创建，坐席可根据可选结果酌情选择,此处显示的呼叫结果为全部呼叫结果。"
+msgstr ""
+"It is convenient for the agent to find customers through call results. "
+
+#: ../../agent_login.md:169 4a9a2efcda8e4d6ab3b78aa48249ee72
+msgid "![alt text](_static/images/agent/image-a24.png)"
+msgstr ""
+
+#: ../../agent_login.md:171 ac465bb984a24636bdd1277e3762f124
+msgid "**任务客户池**："
+msgstr "**Task Customer Pool**:"
+
+#: ../../agent_login.md:173 9fc2c338bb31495ab931054eea9842f6
+msgid "显示坐席所选任务中的所有客户数据，坐席可以在任务中对客户数据进行处理。"
+msgstr ""
+"Displays all customer data in the selected task of the agent, where the "
+"agent can process the customer data."
+
+#: ../../agent_login.md:175 e72c7fbd65a74888a3a4efb70815082d
+msgid "选择【抢】或者【换一批】】可以把当前页的客户数据分配到自己的客户下。"
+msgstr ""
+"Select [Grab] or [Change a batch] to allocate the customer data on the "
+"current page to your own customers."
+
+#: ../../agent_login.md:177 ced945fc9d3d418bb74ea371c90a517a
+msgid "![alt text](_static/images/agent/image-a25.png)"
+msgstr ""
+
+#: ../../agent_login.md:179 8145f524b3ab4f46acfbcd1bda926bd4
+msgid "**我的客户**："
+msgstr "**My Client**:"
+
+#: ../../agent_login.md:181 d83b80e555d1442893ad8588f583c19a
+msgid "通过选择左上角的任务查看当前座席在【任务客户池】抢到的客户和自己额外添加的客户。"
+msgstr ""
+"By selecting the task in the upper left corner, check the customers you grab"
+" in the [Task Customer Pool] and the additional customers you add."
+
+#: ../../agent_login.md:183 7378689e2d994978b6f983318b70d114
+msgid "![alt text](_static/images/agent/image-a26.png)"
+msgstr ""
+
+#: ../../agent_login.md:185 827c8da0c2fe4880a723647253647c01
+msgid "【客户的归属】"
+msgstr "【Customer's Attribution】"
+
+#: ../../agent_login.md:187 9943406c310645409b69b3ab5bcaad91
+msgid "此时【我的客户➕】中的所有客户信息都属于当前坐席。"
+msgstr ""
+"At this time, all customer information in [My Customers ➕] belongs to the "
+"current seat."
+
+#: ../../agent_login.md:189 e94d60b893994087b4dc5716da40f82e
+msgid ""
+"若客户C在坐席A列表中，坐席B拨打了客户C电话，并成功提交，客户C依然属于坐席A，转接同样适用。若客户C与坐席A在同一个项目时（前提坐席A先于客户C进入该项目），客户C始终属于坐席A。"
+msgstr ""
+"If Customer C is in the A list, and Agent B calls Customer C and submits it "
+"successfully, Customer C still belongs to Agent A, and the same applies to "
+"forwarding. "
+
+#: ../../agent_login.md:191 8edfe6cce147487791ae7c45d2f2e6b3
+msgid ""
+"若上级用户将客户C分配给新项目，而坐席A并没有参与新项目，那么客户C将会重新分配给其他坐席B，坐席A的客户列表里也不会出现客户C的信息，之后将坐席A重新添加到新项目，客户C依然属于坐席B。"
+msgstr ""
+"If the superior user assigns customer C to a new project, and seat A does "
+"not participate in the new project, then customer C will be reassigned to "
+"other seat B, and the information of customer C will not appear in the "
+"customer list of seat A. Then, the seat A will be re-added to the new "
+"project, and customer C will still belong to the seat B."
+
+#: ../../agent_login.md:193 b4f40d4d49414300bdc6f035ac7ce748
+msgid "【客户的归属改变包括两种】"
+msgstr "【Customer ownership changes include two types】"
+
+#: ../../agent_login.md:195 96d363c02c8041bba4e9e2f80d471f32
+msgid "a.客户从未分配状态分配到任务"
+msgstr "a. The client has never assigned a status to a task"
+
+#: ../../agent_login.md:197 141446f7a6544bfeb60b7ecaacc87b72
+msgid "b.客户由任务A分配到任务B"
+msgstr "b. The client is assigned from task A to task B"
+
+#: ../../agent_login.md:199 b258e2abe86f4e6f8aa4663b322fe55e
+msgid "坐席可以通过点击【我的客户➕】的➕，自己额外添加客户"
+msgstr "You can add additional customers by clicking [My Customers ➕]"
+
+#: ../../agent_login.md:201 ddd3ea69baaa492183e54406360a0540
+msgid "![alt text](_static/images/agent/image-a27.png)"
+msgstr ""
+
+#: ../../agent_login.md:203 6aad51b4f50a47819f6bc54c4af744f5
+msgid "坐席对新增客户资料进行编辑，记录及预约"
+msgstr ""
+"The agent edits, records and makes appointments for new customer information"
+
+#: ../../agent_login.md:205 584c3b96b96a42978a61d506763f242d
+msgid "![alt text](_static/images/agent/image-a28.png)"
+msgstr ""
+
+#: ../../agent_login.md:207 266eb9cee6494be2b6d71359911150ce
+msgid "【客户资料】中的【取引先名】会在该客户的弹屏标签中显示；"
+msgstr ""
+"[Customer Information] in [Customer Information] will be displayed in the "
+"pop-up label of the customer;"
+
+#: ../../agent_login.md:209 8dd2d00acb1b44d1ba3d761afb208338
+msgid ""
+"客户的联系方式必须填写在【电话番号】中，坐席和坐席组长可以在【电话番号】的下拉列表中设置禁呼和加入黑名单，由client级别或是有授权的坐席组长进行审核。在审核过程中，该号码可以正常拨打，审核通过后，则该号码不能再拨打。"
+msgstr ""
+"The customer's contact information must be filled in [Phone Number]. The "
+"agent and the agent team leader can set a blacklist for banning call and "
+"adding to the blacklist in the drop-down list of [Phone Number], and will be"
+" reviewed by the client level or authorized agent team leader. "
+
+#: ../../agent_login.md:211 b5d496bd5bc4436bb1838519e597a882
+msgid "其中带有“✳”号项目为必填项目。编辑完成点击【保存客户资料】，完成对额外新增客户的添加。如下图"
+msgstr "Items with the \"✳\" number are required. "
+
+#: ../../agent_login.md:213 1cb453c4bebd4fb8a56b46c44c9094c1
+msgid "座席可以点击【我的客户】操作列下的【呼叫】进行呼叫"
+msgstr ""
+"The agent can click [Call] under the [My Customer] operation column to make "
+"a call"
+
+#: ../../agent_login.md:215 8bb27298dd8f45199c5d150af22fa1b6
+msgid "![alt text](_static/images/agent/image-a29.png)"
+msgstr ""
+
+#: ../../agent_login.md:217 8d4233212725419aaaa86c73a242e280
+msgid "此时页面弹出弹屏标签：座席可以查看修改客户的详细资料、可以保存本次的联络信息、可以查看当前客户的历史联络记录、可以对客户进行预约."
+msgstr ""
+"At this time, a pop-up tag pops up on the page: the agent can view and "
+"modify the customer's detailed information, save the contact information of "
+"this time, view the current customer's historical contact records, and make "
+"an appointment with the customer."
+
+#: ../../agent_login.md:219 ff33f61cc87445fc8f8539a93153fb6c
+msgid "【弹屏标签显示规则】未知@项目名，"
+msgstr "[Popular screen tag display rules] Unknown @ project name,"
+
+#: ../../agent_login.md:221 4c8d5316c63f44028ef3a3c8aeb6416e
+msgid "① 默认为 新增客户"
+msgstr "① Default is to add new customers"
+
+#: ../../agent_login.md:223 b7ddd3bfb8364750a4bb7715517111b8
+msgid "② 取客户第一个姓名字段对应的值"
+msgstr "② Take the value corresponding to the customer's first name field"
+
+#: ../../agent_login.md:225 f5e6ecebcdb84971ae954283e2fa226d
+msgid "③ 如果没有 2，取客户第二个字段电话号码对应的值"
+msgstr ""
+"③ If there is no 2, take the value corresponding to the phone number in the "
+"second field of the customer"
+
+#: ../../agent_login.md:227 0b6d320a99d64b6f835a1b3168162764
+msgid "若客户弹屏上 ①②③④ 都不满足，则显示未知@项目名"
+msgstr ""
+"If the customer is not satisfied with the pop-up screen ①②③④, the unknown @ "
+"project name will be displayed."
+
+#: ../../agent_login.md:229 201e5a1c54fd4f8fa71aa44d824ab270
+msgid "座席可以查看修改客户的详细资料；可以保存本次的联络信息，查看当前客户的历史联络记录；可以对客户进行预约，建立客户工单资料。"
+msgstr ""
+"The agent can view and modify the detailed information of the customer; save"
+" the contact information of this time and view the historical contact "
+"records of the current customer; make an appointment with the customer to "
+"establish the customer's work order information."
+
+#: ../../agent_login.md:231 75ac1b6d4641437f9bf80d6445705f60
+msgid "![alt text](_static/images/agent/image-a30.png)"
+msgstr ""
+
+#: ../../agent_login.md:233 c759a4d30eb947b48ad62dd72e1ad1d8
+msgid "客户相关记录：包括备注、短信、工单、联络信息、历史联络记录。其中历史联络记录是坐席主要工作页面。"
+msgstr ""
+"Customer-related records: including notes, text messages, work orders, "
+"contact information, and historical contact records. "
+
+#: ../../agent_login.md:235 75e648a6eedc4ff3bb01d9b3f780c209
+msgid "备注：坐席可以在此给客户进行备注，备注分为【普通】、【置顶】和【弹屏警告】（如下图）"
+msgstr ""
+"Note: The seats can be noted here for customers. Notes are divided into "
+"[normal], [top] and [pop-up warning] (as shown in the figure below)"
+
+#: ../../agent_login.md:237 0702e29a7464417cb1517f2f9258baa4
+msgid "![alt text](_static/images/agent/image-a31.png)"
+msgstr ""
+
+#: ../../agent_login.md:239 b5febc5a8faf4254800f3002be0675d0
+msgid "【普通】普通的备注"
+msgstr "【Ordinary】Ordinary Notes"
+
+#: ../../agent_login.md:241 1306a573a0e64ec7bb82cbcae6caab2f
+msgid "【置顶】置顶显示该条备注"
+msgstr "【Pin】Pin the top displays this note"
+
+#: ../../agent_login.md:243 1a04f513085f499fa22867206d5c0c53
+msgid ""
+"【弹屏警告】设置弹屏警告，需要上级用户或有审核权限的坐席审核成功后才可以生效。生效后，坐席查看该客户资料，拨打该客户电话或者接听该客户电话时就会收到该条弹屏警告。（关于审核流程，到Client手册查看）如下图："
+msgstr ""
+"[Popt-screen warning] Setting up a pop-screen warning, which requires the "
+"audit of the superior user or the agent with audit permission to succeed "
+"before it can take effect. "
+
+#: ../../agent_login.md:245 cec68dea1fec449cba67baaca1099eba
+msgid "![alt text](_static/images/agent/image-a32.png)"
+msgstr ""
+
+#: ../../agent_login.md:247 605cb1b84cac4d52b42ca10294d78142
+msgid "**短信**：显示发送给该客户短信的详细内容（如下图）"
+msgstr ""
+"**SMS**: Display the detailed content of the text message sent to the "
+"customer (as shown below)"
+
+#: ../../agent_login.md:249 5b8062584d65445b93d1252bf15e2b3d
+msgid "![alt text](_static/images/agent/image-a33.png)"
+msgstr ""
+
+#: ../../agent_login.md:251 67438f9c19d249fe9b40196347852239
+msgid "**工单**：对当前客户所建立过的工单进行查看（如下图）"
+msgstr ""
+"**Work order**: Check the work orders established by the current customer "
+"(as shown below)"
+
+#: ../../agent_login.md:253 9654ff377ad44993b6946cfef74016e5
+msgid "![alt text](_static/images/agent/image-a34.png)"
+msgstr ""
+
+#: ../../agent_login.md:255 901bce8647b7483f86ab5897545ab697
+msgid "坐席建立工单的基本流程："
+msgstr "The basic process for establishing work orders for seats:"
+
+#: ../../agent_login.md:257 b51c9bf5dd514a24bfd4d38c65d5bc6e
+msgid "①坐席在保存客户资料后会弹出工单资料的功能区"
+msgstr ""
+"① The functional area of the work order information will pop up after the "
+"seat saves the customer information."
+
+#: ../../agent_login.md:259 f05f760eb2c04028b027f5af6980d88d
+msgid "![alt text](_static/images/agent/image-a35.png)"
+msgstr ""
+
+#: ../../agent_login.md:261 12d13c0c16f94895bcdc245432d4a30c
+msgid "②坐席在工单资料页面可以"
+msgstr "② The seat can be on the work order information page"
+
+#: ../../agent_login.md:263 55ceb7a752a34eb288779297908b3990
+msgid "填写工单标题-->选择工单类别-->选择工单状态-->选择工单结果-->填写工单描述-->保存工单"
+msgstr ""
+"Fill in the work order title->Select the work order category->Select the "
+"work order status->Select the work order results->Fill in the work order "
+"description->Save the work order"
+
+#: ../../agent_login.md:265 e752c0f254fb4242b563449303c77276
+msgid "保存后的工单点击工单-->编辑可以查看"
+msgstr "Click the work order after saving -> Edit to view"
+
+#: ../../agent_login.md:267 df83fabb508e4362916e04550d309061
+msgid "![alt text](_static/images/agent/image-a36.png)"
+msgstr ""
+
+#: ../../agent_login.md:269 9646d3e8358749bc87c5986efd8a09f5
+msgid "③查看工单时，可以点击【预约时间】对工单进行预约"
+msgstr ""
+"③When viewing a work order, you can click [Appointment Time] to make an "
+"appointment for the work order."
+
+#: ../../agent_login.md:271 425953935d5d408d93038bdecefc0d6c
+msgid "![alt text](_static/images/agent/image-a37.png)"
+msgstr ""
+
+#: ../../agent_login.md:273 e567624bfba4496fbd518a221e527912
+msgid "工单的预约可以有快速预约的时间选择(30分、1天、1周)，坐席也可以自定义工单的预约时间"
+msgstr ""
+"There are quick appointment times (30 minutes, 1 day, 1 week) for work order"
+" reservations, and the seats can also customize the appointment times for "
+"work orders."
+
+#: ../../agent_login.md:275 892382a282de4419bfc1dbca1c87f5a0
+msgid "![alt text](_static/images/agent/image-a38.png)"
+msgstr ""
+
+#: ../../agent_login.md:277 c1a4f83070b349bebfa16cef0299f9d6
+msgid "④保存预约后，工单预约会显示在仪表盘中，如图所示"
+msgstr ""
+"④After saving the appointment, the work order appointment will be displayed "
+"in the dashboard, as shown in the figure"
+
+#: ../../agent_login.md:279 80347ea446c543dabf2b30b0b6e9b298
+msgid "![alt text](_static/images/agent/image-a39.png)"
+msgstr ""
+
+#: ../../agent_login.md:281 c41f96b9ec3d41a094c8d8f5998e178c
+msgid "⑤在客户弹屏的工单相关记录功能区中，可以查看工单的修改记录"
+msgstr ""
+"⑤In the work order related record function area of the customer's pop-up "
+"screen, you can view the work order modification records."
+
+#: ../../agent_login.md:283 c3a18101f3e14277b0009940f3185219
+msgid "![alt text](_static/images/agent/image-a40.png)"
+msgstr ""
+
+#: ../../agent_login.md:285 f683fc143cdd4ab09308cdb4ad28f28d
+msgid "在预约时间中，可以删除工单预约,在仪表盘页面不会显示"
+msgstr ""
+"During the reservation time, you can delete the work order reservation, "
+"which will not be displayed on the dashboard page."
+
+#: ../../agent_login.md:287 5af9198559914c07b624eefa7a3e53f6
+msgid "![alt text](_static/images/agent/image-a41.png)"
+msgstr ""
+
+#: ../../agent_login.md:289 4dbfe939c20449d08a5a2dd2fbcf1272
+msgid "坐席还可以对工单进行评论，所有坐席的评论会显示在工单的评论中"
+msgstr ""
+"The seat can also comment on the work order, and all seat comments will be "
+"displayed in the work order comments."
+
+#: ../../agent_login.md:291 e81ee2b8c9754188a7628f82836d8605
+msgid "![alt text](_static/images/agent/image-a42.png)"
+msgstr ""
+
+#: ../../agent_login.md:293 816530358b084c9c9ae5b137b84f4255
+msgid "**订单**：坐席可以在订单页面增加一个客户所属的订单"
+msgstr ""
+"**Order**: The agent can add an order to the customer on the order page"
+
+#: ../../agent_login.md:295 03e7ef12c2ca47c48863a4073f62e603
+msgid "![alt text](_static/images/agent/image-a43.png)"
+msgstr ""
+
+#: ../../agent_login.md:297 3eff04bcd59d40488ca0e74d8a98f11b
+msgid "添加订单："
+msgstr "Add an order:"
+
+#: ../../agent_login.md:299 e9ad8653c9a74e77b27789c164a4966f
+msgid "①添加产品名称，选择产品类型，选择订购"
+msgstr "①Add product name, select product type, and select order"
+
+#: ../../agent_login.md:301 6805e5192275465c8b8a956d2ad317c8
+msgid "![alt text](_static/images/agent/image-a44.png)"
+msgstr ""
+
+#: ../../agent_login.md:303 f4416a86875046379d46a46d3a28de48
+msgid "![alt text](_static/images/agent/image-a46.png)"
+msgstr ""
+
+#: ../../agent_login.md:305 abea3b4eeff449498ff8cf3063ada155
+msgid "②填写发货单号、快递单号、联络人、电话号码、地址等信息完善订单信息"
+msgstr ""
+"②Fill in the delivery order number, express order number, contact person, "
+"telephone number, address and other information to improve order information"
+
+#: ../../agent_login.md:307 5ac02f621f3e4907b52962c6fcdfb851
+msgid "![alt text](_static/images/agent/image-a45.png)"
+msgstr ""
+
+#: ../../agent_login.md:309 7e7c5620c46d41f383aea5c000c1d1a4
+msgid "![alt text](_static/images/agent/image-a47.png)"
+msgstr ""
+
+#: ../../agent_login.md:311 5dd73add583f4e179bb5d3acfc3d5b9a
+msgid "**联络信息**：相当于一个关联通讯录，可以添加客户的亲属信息（如下图）"
+msgstr ""
+"**Contact information**: It is equivalent to a contact address book, and you"
+" can add customer's relative information (as shown in the figure below)"
+
+#: ../../agent_login.md:313 7f4a1042bdd14eafbd890d6d5682a404
+msgid "![alt text](_static/images/agent/image-a48.png)"
+msgstr ""
+
+#: ../../agent_login.md:315 8c5bdc33c99248b7b6cc63d213672e41
+msgid "**历史联络记录**：主要包括销售漏斗、呼叫结果、备注，如果之前已经对客户进行过沟通，则会显示该客户以往保存的联络记录（如下图）"
+msgstr ""
+"**Historical contact record**: mainly includes sales funnel, call results, "
+"and notes. If the customer has been communicated before, the contact record "
+"saved by the customer will be displayed (as shown below)"
+
+#: ../../agent_login.md:317 4eee0114200e4a9a812e1f49feec92f8
+msgid "![alt text](_static/images/agent/image-a49.png)"
+msgstr ""
+
+#: ../../agent_login.md:319 5600e6162a9e4dbba1d234af116d66c2
+msgid "联络记录默认显示，可以由拥有任务管理权限的管理员进行修改。默认联络记录是自动加载，当选择手动时，需要点击刷新才能加载出历史联络记录。"
+msgstr ""
+"The contact history is displayed by default and can be modified by an "
+"administrator with task management permissions. "
+
+#: ../../agent_login.md:321 0bd63c2834644715af913d01cd3ffe23
+msgid "预拨号/双呼接通时，会自动生成一条联络记录,其余通话需要坐席手动保存后生成新的联络记录"
+msgstr ""
+"When pre-dial/double call is connected, a contact record will be "
+"automatically generated. The remaining calls need to be saved manually by "
+"the agent and generated a new contact record."
+
+#: ../../agent_login.md:323 682ed3d23879423d89b787e24f2e650b
+msgid "![alt text](_static/images/agent/image-a50.png)"
+msgstr ""
+
+#: ../../agent_login.md:325 45f7d62dd95d4d8ab975810886ecb2fc
+msgid "联络记录中的录音，可以点击播放"
+msgstr "Recordings in the contact record can be played by clicking"
+
+#: ../../agent_login.md:327 e8e07893ff7749cda14a6efac21276d2
+msgid "![alt text](_static/images/agent/image-a51.png)"
+msgstr ""
+
+#: ../../agent_login.md:329 d2e9a0194d014730bd46cf1d5c23b114
+msgid "当坐席在保存联络记录时，在弹屏页面未关闭的情况下，还保存过一个工单，那么这个工单就会显示在该条提交中。"
+msgstr ""
+"When the agent is saving the contact record, if the pop-up page is not "
+"closed, a work ticket is saved, and the work ticket will be displayed in the"
+" submission."
+
+#: ../../agent_login.md:331 b93ec0da6e37477c8fcc59d7423b0c4e
+msgid "![alt text](_static/images/agent/image-a52.png)"
+msgstr ""
+
+#: ../../agent_login.md:333 4a4ca35707d14ed2a532795329000e03
+msgid "**销售漏斗**：用于标记座席记录客户的通话状态情况，销售漏斗页面如下图，销售漏斗默认有三种：成功/失败/跟踪"
+msgstr ""
+"**Sales funnel**: Used to mark the agent to record the customer's call "
+"status. The sales funnel page is as shown in the figure below. There are "
+"three default sales funnels: Success/Failure/Tracking"
+
+#: ../../agent_login.md:335 6ff7cfc5ef6941a0969c29f40fddb84b
+msgid "**呼叫结果**：是座席呼叫客户联络记录选择的通话结果，用于通话结果的分类。呼叫结果和销售漏斗互相绑定的关系。"
+msgstr ""
+"**Call Results**: It is the call result selected by the agent to call the "
+"customer contact record and is used for the classification of call results. "
+
+#: ../../agent_login.md:337 ec844779cacd4d07a0a895b222223026
+msgid "设置呼叫结果的流程"
+msgstr "Setting up the call result process"
+
+#: ../../agent_login.md:339 c4dfd43bcd644758a525f4bf04a6c0f9
+msgid ""
+"在client级别新增呼叫结果页面新增，并绑定一个销售漏斗，选择一个呼叫结果的通话状态，通常分为三类，无/应答/未应答。无则为在通话状态中都会显示这个呼叫结果。"
+msgstr ""
+"Add a new call result page at the client level, and bind a sales funnel to "
+"select the call status of a call result. It is usually divided into three "
+"categories, no/answer/unanswer. "
+
+#: ../../agent_login.md:341 55ad20306545425796395bd65b9ccb39
+msgid ""
+"应答则是在应答状态下才会显示这个呼叫结果。未应答则是在通话被应答时不会出现这个呼叫结果。（注：坐席端有呼叫结果页面，但是不能将呼叫结果应用到任务。"
+msgstr ""
+"The call result will be displayed only when the reply is in the reply state."
+" "
+
+#: ../../agent_login.md:343 234baf594eba4cc38b03644f1a27bd32
+msgid "**客户预约**：客户预约有快速预约和指定的时间预约两种方式"
+msgstr ""
+"**Customer appointment**: There are two ways to make a quick appointment and"
+" a designated time reservation"
+
+#: ../../agent_login.md:345 20c5faf65ef045ec8dd85c20adedbb3b
+msgid "![alt text](_static/images/agent/image-a53.png)"
+msgstr ""
+
+#: ../../agent_login.md:347 bffc84cce6f54faeac245dd9752c1d08
+msgid "快速预约可以通过点击黄色快速预约的时间，预约时间会根据选择的快速预约时间自动更新保存。"
+msgstr ""
+"Quick appointments can be made by clicking on the yellow quick appointment "
+"time, and the reservation time will be automatically updated and saved "
+"according to the selected quick appointment time."
+
+#: ../../agent_login.md:349 4d827be3ab784207826bb9e8dd8701c7
+msgid "当预约未到时间，坐席需要修改时间，修改时间即为重新预约，并不是时间累加。"
+msgstr ""
+"When the appointment has not arrived, the seat needs to modify the time, and"
+" the modification time is to re-book, not the time accumulation."
+
+#: ../../agent_login.md:351 109f09521a844b23957ffd4854b70b59
+msgid ""
+"指定时间预约通过选择预约时间的文本，下拉具体时间，然后根据需要选择指定的日期和时间点击【应用】，然后再选择【更新预约时间】即可成功保存。保存后可以在仪表盘页面查看。"
+msgstr ""
+"Make an appointment at a specified time by selecting the text of the "
+"reservation time, pulling down the specific time, and then selecting the "
+"specified date and time according to your needs, click [Apply], and then "
+"selecting [Update Appointment Time] to save it successfully. "
+
+#: ../../agent_login.md:353 7ae58ec831ed417fb7dd39a14d5e87e9
+msgid "![alt text](_static/images/agent/image-a54.png)"
+msgstr ""
+
+#: ../../agent_login.md:355 bc212d61008e4634bc60761ff5868e11
+msgid "**工单资料**："
+msgstr "**Work order information**:"
+
+#: ../../agent_login.md:357 9d72ef8c1dd842d288130ba4aa1653e3
+msgid "预约时间：给未处理的工单，设定一个完成时间。设定预约时间的工单，会在仪表盘的【工单预约】中显示。只有已存在的工单才能进行预约。"
+msgstr "Appointment time: Set a completion time for unprocessed work orders. "
+
+#: ../../agent_login.md:359 b63e280167ec4e2a95b988d045380621
+msgid "工单标题：给创建的工单命名"
+msgstr "Ticket Title: Name the created ticket"
+
+#: ../../agent_login.md:361 1766c7381bfb4043b28592fec16aafb3
+msgid "工单类别：选择一个工单类别"
+msgstr "Ticket Category: Select a Ticket Category"
+
+#: ../../agent_login.md:363 4d3863aae4cb43179175be9fdc3c5624
+msgid "工单状态：选择一个工单状态"
+msgstr "Ticket Status: Select a Ticket Status"
+
+#: ../../agent_login.md:365 1d100a6fe27d4e079d9b8898c4e19b4c
+msgid "工单结果：选择一个工单结果"
+msgstr "Ticket Results: Select a Ticket Results"
+
+#: ../../agent_login.md:367 8c72ed3fac9b488d91f569330536488c
+msgid "工单描述：对建立的工单进行详细描述"
+msgstr ""
+"Work order description: A detailed description of the established work order"
+
+#: ../../agent_login.md:369 54316d0082b0462cad0a32df0201f24a
+msgid "![alt text](_static/images/agent/image-a55.png)"
+msgstr ""
+
+#: ../../agent_login.md:371 8cd29ff2f9f74c8a9f82af5821a39acd
+msgid "座席可以点击【我的客户➕】操作列下的【查看】，查看客户的详细信息。"
+msgstr ""
+"The agent can click [View] under the [My Customer ➕] operation column to "
+"view the customer's detailed information."
+
+#: ../../agent_login.md:373 017fdd5b2be54ff59cf56d1e24f98d98
+msgid "![alt text](_static/images/agent/image-a56.png)"
+msgstr ""
+
+#: ../../agent_login.md:375 b9e3b043a2f445cc87b63040684bd54a
+msgid ""
+"**问卷**:问卷是坐席与客户通话时坐席根据问卷内容对客户进行问卷调查,问卷需要在任务管理---"
+"话术中进行设置。问卷的答案，可以由client用户在问卷答案中进行导出。"
+msgstr ""
+"**Query**: The questionnaire is a questionnaire survey of customers based on"
+" the content of the questionnaire. The questionnaire needs to be set up in "
+"task management---talk. "
+
+#: ../../agent_login.md:377 71e119fe1de44eb88c6848e86317e9d0
+msgid "![alt text](_static/images/agent/image-a57.png)"
+msgstr ""
+
+#: ../../agent_login.md:379 e8026672a6dc40b8b78dd8dad403d5d8
+msgid "**待处理**：列表中的客户数据是【我的客户➕】数据中未保存过联络记录的客户数据"
+msgstr ""
+"**Pending**: The customer data in the list is customer data that has not "
+"been saved in the contact record."
+
+#: ../../agent_login.md:381 802383868ef842c8b7ed3db39454ce69
+msgid "![alt text](_static/images/agent/image-a58.png)"
+msgstr ""
+
+#: ../../agent_login.md:383 4487ed6de59648ec8ce73d652c1e3d00
+msgid "**要追跡/成功/失败**：选择客户包时会显示相应客户包所对应选择了这个销售漏斗的客户数据。不选择客户包，默认显示全部客户包的销售漏斗。"
+msgstr ""
+"**To follow/success/failure**: When selecting a customer package, the "
+"customer data corresponding to the corresponding customer package selected "
+"will be displayed. "
+
+#: ../../agent_login.md:385 5e05f6dff55f4a4696939a1eb6401658
+msgid "![alt text](_static/images/agent/image-a59.png)"
+msgstr ""
+
+#: ../../agent_login.md:387 c60c0b5f1e0749b0b936a3a545e04e42
+msgid "**客户标签**： 由上级用户建立，坐席可以通过点击标签，对客户进行快速筛选"
+msgstr ""
+"**Customer tag**: Created by superior users, the seats can be quickly "
+"filtered by clicking on the tags."
+
+#: ../../agent_login.md:390 c64e224d30144670af62d3918bb1d399
+msgid "![alt text](_static/images/agent/image-a60.png)"
+msgstr ""
+
+#: ../../agent_login.md:392 87d0f46a1ca94e07bca07ba3ee141b43
+msgid "**最近联络**：是坐席最近一个月联系的客户记录信息,包括客户名称、通话开始时间、通话结束时间、通话时长、挂断原因、所属任务等信息。"
+msgstr ""
+"**Recent Contact**: It is the customer record information that the agent "
+"contacted in the past month, including the customer name, call start time, "
+"call end time, call duration, reason for hang up, task and other "
+"information."
+
+#: ../../agent_login.md:394 cb912123adb84bd7ab29995cba9e253b
+msgid "![alt text](_static/images/agent/image-a61.png)"
+msgstr ""
+
+#: ../../agent_login.md:396 92df1fc5832a433da389e29f461106dc
+msgid "**我的预约**：包括今日预约和所有预约，默认显示今日预约，显示当天坐席预约的客户记录信息。点击所有预约可以查看当前坐席所有预约。"
+msgstr ""
+"**My appointment**: Including today's appointments and all appointments, the"
+" default is to display today's appointments, and display customer record "
+"information for the appointments on the same day. "
+
+#: ../../agent_login.md:398 a170c02544c5439ab97be9fac375a9ca
+msgid "![alt text](_static/images/agent/image-a62.png)"
+msgstr ""
+
+#: ../../agent_login.md:400 1c762873918d4d128ac9fc84225df355
+msgid "**释放到公海**：坐席可以在【我的客户➕】将自己选择的客户释放到任务客户池中"
+msgstr ""
+"**Released to the High Seas**: The seat can release the customer you "
+"selected into the task customer pool in [My Customers ➕]"
+
+#: ../../agent_login.md:402 bbb6312d91094894a2add856bed36004
+msgid "![alt text](_static/images/agent/image-a63.png)"
+msgstr ""
+
+#: ../../agent_login.md:404 f0741cd43a6448379baf5b4da746533c
+msgid "**自动拨号**：坐席可以对列表中的客户进行自动拨打。点击自动拨号会显示坐席需要自动拨号的客户所满足的条件："
+msgstr ""
+"**Automatic dial**: The agent can automatically dial the customers on the "
+"list. "
+
+#: ../../agent_login.md:406 e3f340d0a5de474ca9460f7e45d1533e
+msgid "拨号次数：坐席可以根据客户所拨号的次数的数值进行筛选所要拨打的客户号码。"
+msgstr ""
+"Number of dials: The seat can filter the customer number to be dialed based "
+"on the number of times the customer dials."
+
+#: ../../agent_login.md:408 0b887dcb1731480eb3ba2519f3f40151
+msgid "上次联络信息：坐席可以根据客户上次联络的时间界定所要拨打的客户号码。"
+msgstr ""
+"Last contact information: The agent can define the customer number to be "
+"called based on the time of the last contact of the customer."
+
+#: ../../agent_login.md:410 769636906169447aae14da1479d78390
+msgid "点击确定即进入按该条件执行的自动拨号："
+msgstr ""
+"Click OK to enter the automatic dialing performed according to this "
+"condition:"
+
+#: ../../agent_login.md:412 8a92d3aefc4c46ce96a751738f7b2c56
+msgid "![alt text](_static/images/agent/image-a64.png)"
+msgstr ""
+
+#: ../../agent_login.md:414 df9d620a53554a6bb65b20277fb1a0e0
+msgid "当坐席使用自动拨号模式时有以下控制键可以对自动拨号进行控制："
+msgstr ""
+"When the agent uses the automatic dialing mode, the following control keys "
+"can be used to control the automatic dialing:"
+
+#: ../../agent_login.md:416 8c1664c643744e289b7e5c744ebd5a67
+msgid "![alt text](_static/images/agent/image-a65.png)"
+msgstr ""
+
+#: ../../agent_login.md:418 a0de34c4790c42cd93878ec5f3a54e15
+msgid "倒计时：当坐席完成一个通话时，系统将开始倒计时 ，倒计时结束后系统将拨打下一个号码。"
+msgstr ""
+"Countdown: When the agent completes a call, the system will start countdown "
+"and the next number will be dialed after the countdown is over."
+
+#: ../../agent_login.md:420 c775782db2a94664948045e8e737348c
+msgid "延迟：坐席可以点击延迟按钮获得更多的时间。"
+msgstr "Delay: The agent can click the Delay button to get more time."
+
+#: ../../agent_login.md:422 9dc1067c35e54c048d81a2fc112e405d
+msgid "暂停：暂停自动拨号。"
+msgstr "Pause: Pause automatic dialing."
+
+#: ../../agent_login.md:424 1ac3465b59ce47468e1355c0bf6ff7a2
+msgid "开始：是暂停的相反工作，表示继续自动拨号。"
+msgstr ""
+"Start: It is a pause of the opposite work, indicating that automatic dialing"
+" continues."
+
+#: ../../agent_login.md:426 53bce7a709b246f786b63bf63edf4d6e
+msgid "2.3 状态栏"
+msgstr "2.3 Status bar"
+
+#: ../../agent_login.md:428 fdd00fc3ab8941c4afcfc0b71d1a4340
+msgid "2.3.1 状态："
+msgstr "2.3.1 Status:"
+
+#: ../../agent_login.md:430 33adbcf040344e2a993c2f9cc137f877
+msgid "坐席默认登录时显示的状态都是【准备】，这个状态是坐席默认的空闲状态。"
+msgstr ""
+"The status displayed when the agent is logged in by default is "
+"[Preparation], which is the default idle state of the agent."
+
+#: ../../agent_login.md:432 b94f5ad289e449af964f9e3e207e9498
+msgid "![alt text](_static/images/agent/image-a66.png)"
+msgstr ""
+
+#: ../../agent_login.md:434 e5907fb967104e56959638b4c83e8697
+msgid "当坐席有事需要离开时，可以选择暂停，此时这个坐席的状态显示为【暂停】"
+msgstr ""
+"When the seat needs to leave, you can choose to pause. At this time, the "
+"status of the seat is displayed as [Pause]"
+
+#: ../../agent_login.md:436 43ea554ac4bb4ad4accfd508e4c03cff
+msgid "![alt text](_static/images/agent/image-a67.png)"
+msgstr ""
+
+#: ../../agent_login.md:438 6738440ccbac4e8a8d4181b24de1d92a
+msgid "当有队列通话呼入，坐席接通挂断后，如果任务中设置了进入话后，则坐席状态会变成【话后】状态。"
+msgstr ""
+"When a queue call is in, the agent will be connected and hung up, if the "
+"incoming call is set in the task, the agent status will become the [after] "
+"state."
+
+#: ../../agent_login.md:440 57379ac8211f4876805b094923238e9c
+msgid "![alt text](_static/images/agent/image-a68.png)"
+msgstr ""
+
+#: ../../agent_login.md:442 314f142220254636b39336062a520372
+msgid "2.3.2 通话 ( webrtc ) ："
+msgstr "2.3.2 Call (webrtc):"
+
+#: ../../agent_login.md:444 261f36bfa64247f489585b186d4f5246
+msgid "系统自带webrtc话机，在右上角打开webrtc按钮"
+msgstr ""
+"The system comes with webrtc phone, and open webrtc button in the upper "
+"right corner"
+
+#: ../../agent_login.md:446 46a6cb4be75d457b9a65e39bc88a3807
+msgid "![alt text](_static/images/agent/image-a69.png)"
+msgstr ""
+
+#: ../../agent_login.md:448 780eea1738214e60a4854ff58ec2ac79
+msgid "注册好的话机，在鼠标放置于通话按钮上时会弹出注册信息"
+msgstr ""
+"When registering, the registration information will pop up when the mouse is"
+" placed on the call button."
+
+#: ../../agent_login.md:450 d57be26aee5b46629322c480b1bdda13
+msgid "![alt text](_static/images/agent/image-a70.png)"
+msgstr ""
+
+#: ../../agent_login.md:452 a3475c408efc477eab66df4e5e6a9ced
+msgid "坐席使用webrtc的拨号盘进行拨号，拨号盘上有静音以及声音调节按钮"
+msgstr ""
+"The agent uses the webrtc dial for dialing, and there are mute and sound "
+"adjustment buttons on the dial."
+
+#: ../../agent_login.md:454 83caa053359843199fe8b6645a51e14f
+msgid "![alt text](_static/images/agent/image-a71.png)"
+msgstr ""
+
+#: ../../agent_login.md:456 a7ac447e23b7406588ebdfbf20cb3d92
+msgid "表头图标可以切换页面，切换至通话记录页面，可以查看使用webrtc的最近通话记录"
+msgstr ""
+"The header icon can switch pages and switch to call history page, and you "
+"can view the latest call history using webrtc."
+
+#: ../../agent_login.md:458 3e6d35c5ce9f492f974dbe2837c5c4d5
+msgid "![alt text](_static/images/agent/image-a72.png)"
+msgstr ""
+
+#: ../../agent_login.md:460 2b83725d60be474aabc3be8762687d3a
+msgid "也可以使用webrtc的自带联系人设置，添加联系人姓名"
+msgstr "You can also use webrtc's own contact settings to add contact name"
+
+#: ../../agent_login.md:462 2dffcf3822434cab9ed7914989f56987
+msgid "![alt text](_static/images/agent/image-a73.png)"
+msgstr ""
+
+#: ../../agent_login.md:464 87c5bf5080cb4448bb2ccd58918a33e7
+msgid "在设置页面，可以设置自动应答，即当有通话呼入到该坐席，坐席使用的webrtc可以直接接通这个通话。"
+msgstr ""
+"On the settings page, you can set up an automatic reply, that is, when a "
+"call is incoming to the seat, the webrtc used by the seat can directly "
+"connect to the call."
+
+#: ../../agent_login.md:466 dc295c0af550451f8a93c58703321441
+msgid "还可以设置挂机忙音，当坐席开启了挂机忙音，当坐席通话时对方挂断了通话，则会出现 \" dududu \" 的声音提示通话被挂断。"
+msgstr ""
+"You can also set a hang-up busy tone. When the seat is on, and when the "
+"other party hangs up the call, a \"dududu\" sound will appear to prompt that"
+" the call is hung up."
+
+#: ../../agent_login.md:468 ed861df89db84d448e263d84ab28e15a
+msgid "![alt text](_static/images/agent/image-a74.png)"
+msgstr ""
+
+#: ../../agent_login.md:470 5bce13e503724d40a1a77fd7dea23c24
+msgid "当坐席输入号码进行拨号呼入对方未接通时，会显示振铃。"
+msgstr ""
+"When the agent enters the number and dials the call to the other party fails"
+" to connect, a ring will be displayed."
+
+#: ../../agent_login.md:472 69e5ad2fa0b74ed0b560310f61486e87
+msgid "![alt text](_static/images/agent/image-a75.png)"
+msgstr ""
+
+#: ../../agent_login.md:474 de6f84783cbd4702b830a86e7d3c167d
+msgid "接通后状态中会显示通话的号码，保持，以及挂断键"
+msgstr ""
+"After the call is turned on, the call number, the hold, and the hangup key "
+"will be displayed."
+
+#: ../../agent_login.md:476 bac872832a414c748fbdbdd14326707f
+msgid "![alt text](_static/images/agent/image-a76.png)"
+msgstr ""
+
+#: ../../agent_login.md:478 738a8c1f4a924536a77a6f6cf38f934e
+msgid "点击保持，坐席依然保持在通话状态，客户端会播放一段音乐，点击恢复，会回到通话状态"
+msgstr ""
+"Click to hold, the seat remains in the call state. The client will play a "
+"piece of music. Click to resume and will return to the call state."
+
+#: ../../agent_login.md:480 f61a16d93fe044d985a6c159728bd757
+msgid "![alt text](_static/images/agent/image-a77.png)"
+msgstr ""
+
+#: ../../agent_login.md:482 4e0e48b270274928877a7a49ac456611
+msgid "在通话期间，如果在图示框中输入号码点击回车，或是点击绿色通话按钮，通话会被盲转至图示框中所输入的号码处。"
+msgstr ""
+"During a call, if you enter the number in the illustration box and click "
+"Enter, or click the green call button, the call will be blindly transferred "
+"to the number entered in the illustration box."
+
+#: ../../agent_login.md:484 5aaa64a3c45b48838d992b585dbccbe4
+msgid "![alt text](_static/images/agent/image-a78.png)"
+msgstr ""
+
+#: ../../agent_login.md:486 8a12f4ad9bd84188a8128639438f7951
+msgid "2.3.3 知识库/默认客户包 ："
+msgstr "2.3.3 Knowledge Base/Default Customer Pack:"
+
+#: ../../agent_login.md:488 f76b688f7d5d4891bb80f5ccadb0d2d3
+msgid "在坐席登录页面，功能菜单处，还可以选择点击快捷搜索区，知识库或是客户包客户数据。"
+msgstr ""
+"On the agent login page and the function menu, you can also choose to click "
+"on the Quick Search area, Knowledge Base or Customer Package Customer Data."
+
+#: ../../agent_login.md:490 35e5ebe8f3ea4b899fec47cddf1c6134
+msgid "![alt text](_static/images/agent/image-a79.png)"
+msgstr ""
+
+#: ../../agent_login.md:492 12e9bbb54cc0424aaa055df91dbed35e
+msgid "选择知识库时，坐席可以搜索知识，支持搜索文件名以及问题名。只有用鼠标点击的知识，才会在搜索记录冲出现"
+msgstr ""
+"When selecting a knowledge base, the agent can search for knowledge and "
+"support searching for file names and question names. "
+
+#: ../../agent_login.md:494 a14ceb3f037f41239ebc6e208e691fb4
+msgid "![alt text](_static/images/agent/image-a80.png)"
+msgstr ""
+
+#: ../../agent_login.md:496 1c50f33edd674ebdb457c4640ef72918
+msgid "点击【查看知识库主页】进入【知识库】主页"
+msgstr ""
+"Click [View Knowledge Base Home Page] to enter the [Knowledge Base] home "
+"page"
+
+#: ../../agent_login.md:498 c3f3cfa91a3842c1b5affb2b23af56b0
+msgid "![alt text](_static/images/agent/image-a82.png)"
+msgstr ""
+
+#: ../../agent_login.md:500 78f4f1253e004130bbdc865ab00a8297
+msgid "【添加知识】（如下图）"
+msgstr "【Add knowledge】 (as shown below)"
+
+#: ../../agent_login.md:502 483f704ef5d44ea285a9072e60b532d2
+msgid "![alt text](_static/images/agent/image-a83.png)"
+msgstr ""
+
+#: ../../agent_login.md:504 7baa7958c05e41069d51f8b7cf1b5a52
+msgid "![alt text](_static/images/agent/image-a84.png)"
+msgstr ""
+
+#: ../../agent_login.md:506 8b4b4432c61b47cea3c5f6797eeb1966
+msgid "问题：输入需要解答的问题内容。"
+msgstr "Question: Enter the content of the question you need to answer."
+
+#: ../../agent_login.md:508 57cc678434a74673806aeb250fb8c845
+msgid "关键字：用户可以输入帮助坐席在使用知识库时搜索的关键字，可以添加多个，enter键输入。"
+msgstr ""
+"Keywords: Users can enter keywords to help agents search when using the "
+"knowledge base, and can add multiple inputs, enter key."
+
+#: ../../agent_login.md:510 358c4458fc5143deb825051276c2f534
+msgid "分类至：用户可以将该知识库信息分类到多个知识库中。"
+msgstr ""
+"Classification to: Users can classify this knowledge base information into "
+"multiple knowledge bases."
+
+#: ../../agent_login.md:512 8e770ed021f94b5e8971c8b53a3eff87
+msgid "回答：该问题的答案。"
+msgstr "Answer: The answer to this question."
+
+#: ../../agent_login.md:514 50575d6e161c45878a5e01c15dbfe563
+msgid "有效期至：创建者可以对该知识库的有效期限进行定义，超过有效期该知识不会被搜索到。"
+msgstr ""
+"Validity period: The creator can define the validity period of the knowledge"
+" base, and the knowledge will not be searched after the validity period."
+
+#: ../../agent_login.md:516 23204ed14ef54dea9dcb0cbfc1e073c8
+msgid "点击【提交】，由上级用户进行审核，坐席可以通过【我的提交】查看审核状态。"
+msgstr ""
+"Click [Submit] to review by the superior user. The agent can check the "
+"review status through [My Submit]."
+
+#: ../../agent_login.md:518 625f2597c4744251b19cf441b085bfc7
+msgid "![alt text](_static/images/agent/image-a85.png)"
+msgstr ""
+
+#: ../../agent_login.md:520 b1964730b85c4da7bfea8fab0af681be
+msgid "【知识列表】显示当前知识库的全部内容"
+msgstr "【Knowledge List】Show all contents of the current knowledge base"
+
+#: ../../agent_login.md:522 bad3f573078f47e4ad08500a82f66bb9
+msgid "【我的提交】显示坐席提交的所有内容及审核状态"
+msgstr ""
+"【My Submission】Show all content and review status of the agent submission"
+
+#: ../../agent_login.md:524 30da84b951e04883973a9a933f6d6439
+msgid "选择搜索客户数据时，只支持坐席使用完整号码进行搜索"
+msgstr ""
+"When selecting search for customer data, only the agents can use the full "
+"number to search."
+
+#: ../../agent_login.md:526 b68b21fb771142e39d02d339e2e72532
+msgid "![alt text](_static/images/agent/image-a81.png)"
+msgstr ""
+
+#: ../../agent_login.md:528 c2fac8d03bfd498d80083bc0ecbd0d6c
+msgid "2.3.4 消息通知 ："
+msgstr "2.3.4 Message Notification:"
+
+#: ../../agent_login.md:530 33e4e4e1ffd84eccaba86c39ba5052ca
+msgid "坐席右上角会显示一些审核内容提示通知，例如弹屏审核，dnd审核，以及知识库审核等。"
+msgstr ""
+"There will be some review content prompt notifications in the upper right "
+"corner of the seat, such as pop-up screen review, dnd review, and knowledge "
+"base review."
+
+#: ../../agent_login.md:532 de33babaf9a8431fa8c1f8e5a36e2d0f
+msgid "![alt text](_static/images/agent/image-a86.png)"
+msgstr ""
+
+#: ../../agent_login.md:534 1dfc2a9ae2a342bd87c55cbe87390ec3
+msgid "坐席点击聊天按钮，可以进入聊天界面。进入聊天界面有【用户】和【联系】两个通讯录可以选择。"
+msgstr "Click the chat button on the seat to enter the chat interface. "
+
+#: ../../agent_login.md:536 89bf9e05677b4367a9e8d0b6d49e92bc
+msgid "默认界面是【用户】界面。坐席在【用户】页面可以看到坐席所属坐席组的聊天组群，还可以在通讯记录中搜索聊天对象，或是查看聊天记录"
+msgstr "The default interface is the [User] interface. "
+
+#: ../../agent_login.md:538 987d82ee13af4649a8594f3a3fcb097e
+msgid "![alt text](_static/images/agent/image-a87.png)"
+msgstr ""
+
+#: ../../agent_login.md:540 de21112972594a19af05c1f25ac4c136
+msgid "点击进入坐席组聊天页面，坐席组长会在右上角有一个铃铛图标，点击这个图标，坐席组长可以发送组内推送消息。"
+msgstr ""
+"Click to enter the chat page of the agent group. The agent group leader will"
+" have a bell icon in the upper right corner. Click this icon and the agent "
+"group leader can send push messages in the group."
+
+#: ../../agent_login.md:542 98120acbcd5f42c4bd5a626503018d61
+msgid "![alt text](_static/images/agent/image-a88.png)"
+msgstr ""
+
+#: ../../agent_login.md:544 40804b3251e740b38e7326db62aceb64
+msgid "![alt text](_static/images/agent/image-a89.png)"
+msgstr ""
+
+#: ../../agent_login.md:546 2c88ef617413435fa17095b3e3a21662
+msgid "推送消息分为两种："
+msgstr "There are two types of push messages:"
+
+#: ../../agent_login.md:548 fecb86699a344292be71418550eba404
+msgid "固定信息：该信息会一直滚动出现，只有坐席组长选择推送消息中的清除，该固定消息被清除。"
+msgstr ""
+"Fixed message: This message will always scroll, and only the agent team "
+"leader selects to clear the push message, and the fixed message is cleared."
+
+#: ../../agent_login.md:550 6d032d0dbbe34d8a8d7e9a72798ff003
+msgid "![alt text](_static/images/agent/image-a90.png)"
+msgstr ""
+
+#: ../../agent_login.md:552 b0084b9bb7df4fbaa44db2bf688586c4
+msgid "固定消息设置成功会在如图所示的位置显示，只有该组内坐席可以收到。"
+msgstr ""
+"The fixed message setting will be displayed in the position shown in the "
+"figure, and only the seats in the group can be received."
+
+#: ../../agent_login.md:554 49ec05f95cd049ddbb123422e6ab4774
+msgid "![alt text](_static/images/agent/image-a91.png)"
+msgstr ""
+
+#: ../../agent_login.md:556 e493c1f144f24ee09152895ad0f75c6e
+msgid "只有坐席组长可以在推送消息中，点击【清除】清除这个固定消息。"
+msgstr ""
+"Only the agent team leader can click [Clear] to clear this fixed message in "
+"the push message."
+
+#: ../../agent_login.md:558 e3b9dd95e5ab446a99533ac77211a9b8
+msgid "![alt text](_static/images/agent/image-a92.png)"
+msgstr ""
+
+#: ../../agent_login.md:560 bfe6c859815749b7909ec8d73a5256de
+msgid "临时信息: 坐席组长还可以发送【临时消息】该消息默认持续时间为30秒，30秒后自动关闭。临时消息只有在线坐席可以接收到。"
+msgstr ""
+"Temporary information: The agent team leader can also send [temporary "
+"message] The default duration of the message is 30 seconds and will be "
+"automatically closed after 30 seconds. "
+
+#: ../../agent_login.md:562 a602aaf9377c4e1098d631bf903e5f89
+msgid "![alt text](_static/images/agent/image-a93.png)"
+msgstr ""
+
+#: ../../agent_login.md:564 6df31582666e446c90f924764c6f68b5
+msgid "2.3.5 坐席组签入 ："
+msgstr "2.3.5 Seat group check-in:"
+
+#: ../../agent_login.md:566 e005235af23c4bcea9eee1f8570d308f
+msgid "坐席组：显示坐席用户所在的所有坐席组，可根据当前状况勾选☑是否【签入】到其中一个或多个坐席组，【签入】在坐席登录状态，默认显示。"
+msgstr ""
+"Agent group: Displays all the seat groups where the seat user is located. "
+"You can check whether to [check-in] to one or more of the seat groups "
+"according to the current situation. [check-in] is in the seat login status, "
+"and the default display is displayed."
+
+#: ../../agent_login.md:568 4b1131c837e143bcaaec65033f7fadb4
+msgid "下图为例:坐席【签入】坐席组。坐席签入一个坐席组则表示该坐席准备好从该坐席组中接收呼叫。"
+msgstr "The following picture is an example: The seat [check-in] seat group. "
+
+#: ../../agent_login.md:570 3cc29e2aa5de411f90fb3780eb4f3ad2
+msgid "![alt text](_static/images/agent/image-a94.png)"
+msgstr ""
+
+#: ../../agent_login.md:572 42ec23ac92064ed491f4f7e1a507616e
+msgid "签出: 表示该坐席不再从签出的所有坐席组接收呼叫。"
+msgstr ""
+"Checkout: Indicates that the agent no longer receives calls from all agent "
+"groups checked out."
+
+#: ../../agent_login.md:574 4d9436d254bc4827b8be01bfef38e51e
+msgid "![alt text](_static/images/agent/image-a95.png)"
+msgstr ""
+
+#: ../../agent_login.md:576 d12d663f2a85459dbc3dc7bc06602d58
+msgid ""
+"我的公告： 有【我的公告】权限的坐席或是client，可以向坐席发布公告，公告会显示在仪表盘的公告栏中，坐席也可以由弹窗中【我的公告】进入查看。"
+msgstr ""
+"My Announcement: If a seat or client with the permission of [My "
+"Announcement] can issue an announcement to the seat. The announcement will "
+"be displayed in the bulletin board of the dashboard, and the seat can also "
+"be viewed from the pop-up window [My Announcement]."
+
+#: ../../agent_login.md:578 6719aa1cb07b4c2ca944b09b22624186
+msgid "![alt text](_static/images/agent/image-a96.png)"
+msgstr ""
+
+#: ../../agent_login.md:580 3d801f926c4c40d6ad58e2ff10836e80
+msgid "3 MicroSIP话机使用手册"
+msgstr "3 MicroSIP phone user manual"
+
+#: ../../agent_login.md:582 b3bdd06e3ca042be86749b066a065c6e
+msgid "3.1 登录"
+msgstr "3.1 Login"
+
+#: ../../agent_login.md:584 6bf304e92cd748dfb7be5ea3ff7310bb
+msgid "双击MiroSIP，打开话机，点击下拉按钮，选择【添加账户】，填写相关信息（如下图）："
+msgstr ""
+"Double-click MiroSIP, open the phone, click the drop-down button, select "
+"[Add Account], and fill in the relevant information (as shown below):"
+
+#: ../../agent_login.md:586 44132be68a7b4d8f99c1082b7161131a
+msgid "![alt text](_static/images/agent/image-a97.png)"
+msgstr ""
+
+#: ../../agent_login.md:588 3ad818f8640843b9924f676e2da603cc
+msgid "![alt text](_static/images/agent/image-a98.png)"
+msgstr ""
+
+#: ../../agent_login.md:590 2aee45b7735f454e97bc2d75741ffee1
+msgid ""
+"Sip服务器：填写系统登录的url网址+端口号（此地址与web登录地址一致，但若opensips和web不在一个服务器上时，此地址与web登录地址）"
+msgstr ""
+"Sip server: Fill in the url URL + port number of the system login (this "
+"address is the same as the web login address, but if opensips and web are "
+"not on the same server, this address is the web login address)"
+
+#: ../../agent_login.md:592 ac86b2903af344719d9e5e45ec7ce614
+msgid "Sip代理：填写系统登录的url网址+端口号"
+msgstr "Sip agent: Fill in the URL + port number of the system login"
+
+#: ../../agent_login.md:594 88894f79bf42491bb556c1370abcaf2d
+msgid "用户名：坐席工号"
+msgstr "Username: Cabin number"
+
+#: ../../agent_login.md:596 42ccba21f58e4f7cb0955b2a1a077015
+msgid "登录名：坐席工号"
+msgstr "Login name: Cabin number"
+
+#: ../../agent_login.md:598 2e9653955f4b4cd990a20a0356daac15
+msgid "密码：系统中坐席编辑中SIP分机注册密码"
+msgstr "Password: SIP extension registration password in the system"
+
+#: ../../agent_login.md:600 cfd268f504884f55bba5b2ffa568d1bf
+msgid "点击保存,显示话机在线"
+msgstr "Click Save to display the phone online"
+
+#: ../../agent_login.md:602 ea2f18a3945242c89cc41a9e13212450
+msgid "3.2 拨号盘"
+msgstr "3.2 Dial"
+
+#: ../../agent_login.md:604 f957f130f0c548e28dacff589814a438
+msgid "包括拨号框，按键和功能键，话机登陆后，默认显示该页面"
+msgstr ""
+"Includes dialing box, buttons and function keys. After the phone logs in, "
+"the page will be displayed by default."
+
+#: ../../agent_login.md:606 418a9ea3b7f64529a6a928dfcc0def67
+msgid "![alt text](_static/images/agent/image-a99.png)"
+msgstr ""
+
+#: ../../agent_login.md:608 7cda09abbe2e487e9d0809aafa4bfb68
+msgid "拨号框：显示拨打号码，点击右侧下拉按钮，查看以往拨号记录"
+msgstr ""
+"Dial box: Display dialing number, click the drop-down button on the right to"
+" view past dialing records"
+
+#: ../../agent_login.md:610 e790b64b66a94279b02c80e30ea1b20f
+msgid "按键区：直接输入客户号码，进行呼叫"
+msgstr "Keypad: Enter the customer number directly to make a call"
+
+#: ../../agent_login.md:612 c18deb9b58974aa7a9151fd5b0fdef05
+msgid "R：重播键，对上次播出的号码进行重播；使用按键拨号时，此键显示为【后退】，可以对拨号框内号码进行逐个删除"
+msgstr ""
+"R: Replay key, replay the last broadcast number; when dialing with the key, "
+"this key is displayed as [Back], and the numbers in the dial box can be "
+"deleted one by one."
+
+#: ../../agent_login.md:614 e93072a7f3db4a8e821f47c67f16266c
+msgid "➕ ：代表国际长途接入码,代表地区跨地域拨打电话"
+msgstr ""
+"➕: Represents international long-distance access code, and make calls on "
+"behalf of regions and regions"
+
+#: ../../agent_login.md:616 8f3fca2ca4a54ebca13f1900dfa0134d
+msgid "C：将拨号框的内容全部删除"
+msgstr "C: Delete all contents of the dial box"
+
+#: ../../agent_login.md:618 a1abd1c6860d410599a3b04dc270264c
+msgid ""
+"视频通话键：输入号码后，自动亮起，点击给客户拨打视频电话；电话接通后，此键显示为保持状态，点击则暂停通话，客户会在系统中听等待音乐，坐席与客户保持通话状态"
+msgstr ""
+"Video call key: After entering the number, it will automatically light up. "
+"Click to make a video call to the customer; after the call is connected, "
+"this key is displayed as a state, click to pause the call, the customer will"
+" listen to waiting music in the system, and the agent will keep the call "
+"with the customer"
+
+#: ../../agent_login.md:620 f7e266e1dc3a481fa0b29cd5c2e4d765
+msgid "呼叫键：在输入号码后会由灰色变为绿色"
+msgstr ""
+"Call key: After entering the number, it will change from gray to green."
+
+#: ../../agent_login.md:622 99fa7626ffa54c3b96b77efe6d6ae5ed
+msgid ""
+"呼叫记录：输入号码后，显示亮起，点击可以查看该号码的当前通话信息，对此通话用户进行备注；也可以在此页面进行【呼叫】和【视频呼叫】；【最后通话】查询最后通话详情；【关闭所有】则删除所有内容，重新拨号打开该页面，则没有以往记录。如下图："
+msgstr ""
+"Call record: After entering the number, the display lights up. Click to view"
+" the current call information of the number and make notes on the call user;"
+" you can also make [Call] and [Video Call] on this page; [Last Call] inquiry"
+" on the last call details; [Close All] will delete all contents and re-"
+"dialize to open the page, and there will be no previous records. "
+
+#: ../../agent_login.md:624 c295a4ca688841e592df61a5689cbd67
+msgid "![alt text](_static/images/agent/image-a100.png)"
+msgstr ""
+
+#: ../../agent_login.md:626 857815e819124390859da495330b2fcc
+msgid "听筒：直接点击图标，控制听筒的关闭和开启；右侧滑轨用来控制听筒的音量"
+msgstr ""
+"Handset: Click the icon directly to control the closing and opening of the "
+"handset; the slide rail on the right is used to control the sound of the "
+"handset"
+
+#: ../../agent_login.md:628 3ab8bde476074d26a05e05e50fd16a32
+msgid "话筒：直接点击图标，控制听筒的关闭和开启；右侧滑轨用来控制话筒的音量"
+msgstr ""
+"Microphone: Click the icon directly to control the switch and turn on the "
+"earpiece; the slide rail on the right is used to control the microphone's "
+"volume"
+
+#: ../../agent_login.md:630 8560b057ecd64c009494ba4de2f4e860
+msgid "![alt text](_static/images/agent/image-a102.png)"
+msgstr ""
+
+#: ../../agent_login.md:632 42b62a19e07740bfa89e475826384101
+msgid "DND:请勿打扰，此时无法呼入电话，但可以呼出"
+msgstr ""
+"DND: Do not disturb, you cannot call in the incoming phone at this time, but"
+" you can call out"
+
+#: ../../agent_login.md:634 df35a072aab94a939ec6f7452f9fc966
+msgid "![alt text](_static/images/agent/image-a103.png)"
+msgstr ""
+
+#: ../../agent_login.md:636 8a86b05946504879a967a8ab2936ad75
+msgid "AA:自动应答，对于呼入的电话，进行自动接听"
+msgstr "AA: Automatic answering, automatically answering for incoming calls"
+
+#: ../../agent_login.md:638 0a7e0aa92d744efcbc61bf1c67a9810f
+msgid "![alt text](_static/images/agent/image-a104.png)"
+msgstr ""
+
+#: ../../agent_login.md:640 c237e22078cb4e21aa16833e6a46ef9f
+msgid "3.3 呼叫记录"
+msgstr "3.3 Call Record"
+
+#: ../../agent_login.md:642 e6a2571866c84d9d8e550f46c0b93fc9
+msgid "显示所有通话和通话状态，双击鼠标左键，可快速拨号；鼠标右键可以对客户进行重新呼叫、视频呼叫、信息、添加联系人、复制、删除、导出（如下图）"
+msgstr ""
+"Display all calls and call status, double-click the left mouse button to "
+"quickly dial; right mouse button can re-call, video calls, information, add "
+"contacts, copy, delete, and export customers (as shown in the figure below)"
+
+#: ../../agent_login.md:644 396068eff19544869ce91ef423431dd5
+msgid "![alt text](_static/images/agent/image-a105.png)"
+msgstr ""
+
+#: ../../agent_login.md:646 ../../agent_login.md:662
+#: 46af8b0e5a314bd5859b4d1768075d44 dd38baeefde046eb89418a4bec477a3b
+msgid "信息：唤出当前客户的呼叫记录"
+msgstr "Message: Call out the current customer's call history"
+
+#: ../../agent_login.md:648 f2b70f444b5b4f8882d83f14da7a6d3c
+msgid "添加联系人：对要添加的客户信息进行编辑，点击【确认】保存，保存的客户信息在【联系人】中查看"
+msgstr ""
+"Add a contact: Edit the customer information to be added, click [Confirm] to"
+" save, and view the saved customer information in [Contact]"
+
+#: ../../agent_login.md:650 0d98964a68314762a01b84ce8b073f74
+msgid "复制：复制所选客户号码"
+msgstr "Copy: Copy the selected customer number"
+
+#: ../../agent_login.md:652 d9480f4221974d23a64cc7b0d3e3cc4c
+msgid "删除：删除所选通话记录"
+msgstr "Delete: Delete selected call history"
+
+#: ../../agent_login.md:654 8c81be639dfd4bca82219db12de59327
+msgid "导出：将所有通话记录以文件的形式保存到指定位置"
+msgstr "Export: Save all call records as files to the specified location"
+
+#: ../../agent_login.md:656 1366a327cf5b4ac6a776ce3150725407
+msgid "搜索：快速查找通话记录"
+msgstr "Search: Quickly find call history"
+
+#: ../../agent_login.md:658 f8d793bc974c43e69942b3e2e0fd2a33
+msgid "3.4 联系人"
+msgstr "3.4 Contact"
+
+#: ../../agent_login.md:660 3189e51414644f0a9f9a52d47cf17075
+msgid "已添加的的联系人列表，双击鼠标左键，可快速拨号；右键可以对联系人进行呼叫、视频呼叫、信息、添加、编辑、复制、删除、导入、导出。如下图："
+msgstr ""
+"The added contact list, double-click the left mouse button to quickly dial; "
+"the right button can call, video call, information, add, edit, copy, delete,"
+" import, and export contacts. "
+
+#: ../../agent_login.md:664 a61fa11270604bcaa70559065968daf4
+msgid "添加：重新添加客户信息，对客户进行加星编辑"
+msgstr "Add: Re-add customer information and add star edits to customers"
+
+#: ../../agent_login.md:666 494d521ec9724f409b8f2a1126b90a8f
+msgid "编辑：对原有客户信息进行修改，对客户进行加星编辑（如下图）"
+msgstr ""
+"Editor: Modify the original customer information and add star edits to the "
+"customer (as shown below)"
+
+#: ../../agent_login.md:668 bdafabd5e1cc49a1ba02d8e537d3352e
+msgid "![alt text](_static/images/agent/image-a106.png)"
+msgstr ""
+
+#: ../../agent_login.md:670 1563326785e94da4b4c540c7e8b5b1af
+msgid "![alt text](_static/images/agent/image-a107.png)"
+msgstr ""
+
+#: ../../agent_login.md:672 e52e8ba0d07749dc89c9e473df39b2c3
+msgid "复制：复制客户号码"
+msgstr "Copy: Copy the customer number"
+
+#: ../../agent_login.md:674 63fb146456f148918206322d3b0b2717
+msgid "删除：将客户信息从联系人列表删除"
+msgstr "Delete: Delete customer information from the contact list"
+
+#: ../../agent_login.md:676 4a3a6e77500946cda0a32d11087c9e9c
+msgid "导入：将已有客户信息添加到联系人列表中"
+msgstr "Import: Add existing customer information to the contact list"
+
+#: ../../agent_login.md:678 5e3f3ac4913c4998997d08f8e34df428
+msgid "导出：将所有客户信息以文件的形式保存到指定位置"
+msgstr ""
+"Export: Save all customer information as a file to the specified location"
+
+#: ../../agent_login.md:680 e7bcaae15bec418d93bdf1205bbfec88
+msgid "搜索：快速查找目标客户"
+msgstr "Search: Quickly find target customers"
+
+#: ../../agent_login.md:682 cc47f59f546c4d08b5eb2079b40096e2
+msgid "3.5 关于转接"
+msgstr "3.5 About Transfer"
+
+#: ../../agent_login.md:684 5486f820c4ca4109b0069a9e11012b2d
+msgid "转接分为盲转和咨询转两种类型，坐席通过下拉列表设置中【通话模式（务会议功能）】进行设置。（如下图）"
+msgstr ""
+"Transfers are divided into two types: blind transfer and consulting "
+"transfer. The agents are set through the [Call Mode (Conference Function)] "
+"in the drop-down list setting. "
+
+#: ../../agent_login.md:686 587d6a984851489d84fa67b63610b729
+msgid "![alt text](_static/images/agent/image-a108.png)"
+msgstr ""
+
+#: ../../agent_login.md:688 6e27c926999847d7a1ec63475359cc58
+msgid "勾选【通话模式（无会议功能）】，转接功能为盲转状态:"
+msgstr ""
+"Check [Call Mode (No Meeting Function)], and the transfer function is "
+"blindly transferred:"
+
+#: ../../agent_login.md:690 3fd4a085aa77407294e0f1d4f9f33e44
+msgid "当坐席A有呼入电话，需要转接到坐席B，要在应答之后，点击转接按钮，出现呼叫转移小键盘，输入坐席B的号码，点击确认，进行转接；"
+msgstr ""
+"When a seat A has an incoming call, it needs to be transferred to a seat B. "
+"After answering, click the transfer button, and the call forwarding keypad "
+"appears, enter the number of seat B, click Confirm to transfer;"
+
+#: ../../agent_login.md:692 8d2a118c75294ba78adeaae7edf20cd2
+msgid "若刚好B坐席处于忙线状态则系统会直接挂断电话。（ 如下图 ）"
+msgstr ""
+"If the B seat happens to be busy, the system will directly hang up the "
+"phone. "
+
+#: ../../agent_login.md:694 b4087f52ea9441d497cc687e178a66d6
+msgid "![alt text](_static/images/agent/image-a109.png)"
+msgstr ""
+
+#: ../../agent_login.md:696 a68e81a12bd243e4af457639ff2457a4
+msgid "![alt text](_static/images/agent/image-a110.png)"
+msgstr ""
+
+#: ../../agent_login.md:698 2cd350426769468a95921e7f652f1167
+msgid "取消勾选【通话模式（无会议功能）】，转接功能为咨询转状态:"
+msgstr ""
+"Uncheck [Call Mode (No Meeting Function)], the transfer function is "
+"consulting and transfer status:"
+
+#: ../../agent_login.md:700 28c48bb7883c4b40a8fe494d4d776da4
+msgid "当坐席A有呼入电话，需要转接到坐席B，应答后，在键盘中输入坐席B的号码，进行呼叫，客户会在系统中听等待音乐（如下图）"
+msgstr ""
+"When a seat A has an incoming call, it needs to be transferred to a seat B. "
+"After answering, enter the number of seat B on the keyboard to make a call. "
+"The customer will listen to and wait for music in the system (as shown "
+"below)"
+
+#: ../../agent_login.md:702 21e2c7d0c67a4841be6a573abf23e294
+msgid "![alt text](_static/images/agent/image-a111.png)"
+msgstr ""
+
+#: ../../agent_login.md:704 10f51e0416b8422590411c8ad1e1e23a
+msgid "坐席B接通后，点击【转移】——【坐席呼转】，客户的通话被转接到1002坐席B，建立通话后，坐席A电话挂断（如下图）"
+msgstr ""
+"After the call B is connected, click [Transfer]—— [Calling Call and Call], "
+"and the customer's call is transferred to 1002 seat B. After the call is "
+"established, the call A will be hung up (as shown below)"
+
+#: ../../agent_login.md:706 008b7971a0b8455f8d3b186c33eaff9f
+msgid "![alt text](_static/images/agent/image-a112.png)"
+msgstr ""
+
+#: ../../agent_login.md:708 f6e2689b04f34fa895696872b5c23f06
+msgid "坐席B为忙或无法接听而拒绝接听客户电话，坐席可将继续重复上述操作将通话转接至能够接听方，若转接不成功，该通话最终回到原坐席A处；"
+msgstr ""
+"If the agent B refuses to answer the customer's call because he is busy or "
+"unable to answer the call, the agent may continue to repeat the above "
+"operations to transfer the call to the party that can answer. If the "
+"transfer is not successful, the call will eventually return to the original "
+"agent A;"
+
+#: ../../agent_login.md:710 bbe2d8e2408e46d0aeb3c01940997933
+msgid "转接过程中，坐席A点击客户的通话界面，则通话回到原坐席A处。（如下图）"
+msgstr "During the transfer process, if Agent A clicks on the customer's call interface, the call will be returned to Agent A. (As shown below)"
+
+#: ../../agent_login.md:712 4b4b82629f3845759f566e216b0ccbae
+msgid "![alt text](_static/images/agent/image-a113.png)"
+msgstr ""
+
+#: ../../agent_login.md:714 e1fcadcb68e449c19e76e44530816f26
+msgid "4 物理话机使用手册"
+msgstr "4 Physical phone user manual"
+
+#: ../../agent_login.md:716 336468fb353d481f85430ffa103b672f
+msgid "4.1 注册"
+msgstr "4.1 Register"
+
+#: ../../agent_login.md:718 6e5f2407f6d445fb9861542ee3b41574
+msgid "点击话机【菜单】进入主菜单（如下图）"
+msgstr "Click on the phone [Menu] to enter the main menu (as shown below)"
+
+#: ../../agent_login.md:720 ad8de4a9f54b45e7a73ff91e67014dd6
+msgid "![alt text](_static/images/agent/image-a114.png)"
+msgstr ""
+
+#: ../../agent_login.md:722 e94800c9b4e4417ca298f73a4dbf155b
+msgid "选择【基础设置】（如下图）"
+msgstr "Select [Basic Settings] (as shown below)"
+
+#: ../../agent_login.md:724 0b42f611020e4236a0a5d2277849edf6
+msgid "![alt text](_static/images/agent/image-a115.png)"
+msgstr ""
+
+#: ../../agent_login.md:726 8b309c3fb3084cbb80ac8debaeafbeee
+msgid "选择【无线网络】，点击右键，将【无线网络 关闭】设置成【无线网络 开启】（如下图）"
+msgstr ""
+"Select [Wireless Network], right-click, and set [Wireless Network Off] to "
+"[Wireless Network On] (as shown below)"
+
+#: ../../agent_login.md:728 b5611c5e28b246c69261b73e2ddf23f9
+msgid "![alt text](_static/images/agent/image-a116.png)"
+msgstr ""
+
+#: ../../agent_login.md:730 b2243d48cc924f488124aadd3ec8e7c4
+msgid "选择【可用Wi-Fi网络】，选择要连的网络，点击【连接】，输入密码后保存（如下图）"
+msgstr ""
+"Select [Available Wi-Fi Network], select the network you want to connect to,"
+" click [Connection], enter the password and save it (as shown in the figure "
+"below)"
+
+#: ../../agent_login.md:732 0e675845872043109c7ca150d28b04a8
+msgid "![alt text](_static/images/agent/image-a117.png)"
+msgstr ""
+
+#: ../../agent_login.md:734 f999299fd36a485d8dd25cba86f89cdd
+msgid "在主菜单页面选择【状态】，选择IPV4，查看IP（如下图）"
+msgstr ""
+"Select [Status] on the main menu page, select IPV4, and view IP (as shown "
+"below)"
+
+#: ../../agent_login.md:736 493cb4d793c547489bfd7c888bffb527
+msgid "![alt text](_static/images/agent/image-a118.png)"
+msgstr ""
+
+#: ../../agent_login.md:738 eeffd6049c344254becd689b479ad8ab
+msgid "打开浏览器输入IP：192.168.31.68进入话机注册页面"
+msgstr ""
+"Open the browser and enter the IP: 192.168.31.68 to enter the phone "
+"registration page"
+
+#: ../../agent_login.md:740 82c495423f664e3c974c39a9bb08f5ca
+msgid "输入用户名，密码，点击登录（说明书默认账号，密码均为admin)如下图："
+msgstr ""
+"Enter the user name and password, click to log in (the default account "
+"number in the manual, and the passwords are all admin) as shown in the "
+"figure below:"
+
+#: ../../agent_login.md:742 1a3e576828b84a0d892fed9eb2c50165
+msgid "![alt text](_static/images/agent/image-a119.png)"
+msgstr ""
+
+#: ../../agent_login.md:744 fd163fa10d4b4ed3a03ba1e8148275b5
+msgid "一台话机可以登录两个号码，登陆后选择【ToIP】，在【账号1】和【账号2】下填写注册内容（如下图）"
+msgstr ""
+"You can log in to two numbers on a phone. After logging in, select [ToIP] "
+"and fill in the registration content under [Account 1] and [Account 2] (as "
+"shown below)"
+
+#: ../../agent_login.md:746 906a1481628e4a278fea05fcbf61b762
+msgid "![alt text](_static/images/agent/image-a120.png)"
+msgstr ""
+
+#: ../../agent_login.md:748 225a8075b66b486ea749d41c5363f9dc
+msgid "将【基本设置】中的【账号使能】点击成【开启】"
+msgstr "Click [Account Enable] in [Basic Settings] to [Open]"
+
+#: ../../agent_login.md:750 d4033fa6ebd4489da7d3fb2538dae350
+msgid "![alt text](_static/images/agent/image-a121.png)"
+msgstr ""
+
+#: ../../agent_login.md:752 4144923e25a74fbab183969f4b82fc92
+msgid "【用户信息】中【显示名称】可以随意设置"
+msgstr "[User Information] [Display Name] can be set at will"
+
+#: ../../agent_login.md:754 41d4ad82a6914a0d853d4f75c5d1d25f
+msgid "若注册号码为外线 ："
+msgstr "If the registration number is outside:"
+
+#: ../../agent_login.md:756 3672065b5bc04b71bf40930376ade84f
+msgid "![alt text](_static/images/agent/image-a122.png)"
+msgstr ""
+
+#: ../../agent_login.md:758 9bc09f9163d644138b84875dd3a9510a
+msgid "【认证名称】和【注册账号】均为要注册的外线号码"
+msgstr ""
+"[Certification Name] and [Register Account] are both external numbers to be "
+"registered"
+
+#: ../../agent_login.md:760 1c7b764d2a47466084b848d184ab94f7
+msgid "【密码】提前设定好的密码"
+msgstr "[Password] Set password in advance"
+
+#: ../../agent_login.md:762 bfb14a9253d44f54afdd74579640e94a
+msgid "【注册服务器】：freepbx14.cbacloud.net"
+msgstr "【Register server】: freepbx14.cbacloud.net"
+
+#: ../../agent_login.md:764 143a9b5145634544b551d8632d14d405
+msgid "【注册服务器端口】和【代理服务器端口】均为：5080"
+msgstr "[Register Server Port] and [Proxy Server Port] are both: 5080"
+
+#: ../../agent_login.md:766 deeb83c98da94fca901b9928ede39451
+msgid "若注册号码为内线："
+msgstr "If the registration number is inside:"
+
+#: ../../agent_login.md:768 9e83c787816e4a61a5131c844a011e38
+msgid "![alt text](_static/images/agent/image-a123.png)"
+msgstr ""
+
+#: ../../agent_login.md:770 00bd060fe7de4bc187fdee4b86ddbd09
+msgid "【认证名称】和【注册账号】均为坐席号码（如上图），【密码】对应sip分机注册密码（如下图）"
+msgstr ""
+"[Certification Name] and [Register Account] are both seat numbers (as shown "
+"in the picture above), [Password] corresponds to the SIP extension "
+"registration password (as shown in the picture below)"
+
+#: ../../agent_login.md:772 13b00a933e204ebc9c4e4a476d062164
+msgid "![alt text](_static/images/agent/image-a124.png)"
+msgstr ""
+
+#: ../../agent_login.md:774 6a1b0713cdd84369a0d33913fd4ccdb5
+msgid ""
+"【注册服务器】对应Client名；【代理服务器】为：wcc1-dev-rakuten.az.cba-"
+"japan.com；【注册服务器端口】和【代理服务器端口】均为：6060（如下图）"
+msgstr ""
+"[Register server] corresponds to Client name; [Proxy server] is: wcc1-dev-"
+"rakuten.az.cba-japan.com; [Register server port] and [Proxy server port] are"
+" both: 6060 (as shown in the figure below)"
+
+#: ../../agent_login.md:776 9d2c6942e0e04136b26f52cfa1a5c900
+msgid "![alt text](_static/images/agent/image-a125.png)"
+msgstr ""
+
+#: ../../agent_login.md:778 77eac8ab47d74788855f9b586b163968
+msgid "4.2 转接"
+msgstr "4.2 Transfer"
+
+#: ../../agent_login.md:780 fa21f90dab60472ea34404357c57cbcc
+msgid "4.2.1 盲转"
+msgstr "4.2.1 Blind rotation"
+
+#: ../../agent_login.md:782 ../../agent_login.md:792 ../../agent_login.md:802
+#: 0d64fe44ed3e43069e6e68ab9c4d0e11 1be355b240b34b4e9fae027032d52b24
+#: f3c290fc29874460bb3ce3abc3f3fd95
+msgid "通话过程中，在话机上点击【转接】（如下图）"
+msgstr "During the call, click [Forward] on the phone (as shown below)"
+
+#: ../../agent_login.md:784 d5de3b98f50441b4bbb99475c10997dc
+msgid "![alt text](_static/images/agent/image-a126.png)"
+msgstr ""
+
+#: ../../agent_login.md:786 c80258987c57461684a6e7957af0d084
+msgid "输入转接坐席B的坐席工号，再点击【盲转】，盲转成功，操作完成。（如下图）"
+msgstr ""
+"Enter the work number of the seat transfer to the seat B, and then click "
+"[Blind Transfer]. The blind transfer is successful and the operation is "
+"completed. "
+
+#: ../../agent_login.md:788 635ea64731564068be90b639071c50b4
+msgid "![alt text](_static/images/agent/image-a127.png)"
+msgstr ""
+
+#: ../../agent_login.md:790 7d3b888b054f4288a58e11195ede6380
+msgid "4.2.2 咨询转"
+msgstr "4.2.2 Consultation transfer"
+
+#: ../../agent_login.md:794 55557cf4459449268d64292c8ea9f6d7
+msgid "![alt text](_static/images/agent/image-a128.png)"
+msgstr ""
+
+#: ../../agent_login.md:796 8eecc291e8c549838b59626f5cd06a52
+msgid "坐席A和转接坐席B建立通话后，坐席A点击【转接】，咨询转成功，操作完成。（如下图）"
+msgstr ""
+"After the call between the seat A and the transfer seat B is established, "
+"the seat A clicks [Forward], the consultation and transfer are successful "
+"and the operation is completed. "
+
+#: ../../agent_login.md:798 48c4bc81699c4b51b4e5e7b78c122721
+msgid "![alt text](_static/images/agent/image-a129.png)"
+msgstr ""
+
+#: ../../agent_login.md:800 5b87636df07b4ca7abab5c074c02f697
+msgid "4.2.3 驻留"
+msgstr "4.2.3 Residence"
+
+#: ../../agent_login.md:804 80eeac24ca954c1cbb33f39a53298bbb
+msgid "![alt text](_static/images/agent/image-a130.png)"
+msgstr ""
+
+#: ../../agent_login.md:806 ddd8aef74e8f4b2a947d1962ec61d3ce
+msgid ""
+"输入驻留号码（系统默认为“700”，可在功能键页面更改），点击【发送】，话机会有提示音，提示“驻留成功，取回号码为701”，其他坐席可直接输入驻留号码取回驻留的客户。（如下图）"
+msgstr ""
+"Enter the resident number (the system defaults to \"700\" and can be changed"
+" on the function key page), click [Send], and there is a prompt tone for the"
+" phone, prompting \"Residence is successful, the number is 701\". Other "
+"agents can directly enter the resident number to retrieve the resident "
+"customer. "
+
+#: ../../agent_login.md:808 3f3fb34e5ea04a2bbf8df740f64ea62c
+msgid "![alt text](_static/images/agent/image-a131.png)"
+msgstr ""
+
+#: ../../agent_login.md:810 ce999b55d148427bb984cdbb8e78f23b
+msgid "5 rectel"
+msgstr "5 rectel"
+
+#: ../../agent_login.md:812 a754f92ae50446799f1f852b6f0385e1
+msgid "5.1 注册"
+msgstr "5.1 Register"
+
+#: ../../agent_login.md:814 d5f6bce4d0924bcd8a355f25b3a0425d
+msgid "填写话机名和SIP注册密码（如下图）"
+msgstr "Fill in the phone name and SIP registration password (as shown below)"
+
+#: ../../agent_login.md:816 a6134de860cf4243b7ea25a7a10d20ee
+msgid "![alt text](_static/images/agent/image-a132.png)"
+msgstr ""
+
+#: ../../agent_login.md:818 d545b03d68e84729928ea86717cdd32c
+msgid "点击登录页面的Login，在填写域名，点Next（如下图）"
+msgstr ""
+"Click Login on the login page, fill in the domain name, and click Next (as "
+"shown below)"
+
+#: ../../agent_login.md:820 cdae98ae45414275827a0ae2cd97f440
+msgid "![alt text](_static/images/agent/image-a133.png)"
+msgstr ""
+
+#: ../../agent_login.md:822 6e399282a7d14a5385f42fc6d3e4ee94
+msgid "点skip（如下图）"
+msgstr "Click skip (as shown below)"
+
+#: ../../agent_login.md:824 a5289d89daa943c787c9c576f24bac2a
+msgid "![alt text](_static/images/agent/image-a134.png)"
+msgstr ""
+
+#: ../../agent_login.md:826 eb46ea2998414f2186e424666602a8c1
+msgid "运行完继续点Skip（如下图）"
+msgstr "After running, continue clicking Skip (as shown below)"
+
+#: ../../agent_login.md:828 cb2f8e15a4c14806a360ba1a1af09f0a
+msgid "![alt text](_static/images/agent/image-a135.png)"
+msgstr ""
+
+#: ../../agent_login.md:830 90aa3dacc5564de584602b9dbbfa9768
+msgid "点击YES（如下图）"
+msgstr "Click YES (as shown below)"
+
+#: ../../agent_login.md:832 78beba93e3694634854a3a373f7839d4
+msgid "![alt text](_static/images/agent/image-a136.png)"
+msgstr ""
+
+#: ../../agent_login.md:834 b7d4f2bc5c284cebbb80f8a2b5186c15
+msgid "点击创建账户（如下图）"
+msgstr "Click to create an account (as shown below)"
+
+#: ../../agent_login.md:836 78778b4501984d068e18706922cd1cfb
+msgid "![alt text](_static/images/agent/image-a137.png)"
+msgstr ""
+
+#: ../../agent_login.md:838 291fa2a8392c4b698d4e54a1c04a46cc
+msgid "点击红框位置编辑这个账号（如下图）"
+msgstr "Click the red box to edit this account (as shown below)"
+
+#: ../../agent_login.md:840 400dd6ce4926436391d4cd3faf51ae9d
+msgid "![alt text](_static/images/agent/image-a138.png)"
+msgstr ""
+
+#: ../../agent_login.md:842 b938eb2c512643f1a4cc39ba1b9dd31c
+msgid "勾选【Use outbound proxy】，填写服务器网址（如下图）"
+msgstr ""
+"Check [Use outbound proxy] and fill in the server URL (as shown below)"
+
+#: ../../agent_login.md:844 0fac820faa5f4fa0aabe5c180f67caa8
+msgid "![alt text](_static/images/agent/image-a139.png)"
+msgstr ""
+
+#: ../../agent_login.md:846 744f71bfca904b90ae10a1e8d357407b
+msgid "点击Register，在点yes（如下图）"
+msgstr "Click Register and click yes (as shown below)"
+
+#: ../../agent_login.md:848 0a01c91c504e4c85b8f5a7f977e1c645
+msgid "![alt text](_static/images/agent/image-a140.png)"
+msgstr ""
+
+#: ../../agent_login.md:850 ca8537eb75974ab6874de2c183beee84
+msgid "注册成功（如下图）"
+msgstr "Registration was successful (as shown below)"
+
+#: ../../agent_login.md:852 91cfa461ef64482d83154002ac3fda1c
+msgid "![alt text](_static/images/agent/image-a141.png)"
+msgstr ""
+
+#: ../../agent_login.md:854 bb2ed9a75d0a45a6b859ca6fd8af29f5
+msgid "5.2 转接操作"
+msgstr "5.2 Transfer operation"
+
+#: ../../agent_login.md:856 c64feb96f0f247f6ad034202b4d2756f
+msgid ""
+"坐席可以在搜索框或软键盘中，直接输入号码，输入号码后点击电话图标或键盘上的Enter键，若用软键盘输入，也可点击【Dial]】，对客户进行呼叫（如下图）"
+msgstr ""
+"The seat can be directly entered in the search box or soft keyboard. After "
+"entering the number, click the phone icon or Enter key on the keyboard. If "
+"you enter it using the soft keyboard, you can also click [Dial]] to make a "
+"call to the customer (as shown below)"
+
+#: ../../agent_login.md:858 4ec1543732144b16a6ed503bd7cdce73
+msgid "![alt text](_static/images/agent/image-a142.png)"
+msgstr ""
+
+#: ../../agent_login.md:860 e29aa43be529445585dd172c3b457686
+msgid "Contacts:显示联系人列表，打开联系人列表，可以点击星号标将联系人添加到【Favorites】列表中，也可以对客户进行编辑。（如下图）\\"
+msgstr ""
+"Contacts: Display the contact list, open the contact list, you can click the"
+" asterisk to add the contact to the [Favorites] list, or edit the customer. "
+
+#: ../../agent_login.md:862 119450b4144f475b8d4314c721ce47ee
+msgid "![alt text](_static/images/agent/image-a143.png)"
+msgstr ""
+
+#: ../../agent_login.md:864 dcd6be265ada402d9358b11f7ec9dbe1
+msgid "Recent:显示最近联系记录（如下图）"
+msgstr "Recent: Show recent contact history (as shown below)"
