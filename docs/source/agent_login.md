@@ -861,7 +861,33 @@ Contacts:显示联系人列表，打开联系人列表，可以点击星号标�
 
 ![alt text](_static/images/agent/image-a143.png)
 
-Recent:显示最近联系记录（如下图）
+### 5.3 TLS设置  
+  
+**在已注册坐席的基础上设置TLS**  
+  
+①在代理服务器哪里，端口号要改成**6061** （如下图）   
+  
+![alt text](_static/images/agent/image-a165.png)  
+  
+②点击**Advanced**，【Network relayed】-Transport下改成TLS（如下图）    
+  
+![alt text](_static/images/agent/image-a166.png)  
+  
+③【Encryption】-SRTP key negotiation下改成SDES（如下图）    
+  
+![alt text](_static/images/agent/image-a167.png)
+  
+④点击Unregister（如下图）    
+  
+![alt text](_static/images/agent/image-a168.png)  
+  
+⑤点击Register，在点yes（如下图）  
+
+![alt text](_static/images/agent/image-a169.png)  
+  
+⑥即可注册成功 （如下图）  
+  
+![alt text](_static/images/agent/image-a170.png)  
 
 ## 6 agephone
 
@@ -909,7 +935,7 @@ Recent:显示最近联系记录（如下图）
   
 **SIP Setting**  
   
-·TransportType：这里可以切换UDP、TLS、TCP等模式  
+·TransportType：这里可以切换UDP、TLS、TCP等协议类型（设置TLS和LCP时端口号要改成6061）  
   
 ![alt text](_static/images/agent/image-a157.png)    
   
