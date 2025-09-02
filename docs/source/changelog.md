@@ -1,4 +1,6 @@
-## Version 3.5.0
+## Changelog
+
+### Version 3.5.0
 
 **Date:** April 23, 2025
 
