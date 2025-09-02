@@ -39,10 +39,17 @@ Welcome to WCC documentation!
 
    agent_login
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Testing
+
+   knowledge_baseUsability
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: 常见问题
+   :caption: Reference
 
    faq
+   changelog
    
