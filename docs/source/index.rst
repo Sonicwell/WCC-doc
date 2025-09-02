@@ -42,7 +42,7 @@ Welcome to WCC documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 常见问题
+   :caption: Reference
 
    faq
-   
+   changelog
