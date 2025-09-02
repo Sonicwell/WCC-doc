@@ -1,4 +1,6 @@
-## Version 3.6.0
+## Changelog
+
+### Version 3.6.0
 
 **Date:** July 22, 2025
       
