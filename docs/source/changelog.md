@@ -1,4 +1,6 @@
-## Version 3.7.0
+## Changelog
+
+### Version 3.7.0
 
 **Date:** Building...
 
