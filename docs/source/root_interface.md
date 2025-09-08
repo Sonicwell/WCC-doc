@@ -374,7 +374,25 @@ clients 用户是有代理商用户创建。代理商用户和系统用户在cli
 
 ![alt text](_static/images/root/media/image41.png)
 
--   **呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。
+-   **呼入IP**:设置允许接入的IP地址，可以同时添加多个IP地址。  
+  
+  **【补充说明：具体操作】：**  
+  
+   设置呼入IP相当于设置一个IP白名单。  
+     
+    例：在saas dev与saas stg两个环境中操作（注：saas stg环境中必须有一个能对接到saas dev环境的中继，以及配置好的外呼档案）  
+      
+    ①在saas dev-中继设置-呼入IP中设置一个stg-IP，点击保存  
+
+    ②登录一个使用上述中继的client，设置did转向（例：转向到坐席A）  
+
+    ③在saas stg环境中登录坐席B，坐席B呼叫saas dev环境的did号码  
+
+    ④此时坐席A会振铃  
+
+    ⑤如果将 saas dev-中继设置-呼入IP中设置的stg-IP删掉，保存的话  
+      
+    ⑥此时，坐席B再次呼叫saas dev环境的did号码，通话不会被建立，坐席A也不会振铃。
 
 ![alt text](_static/images/root/media/image42.png)
 
