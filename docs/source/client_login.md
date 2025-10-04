@@ -10,6 +10,15 @@
 
 ![alt text](_static/images/client/media/image1.png)
 
+当用户填写账号或是密码错误或是client被禁用时，页面会提示 " 账号不存在或密码错误 "
+
+![alt text](_static/images/client/media/image332.png)
+
+当client被禁用，试用账号密码登录client时显示 " 账号已被禁用,无法登录,请联系管理员 " 
+
+![alt text](_static/images/client/media/image333.png)  
+
+
 ### 1.2登出
 
 当用户进入系统时，选择右上角的下拉选项【登出】，确认后将退出系统，页面将返回用户登录页面。  
