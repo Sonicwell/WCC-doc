@@ -2,14 +2,11 @@
 
 ### Version 3.7.0
 
-**Date:** Building...
+**Date:** October 27, 2025
 
 * IVR工作流BUG修复，提高可用性。与IVR语音菜单数据同步。  
 * 增加对移动端WCALL APP的支持，提供PN支持。  
 * OpenSIPs升级至3.4.13版本，解决内存崩溃风险。WCALL APP的SRTP，TLS适配。  
-* 支持通话实时转写、话后转写、大屏监控实时转写通话内容。转接电话可见前面一通电话的沟通内容与总结。  
-* 通话实时转写时提供知识话术自动推荐，通话结束后支持通话内容总结、分类。  
-* AI资源的对接参数由client自行申请配置。目前已支持Azure、OpenAI、namitech资源。  
 * #3583 Elasticsearch部署优化，预防单点故障。系统代码改进，增加知识库页面的可用性。  
 * #3626 When editing a client with reseller privileges, call profiles from all resellers under the root are being displayed.  
 * #3628 兼容更多SRTP加密协议  
@@ -55,3 +52,8 @@
 * #3561 多节点时，遇到通话和坐席当前通话不在一个节点时transfer使用原始DID做为被叫  
 * #3520 Status message when an administrator sets a user as away.  
 * #3525 自定义字段中字段类型为自定义并且支持多选时，在添加客户数据页面字段下拉框会多出一个空格  
+* #3448#note_323152 坐席明细和坐席组明细报表，在统计信息的坐席组字段中应该显示为空
+* #3634 root-仪表盘，did饼状图变小了
+* #3672 The reseller's real-time monitor (user view) is not working.
+* #3158 兼容yealink开启强制srtp时，恢复保持后无rtp流的问题。issues/3158#note_333685
+* #3689 Regarding the behavior of the Planned Memo in the User To-Do List
