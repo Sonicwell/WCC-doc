@@ -103,7 +103,7 @@
 
 #### 1.2.3 最近通话
 
-坐席可以在最近通话页面查看联络历史记录，这里通话历史记录不做限制。
+ 坐席可以在最近通话页面查看联络历史记录，这里通话历史记录不做限制。
 
 ![alt text](_static/images/wccdialpad/image20.png)
 
@@ -165,4 +165,34 @@
 
 ##### 1.2.5.3 弹屏设置
 
+弹屏设置是指坐席在呼入呼出的时候，系统会自动弹出一个指定的地址
+
+![alt text](_static/images/wccdialpad/image27.png)
+
+点击【新增】进入弹屏添加页面。  
+
+![alt text](_static/images/wccdialpad/image28.png)
+
+- 名称：你可以为这个弹屏设置一个名称。
+
+- 启用：你可以选择是否启用这个弹屏功能。
+
+- 同样URL单次弹屏：坐席登录话机后有同样的url，话机检测后将只会弹出一次。
+
+- 呼入弹屏地址：输入一个当有电话呼入时会弹屏的地址。
+
+- 呼出弹屏地址：输入一个当有呼出电话时会弹屏的地址。
+
+
+##### 1.2.5.4 语言设置
+
+WCC网页话机支持中英日三语切换。  
+
+![alt text](_static/images/wccdialpad/image29.png)
+
+##### 1.2.5.5 暗黑模式  
+
+WCC网页话机支持切换暗黑风格主题  
+
+![alt text](_static/images/wccdialpad/image30.png)
 
