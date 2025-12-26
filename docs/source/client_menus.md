@@ -505,7 +505,7 @@
 
 ![alt text](_static/images/client/media/image62.png)
 
-# #### 2.显示/隐藏字段
+##### 2.显示/隐藏字段
 
 -   字段名：数据库里的字段名。
 
