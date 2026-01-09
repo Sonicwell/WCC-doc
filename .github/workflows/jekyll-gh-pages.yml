@@ -1,0 +1,137 @@
+name: Build and Deploy Sphinx Docs (Multi-language)
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'docs/**'
+      - '.readthedocs.yaml'
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-lang-chinese \
+            texlive-lang-japanese \
+            texlive-xetex \
+            fonts-noto-cjk \
+            fonts-wqy-zenhei \
+            fonts-wqy-microhei \
+            texlive-latex-extra \
+            inkscape \
+            git
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r docs/requirements.txt
+      
+      - name: Build all language versions
+        run: |
+          cd docs
+          mkdir -p build/html
+          
+          # 构建中文版本
+          sphinx-build -b html -D language=zh_CN source build/html/zh_CN || echo "中文构建失败"
+          
+          # 构建英文版本
+          sphinx-build -b html -D language=en source build/html/en || echo "英文构建失败"
+          
+          # 构建日文版本
+          sphinx-build -b html -D language=ja source build/html/ja || echo "日文构建失败"
+      
+      - name: Create language selector index page
+        run: |
+          cat > docs/build/html/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="zh-CN">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="refresh" content="0; url=zh_CN/">
+            <title>WCC Documentation - 选择语言</title>
+            <style>
+              body {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+                max-width: 800px;
+                margin: 100px auto;
+                padding: 20px;
+                text-align: center;
+              }
+              h1 {
+                color: #333;
+                margin-bottom: 30px;
+              }
+              .language-list {
+                list-style: none;
+                padding: 0;
+              }
+              .language-list li {
+                margin: 15px 0;
+              }
+              .language-list a {
+                display: inline-block;
+                padding: 15px 30px;
+                background: #007bff;
+                color: white;
+                text-decoration: none;
+                border-radius: 5px;
+                font-size: 18px;
+                transition: background 0.3s;
+              }
+              .language-list a:hover {
+                background: #0056b3;
+              }
+            </style>
+          </head>
+          <body>
+            <h1>选择语言 / Select Language / 言語を選択</h1>
+            <ul class="language-list">
+              <li><a href="zh_CN/">中文 (简体)</a></li>
+              <li><a href="en/">English</a></li>
+              <li><a href="ja/">日本語</a></li>
+            </ul>
+            <p style="margin-top: 40px; color: #666;">
+              正在自动跳转到中文版本...<br>
+              Auto redirecting to Chinese version...
+            </p>
+          </body>
+          </html>
+          EOF
+      
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: documentation
+          path: docs/build/html
+          retention-days: 7
+      
+      - name: Deploy to GitHub Pages
+        if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs/build/html
+          cname: doc.aiwcc.com  # 如果有自定义域名，取消注释并修改
+
