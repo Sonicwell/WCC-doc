@@ -32,9 +32,17 @@ Welcome to WCC documentation!
    client_toolbar
    client_menus
 
+
 .. toctree::
    :maxdepth: 2
-   :caption: 常见问题
+   :caption: Agent
+
+   agent_login
+   
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Reference
 
    faq
-   
+   changelog

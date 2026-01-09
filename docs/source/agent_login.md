@@ -861,5 +861,118 @@ Contacts:显示联系人列表，打开联系人列表，可以点击星号标�
 
 ![alt text](_static/images/agent/image-a143.png)
 
-Recent:显示最近联系记录（如下图）
+### 5.3 TLS设置  
+  
+**在已注册坐席的基础上设置TLS**  
+  
+①在代理服务器哪里，端口号要改成**6061** （如下图）   
+  
+![alt text](_static/images/agent/image-a165.png)  
+  
+②点击**Advanced**，【Network relayed】-Transport下改成TLS（如下图）    
+  
+![alt text](_static/images/agent/image-a166.png)  
+  
+③【Encryption】-SRTP key negotiation下改成SDES（如下图）    
+  
+![alt text](_static/images/agent/image-a167.png)
+  
+④点击Unregister（如下图）    
+  
+![alt text](_static/images/agent/image-a168.png)  
+  
+⑤点击Register，在点yes（如下图）  
 
+![alt text](_static/images/agent/image-a169.png)  
+  
+⑥即可注册成功 （如下图）  
+  
+![alt text](_static/images/agent/image-a170.png)  
+
+## 6 agephone
+
+### 6.1 登录
+
+双击【agephone】软件，会进入到登录页面  
+
+![alt text](_static/images/agent/image-a152.png)
+  
+在【シリアル番号】中填入16位秘钥，点击【ok】  
+  
+![alt text](_static/images/agent/image-a153.png)    
+  
+在拨号盘页面点击【设置】，到注册信息页面
+  
+![alt text](_static/images/agent/image-a154.png) 
+
+### 6.2 注册  
+
+填写注册信息  
+  
+![alt text](_static/images/agent/image-a155.png)   
+  
+**Server Information**  
+  
+·SIP Domain：填写client域名。  
+  
+·SIP Proxy：填写代理服务器+端口号。  
+  
+·Registrar：填写client域名。  
+  
+【Backup Sever】填写与上述信息相同  
+  
+![alt text](_static/images/agent/image-a156.png)     
+  
+**Account Information**  
+  
+·User ID：填写坐席工号。  
+  
+·Display Name：可以填写坐席工号，也可以填写坐席姓名。  
+  
+·Auth ID：填写坐席工号。  
+  
+·Password：填写坐席SIP分机注册密码。  
+  
+**SIP Setting**  
+  
+·TransportType：这里可以切换UDP、TLS、TCP等协议类型（设置TLS和LCP时端口号要改成6061）  
+  
+![alt text](_static/images/agent/image-a157.png)    
+  
+点击【Global】进入到通用设置页面  
+  
+![alt text](_static/images/agent/image-a158.png)    
+  
+在该页面可以开启SRTP功能，设置好后点击【ok】，所有信息设置完毕后，点击【ok】完成话机的注册。  
+
+### 6.3  添加多个电话 
+  
+该电话支持注册多个sip电话，可以点击【New】进行注册，填写格式为：坐席工号@clent域名。 
+  
+![alt text](_static/images/agent/image-a159.png)      
+  
+点击【ok】会切换到基础设置页面，可以按照上述（注册信息操作）进行注册。注册好的电话之间可以进行切换。  
+  
+![alt text](_static/images/agent/image-a160.png) 
+    
+### 6.4 转接操作  
+  
+坐席可以使用键盘或拨号盘，直接输入号码，输入号码后点击电话图标或键盘上的Enter键，对客户进行呼叫（如下图）  
+  
+![alt text](_static/images/agent/image-a161.png)   
+  
+可以调节振铃音，听筒音量和麦克风音量  
+  
+![alt text](_static/images/agent/image-a162.png)   
+  
+通话中可以点击【hold】按钮进行保持
+  
+![alt text](_static/images/agent/image-a163.png)  
+  
+可以设置快捷键，设置完成后，免去拨号，点击按钮自动拨打对应号码  
+ 
+![alt text](_static/images/agent/image-a164.png) 
+  
+·Name：设置被叫号码名字  
+  
+·Number to dial：设置被叫号码
